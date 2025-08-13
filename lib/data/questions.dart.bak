@@ -1,0 +1,1599 @@
+class Question {
+  final String question;
+  final List<String> options;
+  final int correctAnswer;
+  final int level;
+  final int prize;
+
+  Question({
+    required this.question,
+    required this.options,
+    required this.correctAnswer,
+    required this.level,
+    required this.prize,
+  });
+}
+
+class GameData {
+  static final List<Question> questions = [
+    // 1. Seviye - 5.000 TL (10 Soru)
+    Question(
+      question: "Türkiye'nin başkenti neresidir?",
+      options: ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      correctAnswer: 1,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi gezegen Güneş'e en yakındır?",
+      options: ["Mars", "Venüs", "Merkür", "Dünya"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "İnsan vücudundaki en büyük organ hangisidir?",
+      options: ["Kalp", "Beyin", "Deri", "Karaciğer"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi renk ana renklerden biri değildir?",
+      options: ["Kırmızı", "Mavi", "Yeşil", "Sarı"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi hayvan memeli değildir?",
+      options: ["Balina", "Yarasa", "Penguen", "Köpek"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi ülke Avrupa'da değildir?",
+      options: ["Almanya", "Fransa", "Türkiye", "İtalya"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'H' sembolü ile gösterilir?",
+      options: ["Helyum", "Hidrojen", "Hafniyum", "Holmiyum"],
+      correctAnswer: 1,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi yıl Türkiye'de Latin alfabesi kabul edilmiştir?",
+      options: ["1926", "1927", "1928", "1929"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyüktür?",
+      options: ["Mars", "Venüs", "Jüpiter", "Satürn"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi spor dalında 'gol' terimi kullanılır?",
+      options: ["Basketbol", "Futbol", "Voleybol", "Tenis"],
+      correctAnswer: 1,
+      level: 1,
+      prize: 5000,
+    ),
+    // Din Kategorisi - 1. Seviye
+    Question(
+      question: "İslam dininin kutsal kitabı hangisidir?",
+      options: ["Tevrat", "İncil", "Kuran", "Zebur"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Hangi peygamber İslam dininin son peygamberidir?",
+      options: ["Hz. Musa", "Hz. İsa", "Hz. Muhammed", "Hz. İbrahim"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "İslam'da günde kaç vakit namaz kılınır?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    // Coğrafya Kategorisi - 1. Seviye
+    Question(
+      question: "Türkiye'nin en yüksek dağı hangisidir?",
+      options: ["Erciyes", "Ağrı", "Uludağ", "Kaçkar"],
+      correctAnswer: 1,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Türkiye'nin en büyük gölü hangisidir?",
+      options: ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "İznik Gölü"],
+      correctAnswer: 0,
+      level: 1,
+      prize: 5000,
+    ),
+    Question(
+      question: "Türkiye'nin en uzun nehri hangisidir?",
+      options: ["Fırat", "Dicle", "Kızılırmak", "Sakarya"],
+      correctAnswer: 2,
+      level: 1,
+      prize: 5000,
+    ),
+    
+    // 2. Seviye - 10.000 TL (10 Soru)
+    Question(
+      question: "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
+      options: ["Flor", "Demir", "Fosfor", "Fermiyum"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi ülke en büyük yüzölçümüne sahiptir?",
+      options: ["Çin", "ABD", "Rusya", "Kanada"],
+      correctAnswer: 2,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi yıl II. Dünya Savaşı sona ermiştir?",
+      options: ["1943", "1944", "1945", "1946"],
+      correctAnswer: 2,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi bilim insanı yerçekimi kanununu keşfetmiştir?",
+      options: ["Einstein", "Newton", "Galileo", "Kepler"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Au' sembolü ile gösterilir?",
+      options: ["Gümüş", "Altın", "Bakır", "Alüminyum"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Olimpiyat altın madalyası kazanmıştır?",
+      options: ["Sovyetler Birliği", "ABD", "Çin", "Almanya"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi yıl ilk bilgisayar icat edilmiştir?",
+      options: ["1936", "1946", "1956", "1966"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ag' sembolü ile gösterilir?",
+      options: ["Alüminyum", "Gümüş", "Altın", "Argon"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi gezegen en sıcaktır?",
+      options: ["Merkür", "Venüs", "Mars", "Dünya"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi yıl ilk televizyon yayını başlamıştır?",
+      options: ["1925", "1935", "1945", "1955"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    // Din Kategorisi - 2. Seviye
+    Question(
+      question: "İslam'da hac ibadeti hangi ayda yapılır?",
+      options: ["Ramazan", "Şaban", "Zilhicce", "Muharrem"],
+      correctAnswer: 2,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Hangi şehir İslam'ın kutsal şehirlerinden biridir?",
+      options: ["Mekke", "Medine", "Kudüs", "Hepsi"],
+      correctAnswer: 3,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "İslam'da oruç hangi ayda tutulur?",
+      options: ["Şaban", "Ramazan", "Zilhicce", "Muharrem"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    // Coğrafya Kategorisi - 2. Seviye
+    Question(
+      question: "Dünya'nın en büyük okyanusu hangisidir?",
+      options: ["Atlas Okyanusu", "Hint Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
+      correctAnswer: 2,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Dünya'nın en yüksek dağı hangisidir?",
+      options: ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+      correctAnswer: 1,
+      level: 2,
+      prize: 10000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük kıtası hangisidir?",
+      options: ["Asya", "Afrika", "Kuzey Amerika", "Avrupa"],
+      correctAnswer: 0,
+      level: 2,
+      prize: 10000,
+    ),
+    
+    // 3. Seviye - 30.000 TL (10 Soru)
+    Question(
+      question: "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
+      options: ["1920", "1921", "1922", "1923"],
+      correctAnswer: 3,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Cu' sembolü ile gösterilir?",
+      options: ["Karbon", "Bakır", "Kalsiyum", "Klor"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi yıl ilk uçak uçmuştur?",
+      options: ["1900", "1903", "1906", "1909"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 15000,
+    ),
+    Question(
+      question: "Hangi ülke en çok nüfusa sahiptir?",
+      options: ["Hindistan", "Çin", "ABD", "Endonezya"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'O' sembolü ile gösterilir?",
+      options: ["Oksijen", "Osmiyum", "Oganesson", "Osmium"],
+      correctAnswer: 0,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi yıl ilk cep telefonu icat edilmiştir?",
+      options: ["1973", "1983", "1993", "2003"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi gezegen en hızlı döner?",
+      options: ["Merkür", "Venüs", "Jüpiter", "Satürn"],
+      correctAnswer: 2,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'N' sembolü ile gösterilir?",
+      options: ["Neon", "Azot", "Nikel", "Natriyum"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi yıl ilk renkli televizyon yayını başlamıştır?",
+      options: ["1940", "1951", "1962", "1973"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Oscar ödülü kazanmıştır?",
+      options: ["İngiltere", "ABD", "Fransa", "İtalya"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    // Din Kategorisi - 3. Seviye
+    Question(
+      question: "İslam'da zekat hangi maldan verilir?",
+      options: ["Altın", "Gümüş", "Para", "Hepsi"],
+      correctAnswer: 3,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. İbrahim'in oğludur?",
+      options: ["Hz. İshak", "Hz. İsmail", "Hz. Yakup", "Hepsi"],
+      correctAnswer: 3,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "İslam'da cuma namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 0,
+      level: 3,
+      prize: 30000,
+    ),
+    // Coğrafya Kategorisi - 3. Seviye
+    Question(
+      question: "Dünya'nın en büyük çölü hangisidir?",
+      options: ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Arabistan Çölü"],
+      correctAnswer: 0,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Dünya'nın en uzun nehri hangisidir?",
+      options: ["Amazon", "Nil", "Yangtze", "Mississippi"],
+      correctAnswer: 1,
+      level: 3,
+      prize: 30000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük gölü hangisidir?",
+      options: ["Hazar Denizi", "Victoria Gölü", "Superior Gölü", "Baykal Gölü"],
+      correctAnswer: 0,
+      level: 3,
+      prize: 30000,
+    ),
+    
+    // 4. Seviye - 90.000 TL (10 Soru)
+    Question(
+      question: "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      options: ["Venüs", "Mars", "Jüpiter", "Satürn"],
+      correctAnswer: 1,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi yıl Facebook kurulmuştur?",
+      options: ["2002", "2003", "2004", "2005"],
+      correctAnswer: 2,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'C' sembolü ile gösterilir?",
+      options: ["Karbon", "Kalsiyum", "Klor", "Kobalt"],
+      correctAnswer: 0,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi yıl ilk bilgisayar oyunu yapılmıştır?",
+      options: ["1950", "1960", "1970", "1980"],
+      correctAnswer: 1,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Kupası kazanmıştır?",
+      options: ["Almanya", "Arjantin", "Brezilya", "İtalya"],
+      correctAnswer: 2,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'S' sembolü ile gösterilir?",
+      options: ["Silikon", "Kükürt", "Sodyum", "Stronsiyum"],
+      correctAnswer: 1,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi yıl ilk uzay yürüyüşü yapılmıştır?",
+      options: ["1961", "1965", "1969", "1973"],
+      correctAnswer: 1,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi gezegen en soğuktur?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 3,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'P' sembolü ile gösterilir?",
+      options: ["Fosfor", "Plütonyum", "Polonyum", "Protaktinyum"],
+      correctAnswer: 0,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi yıl ilk e-posta gönderilmiştir?",
+      options: ["1965", "1971", "1977", "1983"],
+      correctAnswer: 1,
+      level: 4,
+      prize: 90000,
+    ),
+    // Din Kategorisi - 4. Seviye
+    Question(
+      question: "İslam'da bayram namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 0,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Nuh'un oğludur?",
+      options: ["Hz. Sam", "Hz. Ham", "Hz. Yafes", "Hepsi"],
+      correctAnswer: 3,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "İslam'da kıble hangi yöndür?",
+      options: ["Kuzey", "Güney", "Doğu", "Kabe yönü"],
+      correctAnswer: 3,
+      level: 4,
+      prize: 90000,
+    ),
+    // Coğrafya Kategorisi - 4. Seviye
+    Question(
+      question: "Dünya'nın en derin okyanus çukuru hangisidir?",
+      options: ["Mariana Çukuru", "Puerto Rico Çukuru", "Java Çukuru", "Filipin Çukuru"],
+      correctAnswer: 0,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük adası hangisidir?",
+      options: ["Grönland", "Yeni Gine", "Borneo", "Madagaskar"],
+      correctAnswer: 0,
+      level: 4,
+      prize: 90000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük şelalesi hangisidir?",
+      options: ["Niagara", "Victoria", "Angel", "Iguazu"],
+      correctAnswer: 2,
+      level: 4,
+      prize: 90000,
+    ),
+    
+    // 5. Seviye - 200.000 TL (10 Soru)
+    Question(
+      question: "Hangi yıl İstanbul fethedilmiştir?",
+      options: ["1451", "1452", "1453", "1454"],
+      correctAnswer: 2,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'K' sembolü ile gösterilir?",
+      options: ["Kalsiyum", "Potasyum", "Kobalt", "Kripton"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi yıl ilk renkli film yapılmıştır?",
+      options: ["1902", "1912", "1922", "1932"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 45000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Kupası finali oynamıştır?",
+      options: ["Almanya", "Brezilya", "Arjantin", "İtalya"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Na' sembolü ile gösterilir?",
+      options: ["Neon", "Sodyum", "Nikel", "Natriyum"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi yıl ilk radyo yayını başlamıştır?",
+      options: ["1906", "1916", "1926", "1936"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi gezegen en çok uyduya sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 2,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Cl' sembolü ile gösterilir?",
+      options: ["Kalsiyum", "Klor", "Kobalt", "Kripton"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi yıl ilk Nobel Ödülü verilmiştir?",
+      options: ["1901", "1911", "1921", "1931"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Olimpiyat oyununa ev sahipliği yapmıştır?",
+      options: ["ABD", "İngiltere", "Fransa", "Almanya"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    // Din Kategorisi - 5. Seviye
+    Question(
+      question: "İslam'da abdest kaç uzuvla alınır?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: 1,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Davud'un oğludur?",
+      options: ["Hz. Süleyman", "Hz. İsa", "Hz. Yahya", "Hz. Zekeriya"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "İslam'da teravih namazı kaç rekattır?",
+      options: ["8", "10", "20", "30"],
+      correctAnswer: 2,
+      level: 5,
+      prize: 200000,
+    ),
+    // Coğrafya Kategorisi - 5. Seviye
+    Question(
+      question: "Dünya'nın en büyük yanardağı hangisidir?",
+      options: ["Mauna Loa", "Kilauea", "Etna", "Vesuvius"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük buzul alanı hangisidir?",
+      options: ["Antarktika", "Grönland", "Alaska", "Sibirya"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük mercan resifi hangisidir?",
+      options: ["Büyük Set Resifi", "Belize Resifi", "Maldives Resifi", "Kızıldeniz Resifi"],
+      correctAnswer: 0,
+      level: 5,
+      prize: 200000,
+    ),
+    
+    // 6. Seviye - 400.000 TL (10 Soru)
+    Question(
+      question: "DNA'nın açılımı nedir?",
+      options: ["Deoksiribo Nükleik Asit", "Deoksi Nitrik Asit", "Deoksiribo Nitrik Asit", "Deoksi Nükleik Asit"],
+      correctAnswer: 0,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ca' sembolü ile gösterilir?",
+      options: ["Karbon", "Kalsiyum", "Klor", "Kobalt"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi yıl ilk uzay istasyonu kurulmuştur?",
+      options: ["1969", "1971", "1973", "1975"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Oscar adaylığı almıştır?",
+      options: ["İngiltere", "ABD", "Fransa", "İtalya"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Mg' sembolü ile gösterilir?",
+      options: ["Manganez", "Magnezyum", "Molibden", "Mendelevyum"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi yıl ilk cep telefonu satışa sunulmuştur?",
+      options: ["1983", "1985", "1987", "1989"],
+      correctAnswer: 0,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi gezegen en yoğun atmosfere sahiptir?",
+      options: ["Merkür", "Venüs", "Mars", "Dünya"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Al' sembolü ile gösterilir?",
+      options: ["Argon", "Alüminyum", "Altın", "Aktinyum"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi yıl ilk bilgisayar virüsü yazılmıştır?",
+      options: ["1982", "1986", "1990", "1994"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Grammy Ödülü kazanmıştır?",
+      options: ["İngiltere", "ABD", "Kanada", "Avustralya"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    // Din Kategorisi - 6. Seviye
+    Question(
+      question: "İslam'da gusül abdesti kaç uzuvla alınır?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Yakub'un oğludur?",
+      options: ["Hz. Yusuf", "Hz. Benyamin", "Hz. Levi", "Hepsi"],
+      correctAnswer: 3,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "İslam'da vitir namazı kaç rekattır?",
+      options: ["1", "3", "5", "7"],
+      correctAnswer: 1,
+      level: 6,
+      prize: 400000,
+    ),
+    // Coğrafya Kategorisi - 6. Seviye
+    Question(
+      question: "Dünya'nın en büyük çölü hangisidir?",
+      options: ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Arabistan Çölü"],
+      correctAnswer: 0,
+      level: 6,
+      prize: 400000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük buzul alanı hangisidir?",
+      options: ["Antarktika", "Grönland", "Alaska", "Sibirya"],
+      correctAnswer: 0,
+      level: 6,
+      prize: 60000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük delta hangisidir?",
+      options: ["Ganj Delta", "Nil Delta", "Mekong Delta", "Amazon Delta"],
+      correctAnswer: 0,
+      level: 6,
+      prize: 60000,
+    ),
+    
+    // 7. Seviye - 600.000 TL (10 Soru)
+    Question(
+      question: "Hangi yazar 'Suç ve Ceza' romanını yazmıştır?",
+      options: ["Tolstoy", "Dostoyevski", "Çehov", "Puşkin"],
+      correctAnswer: 1,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Si' sembolü ile gösterilir?",
+      options: ["Silikon", "Sodyum", "Sülfür", "Stronsiyum"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi yıl ilk video oyunu yapılmıştır?",
+      options: ["1958", "1962", "1966", "1970"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Eurovision kazanmıştır?",
+      options: ["İsveç", "İrlanda", "Fransa", "İngiltere"],
+      correctAnswer: 1,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Zn' sembolü ile gösterilir?",
+      options: ["Zirkonyum", "Çinko", "Zengin", "Zinc"],
+      correctAnswer: 1,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi yıl ilk e-kitap yayınlanmıştır?",
+      options: ["1971", "1981", "1991", "2001"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi gezegen en hızlı yörünge hızına sahiptir?",
+      options: ["Merkür", "Venüs", "Mars", "Dünya"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Mn' sembolü ile gösterilir?",
+      options: ["Magnezyum", "Manganez", "Molibden", "Mendelevyum"],
+      correctAnswer: 1,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi yıl ilk sosyal medya platformu kurulmuştur?",
+      options: ["1997", "2001", "2004", "2007"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Rekoru kırmıştır?",
+      options: ["ABD", "Çin", "Rusya", "Almanya"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    // Din Kategorisi - 7. Seviye
+    Question(
+      question: "İslam'da teyemmüm hangi durumda yapılır?",
+      options: ["Su bulunmadığında", "Hastalık durumunda", "Yolculukta", "Hepsi"],
+      correctAnswer: 3,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. İshak'ın oğludur?",
+      options: ["Hz. Yakub", "Hz. İsmail", "Hz. İbrahim", "Hz. İshak"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "İslam'da cenaze namazı kaç rekattır?",
+      options: ["1", "2", "3", "4"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    // Coğrafya Kategorisi - 7. Seviye
+    Question(
+      question: "Dünya'nın en büyük mağara sistemi hangisidir?",
+      options: ["Mammoth Cave", "Jewel Cave", "Wind Cave", "Carlsbad Caverns"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 600000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük kanyonu hangisidir?",
+      options: ["Grand Canyon", "Fish River Canyon", "Colca Canyon", "Cotahuasi Canyon"],
+      correctAnswer: 0,
+      level: 7,
+      prize: 80000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük krater gölü hangisidir?",
+      options: ["Crater Lake", "Lake Toba", "Lake Taupo", "Lake Manicouagan"],
+      correctAnswer: 1,
+      level: 7,
+      prize: 80000,
+    ),
+    
+    // 8. Seviye - 800.000 TL (10 Soru)
+    Question(
+      question: "Hangi yıl Ay'a ilk insan ayak basmıştır?",
+      options: ["1967", "1968", "1969", "1970"],
+      correctAnswer: 2,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Cr' sembolü ile gösterilir?",
+      options: ["Karbon", "Krom", "Kripton", "Kurşun"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi yıl ilk web sitesi yayınlanmıştır?",
+      options: ["1989", "1991", "1993", "1995"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Oscar kazanmıştır?",
+      options: ["İngiltere", "ABD", "Fransa", "İtalya"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ni' sembolü ile gösterilir?",
+      options: ["Nitrojen", "Nikel", "Neon", "Natriyum"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi yıl ilk CD-ROM piyasaya sürülmüştür?",
+      options: ["1982", "1985", "1988", "1991"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyük manyetik alana sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Co' sembolü ile gösterilir?",
+      options: ["Karbon", "Kobalt", "Klor", "Kalsiyum"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi yıl ilk emoji yaratılmıştır?",
+      options: ["1982", "1988", "1995", "1999"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Grammy adaylığı almıştır?",
+      options: ["İngiltere", "ABD", "Kanada", "Avustralya"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 800000,
+    ),
+    // Din Kategorisi - 8. Seviye
+    Question(
+      question: "İslam'da secde kaç uzuvla yapılır?",
+      options: ["5", "6", "7", "8"],
+      correctAnswer: 2,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Yusuf'un kardeşidir?",
+      options: ["Hz. Benyamin", "Hz. Levi", "Hz. Ruben", "Hepsi"],
+      correctAnswer: 3,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "İslam'da şafii mezhebinde sabah namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 0,
+      level: 8,
+      prize: 800000,
+    ),
+    // Coğrafya Kategorisi - 8. Seviye
+    Question(
+      question: "Dünya'nın en büyük buzul alanı hangisidir?",
+      options: ["Antarktika", "Grönland", "Alaska", "Sibirya"],
+      correctAnswer: 0,
+      level: 8,
+      prize: 800000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik ada hangisidir?",
+      options: ["Hawaii", "Iceland", "Java", "Sumatra"],
+      correctAnswer: 0,
+      level: 8,
+      prize: 100000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük lagün hangisidir?",
+      options: ["Chilika Lake", "Lake Maracaibo", "Venice Lagoon", "Lagoa dos Patos"],
+      correctAnswer: 1,
+      level: 8,
+      prize: 100000,
+    ),
+    
+    // 9. Seviye - 1.000.000 TL (10 Soru)
+    Question(
+      question: "Hangi ülke en çok Nobel Ödülü kazanmıştır?",
+      options: ["Almanya", "İngiltere", "ABD", "Fransa"],
+      correctAnswer: 2,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ti' sembolü ile gösterilir?",
+      options: ["Titanyum", "Talyum", "Toryum", "Tantal"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk DVD piyasaya sürülmüştür?",
+      options: ["1995", "1997", "1999", "2001"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Kupası golü atmıştır?",
+      options: ["Almanya", "Brezilya", "Arjantin", "İtalya"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'V' sembolü ile gösterilir?",
+      options: ["Vanadyum", "Volfram", "Vanadyum", "Vana"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk MP3 formatı geliştirilmiştir?",
+      options: ["1987", "1991", "1995", "1999"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi gezegen en uzun güne doğru sahiptir?",
+      options: ["Merkür", "Venüs", "Mars", "Dünya"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'W' sembolü ile gösterilir?",
+      options: ["Volfram", "Vana", "Vanadyum", "Volfram"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk akıllı telefon piyasaya sürülmüştür?",
+      options: ["1992", "1996", "2000", "2004"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Olimpiyat madalyası kazanmıştır?",
+      options: ["Sovyetler Birliği", "ABD", "Çin", "Almanya"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    // Din Kategorisi - 9. Seviye
+    Question(
+      question: "İslam'da rükü kaç uzuvla yapılır?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Süleyman'ın oğludur?",
+      options: ["Hz. Rehoboam", "Hz. Abijah", "Hz. Asa", "Hz. Jehoshaphat"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "İslam'da hanefi mezhebinde öğle namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 1,
+      level: 9,
+      prize: 1000000,
+    ),
+    // Coğrafya Kategorisi - 9. Seviye
+    Question(
+      question: "Dünya'nın en büyük çölü hangisidir?",
+      options: ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Arabistan Çölü"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 1000000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik alan hangisidir?",
+      options: ["Hawaii", "Iceland", "Indonesia", "Japan"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 120000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük karstik alan hangisidir?",
+      options: ["Guilin", "Ha Long Bay", "Phang Nga Bay", "Vang Vieng"],
+      correctAnswer: 0,
+      level: 9,
+      prize: 120000,
+    ),
+    
+    // 10. Seviye - 1.500.000 TL (10 Soru)
+    Question(
+      question: "Hangi yıl İnternet ilk kez halka açılmıştır?",
+      options: ["1989", "1990", "1991", "1992"],
+      correctAnswer: 2,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'U' sembolü ile gösterilir?",
+      options: ["Uranyum", "Uran", "Uranyum", "Uranyum"],
+      correctAnswer: 0,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi yıl ilk Bluetooth teknolojisi geliştirilmiştir?",
+      options: ["1994", "1998", "2002", "2006"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Oscar adaylığı almıştır?",
+      options: ["İngiltere", "ABD", "Fransa", "İtalya"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ra' sembolü ile gösterilir?",
+      options: ["Radon", "Radyum", "Rutenyum", "Rodyum"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi yıl ilk Wi-Fi standardı kabul edilmiştir?",
+      options: ["1997", "2001", "2005", "2009"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyük halka sistemine sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 2,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Th' sembolü ile gösterilir?",
+      options: ["Talyum", "Toryum", "Tantal", "Titanyum"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi yıl ilk 3D film yapılmıştır?",
+      options: ["1922", "1932", "1942", "1952"],
+      correctAnswer: 0,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Grammy kazanmıştır?",
+      options: ["İngiltere", "ABD", "Kanada", "Avustralya"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    // Din Kategorisi - 10. Seviye
+    Question(
+      question: "İslam'da kıyam kaç uzuvla yapılır?",
+      options: ["2", "3", "4", "5"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. İlyas'ın halefidir?",
+      options: ["Hz. Elyesa", "Hz. Yunus", "Hz. Amos", "Hz. Hoşea"],
+      correctAnswer: 0,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "İslam'da maliki mezhebinde akşam namazı kaç rekattır?",
+      options: ["2", "3", "4", "5"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 1500000,
+    ),
+    // Coğrafya Kategorisi - 10. Seviye
+    Question(
+      question: "Dünya'nın en büyük buzul alanı hangisidir?",
+      options: ["Antarktika", "Grönland", "Alaska", "Sibirya"],
+      correctAnswer: 0,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik ada hangisidir?",
+      options: ["Hawaii", "Iceland", "Java", "Sumatra"],
+      correctAnswer: 0,
+      level: 10,
+      prize: 1500000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük karstik mağara hangisidir?",
+      options: ["Mammoth Cave", "Son Doong Cave", "Reed Flute Cave", "Carlsbad Caverns"],
+      correctAnswer: 1,
+      level: 10,
+      prize: 150000,
+    ),
+    
+    // 11. Seviye - 2.000.000 TL (10 Soru)
+    Question(
+      question: "Hangi element periyodik tabloda 'Pt' sembolü ile gösterilir?",
+      options: ["Platinyum", "Plütonyum", "Polonyum", "Protaktinyum"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk HD televizyon yayını başlamıştır?",
+      options: ["1989", "1993", "1997", "2001"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Rekoru kırmıştır?",
+      options: ["ABD", "Çin", "Rusya", "Almanya"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Pu' sembolü ile gösterilir?",
+      options: ["Platinyum", "Plütonyum", "Polonyum", "Protaktinyum"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk 4K televizyon piyasaya sürülmüştür?",
+      options: ["2006", "2010", "2014", "2018"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyük manyetik alana sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Po' sembolü ile gösterilir?",
+      options: ["Platinyum", "Plütonyum", "Polonyum", "Protaktinyum"],
+      correctAnswer: 2,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk 5G ağı kurulmuştur?",
+      options: ["2016", "2018", "2020", "2022"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Eurovision kazanmıştır?",
+      options: ["İsveç", "İrlanda", "Fransa", "İngiltere"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Pa' sembolü ile gösterilir?",
+      options: ["Platinyum", "Plütonyum", "Polonyum", "Protaktinyum"],
+      correctAnswer: 3,
+      level: 11,
+      prize: 2000000,
+    ),
+    // Din Kategorisi - 11. Seviye
+    Question(
+      question: "İslam'da secde kaç uzuvla yapılır?",
+      options: ["5", "6", "7", "8"],
+      correctAnswer: 2,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Zekeriya'nın oğludur?",
+      options: ["Hz. Yahya", "Hz. İsa", "Hz. İlyas", "Hz. Elyesa"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "İslam'da hanbeli mezhebinde yatsı namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 1,
+      level: 11,
+      prize: 2000000,
+    ),
+    // Coğrafya Kategorisi - 11. Seviye
+    Question(
+      question: "Dünya'nın en büyük çölü hangisidir?",
+      options: ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Arabistan Çölü"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 2000000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik alan hangisidir?",
+      options: ["Hawaii", "Iceland", "Indonesia", "Japan"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 200000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük karstik alan hangisidir?",
+      options: ["Guilin", "Ha Long Bay", "Phang Nga Bay", "Vang Vieng"],
+      correctAnswer: 0,
+      level: 11,
+      prize: 200000,
+    ),
+    
+    // 12. Seviye - 3.000.000 TL (10 Soru)
+    Question(
+      question: "Hangi yıl ilk iPhone piyasaya sürülmüştür?",
+      options: ["2005", "2006", "2007", "2008"],
+      correctAnswer: 2,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ir' sembolü ile gösterilir?",
+      options: ["İridyum", "İyot", "İndiyum", "İtrium"],
+      correctAnswer: 0,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk Android telefon piyasaya sürülmüştür?",
+      options: ["2007", "2008", "2009", "2010"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Oscar kazanmıştır?",
+      options: ["İngiltere", "ABD", "Fransa", "İtalya"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Os' sembolü ile gösterilir?",
+      options: ["Osmiyum", "Oksijen", "Oganesson", "Osmium"],
+      correctAnswer: 0,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk iPad piyasaya sürülmüştür?",
+      options: ["2008", "2010", "2012", "2014"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyük uyduya sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Re' sembolü ile gösterilir?",
+      options: ["Rodyum", "Rutenyum", "Renyum", "Radon"],
+      correctAnswer: 2,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk MacBook Air piyasaya sürülmüştür?",
+      options: ["2006", "2008", "2010", "2012"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Grammy kazanmıştır?",
+      options: ["İngiltere", "ABD", "Kanada", "Avustralya"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    // Din Kategorisi - 12. Seviye
+    Question(
+      question: "İslam'da rükü kaç uzuvla yapılır?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. Yahya'nın halefidir?",
+      options: ["Hz. İsa", "Hz. Zekeriya", "Hz. İlyas", "Hz. Elyesa"],
+      correctAnswer: 0,
+      level: 12,
+      prize: 3000000,
+    ),
+    Question(
+      question: "İslam'da şafii mezhebinde ikindi namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    // Coğrafya Kategorisi - 12. Seviye
+    Question(
+      question: "Dünya'nın en büyük buzul alanı hangisidir?",
+      options: ["Antarktika", "Grönland", "Alaska", "Sibirya"],
+      correctAnswer: 0,
+      level: 12,
+      prize: 300000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik ada hangisidir?",
+      options: ["Hawaii", "Iceland", "Java", "Sumatra"],
+      correctAnswer: 0,
+      level: 12,
+      prize: 300000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük karstik mağara hangisidir?",
+      options: ["Mammoth Cave", "Son Doong Cave", "Reed Flute Cave", "Carlsbad Caverns"],
+      correctAnswer: 1,
+      level: 12,
+      prize: 3000000,
+    ),
+    
+    // 13. Seviye - 5.000.000 TL (10 Soru)
+    Question(
+      question: "Hangi element periyodik tabloda 'Og' sembolü ile gösterilir?",
+      options: ["Oganesson", "Osmium", "Oxygen", "Oganesson"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk 8K televizyon piyasaya sürülmüştür?",
+      options: ["2012", "2016", "2020", "2024"],
+      correctAnswer: 1,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Nobel Ödülü kazanmıştır?",
+      options: ["Almanya", "İngiltere", "ABD", "Fransa"],
+      correctAnswer: 2,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Ts' sembolü ile gösterilir?",
+      options: ["Tennessine", "Tennesium", "Tennessium", "Tennessine"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk kuantum bilgisayar çalıştırılmıştır?",
+      options: ["1998", "2002", "2006", "2010"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi gezegen en büyük manyetik alana sahiptir?",
+      options: ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+      correctAnswer: 1,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Nh' sembolü ile gösterilir?",
+      options: ["Nihonyum", "Nihonium", "Nihonyum", "Nihonium"],
+      correctAnswer: 1,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi yıl ilk yapay zeka oyunu yapılmıştır?",
+      options: ["1950", "1960", "1970", "1980"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi ülke en çok Dünya Rekoru kırmıştır?",
+      options: ["ABD", "Çin", "Rusya", "Almanya"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi element periyodik tabloda 'Mc' sembolü ile gösterilir?",
+      options: ["Moscovyum", "Moscovium", "Moscovyum", "Moscovium"],
+      correctAnswer: 1,
+      level: 13,
+      prize: 5000000,
+    ),
+    // Din Kategorisi - 13. Seviye
+    Question(
+      question: "İslam'da kıyam kaç uzuvla yapılır?",
+      options: ["2", "3", "4", "5"],
+      correctAnswer: 1,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Hangi peygamber Hz. İsa'nın havarisidir?",
+      options: ["Hz. Petrus", "Hz. Pavlus", "Hz. Yuhanna", "Hepsi"],
+      correctAnswer: 3,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "İslam'da hanefi mezhebinde cuma namazı kaç rekattır?",
+      options: ["2", "4", "6", "8"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    // Coğrafya Kategorisi - 13. Seviye
+    Question(
+      question: "Dünya'nın en büyük çölü hangisidir?",
+      options: ["Sahra Çölü", "Gobi Çölü", "Kalahari Çölü", "Arabistan Çölü"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük volkanik alan hangisidir?",
+      options: ["Hawaii", "Iceland", "Indonesia", "Japan"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+    Question(
+      question: "Dünya'nın en büyük karstik alan hangisidir?",
+      options: ["Guilin", "Ha Long Bay", "Phang Nga Bay", "Vang Vieng"],
+      correctAnswer: 0,
+      level: 13,
+      prize: 5000000,
+    ),
+  ];
+
+  // Dışarıdan TXT ile gelen sorular
+  static List<Question> externalQuestions = [];
+
+  static List<Question> getQuestionsForLevel(int level) {
+    final all = <Question>[]
+      ..addAll(questions)
+      ..addAll(externalQuestions);
+    return all.where((q) => q.level == level).toList();
+  }
+
+  static Question getRandomQuestionForLevel(int level) {
+    try {
+      final levelQuestions = getQuestionsForLevel(level);
+      if (levelQuestions.isEmpty) {
+        // Eğer seviye için soru yoksa, ilk seviye sorularından birini döndür
+        final firstLevelQuestions = getQuestionsForLevel(1);
+        if (firstLevelQuestions.isNotEmpty) {
+          firstLevelQuestions.shuffle();
+          return firstLevelQuestions.first;
+        }
+        // Hiç soru yoksa varsayılan soru döndür
+        return questions.first;
+      }
+      levelQuestions.shuffle();
+      return levelQuestions.first;
+    } catch (e) {
+      // Hata durumunda varsayılan soru döndür
+      return questions.first;
+    }
+  }
+
+  static Question getUnusedRandomQuestionForLevel(int level, Set<String> usedQuestions) {
+    try {
+      final levelQuestions = getQuestionsForLevel(level);
+      if (levelQuestions.isEmpty) {
+        // Eğer seviye için soru yoksa, ilk seviye sorularından kullanılmamış birini döndür
+        final firstLevelQuestions = getQuestionsForLevel(1);
+        if (firstLevelQuestions.isNotEmpty) {
+          final unusedFirstLevelQuestions = firstLevelQuestions
+              .where((q) => !usedQuestions.contains(q.question))
+              .toList();
+          if (unusedFirstLevelQuestions.isNotEmpty) {
+            unusedFirstLevelQuestions.shuffle();
+            return unusedFirstLevelQuestions.first;
+          }
+          // Tüm sorular kullanılmışsa, kullanılan soruları sıfırla
+          usedQuestions.clear();
+          firstLevelQuestions.shuffle();
+          return firstLevelQuestions.first;
+        }
+        return questions.first;
+      }
+      
+      // Kullanılmamış soruları filtrele
+      final unusedLevelQuestions = levelQuestions
+          .where((q) => !usedQuestions.contains(q.question))
+          .toList();
+      
+      if (unusedLevelQuestions.isNotEmpty) {
+        unusedLevelQuestions.shuffle();
+        return unusedLevelQuestions.first;
+      }
+      
+      // Tüm sorular kullanılmışsa, kullanılan soruları sıfırla
+      usedQuestions.clear();
+      levelQuestions.shuffle();
+      return levelQuestions.first;
+    } catch (e) {
+      return questions.first;
+    }
+  }
+}
