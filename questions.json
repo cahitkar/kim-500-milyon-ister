@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correctAnswer": 1,
+    "level": 1,
+    "prize": 5000
+  },
+  {
+    "question": "Hangi gezegen Güneş'e en yakındır?",
+    "options": ["Mars", "Venüs", "Merkür", "Dünya"],
+    "correctAnswer": 2,
+    "level": 1,
+    "prize": 5000
+  },
+  {
+    "question": "İstanbul hangi yılda fethedilmiştir?",
+    "options": ["1451", "1453", "1455", "1457"],
+    "correctAnswer": 1,
+    "level": 2,
+    "prize": 10000
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
+    "options": ["Flor", "Demir", "Fosfor", "Fermiyum"],
+    "correctAnswer": 1,
+    "level": 2,
+    "prize": 10000
+  },
+  {
+    "question": "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
+    "options": ["1920", "1921", "1922", "1923"],
+    "correctAnswer": 3,
+    "level": 3,
+    "prize": 15000
+  }
+]

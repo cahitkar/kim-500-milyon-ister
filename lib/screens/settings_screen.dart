@@ -157,34 +157,6 @@ class SettingsScreen extends StatelessWidget {
                         
                         const SizedBox(height: 30),
                         
-                        // Online soruları güncelle butonu
-                        Container(
-                          width: double.infinity,
-                          child: ElevatedButton(
-                            onPressed: () {
-                              AudioService().playButtonClick(context: context);
-                              _showOnlineUpdateDialog(context);
-                            },
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.blue.shade600,
-                              foregroundColor: Colors.white,
-                              padding: const EdgeInsets.symmetric(vertical: 16),
-                              shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(12),
-                              ),
-                            ),
-                            child: const Text(
-                              'Online Soruları Güncelle',
-                              style: TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.bold,
-                              ),
-                            ),
-                          ),
-                        ),
-                        
-                        const SizedBox(height: 20),
-                        
                         // Kullanılan soruları sıfırla butonu
                         Container(
                           width: double.infinity,
@@ -386,89 +358,6 @@ class SettingsScreen extends StatelessWidget {
       default:
         return value;
     }
-  }
-
-  void _showOnlineUpdateDialog(BuildContext context) {
-    showDialog(
-      context: context,
-      builder: (context) => AlertDialog(
-        backgroundColor: const Color(0xFF1a237e),
-        title: const Text(
-          'Online Soruları Güncelle',
-          style: TextStyle(color: Colors.amber, fontWeight: FontWeight.bold),
-        ),
-        content: const Text(
-          'Sunucudan en güncel soruları indirmek istiyor musunuz? Bu işlem internet bağlantısı gerektirir.',
-          style: TextStyle(color: Colors.white, fontSize: 16),
-        ),
-        actions: [
-          TextButton(
-            onPressed: () {
-              AudioService().playButtonClick();
-              Navigator.pop(context);
-            },
-            child: const Text(
-              'İptal',
-              style: TextStyle(color: Colors.grey),
-            ),
-          ),
-          TextButton(
-            onPressed: () async {
-              AudioService().playButtonClick();
-              Navigator.pop(context);
-              
-              // Loading göster
-              showDialog(
-                context: context,
-                barrierDismissible: false,
-                builder: (context) => const AlertDialog(
-                  backgroundColor: Color(0xFF1a237e),
-                  content: Row(
-                    children: [
-                      CircularProgressIndicator(color: Colors.amber),
-                      SizedBox(width: 16),
-                      Text(
-                        'Sorular güncelleniyor...',
-                        style: TextStyle(color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
-              );
-              
-              try {
-                final gameProvider = Provider.of<GameProvider>(context, listen: false);
-                await gameProvider.refreshOnlineQuestions();
-                
-                if (context.mounted) {
-                  Navigator.pop(context); // Loading dialog'u kapat
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('Sorular başarıyla güncellendi'),
-                      backgroundColor: Colors.green,
-                    ),
-                  );
-                }
-              } catch (e) {
-                if (context.mounted) {
-                  Navigator.pop(context); // Loading dialog'u kapat
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      content: Text('Güncelleme hatası: $e'),
-                      backgroundColor: Colors.red,
-                    ),
-                  );
-                }
-              }
-            },
-            child: const Text(
-              'Güncelle',
-              style: TextStyle(color: Colors.blue),
-            ),
-          ),
-        ],
-      ),
-    );
   }
 
   void _showResetQuestionsDialog(BuildContext context) {

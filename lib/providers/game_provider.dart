@@ -3,8 +3,6 @@ import 'dart:async';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../data/questions.dart';
 import '../services/audio_service.dart';
-import '../services/online_question_service.dart';
-import '../services/simple_online_service.dart';
 
 class GameProvider extends ChangeNotifier {
   int _currentLevel = 1;
@@ -75,7 +73,6 @@ class GameProvider extends ChangeNotifier {
     _loadHighScore();
     _loadUsedQuestions();
     _initializeAudioService();
-    _syncOnlineQuestions();
   }
 
   // AudioService'i başlat
@@ -730,35 +727,5 @@ class GameProvider extends ChangeNotifier {
     } catch (e) {
       print('GameProvider: Seviye bazlı kullanılan sorular sıfırlanamadı: $e');
     }
-  }
-
-  // Online soruları senkronize et
-  Future<void> _syncOnlineQuestions() async {
-    try {
-      print('GameProvider: Online sorular senkronize ediliyor...');
-      
-      // Önce Firebase'i dene
-      bool success = await OnlineQuestionService.syncQuestionsWithFirebase();
-      
-      // Firebase başarısızsa basit JSON servisini dene
-      if (!success) {
-        print('GameProvider: Firebase başarısız, JSON servisi deneniyor...');
-        success = await SimpleOnlineService.syncQuestions();
-      }
-      
-      if (success) {
-        print('GameProvider: Online sorular başarıyla senkronize edildi');
-        notifyListeners();
-      } else {
-        print('GameProvider: Online senkronizasyon başarısız, yerel sorular kullanılıyor');
-      }
-    } catch (e) {
-      print('GameProvider: Online senkronizasyon hatası: $e');
-    }
-  }
-
-  // Manuel olarak online soruları güncelle
-  Future<void> refreshOnlineQuestions() async {
-    await _syncOnlineQuestions();
   }
 }
