@@ -533,6 +533,21 @@
       "level": 1,
       "prize": 5000
     },
+      {
+  "id": "q_1_41",
+  "question": "Hangi meyve ağaçta yetişir?",
+  "options": [
+    "Havuç",
+    "Elma",
+    "Patates",
+    "Soğan"
+  ],
+  "correctAnswer": 1,
+  "level": 1,
+  "prize": 5000
+}
+
+    },
     {
       "id": "q_2_41",
       "question": "Futbolda bir takım kaç oyuncuyla sahada oynar?",
