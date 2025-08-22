@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "id": "q_1_1",
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "id": "q_1_2",
+      "question": "Türk bayrağının ana rengi nedir?",
+      "options": ["Mavi", "Kırmızı", "Yeşil", "Sarı"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "id": "q_1_3",
+      "question": "Bir günde kaç saat vardır?",
+      "options": ["12 saat", "24 saat", "36 saat", "48 saat"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "id": "q_2_1",
+      "question": "Hangi gezegen Güneş'e en yakındır?",
+      "options": ["Mars", "Venüs", "Merkür", "Dünya"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "id": "q_2_2",
+      "question": "İnsan vücudundaki en büyük organ hangisidir?",
+      "options": ["Kalp", "Beyin", "Deri", "Karaciğer"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    }
+  ],
+  "totalQuestions": 5,
+  "lastUpdated": "2024-01-01"
+}
