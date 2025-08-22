@@ -223,14 +223,14 @@
     },
     {
       "id": "q_1_17",
-      "question": "İnsan vücudunda kaç bacak vardır?",
+      "question": "Sindirim sisteminde besinlerin en çok emildiği organ hangisidir?",
       "options": [
-        "1 bacak",
-        "2 bacak",
-        "3 bacak",
-        "4 bacak"
+        "Mide",
+        "Kalın bağırsak",
+        "Ağız",
+        "İnce bağırsak"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
