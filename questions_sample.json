@@ -1380,12 +1380,12 @@
     },
     {
       "id": "online_q_11_6",
-      "question": "'Pieta' heykelinin heykeltıraşı kimdir?",
+      "question": "'Cogito, ergo sum” (Düşünüyorum, öyleyse varım) sözü hangi filozofa aittir",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Donatello",
-        "Bernini"
+        "Platon ",
+        "René Descartes",
+        "Friedrich Nietzsche ",
+        " Immanuel Kant "
       ],
       "correctAnswer": 1,
       "level": 11,
