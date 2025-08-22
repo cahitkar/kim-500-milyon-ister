@@ -1224,14 +1224,14 @@
     },
     {
       "id": "online_q_10_4",
-      "question": "'Othello' oyununun yazarı kimdir?",
+      "question": "Oğuz Kağan Destanı”nda Oğuz Kağan’ın babasının adı nedir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Kara Han",
+        "Alper Tunga",
+        "Dede Korkut",
+        "Bilge Kağan"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
