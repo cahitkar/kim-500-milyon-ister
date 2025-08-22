@@ -4,7 +4,7 @@
       "id": "q_1_0",
       "question": "Türkiye'nin başkenti neresidir?",
       "options": [
-        "İstanbul",
+        "Rize",
         "Ankara",
         "İzmir",
         "Bursa"
@@ -7229,6 +7229,6 @@
       "prize": 1500000
     }
   ],
-  "totalQuestions": 557,
+  "totalQuestions": 556,
   "lastUpdated": "2024-01-01"
 }
