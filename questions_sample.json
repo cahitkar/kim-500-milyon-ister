@@ -2,11 +2,11 @@
   "questions": [
     {
       "id": "q_1_0",
-      "question": "Türkiye'nin başkenti neresidir?",
+      "question": "Osmanlı'nın ilk başkenti neresidir?",
       "options": [
         "İstanbul",
         "Ankara",
-        "İzmir",
+        "Edirne",
         "Bursa"
       ],
       "correctAnswer": 1,
