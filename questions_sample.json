@@ -131,8 +131,6 @@
       "prize": 5000
     },
     {
-  "questions": [
-    {
       "id": "online_q_1_10",
       "question": "İslam’ın kutsal kitabı hangisidir?",
       "options": [
@@ -1134,8 +1132,6 @@
       "prize": 800000
     },
     {
-  "questions": [
-    {
       "id": "online_q_8_10",
       "question": "“Kuyucaklı Yusuf” romanının yazarı kimdir?",
       "options": [
@@ -1565,9 +1561,7 @@
       "prize": 2000000
     },
     {
-  "questions": [
-    {
-      "id": "online_q_11_10",
+     "id": "online_q_11_10",
       "question": "İbn-i Sina’nın en önemli tıp eseri kabul edilen ve yüzyıllarca Avrupa üniversitelerinde ders kitabı olarak okutulan eseri hangisidir?",
       "options": [
         "El-Kanun fi’t-Tıbb",
@@ -1710,7 +1704,7 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_6",
+      "id": "online_q_12_10",
       "question": "Moğol İmparatorluğu’nun 1243 yılında Anadolu Selçuklu Devleti’ni mağlup ettiği savaş hangisidir?",
       "options": [
         "Kösedağ Savaşı",
