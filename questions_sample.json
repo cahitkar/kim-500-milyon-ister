@@ -131,6 +131,21 @@
       "prize": 5000
     },
     {
+  "questions": [
+    {
+      "id": "online_q_1_10",
+      "question": "İslam’ın kutsal kitabı hangisidir?",
+      "options": [
+        "Tevrat",
+        "İncil",
+        "Kur’an-ı Kerim",
+        "Zebur"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
       "id": "online_q_2_0",
       "question": "Türkiye'nin en yüksek dağı hangisidir?",
       "options": [
@@ -257,6 +272,19 @@
         "Antalya"
       ],
       "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+     {
+      "id": "online_q_2_10",
+      "question": "Hac ibadeti hangi şehirde yapılır?",
+      "options": [
+        "Medine",
+        "Mekke",
+        "Kudüs",
+        "Şam"
+      ],
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
@@ -391,6 +419,19 @@
       "prize": 30000
     },
     {
+      "id": "online_q_3_10",
+      "question": "Türkiye’nin en uzun sınırı hangi ülke ile vardır?",
+      "options": [
+        "Yunanistan",
+        "Irak",
+        "Suriye",
+        "Bulgaristan"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
       "id": "online_q_4_0",
       "question": "'Garip Akımı'nın öncüsü kimdir?",
       "options": [
@@ -517,6 +558,19 @@
         "Orhan Veli Kanık"
       ],
       "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "id": "online_q_4_10",
+      "question": "Birleşmiş Milletler’in merkezi hangi şehirde bulunur?",
+      "options": [
+        "Paris",
+        "Londra",
+        "New York",
+        "Cenevre"
+      ],
+      "correctAnswer": 2,
       "level": 4,
       "prize": 90000
     },
@@ -651,6 +705,19 @@
       "prize": 200000
     },
     {
+      "id": "online_q_5_10",
+      "question": "Kadir Gecesi hangi ayda idrak edilir?",
+      "options": [
+        "Recep",
+        "Ramazan",
+        "Şaban",
+        "Muharrem"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 20000
+    },
+    {
       "id": "online_q_6_0",
       "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
       "options": [
@@ -781,6 +848,19 @@
       "prize": 400000
     },
     {
+      "id": "online_q_6_10",
+      "question": "Dünya Sağlık Örgütü’nün kısaltması nedir?",
+      "options": [
+        "UNICEF",
+        "NATO",
+        "WHO",
+        "IMF"
+      ],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize":  400000
+    },
+    {
       "id": "online_q_7_0",
       "question": "I. Dünya Savaşı hangi yılda başladı?",
       "options": [
@@ -907,6 +987,19 @@
         "1951"
       ],
       "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "id": "online_q_7_10",
+      "question": "Müslümanların ilk savaşı hangisidir?",
+      "options": [
+        "Uhud",
+        "Bedir",
+        "Hendek",
+        "Hayber"
+      ],
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
@@ -1041,6 +1134,21 @@
       "prize": 800000
     },
     {
+  "questions": [
+    {
+      "id": "online_q_8_10",
+      "question": "“Kuyucaklı Yusuf” romanının yazarı kimdir?",
+      "options": [
+        "Yakup Kadri Karaosmanoğlu",
+        "Sabahattin Ali",
+        "Halide Edip Adıvar",
+        "Reşat Nuri Güntekin"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
       "id": "online_q_9_0",
       "question": "'Çalıkuşu' romanının yazarı kimdir?",
       "options": [
@@ -1165,6 +1273,19 @@
         "Lev Tolstoy",
         "Anton Çehov",
         "Nikolay Gogol"
+      ],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "id": "online_q_9_10",
+      "question": "Osmanlı’da ilk özel Türkçe gazete hangisidir?",
+      "options": [
+        "Tercüman-ı Ahval",
+        "Takvim-i Vekayi",
+        "Ceride-i Havadis",
+        "İkdam"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1301,6 +1422,19 @@
       "prize": 1500000
     },
     {
+  "id": "online_q_10_10",
+  "question": "Osmanlı Devleti’nde Batı tarzı kanunlaştırma hareketlerinin başlangıcı sayılan ‘Tanzimat Fermanı’ hangi yılda ilan edilmiştir?",
+  "options": [
+    "1826",
+    "1839",
+    "1856",
+    "1876"
+  ],
+  "correctAnswer": 1,
+  "level": 10,
+  "prize": 1500000
+}
+    {
       "id": "online_q_11_0",
       "question": "'Mona Lisa' tablosunun ressamı kimdir?",
       "options": [
@@ -1427,6 +1561,21 @@
         "Raphael"
       ],
       "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+  "questions": [
+    {
+      "id": "online_q_11_10",
+      "question": "İbn-i Sina’nın en önemli tıp eseri kabul edilen ve yüzyıllarca Avrupa üniversitelerinde ders kitabı olarak okutulan eseri hangisidir?",
+      "options": [
+        "El-Kanun fi’t-Tıbb",
+        "Kitabü’ş-Şifa",
+        "El-İşarat ve’t-Tenbihat",
+        "Uyûnü’l-Hikme"
+      ],
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
@@ -1561,6 +1710,19 @@
       "prize": 3000000
     },
     {
+      "id": "online_q_12_6",
+      "question": "Moğol İmparatorluğu’nun 1243 yılında Anadolu Selçuklu Devleti’ni mağlup ettiği savaş hangisidir?",
+      "options": [
+        "Kösedağ Savaşı",
+        "Malazgirt Savaşı",
+        "Miryokefalon Savaşı",
+        "Ankara Savaşı"
+      ],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    }
+    {
       "id": "online_q_13_0",
       "question": "Kuantum fiziğinin kurucusu kimdir?",
       "options": [
@@ -1690,6 +1852,20 @@
       "level": 13,
       "prize": 5000000
     }
+    {
+      "id": "online_q_13_10",
+      "question": "İnsan hücrelerinde enerji üretiminden sorumlu organel hangisidir?",
+      "options": [
+        "Ribozom",
+        "Mitokondri",
+        "Golgi cisimciği",
+        "Lizozom"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
+  
   ],
   "totalQuestions": 130,
   "lastUpdated": "2025-08-23",
