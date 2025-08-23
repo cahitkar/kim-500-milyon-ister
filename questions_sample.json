@@ -4,12 +4,12 @@
       "id": "online_q_1_0",
       "question": "'Ateş olmayan yerden duman çıkmaz' atasözünün anlamı nedir?",
       "options": [
+      "Ateş tehlikelidir",
         "Her olayın bir sebebi vardır",
-        "Ateş tehlikelidir",
         "Duman zehirlidir",
         "Hiçbiri"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
