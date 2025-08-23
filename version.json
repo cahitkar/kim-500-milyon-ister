@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "changelog": "• Yeni sorular eklendi\n• Soru tekrarı sorunu düzeltildi\n• Otomatik güncelleme sistemi eklendi",
+  "changelog": "• Yeni sorular eklendi\n• Soru tekrarı sorunu düzeltildi\n• Otomatik güncelleme sistemi eklendi\n• Performans iyileştirmeleri",
   "downloadUrl": "https://github.com/cahitkar/kim-500-milyon-ister/releases/latest",
   "isRequired": false,
   "releaseDate": "2024-01-15",
