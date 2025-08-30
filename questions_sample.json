@@ -1573,84 +1573,84 @@
       "level": 13,
       "prize": 5000000
     },
-    {
-      "id": "online_q_13_1",
-      "question": "İlk bilgisayar programının yazarı kimdir?",
-      "options": [
-        "Ada Lovelace",
-        "Alan Turing",
-        "Grace Hopper",
-        "John von Neumann"
-      ],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "id": "online_q_13_2",
-      "question": "İlk uyduyu uzaya gönderen ülke hangisidir?",
-      "options": [
-        "Amerika",
-        "Sovyetler Birliği",
-        "Çin",
-        "Japonya"
-      ],
-      "correctAnswer": 1,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "id": "online_q_13_3",
-      "question": "İlk uzay istasyonunu geliştiren ülke hangisidir?",
-      "options": [
-        "Amerika",
-        "Sovyetler Birliği",
-        "Çin",
-        "Japonya"
-      ],
-      "correctAnswer": 1,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "id": "online_q_13_4",
-      "question": "İlk Mars'a inen uzay aracı hangi yılda gönderildi?",
-      "options": [
-        "1972",
-        "1974",
-        "1976",
-        "1978"
-      ],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "id": "online_q_13_5",
-      "question": "İlk Hubble Uzay Teleskobu hangi yılda fırlatıldı?",
-      "options": [
-        "1986",
-        "1988",
-        "1990",
-        "1992"
-      ],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "id": "online_q_13_6",
-      "question": "İlk insanın aya ayak basması hangi yılda gerçekleşti?",
-      "options": [
-        "1967",
-        "1968",
-        "1969",
-        "1970"
-      ],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
+     {
+    "id": "online_q_13_1",
+    "question": "Orta Çağ'da Avrupa’da feodal düzenin çöküşüne yol açan veba salgını hangi isimle anılır?",
+    "options": [
+      "Kara Ölüm",
+      "Büyük Veba",
+      "Kızıl Ölüm",
+      "Avrupa Salgını"
+    ],
+    "correctAnswer": 0,
+    "level": 13,
+    "prize": 5000000
+  },
+   {
+    "id": "online_q_13_2",
+    "question": "Orta Çağ'da Haçlı Seferleri'nin başlamasına neden olan Clermont Konseyi hangi yılda düzenlenmiştir?",
+    "options": [
+      "1095",
+      "1071",
+      "1123",
+      "1054"
+    ],
+    "correctAnswer": 0,
+    "level": 13,
+    "prize": 5000000
+  },
+     {
+    "id": "online_q_13_3",
+    "question": "Hangi dağ sırası, Güney Amerika'nın batı kıyısı boyunca uzanır ve dünyanın en uzun kıtasal dağ zinciridir?",
+    "options": [
+      "Himalayalar",
+      "And Dağları",
+      "Rocky Dağları",
+      "Alpler"
+    ],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  },
+     {
+    "id": "online_q_13_4",
+    "question": "İlk Çağ'da yazıyı ilk kullanan medeniyet hangisidir?",
+    "options": [
+      "Mısır",
+      "Sümer",
+      "Çin",
+      "İndus"
+    ],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  },
+   {
+    "id": "online_q_13_5",
+    "question": "Hangi çöl, yüzölçümü bakımından dünyanın en büyük sıcak çölüdür?",
+    "options": [
+      "Gobi Çölü",
+      "Kalahari Çölü",
+      "Sahra Çölü",
+      "Antarktika Çölü"
+    ],
+    "correctAnswer": 2,
+    "level": 13,
+    "prize": 5000000
+  },
+   {
+    "id": "online_q_13_6",
+    "question": "Orta Çağ'da İslam'ın Altın Çağı sırasında bilimsel çalışmaların merkezi olan 'Bilgelik Evi' hangi şehirde bulunuyordu?",
+    "options": [
+      "Kudüs",
+      "Bağdat",
+      "Kahire",
+      "Cordoba"
+    ],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  },
     {
       "id": "online_q_13_7",
       "question": "İlk uzay yürüyüşü hangi yılda gerçekleşti?",
@@ -1678,20 +1678,46 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_9",
-      "question": "İlk Mars'a inen uzay aracı hangi yılda gönderildi?",
-      "options": [
-        "1972",
-        "1974",
-        "1976",
-        "1978"
-      ],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    }
+    "id": "online_q_13_9",
+    "question": "Hangi ada, biyoçeşitlilik açısından dünyanın en zengin bölgelerinden biri olup Madagaskar’ın doğusunda yer alır?",
+    "options": [
+      "Borneo",
+      "Sumatra",
+      "Mauritius",
+      "Yeni Gine"
+    ],
+    "correctAnswer": 2,
+    "level": 13,
+    "prize": 5000000
+  },
+    {
+    "id": "online_q_13_10",
+    "question": "Hangi nehir, Çin’in en uzun nehri olup “Sarı Nehir” olarak da bilinir?",
+    "options": [
+      "Yangtze Nehri",
+      "Huang He",
+      "Mekong Nehri",
+      "Pearl Nehri"
+    ],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  },
+    {
+    "id": "online_q_13_11",
+    "question": "İlk Çağ’da İpek Yolu’nun en önemli ticaret merkezlerinden biri olan Petra hangi medeniyete aittir?",
+    "options": [
+      "Partlar",
+      "Nabatiler",
+      "Lidyalılar",
+      "Persler"
+    ],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  }
   ],
-  "totalQuestions": 130,
+  "totalQuestions": 132,
   "lastUpdated": "2025-08-23",
   "description": "Online sorular - Her seviye için 10'ar tane, offline sorulardan tamamen farklı"
 }
