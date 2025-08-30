@@ -520,14 +520,16 @@
       "level": 4,
       "prize": 90000
     }
+   {
+  "questions": [
     {
       "id": "online_q_5_0",
-      "question": "Fransa'nın başkenti neresidir?",
+      "question": "İslam'da hac ibadetinin merkezi olan şehir hangisidir?",
       "options": [
-        "Londra",
-        "Paris",
-        "Berlin",
-        "Roma"
+        "Medine",
+        "Mekke",
+        "Kudüs",
+        "Riyad"
       ],
       "correctAnswer": 1,
       "level": 5,
@@ -535,12 +537,12 @@
     },
     {
       "id": "online_q_5_1",
-      "question": "Telefonun mucidi kimdir?",
+      "question": "Felsefede 'Cogito, ergo sum' (Düşünüyorum, öyleyse varım) sözünü kim söylemiştir?",
       "options": [
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "Nikola Tesla",
-        "Guglielmo Marconi"
+        "Immanuel Kant",
+        "René Descartes",
+        "John Locke",
+        "Baruch Spinoza"
       ],
       "correctAnswer": 1,
       "level": 5,
@@ -548,25 +550,25 @@
     },
     {
       "id": "online_q_5_2",
-      "question": "İtalya'nın başkenti neresidir?",
+      "question": "Hangi ülke, dünyadaki en küçük bağımsız devlet olarak kabul edilir?",
       "options": [
-        "Milano",
-        "Venedik",
-        "Roma",
-        "Floransa"
+        "Monako",
+        "Vatikan",
+        "San Marino",
+        "Liechtenstein"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "id": "online_q_5_3",
-      "question": "Ampulün mucidi kimdir?",
+      "question": "Hukukta 'Habeas Corpus' neyi ifade eder?",
       "options": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Benjamin Franklin"
+        "Suçun kanıtlanması",
+        "Haksız yere tutuklamaya karşı koruma",
+        "Mahkeme celbi",
+        "Ceza indirimi"
       ],
       "correctAnswer": 1,
       "level": 5,
@@ -574,25 +576,25 @@
     },
     {
       "id": "online_q_5_4",
-      "question": "Almanya'nın başkenti neresidir?",
+      "question": "Tıpta ilk başarılı organ nakli hangi organdır?",
       "options": [
-        "Münih",
-        "Hamburg",
-        "Berlin",
-        "Frankfurt"
+        "Karaciğer",
+        "Böbrek",
+        "Kalp",
+        "Akciğer"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "id": "online_q_5_5",
-      "question": "Radyonun mucidi kimdir?",
+      "question": "Biyolojide 'mitoz' hangi süreci ifade eder?",
       "options": [
-        "Guglielmo Marconi",
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "Nikola Tesla"
+        "Hücre bölünmesi",
+        "Hücre solunumu",
+        "Protein sentezi",
+        "DNA replikasyonu"
       ],
       "correctAnswer": 0,
       "level": 5,
@@ -600,38 +602,38 @@
     },
     {
       "id": "online_q_5_6",
-      "question": "İspanya'nın başkenti neresidir?",
+      "question": "Tiyatroda 'absürt tiyatro' türünün öncüsü olarak kabul edilen yazar kimdir?",
       "options": [
-        "Barselona",
-        "Madrid",
-        "Valencia",
-        "Sevilla"
-      ],
-      "correctAnswer": 1,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "id": "online_q_5_7",
-      "question": "Televizyonun mucidi kimdir?",
-      "options": [
-        "John Logie Baird",
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "Guglielmo Marconi"
+        "Samuel Beckett",
+        "Bertolt Brecht",
+        "Anton Çehov",
+        "Henrik Ibsen"
       ],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
-      "id": "online_q_5_8",
-      "question": "Portekiz'in başkenti neresidir?",
+      "id": "online_q_5_7",
+      "question": "Hangi film, 1994 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
-        "Porto",
-        "Lizbon",
-        "Faro",
-        "Braga"
+        "Pulp Fiction",
+        "Forrest Gump",
+        "The Shawshank Redemption",
+        "Speed"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "id": "online_q_5_8",
+      "question": "Hangi din, Nirvana’ya ulaşmayı nihai hedef olarak görür?",
+      "options": [
+        "Hinduizm",
+        "Budizm",
+        "Sihizm",
+        "Jainizm"
       ],
       "correctAnswer": 1,
       "level": 5,
@@ -639,38 +641,38 @@
     },
     {
       "id": "online_q_5_9",
-      "question": "Bilgisayarın mucidi kimdir?",
+      "question": "Genel kültürde, UNESCO Dünya Mirası Listesi’nde yer alan ilk Türk eseri hangisidir?",
       "options": [
-        "Alan Turing",
-        "Charles Babbage",
-        "John von Neumann",
-        "Konrad Zuse"
+        "Ayasofya",
+        "Topkapı Sarayı",
+        "Divriği Ulu Camii ve Darüşşifası",
+        "Efes Antik Kenti"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
     {
       "id": "online_q_6_0",
-      "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+      "question": "Hristiyanlıkta 'Havari' olarak bilinen 12 kişi, kimin öğrencileriydi?",
       "options": [
-        "Osman Bey",
-        "Orhan Bey",
-        "Murat Bey",
-        "Bayezid Bey"
+        "Pavlus",
+        "İsa",
+        "Yuhanna",
+        "Petrus"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "id": "online_q_6_1",
-      "question": "İstanbul'un fethedildiği yıl hangisidir?",
+      "question": "Felsefede 'Kategorik Imperatif' kavramını kim geliştirmiştir?",
       "options": [
-        "1453",
-        "1454",
-        "1452",
-        "1455"
+        "Immanuel Kant",
+        "Friedrich Nietzsche",
+        "Jean-Jacques Rousseau",
+        "David Hume"
       ],
       "correctAnswer": 0,
       "level": 6,
@@ -678,12 +680,12 @@
     },
     {
       "id": "online_q_6_2",
-      "question": "Kurtuluş Savaşı hangi yılda başladı?",
+      "question": "Hukukta, uluslararası anlaşmaların üstünlüğünü savunan ilke nedir?",
       "options": [
-        "1919",
-        "1920",
-        "1921",
-        "1922"
+        "Monizm",
+        "Düalizm",
+        "Süpremasi",
+        "Normativizm"
       ],
       "correctAnswer": 0,
       "level": 6,
@@ -691,25 +693,25 @@
     },
     {
       "id": "online_q_6_3",
-      "question": "Cumhuriyet hangi yılda ilan edildi?",
+      "question": "Tıpta, kan dolaşımını ilk kez doğru şekilde tanımlayan bilim insanı kimdir?",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "William Harvey",
+        "Andreas Vesalius",
+        "Galen",
+        "Hippokrates"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "id": "online_q_6_4",
-      "question": "TBMM hangi yılda açıldı?",
+      "question": "Biyolojide, 'homeostazis' neyi ifade eder?",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "Vücudun iç dengesini koruma",
+        "Hücre bölünmesi",
+        "Genetik mutasyon",
+        "Hormon salgılama"
       ],
       "correctAnswer": 0,
       "level": 6,
@@ -717,25 +719,25 @@
     },
     {
       "id": "online_q_6_5",
-      "question": "Lozan Antlaşması hangi yılda imzalandı?",
+      "question": "Tiyatroda, 'Kral Oidipus' tragedyisinin yazarı kimdir?",
       "options": [
-        "1922",
-        "1923",
-        "1924",
-        "1925"
+        "Sophokles",
+        "Aiskhylos",
+        "Euripides",
+        "Aristophanes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "id": "online_q_6_6",
-      "question": "Atatürk hangi yılda vefat etti?",
+      "question": "Hangi film, 2019 yılında Cannes Film Festivali’nde Altın Palmiye kazanmıştır?",
       "options": [
-        "1936",
-        "1937",
-        "1938",
-        "1939"
+        "Joker",
+        "Once Upon a Time in Hollywood",
+        "Parasite",
+        "1917"
       ],
       "correctAnswer": 2,
       "level": 6,
@@ -743,25 +745,25 @@
     },
     {
       "id": "online_q_6_7",
-      "question": "Çanakkale Savaşı hangi yıllar arasında gerçekleşti?",
+      "question": "Hinduizm’de, evrenin yaratıcısı olarak kabul edilen tanrı kimdir?",
       "options": [
-        "1914-1915",
-        "1915-1916",
-        "1916-1917",
-        "1917-1918"
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Krishna"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
     {
       "id": "online_q_6_8",
-      "question": "Sakarya Savaşı hangi yılda gerçekleşti?",
+      "question": "Genel kültürde, dünyanın yedi harikasından biri olan Babil’in Asma Bahçeleri hangi ülkededir?",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "Mısır",
+        "Irak",
+        "Suriye",
+        "İran"
       ],
       "correctAnswer": 1,
       "level": 6,
@@ -769,25 +771,25 @@
     },
     {
       "id": "online_q_6_9",
-      "question": "Büyük Taarruz hangi yılda gerçekleşti?",
+      "question": "Hukukta, 'Medeni Kanun' hangi alanda düzenlemeler yapar?",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "Ceza hukuku",
+        "Aile ve miras hukuku",
+        "Ticaret hukuku",
+        "İdare hukuku"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "id": "online_q_7_0",
-      "question": "I. Dünya Savaşı hangi yılda başladı?",
+      "question": "Yahudilikte kutsal kabul edilen Tevrat’ın kaç kitabı vardır?",
       "options": [
-        "1914",
-        "1915",
-        "1916",
-        "1917"
+        "5",
+        "10",
+        "12",
+        "24"
       ],
       "correctAnswer": 0,
       "level": 7,
@@ -795,38 +797,38 @@
     },
     {
       "id": "online_q_7_1",
-      "question": "II. Dünya Savaşı hangi yılda başladı?",
+      "question": "Felsefede, 'Übermensch' (üstinsan) kavramını kim ortaya atmıştır?",
       "options": [
-        "1939",
-        "1940",
-        "1941",
-        "1942"
+        "Søren Kierkegaard",
+        "Friedrich Nietzsche",
+        "Martin Heidegger",
+        "Jean-Paul Sartre"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_7_2",
-      "question": "Fransız Devrimi hangi yılda gerçekleşti?",
+      "question": "Hukukta, 'Lahey Adalet Divanı' hangi kuruluşun ana yargı organıdır?",
       "options": [
-        "1789",
-        "1790",
-        "1791",
-        "1792"
+        "NATO",
+        "Birleşmiş Milletler",
+        "Avrupa Birliği",
+        "Uluslararası Ceza Mahkemesi"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_7_3",
-      "question": "Amerikan Bağımsızlık Savaşı hangi yılda başladı?",
+      "question": "Tıpta, insülin hormonunu keşfeden bilim insanları kimlerdir?",
       "options": [
-        "1775",
-        "1776",
-        "1777",
-        "1778"
+        "Banting ve Best",
+        "Fleming ve Chain",
+        "Watson ve Crick",
+        "Jenner ve Pasteur"
       ],
       "correctAnswer": 0,
       "level": 7,
@@ -834,12 +836,12 @@
     },
     {
       "id": "online_q_7_4",
-      "question": "Rönesans nerede başladı?",
+      "question": "Biyolojide, 'ekosistem' kavramını ilk kez kim tanımlamıştır?",
       "options": [
-        "Fransa",
-        "İtalya",
-        "Almanya",
-        "İngiltere"
+        "Charles Darwin",
+        "Arthur Tansley",
+        "Gregor Mendel",
+        "Alexander von Humboldt"
       ],
       "correctAnswer": 1,
       "level": 7,
@@ -847,12 +849,12 @@
     },
     {
       "id": "online_q_7_5",
-      "question": "Soğuk Savaş hangi yılda başladı?",
+      "question": "Tiyatroda, 'Brecht Epik Tiyatrosu'nun kurucusu kimdir?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Bertolt Brecht",
+        "Stanislavski",
+        "Samuel Beckett",
+        "Anton Çehov"
       ],
       "correctAnswer": 0,
       "level": 7,
@@ -860,116 +862,116 @@
     },
     {
       "id": "online_q_7_6",
-      "question": "Berlin Duvarı hangi yılda yıkıldı?",
+      "question": "Hangi film, 2000 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
+        "Gladiator",
+        "Crouching Tiger, Hidden Dragon",
+        "Erin Brockovich",
+        "Traffic"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_7_7",
-      "question": "Sovyetler Birliği hangi yılda dağıldı?",
+      "question": "İslam’da, Kur’an-ı Kerim’in ilk vahiy aldığı yer neresidir?",
       "options": [
-        "1989",
-        "1990",
-        "1991",
-        "1992"
+        "Hira Mağarası",
+        "Kâbe",
+        "Mescid-i Nebevi",
+        "Kudüs"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_7_8",
-      "question": "Vietnam Savaşı hangi yılda bitti?",
+      "question": "Genel kültürde, Machu Picchu hangi ülkede yer alır?",
       "options": [
-        "1973",
-        "1974",
-        "1975",
-        "1976"
+        "Meksika",
+        "Peru",
+        "Bolivya",
+        "Kolombiya"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_7_9",
-      "question": "Kore Savaşı hangi yılda başladı?",
+      "question": "Hukukta, 'Magna Carta' hangi yılda imzalanmıştır?",
       "options": [
-        "1948",
-        "1949",
-        "1950",
-        "1951"
+        "1215",
+        "1225",
+        "1235",
+        "1245"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 7,
       "prize": 600000
     },
     {
       "id": "online_q_8_0",
-      "question": "Yerçekimi kanununu keşfeden bilim insanı kimdir?",
+      "question": "Hristiyanlıkta, 'Kutsal Üçlü' (Teslis) inancını hangi mezhep reddeder?",
       "options": [
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler",
-        "Nicolaus Copernicus"
-      ],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "id": "online_q_8_1",
-      "question": "Görelilik teorisinin mucidi kimdir?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Max Planck"
-      ],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "id": "online_q_8_2",
-      "question": "İlk uyduyu uzaya gönderen ülke hangisidir?",
-      "options": [
-        "Amerika",
-        "Sovyetler Birliği",
-        "Çin",
-        "Japonya"
-      ],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "id": "online_q_8_3",
-      "question": "İlk insanın aya ayak basması hangi yılda gerçekleşti?",
-      "options": [
-        "1967",
-        "1968",
-        "1969",
-        "1970"
+        "Katoliklik",
+        "Ortodoksluk",
+        "Uniteryanizm",
+        "Protestanlık"
       ],
       "correctAnswer": 2,
       "level": 8,
       "prize": 800000
     },
     {
-      "id": "online_q_8_4",
-      "question": "DNA'nın çift sarmal yapısını keşfeden bilim insanları kimlerdir?",
+      "id": "online_q_8_1",
+      "question": "Felsefede, 'Fenomenoloji' akımının kurucusu kimdir?",
       "options": [
-        "Watson ve Crick",
-        "Franklin ve Wilkins",
-        "Chargaff ve Pauling",
-        "Meselson ve Stahl"
+        "Edmund Husserl",
+        "Martin Heidegger",
+        "Jean-Paul Sartre",
+        "Maurice Merleau-Ponty"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "id": "online_q_8_2",
+      "question": "Hukukta, 'Nürnberg Mahkemeleri' hangi suçları yargılamak için kurulmuştur?",
+      "options": [
+        "Savaş suçları",
+        "Ticaret suçları",
+        "Çevre suçları",
+        "Fikri mülkiyet suçları"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "id": "online_q_8_3",
+      "question": "Tıpta, X-ışınlarını keşfeden bilim insanı kimdir?",
+      "options": [
+        "Wilhelm Röntgen",
+        "Marie Curie",
+        "Max von Laue",
+        "Paul Ehrlich"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "id": "online_q_8_4",
+      "question": "Biyolojide, genetik kalıtımın temel kurallarını kim keşfetmiştir?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Thomas Morgan",
+        "Alfred Wallace"
       ],
       "correctAnswer": 0,
       "level": 8,
@@ -977,25 +979,25 @@
     },
     {
       "id": "online_q_8_5",
-      "question": "İlk bilgisayarın mucidi kimdir?",
+      "question": "Tiyatroda, 'Stanislavski Sistemi'ni geliştiren Rus yönetmen kimdir?",
       "options": [
-        "Alan Turing",
-        "Charles Babbage",
-        "John von Neumann",
-        "Konrad Zuse"
+        "Konstantin Stanislavski",
+        "Vsevolod Meyerhold",
+        "Antonin Artaud",
+        "Jerzy Grotowski"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 8,
       "prize": 800000
     },
     {
       "id": "online_q_8_6",
-      "question": "İlk web tarayıcısını geliştiren bilim insanı kimdir?",
+      "question": "Hangi film, 1972 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
-        "Tim Berners-Lee",
-        "Marc Andreessen",
-        "Bill Gates",
-        "Steve Jobs"
+        "The Godfather",
+        "Cabaret",
+        "The French Connection",
+        "A Clockwork Orange"
       ],
       "correctAnswer": 0,
       "level": 8,
@@ -1003,12 +1005,12 @@
     },
     {
       "id": "online_q_8_7",
-      "question": "İlk antibiyotiği keşfeden bilim insanı kimdir?",
+      "question": "Budizm’de, 'Dört Soylu Gerçek' hangi kavramla ilişkilidir?",
       "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Robert Koch",
-        "Edward Jenner"
+        "Karma",
+        "Dharma",
+        "Nirvana",
+        "Samsara"
       ],
       "correctAnswer": 1,
       "level": 8,
@@ -1016,12 +1018,12 @@
     },
     {
       "id": "online_q_8_8",
-      "question": "İlk aşıyı geliştiren bilim insanı kimdir?",
+      "question": "Genel kültürde, Chichen Itza hangi medeniyete aittir?",
       "options": [
-        "Louis Pasteur",
-        "Edward Jenner",
-        "Robert Koch",
-        "Alexander Fleming"
+        "Aztek",
+        "Maya",
+        "İnka",
+        "Olmec"
       ],
       "correctAnswer": 1,
       "level": 8,
@@ -1029,25 +1031,25 @@
     },
     {
       "id": "online_q_8_9",
-      "question": "İlk nükleer reaktörü geliştiren bilim insanı kimdir?",
+      "question": "Hukukta, 'Napolyon Kanunları' hangi alanda etkili olmuştur?",
       "options": [
-        "Enrico Fermi",
-        "Robert Oppenheimer",
-        "Niels Bohr",
-        "Ernest Rutherford"
+        "Ceza hukuku",
+        "Medeni hukuk",
+        "Ticaret hukuku",
+        "İdare hukuku"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "id": "online_q_9_0",
-      "question": "'Çalıkuşu' romanının yazarı kimdir?",
+      "question": "'Mai ve Siyah' romanının yazarı kimdir?",
       "options": [
-        "Reşat Nuri Güntekin",
-        "Halide Edip Adıvar",
-        "Yakup Kadri Karaosmanoğlu",
-        "Ömer Seyfettin"
+        "Halit Ziya Uşaklıgil",
+        "Namık Kemal",
+        "Ahmet Hamdi Tanpınar",
+        "Recaizade Mahmut Ekrem"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1055,12 +1057,12 @@
     },
     {
       "id": "online_q_9_1",
-      "question": "'Sefiller' romanının yazarı kimdir?",
+      "question": "'Sefalet' (Les Misérables) romanında Jean Valjean hangi suçtan dolayı hapse girer?",
       "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
+        "Hırsızlık",
+        "Cinayet",
+        "Dolandırıcılık",
+        "Kaçakçılık"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1068,25 +1070,25 @@
     },
     {
       "id": "online_q_9_2",
-      "question": "'Suç ve Ceza' romanının yazarı kimdir?",
+      "question": "'Suç ve Ceza' romanında Raskolnikov’un işlediği suç nedir?",
       "options": [
-        "Fyodor Dostoyevski",
-        "Lev Tolstoy",
-        "Anton Çehov",
-        "Nikolay Gogol"
+        "Hırsızlık",
+        "Cinayet",
+        "Sahtecilik",
+        "Kaçakçılık"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "id": "online_q_9_3",
-      "question": "'Kürk Mantolu Madonna' romanının yazarı kimdir?",
+      "question": "'Aşk-ı Memnu' romanının yazarı kimdir?",
       "options": [
-        "Sabahattin Ali",
+        "Halit Ziya Uşaklıgil",
         "Reşat Nuri Güntekin",
-        "Halide Edip Adıvar",
-        "Yakup Kadri Karaosmanoğlu"
+        "Yakup Kadri Karaosmanoğlu",
+        "Peyami Safa"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1094,12 +1096,12 @@
     },
     {
       "id": "online_q_9_4",
-      "question": "'Don Kişot' romanının yazarı kimdir?",
+      "question": "'Don Kişot' romanında baş karakterin hayali düşmanı nedir?",
       "options": [
-        "Miguel de Cervantes",
-        "Gabriel García Márquez",
-        "Pablo Neruda",
-        "Federico García Lorca"
+        "Devler",
+        "Ejderhalar",
+        "Şövalyeler",
+        "Korsanlar"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1107,12 +1109,12 @@
     },
     {
       "id": "online_q_9_5",
-      "question": "'Küçük Prens' eserinin yazarı kimdir?",
+      "question": "'Küçük Prens' eserinde Küçük Prens’in gezegeni hangisidir?",
       "options": [
-        "Antoine de Saint-Exupéry",
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "André Gide"
+        "B-612",
+        "A-101",
+        "C-303",
+        "D-404"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1120,12 +1122,12 @@
     },
     {
       "id": "online_q_9_6",
-      "question": "'Tutunamayanlar' romanının yazarı kimdir?",
+      "question": "'Anayurt Oteli' romanının yazarı kimdir?",
       "options": [
+        "Yusuf Atılgan",
         "Oğuz Atay",
         "Orhan Pamuk",
-        "Yaşar Kemal",
-        "Kemal Tahir"
+        "Yaşar Kemal"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1133,12 +1135,12 @@
     },
     {
       "id": "online_q_9_7",
-      "question": "'1984' romanının yazarı kimdir?",
+      "question": "'Cesur Yeni Dünya' (Brave New World) romanının yazarı kimdir?",
       "options": [
-        "George Orwell",
         "Aldous Huxley",
+        "George Orwell",
         "Ray Bradbury",
-        "Kurt Vonnegut"
+        "H.G. Wells"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1146,12 +1148,12 @@
     },
     {
       "id": "online_q_9_8",
-      "question": "'Yabancı' romanının yazarı kimdir?",
+      "question": "'Veba' (The Plague) romanının yazarı kimdir?",
       "options": [
         "Albert Camus",
         "Jean-Paul Sartre",
-        "André Gide",
-        "Marcel Proust"
+        "Sim workbenchone de Beauvoir",
+        "André Malraux"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1159,12 +1161,12 @@
     },
     {
       "id": "online_q_9_9",
-      "question": "'Karamazov Kardeşler' romanının yazarı kimdir?",
+      "question": "'Anna Karenina' romanının yazarı kimdir?",
       "options": [
-        "Fyodor Dostoyevski",
         "Lev Tolstoy",
+        "Fyodor Dostoyevski",
         "Anton Çehov",
-        "Nikolay Gogol"
+        "İvan Turgenev"
       ],
       "correctAnswer": 0,
       "level": 9,
@@ -1172,12 +1174,12 @@
     },
     {
       "id": "online_q_10_0",
-      "question": "'Titanic' filminin yönetmeni kimdir?",
+      "question": "'Yol' filminin yönetmeni kimdir?",
       "options": [
-        "James Cameron",
-        "Steven Spielberg",
-        "George Lucas",
-        "Christopher Nolan"
+        "Yılmaz Güney",
+        "Zeki Demirkubuz",
+        "Nuri Bilge Ceylan",
+        "Fatih Akın"
       ],
       "correctAnswer": 0,
       "level": 10,
@@ -1185,259 +1187,259 @@
     },
     {
       "id": "online_q_10_1",
-      "question": "'Romeo ve Juliet' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Antigone' tragedyisinin yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Sophokles",
+        "Euripides",
+        "Aiskhylos",
+        "Aristophanes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_2",
-      "question": "'Hamlet' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Faust' eserinin yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Henrik Ibsen",
+        "August Strindberg"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_3",
-      "question": "'Macbeth' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Cimri' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Victor Hugo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_4",
-      "question": "'Othello' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Üç Kız Kardeş' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Anton Çehov",
+        "Maxim Gorki",
+        "Henrik Ibsen",
+        "August Strindberg"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_5",
-      "question": "'Kral Lear' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Hedda Gabler' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Henrik Ibsen",
+        "August Strindberg",
+        "Anton Çehov",
+        "George Bernard Shaw"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_6",
-      "question": "'Fırtına' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Cyrano de Bergerac' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Edmond Rostand",
+        "Victor Hugo",
+        "Jean Racine",
+        "Molière"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_7",
-      "question": "'Venedik Taciri' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Martı' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Anton Çehov",
+        "Maxim Gorki",
+        "Henrik Ibsen",
+        "August Strindberg"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_8",
-      "question": "'Hırçın Kız' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Pygmalion' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "George Bernard Shaw",
+        "Henrik Ibsen",
+        "Anton Çehov",
+        "August Strindberg"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_10_9",
-      "question": "'On İkinci Gece' oyununun yazarı kimdir?",
+      "question": "Tiyatroda, 'Vanya Dayı' oyununun yazarı kimdir?",
       "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "Ben Jonson",
-        "John Webster"
+        "Anton Çehov",
+        "Maxim Gorki",
+        "Henrik Ibsen",
+        "August Strindberg"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "id": "online_q_11_0",
-      "question": "'Mona Lisa' tablosunun ressamı kimdir?",
+      "question": "'Yıldızlı Gece' tablosunun ressamı kimdir?",
       "options": [
-        "Michelangelo",
-        "Leonardo da Vinci",
-        "Raphael",
-        "Botticelli"
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Paul Cézanne",
+        "Pierre-Auguste Renoir"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_1",
-      "question": "'Sistine Şapeli' freskinin ressamı kimdir?",
+      "question": "'Guernica' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Raphael",
-        "Botticelli"
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Diego Rivera"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_2",
-      "question": "'Son Akşam Yemeği' freskinin ressamı kimdir?",
+      "question": "'Son Yargı' freskinin ressamı kimdir?",
       "options": [
         "Michelangelo",
         "Leonardo da Vinci",
         "Raphael",
-        "Botticelli"
+        "Titian"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_3",
-      "question": "'Venüs'ün Doğuşu' tablosunun ressamı kimdir?",
+      "question": "'Naber Çiçekleri' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Botticelli",
-        "Raphael"
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Gauguin",
+        "Mary Cassatt"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_4",
-      "question": "'Atina Okulu' freskinin ressamı kimdir?",
+      "question": "'Çığlık' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Raphael",
-        "Botticelli"
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Wassily Kandinsky"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_5",
-      "question": "'Davut Heykeli'ni yapan heykeltıraş kimdir?",
+      "question": "'Belşazzar’ın Ziyafeti' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Donatello",
-        "Bernini"
+        "Rembrandt",
+        "Caravaggio",
+        "Jan Vermeer",
+        "Peter Paul Rubens"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_6",
-      "question": "'Pieta' heykelinin heykeltıraşı kimdir?",
+      "question": "'Öpücük' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Donatello",
-        "Bernini"
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Wassily Kandinsky",
+        "Marc Chagall"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_7",
-      "question": "'Vitruvius Adamı' çiziminin sanatçısı kimdir?",
+      "question": "'Kızıl Üzüm Bağı' tablosunun ressamı kimdir?",
       "options": [
-        "Michelangelo",
-        "Leonardo da Vinci",
-        "Raphael",
-        "Botticelli"
+        "Isaac Levitan",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Pierre-Auguste Renoir"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_8",
-      "question": "'Sistine Madonna' tablosunun ressamı kimdir?",
+      "question": "'Kuzey Işıkları' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Raphael",
-        "Botticelli"
+        "Frederic Edwin Church",
+        "John Singer Sargent",
+        "Thomas Cole",
+        "Albert Bierstadt"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_11_9",
-      "question": "'Primavera' tablosunun ressamı kimdir?",
+      "question": "'Ayçiçeği' tablosunun ressamı kimdir?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Botticelli",
-        "Raphael"
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Paul Gauguin",
+        "Mary Cassatt"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "id": "online_q_12_0",
-      "question": "'Bildiğim tek şey hiçbir şey bilmediğimdir' sözü kime aittir?",
+      "question": "İslam’da, 'Kadir Gecesi' hangi ayda kutlanır?",
       "options": [
-        "Platon",
-        "Sokrates",
-        "Aristoteles",
-        "Herakleitos"
+        "Şaban",
+        "Ramazan",
+        "Zilhicce",
+        "Receb"
       ],
       "correctAnswer": 1,
       "level": 12,
@@ -1445,38 +1447,38 @@
     },
     {
       "id": "online_q_12_1",
-      "question": "Sokrates hangi felsefeyle ünlüdür?",
+      "question": "Felsefede, 'Pragmatizm' akımının öncüsü kimdir?",
       "options": [
-        "Stoacılık",
-        "Sokratik Yöntem",
-        "Epikürizm",
-        "Platonizm"
-      ],
-      "correctAnswer": 1,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "id": "online_q_12_2",
-      "question": "Varoluşçuluk felsefesinin öncüsü kimdir?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "Søren Kierkegaard",
-        "Friedrich Nietzsche"
+        "William James",
+        "John Dewey",
+        "Charles Peirce",
+        "Richard Rorty"
       ],
       "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
     {
-      "id": "online_q_12_3",
-      "question": "'İlahi Komedya' eserinin yazarı kimdir?",
+      "id": "online_q_12_2",
+      "question": "Hukukta, 'Hammurabi Kanunları' hangi medeniyete aittir?",
       "options": [
-        "Dante Alighieri",
-        "Giovanni Boccaccio",
-        "Francesco Petrarca",
-        "Niccolò Machiavelli"
+        "Sümer",
+        "Babil",
+        "Asur",
+        "Hitit"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "id": "online_q_12_3",
+      "question": "Tıpta, ilk kalp pili hangi yılda kullanıldı?",
+      "options": [
+        "1958",
+        "1960",
+        "1962",
+        "1964"
       ],
       "correctAnswer": 0,
       "level": 12,
@@ -1484,25 +1486,25 @@
     },
     {
       "id": "online_q_12_4",
-      "question": "Güneş merkezli evren modelini öneren bilim insanı kimdir?",
+      "question": "Biyolojide, 'CRISPR' teknolojisi neyi ifade eder?",
       "options": [
-        "Galileo Galilei",
-        "Nicolaus Copernicus",
-        "Johannes Kepler",
-        "Isaac Newton"
+        "Gen düzenleme",
+        "Protein sentezi",
+        "Hücre bölünmesi",
+        "Antikor üretimi"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "id": "online_q_12_5",
-      "question": "İlk periyodik tabloyu oluşturan bilim insanı kimdir?",
+      "question": "Tiyatroda, 'Altı Kişi Yazarını Arıyor' oyununun yazarı kimdir?",
       "options": [
-        "Dmitri Mendeleev",
-        "Antoine Lavoisier",
-        "John Dalton",
-        "Robert Boyle"
+        "Luigi Pirandello",
+        "Dario Fo",
+        "Eugene Ionesco",
+        "Jean Genet"
       ],
       "correctAnswer": 0,
       "level": 12,
@@ -1510,25 +1512,25 @@
     },
     {
       "id": "online_q_12_6",
-      "question": "İlk mikroskobu geliştiren bilim insanı kimdir?",
+      "question": "Hangi film, 2020 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
-        "Antonie van Leeuwenhoek",
-        "Robert Hooke",
-        "Zacharias Janssen",
-        "Galileo Galilei"
+        "Joker",
+        "1917",
+        "Parasite",
+        "Ford v Ferrari"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
     {
       "id": "online_q_12_7",
-      "question": "İlk teleskopu geliştiren bilim insanı kimdir?",
+      "question": "Hinduizm’de, kutsal metinlerden 'Bhagavad Gita' hangi destanın parçasıdır?",
       "options": [
-        "Galileo Galilei",
-        "Hans Lippershey",
-        "Johannes Kepler",
-        "Isaac Newton"
+        "Ramayana",
+        "Mahabharata",
+        "Veda",
+        "Upanişad"
       ],
       "correctAnswer": 1,
       "level": 12,
@@ -1536,30 +1538,30 @@
     },
     {
       "id": "online_q_12_8",
-      "question": "İlk atom bombasını geliştiren proje hangisidir?",
+      "question": "Genel kültürde, Angkor Wat hangi ülkede bulunur?",
       "options": [
-        "Manhattan Projesi",
-        "Apollo Projesi",
-        "Gemini Projesi",
-        "Mercury Projesi"
+        "Tayland",
+        "Kamboçya",
+        "Vietnam",
+        "Laos"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "id": "online_q_12_9",
-      "question": "İlk uzay yürüyüşü hangi yılda gerçekleşti?",
+      "question": "Hukukta, 'Justinian Kanunları' hangi imparatorlukta uygulanmıştır?",
       "options": [
-        "1963",
-        "1964",
-        "1965",
-        "1966"
+        "Roma İmparatorluğu",
+        "Bizans İmparatorluğu",
+        "Osmanlı İmparatorluğu",
+        "Kutsal Roma İmparatorluğu"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
-    },
+    }
     {
       "id": "online_q_13_0",
       "question": "Kuantum fiziğinin kurucusu kimdir?",
