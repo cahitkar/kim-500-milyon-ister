@@ -130,40 +130,40 @@
       "level": 1,
       "prize": 5000
     },
-    {
+   {
       "id": "online_q_2_0",
-      "question": "Türkiye'nin en yüksek dağı hangisidir?",
+      "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
       "options": [
-        "Ağrı Dağı",
         "Erciyes Dağı",
-        "Uludağ",
-        "Kaçkar Dağı"
+        "Kaçkar Dağı",
+        "Süphan Dağı",
+        "Cilo Dağı"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "id": "online_q_2_1",
-      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "question": "Hangi göl Türkiye’nin en derin gölüdür?",
       "options": [
-        "Van Gölü",
-        "Tuz Gölü",
-        "Beyşehir Gölü",
-        "İznik Gölü"
+        "Salda Gölü",
+        "Çıldır Gölü",
+        "Hazar Gölü",
+        "Van Gölü"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
       "id": "online_q_2_2",
-      "question": "Türkiye'nin en uzun nehri hangisidir?",
+      "question": "Hangi nehir Türkiye’de doğup Karadeniz’e dökülür?",
       "options": [
-        "Kızılırmak",
-        "Fırat",
-        "Dicle",
-        "Sakarya"
+        "Yeşilırmak",
+        "Meriç",
+        "Gediz",
+        "Seyhan"
       ],
       "correctAnswer": 0,
       "level": 2,
@@ -171,12 +171,12 @@
     },
     {
       "id": "online_q_2_3",
-      "question": "Hangi il Akdeniz Bölgesi'nde yer almaz?",
+      "question": "Hangi il Marmara Bölgesi’nde yer almaz?",
       "options": [
-        "Antalya",
-        "Mersin",
-        "Adana",
-        "Trabzon"
+        "Bursa",
+        "Kocaeli",
+        "Balıkesir",
+        "Mardin"
       ],
       "correctAnswer": 3,
       "level": 2,
@@ -184,11 +184,11 @@
     },
     {
       "id": "online_q_2_4",
-      "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "question": "Türkiye’nin en büyük ikinci şehri hangisidir?",
       "options": [
-        "İstanbul",
         "Ankara",
         "İzmir",
+        "Adana",
         "Bursa"
       ],
       "correctAnswer": 0,
@@ -197,12 +197,12 @@
     },
     {
       "id": "online_q_2_5",
-      "question": "Hangi il Ege Bölgesi'nde yer alır?",
+      "question": "Hangi il Güneydoğu Anadolu Bölgesi’nde yer alır?",
       "options": [
-        "İzmir",
-        "Antalya",
-        "Trabzon",
-        "Konya"
+        "Diyarbakır",
+        "Aydın",
+        "Rize",
+        "Sivas"
       ],
       "correctAnswer": 0,
       "level": 2,
@@ -210,12 +210,12 @@
     },
     {
       "id": "online_q_2_6",
-      "question": "Türkiye'nin en doğusundaki il hangisidir?",
+      "question": "Hangi il Türkiye’nin en kuzeyindeki ildir?",
       "options": [
-        "Iğdır",
-        "Kars",
-        "Ağrı",
-        "Van"
+        "Sinop",
+        "Samsun",
+        "Ordu",
+        "Artvin"
       ],
       "correctAnswer": 0,
       "level": 2,
@@ -223,12 +223,12 @@
     },
     {
       "id": "online_q_2_7",
-      "question": "Hangi il Karadeniz Bölgesi'nde yer alır?",
+      "question": "Hangi il Doğu Anadolu Bölgesi’nde yer alır?",
       "options": [
-        "Trabzon",
-        "İzmir",
-        "Antalya",
-        "Konya"
+        "Erzurum",
+        "Manisa",
+        "Muğla",
+        "Denizli"
       ],
       "correctAnswer": 0,
       "level": 2,
@@ -236,12 +236,12 @@
     },
     {
       "id": "online_q_2_8",
-      "question": "Türkiye'nin en batısındaki il hangisidir?",
+      "question": "Hangi il Türkiye’nin en güneyindeki ildir?",
       "options": [
-        "Çanakkale",
-        "İzmir",
-        "Balıkesir",
-        "Edirne"
+        "Hatay",
+        "Mersin",
+        "Adana",
+        "Şanlıurfa"
       ],
       "correctAnswer": 0,
       "level": 2,
@@ -249,14 +249,14 @@
     },
     {
       "id": "online_q_2_9",
-      "question": "Hangi il İç Anadolu Bölgesi'nde yer alır?",
+      "question": "Hangi il Karadeniz Bölgesi’nde yer almaz?",
       "options": [
-        "Konya",
-        "İzmir",
-        "Trabzon",
-        "Antalya"
+        "Samsun",
+        "Ordu",
+        "Kayseri",
+        "Giresun"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
