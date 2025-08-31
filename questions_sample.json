@@ -169,6 +169,19 @@
       "level": 1,
       "prize": 5000
     },
+	  {
+      "id": "online_q_1_13",
+      "question": ""Ateşle oynamak' deyiminin anlamı hangi seçenekte verilmiştir?",
+	"options": [
+	"Ateşi sağa sola dağıtmak",
+	"Ateşin üzerinden atlamak",
+	"Tehlikeli bir işe girişmek",
+	"Birisiyle alay etmek"
+	],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
     {
       "id": "online_q_2_0",
       "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
