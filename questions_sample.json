@@ -147,11 +147,11 @@
       "id": "online_q_1_11",
       "question": "'Alın teri dökmek' deyiminin anlamı aşağıdakilerden hangisidir?",
 	"options": [
-        "Sıcakta çok terlemek",
+    "Sıcakta çok terlemek",
 	"Bir işle çok uğraşmak",
 	"Birine laf anlatmak",
 	"Sıcaktan bunalmak"
-      ],
+     ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
