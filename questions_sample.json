@@ -156,6 +156,19 @@
       "level": 1,
       "prize": 5000
     },
+	{
+      "id": "online_q_1_12",
+      "question": "Aşağıdaki cümlelerde geçen deyimlerin hangisinde özlem söz konusudur?",
+	"options": [
+	"Elinde avucunda bir şey kalmadı",
+	"Adanın temiz havası burnumda tütüyor",
+	"Onun adını çoktan defterden sildim",
+	"Duyduklarım karşısında kulaklarıma inanamadım"
+	],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
     {
       "id": "online_q_2_0",
       "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
