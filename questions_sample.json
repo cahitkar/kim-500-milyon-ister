@@ -1382,12 +1382,12 @@
       "id": "online_q_11_6",
       "question": "'Öpücük' tablosunun ressamı kimdir?",
       "options": [
-        "Gustav Klimt",
-        "Egon Schiele",
         "Wassily Kandinsky",
+        "Egon Schiele",
+        "Gustav Klimt",
         "Marc Chagall"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 11,
       "prize": 2000000
     },
@@ -1395,12 +1395,12 @@
       "id": "online_q_11_7",
       "question": "'Kızıl Üzüm Bağı' tablosunun ressamı kimdir?",
       "options": [
-        "Isaac Levitan",
         "Vincent van Gogh",
+        "Isaac Levitan",
         "Claude Monet",
         "Pierre-Auguste Renoir"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
@@ -1421,12 +1421,12 @@
       "id": "online_q_11_9",
       "question": "'Ayçiçeği' tablosunun ressamı kimdir?",
       "options": [
-        "Vincent van Gogh",
-        "Claude Monet",
         "Paul Gauguin",
+        "Claude Monet",
+        "Vincent van Gogh",
         "Mary Cassatt"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 11,
       "prize": 2000000
     },
@@ -1473,12 +1473,12 @@
       "id": "online_q_12_3",
       "question": "Tıpta, ilk kalp pili hangi yılda kullanıldı?",
       "options": [
+        "1952",
+        "1956",
         "1958",
-        "1960",
-        "1962",
         "1964"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
@@ -1486,12 +1486,12 @@
       "id": "online_q_12_4",
       "question": "Biyolojide, 'CRISPR' teknolojisi neyi ifade eder?",
       "options": [
-        "Gen düzenleme",
-        "Protein sentezi",
         "Hücre bölünmesi",
+        "Protein sentezi",
+        "Gen düzenleme",
         "Antikor üretimi"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
@@ -1499,12 +1499,12 @@
       "id": "online_q_12_5",
       "question": "Tiyatroda, 'Altı Kişi Yazarını Arıyor' oyununun yazarı kimdir?",
       "options": [
-        "Luigi Pirandello",
         "Dario Fo",
+        "Luigi Pirandello",
         "Eugene Ionesco",
         "Jean Genet"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
@@ -1590,12 +1590,12 @@
       "id": "online_q_13_2",
       "question": "Orta Çağ'da Haçlı Seferleri'nin başlamasına neden olan Clermont Konseyi hangi yılda düzenlenmiştir?",
       "options": [
+        "1055",
         "1095",
-        "1071",
         "1123",
         "1054"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
