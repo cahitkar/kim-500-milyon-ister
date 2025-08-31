@@ -144,6 +144,19 @@
       "prize": 5000
     },
     {
+      "id": "online_q_1_11",
+      "question": "'"Alın teri dökmek" deyiminin anlamı aşağıdakilerden hangisidir?
+	"options": [
+        "Sıcakta çok terlemek",
+	"Bir işle çok uğraşmak",
+	"Birine laf anlatmak",
+	"Sıcaktan bunalmak"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
       "id": "online_q_2_0",
       "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
       "options": [
@@ -1873,7 +1886,7 @@
       "prize": 5000000
     }
     ],
-  "totalQuestions": 144,
+  "totalQuestions": 145,
   "lastUpdated": "2025-08-23",
-  "description": "Online sorular - Her seviye için 11'er tane, offline sorulardan tamamen farklı"
+  "description": "Online sorular"
 }
