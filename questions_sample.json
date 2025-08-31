@@ -1705,14 +1705,14 @@
     },
     {
       "id": "online_q_12_10",
-      "question": "Hangi yıl Amerika Birleşik Devletleri bağımsızlığını ilan etmiştir?",
+      "question": "El-Cezerî’nin *Kitâb fî Maʿrifat al-Hiyal* eserinde hangi ilke modern otomasyona katkı sağlar?",
       "options": [
-        "1774",
-        "1776",
-        "1778",
-        "1780"
+        "Dişli mekanizmalar",
+        "Manyetik kuvvetler",
+        "Hidrolik ve pnömatik",
+        "Optik sistemler"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
