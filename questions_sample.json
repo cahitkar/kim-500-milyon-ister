@@ -702,16 +702,16 @@
       "level": 5,
       "prize": 200000
     },
-    {
+   {
       "id": "online_q_5_10",
-      "question": "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
+      "question": "Tüm metaller arasında en yüksek elektrik iletkenliğine sahip element hangisidir?",
       "options": [
-        "Flor",
-        "Demir",
-        "Fosfor",
-        "Fermiyum"
+        "Altın",
+        "Bakır",
+        "Gümüş",
+        "Alüminyum"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
@@ -845,16 +845,16 @@
       "level": 6,
       "prize": 400000
     },
-    {
+   {
       "id": "online_q_6_10",
-      "question": "Hangi gezegen Güneş Sistemi'nde en büyük gezegendir?",
+      "question": "Hangi klasik eserin yazarı Stendhal’dır?",
       "options": [
-        "Mars",
-        "Jüpiter",
-        "Satürn",
-        "Uranüs"
+        "Sefiller",
+        "Madame Bovary",
+        "Kızıl ve Kara",
+        "Vadideki Zambak"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
@@ -990,14 +990,14 @@
     },
     {
       "id": "online_q_7_10",
-      "question": "Hangi yıl İstanbul fethedilmiştir?",
+      "question": "Galatasaray’ın 2000 yılında UEFA Kupası’nı kazandığı final maçında kırmızı kart gören futbolcu kimdir?",
       "options": [
-        "1451",
-        "1453",
-        "1455",
-        "1457"
+        "Hakan Şükür",
+        "Bülent Korkmaz",
+        "Fatih Akyel",
+        "Ümit Davala"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "level": 7,
       "prize": 600000
     },
@@ -1133,12 +1133,12 @@
     },
     {
       "id": "online_q_8_10",
-      "question": "Hangi yıl Fransız Devrimi gerçekleşmiştir?",
+      "question": "Uhud Savaşı sırasında Hz. Peygamber’in amcası Hz. Hamza’yı şehit eden kişi kimdir?",
       "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
+        "Ebu Süfyan",
+        "Vahşi bin Harb",
+        "Hind bint Utbe",
+        "Amr bin As"
       ],
       "correctAnswer": 1,
       "level": 8,
@@ -1419,14 +1419,14 @@
     },
     {
       "id": "online_q_10_10",
-      "question": "Tiyatroda, 'Hamlet' oyununun yazarı kimdir?",
+      "question": "Fârâbî’nin 'el-Medînetü’l-Fâzıla' eserinde ideal devletin temel kavramı nedir?",
       "options": [
-        "William Shakespeare",
-        "Christopher Marlowe",
-        "Ben Jonson",
-        "John Webster"
+        "Bilgi",
+        "Adalet",
+        "Mutluluk",
+        "Güç"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 10,
       "prize": 1500000
     },
@@ -1562,14 +1562,14 @@
     },
     {
       "id": "online_q_11_10",
-      "question": "'Mona Lisa' tablosunun ressamı kimdir?",
+      "question": "İbn Sînâ’nın 'eş-Şifâʾ' eserinde varlık ve mahiyet ayrımı neyi açıklar?",
       "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Raphael",
-        "Titian"
+        "Tanrı’nın özü",
+        "Zorunlu Varlık",
+        "Ahlaki ilkeler",
+        "Evrenin başlangıcı"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
@@ -1859,20 +1859,7 @@
       "level": 13,
       "prize": 5000000
     },
-    {
-      "id": "online_q_13_11",
-      "question": "İlk Çağ’da İpek Yolu’nun en önemli ticaret merkezlerinden biri olan Petra hangi medeniyete aittir?",
-      "options": [
-        "Partlar",
-        "Nabatiler",
-        "Lidyalılar",
-        "Persler"
-      ],
-      "correctAnswer": 1,
-      "level": 13,
-      "prize": 5000000
-    }
-  ],
+    ],
   "totalQuestions": 143,
   "lastUpdated": "2025-08-23",
   "description": "Online sorular - Her seviye için 11'er tane, offline sorulardan tamamen farklı"
