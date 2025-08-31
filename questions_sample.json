@@ -693,12 +693,12 @@
       "id": "online_q_6_3",
       "question": "Tıpta, kan dolaşımını ilk kez doğru şekilde tanımlayan bilim insanı kimdir?",
       "options": [
-        "William Harvey",
-        "Andreas Vesalius",
         "Galen",
+        "Andreas Vesalius",
+        "William Harvey",
         "Hippokrates"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
@@ -706,12 +706,12 @@
       "id": "online_q_6_4",
       "question": "Biyolojide, 'homeostazis' neyi ifade eder?",
       "options": [
-        "Vücudun iç dengesini koruma",
+        "Hormon salgılama",
         "Hücre bölünmesi",
         "Genetik mutasyon",
-        "Hormon salgılama"
+        "Vücudun iç dengesini koruma"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "level": 6,
       "prize": 400000
     },
@@ -719,12 +719,12 @@
       "id": "online_q_6_5",
       "question": "Tiyatroda, 'Kral Oidipus' tragedyisinin yazarı kimdir?",
       "options": [
-        "Sophokles",
-        "Aiskhylos",
         "Euripides",
+        "Aiskhylos",
+        "Sophokles",
         "Aristophanes"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
@@ -784,12 +784,12 @@
       "id": "online_q_7_0",
       "question": "Yahudilikte kutsal kabul edilen Tevrat’ın kaç kitabı vardır?",
       "options": [
+        "3",
         "5",
-        "10",
         "12",
         "24"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
@@ -823,8 +823,8 @@
       "id": "online_q_7_3",
       "question": "Tıpta, insülin hormonunu keşfeden bilim insanları kimlerdir?",
       "options": [
-        "Banting ve Best",
         "Fleming ve Chain",
+        "Banting ve Best",
         "Watson ve Crick",
         "Jenner ve Pasteur"
       ],
