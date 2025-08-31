@@ -1858,6 +1858,19 @@
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
+    },
+    {
+      "id": "online_q_13_11",
+      "question": "İlk Çağ’da İpek Yolu’nun en önemli ticaret merkezlerinden biri olan Petra hangi medeniyete aittir?",
+      "options": [
+        "Partlar",
+        "Nabatiler",
+        "Lidyalılar",
+        "Persler"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
     }
     ],
   "totalQuestions": 143,
