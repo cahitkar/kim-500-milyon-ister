@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "question": "Hangi yıl İstanbul fethedilmiştir?",
+      "options": ["A) 1451", "B) 1453", "C) 1455", "D) 1457"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+      "options": ["A) Orhan Bey", "B) Osman Bey", "C) Murat Bey", "D) Bayezid Bey"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 2000
+    },
+    {
+      "question": "Hangi savaş I. Dünya Savaşı'nı sona erdirmiştir?",
+      "options": ["A) Verdun Savaşı", "B) Somme Savaşı", "C) Marne Savaşı", "D) Hiçbiri"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 4000
+    },
+    {
+      "question": "Malazgirt Savaşı hangi yıl yapılmıştır?",
+      "options": ["A) 1071", "B) 1081", "C) 1091", "D) 1101"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 8000
+    },
+    {
+      "question": "Hangi padişah 'Fatih' lakabıyla anılmıştır?",
+      "options": ["A) II. Mehmet", "B) I. Süleyman", "C) I. Selim", "D) II. Bayezid"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 16000
+    },
+    {
+      "question": "Amerika'yı ilk keşfeden kimdir?",
+      "options": ["A) Vasco da Gama", "B) Kristof Kolomb", "C) Ferdinand Magellan", "D) Marco Polo"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 32000
+    },
+    {
+      "question": "Hangi yıl Fransız Devrimi gerçekleşmiştir?",
+      "options": ["A) 1789", "B) 1799", "C) 1809", "D) 1819"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 64000
+    },
+    {
+      "question": "Hangi imparator Roma İmparatorluğu'nu Hristiyan yapmıştır?",
+      "options": ["A) Julius Caesar", "B) Augustus", "C) Konstantin", "D) Nero"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 125000
+    },
+    {
+      "question": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
+      "options": ["A) 1914-1915", "B) 1915-1916", "C) 1916-1917", "D) 1917-1918"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 250000
+    },
+    {
+      "question": "Hangi yıl II. Dünya Savaşı başlamıştır?",
+      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
+      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Berlin Duvarı yıkılmıştır?",
+      "options": ["A) 1987", "B) 1988", "C) 1989", "D) 1990"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
+      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

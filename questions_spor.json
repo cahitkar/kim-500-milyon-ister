@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "question": "Bir futbol maçı kaç dakika sürer?",
+      "options": ["A) 80", "B) 85", "C) 90", "D) 95"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Hangi ülke en çok Dünya Kupası kazanmıştır?",
+      "options": ["A) Almanya", "B) Brezilya", "C) Arjantin", "D) İtalya"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 2000
+    },
+    {
+      "question": "Basketbolda bir takım kaç oyuncudan oluşur?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 4000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk profesyonel futbol ligi kurulmuştur?",
+      "options": ["A) 1957", "B) 1959", "C) 1961", "D) 1963"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 8000
+    },
+    {
+      "question": "Tenis'te bir set kaç oyundan oluşur?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 16000
+    },
+    {
+      "question": "Hangi spor dalında 'Grand Slam' turnuvaları düzenlenir?",
+      "options": ["A) Golf", "B) Tenis", "C) Yüzme", "D) Atletizm"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 32000
+    },
+    {
+      "question": "Bir maraton kaç kilometredir?",
+      "options": ["A) 40.2", "B) 41.2", "C) 42.2", "D) 43.2"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 64000
+    },
+    {
+      "question": "Hangi ülke en çok Olimpiyat altın madalyası kazanmıştır?",
+      "options": ["A) Çin", "B) Rusya", "C) ABD", "D) Almanya"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 125000
+    },
+    {
+      "question": "Voleybolda bir takım kaç oyuncudan oluşur?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 250000
+    },
+    {
+      "question": "Hangi yıl ilk modern Olimpiyat Oyunları düzenlenmiştir?",
+      "options": ["A) 1892", "B) 1894", "C) 1896", "D) 1898"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 500000
+    },
+    {
+      "question": "Bir yüzme havuzu kaç kulvardan oluşur?",
+      "options": ["A) 6", "B) 7", "C) 8", "D) 9"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi spor dalında 'Tour de France' yarışı düzenlenir?",
+      "options": ["A) Koşu", "B) Bisiklet", "C) Yüzme", "D) Atletizm"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 2000000
+    },
+    {
+      "question": "Bir golf sahası kaç delikten oluşur?",
+      "options": ["A) 16", "B) 17", "C) 18", "D) 19"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

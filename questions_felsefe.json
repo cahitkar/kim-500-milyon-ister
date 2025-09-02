@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "question": "Hangi filozof 'Bilgi güçtür' sözünü söylemiştir?",
+      "options": ["A) Descartes", "B) Bacon", "C) Locke", "D) Hume"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Hangi filozof 'Düşünüyorum, o halde varım' sözünü söylemiştir?",
+      "options": ["A) Descartes", "B) Spinoza", "C) Leibniz", "D) Malebranche"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 2000
+    },
+    {
+      "question": "Hangi filozof 'Devlet' eserini yazmıştır?",
+      "options": ["A) Aristoteles", "B) Platon", "C) Sokrates", "D) Herakleitos"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 4000
+    },
+    {
+      "question": "Hangi filozof 'Metafizik' eserini yazmıştır?",
+      "options": ["A) Platon", "B) Aristoteles", "C) Sokrates", "D) Diyojen"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 8000
+    },
+    {
+      "question": "Hangi filozof 'Toplum Sözleşmesi' eserini yazmıştır?",
+      "options": ["A) Montesquieu", "B) Voltaire", "C) Rousseau", "D) Diderot"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 16000
+    },
+    {
+      "question": "Hangi filozof 'Kritik der reinen Vernunft' eserini yazmıştır?",
+      "options": ["A) Hegel", "B) Kant", "C) Fichte", "D) Schelling"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 32000
+    },
+    {
+      "question": "Hangi filozof 'Zarathustra Böyle Buyurdu' eserini yazmıştır?",
+      "options": ["A) Schopenhauer", "B) Nietzsche", "C) Heidegger", "D) Husserl"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 64000
+    },
+    {
+      "question": "Hangi filozof 'Varlık ve Zaman' eserini yazmıştır?",
+      "options": ["A) Sartre", "B) Camus", "C) Heidegger", "D) Jaspers"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 125000
+    },
+    {
+      "question": "Hangi filozof 'Varoluşçuluk bir hümanizmdir' sözünü söylemiştir?",
+      "options": ["A) Camus", "B) Sartre", "C) Merleau-Ponty", "D) Beauvoir"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 250000
+    },
+    {
+      "question": "Hangi filozof 'Myth of Sisyphus' eserini yazmıştır?",
+      "options": ["A) Sartre", "B) Camus", "C) Merleau-Ponty", "D) Beauvoir"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 500000
+    },
+    {
+      "question": "Hangi filozof 'Fenomenoloji' kurucusu sayılır?",
+      "options": ["A) Heidegger", "B) Husserl", "C) Sartre", "D) Merleau-Ponty"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi filozof 'Mutlu olmak için yaşarız' sözünü söylemiştir?",
+      "options": ["A) Epikuros", "B) Stoacılar", "C) Kinikler", "D) Sofistler"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi filozof 'Felsefe tarihi' yazmıştır?",
+      "options": ["A) Hegel", "B) Kant", "C) Fichte", "D) Schelling"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}
