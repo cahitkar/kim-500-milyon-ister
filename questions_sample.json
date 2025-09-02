@@ -2,12 +2,12 @@
   "questions": [
     {
       "id": "online_q_1_0",
-      "question": "'Ağzı sıkı olmak' deyiminin anlamı nedir?",
+      "question": "'Abanın kadri yağmurda bilinir' atasözünün anlamı nedir?",
       "options": [
-        "Yemek yememek",
-        "Konuşmamak",
-        "Sır saklamak",
-        "Hiçbiri"
+        "Değerli şeyler her zaman bilinmez",
+        "Bir şeyin gerçek değeri ona ihtiyaç duyulduğunda anlaşılır",
+        "Ucuz şeylerin kıymeti yoktur",
+        "Yağmur zamanı her şey değerlidir"
       ],
       "correctAnswer": 2,
       "level": 1,
