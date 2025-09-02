@@ -41,7 +41,7 @@
     },
     {
       "id": "online_q_1_3",
-      "question": "'Burnundan kıl aldırmamak' deyiminin anlamı nedir?",
+      "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
       "options": [
         "İnatçı olmak",
         "Hızlı hareket etmek",
@@ -179,6 +179,19 @@
 	"Birisiyle alay etmek"
 	],
       "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+	{
+      "id": "online_q_1_14",
+      "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
+	"options": [
+	"Dışarıdan gelen tehlike daha büyüktür",
+    "Toplumu yıkan unsurlar içeriden çıkar",
+    "Her ağaç içinde böcek taşır",
+    "Kurt içten yer bitirir"
+	],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
@@ -1925,7 +1938,7 @@
       "prize": 5000000
     }
     ],
-  "totalQuestions": 148,
+  "totalQuestions": 149,
   "lastUpdated": "2025-08-23",
   "description": "Online sorular"
 }
