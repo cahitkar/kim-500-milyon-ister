@@ -260,12 +260,12 @@
       "prize": 10000
     },
     {
-      "question": "Türkiye’nin en büyük üçüncü şehri hangisidir?",
+      "question": "Hangi elementin kimyasal sembolü "Hg"dir?",
       "options": [
-        "Ankara",
-        "İzmir",
-        "Adana",
-        "Bursa"
+        "Helyum",
+        "Civa",
+        "Gümüş",
+        "Hidrojen"
       ],
       "correctAnswer": 1,
       "level": 2,
