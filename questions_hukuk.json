@@ -2,63 +2,63 @@
   "questions": [
     {
       "question": "Ağızda lokma varken konuşulmaması, başkası konuşmasını bitirmeden araya girilmemesi gibi haller aşağıdaki kurallarından hangisine örnek teşkil eder?",
-      "options": ["A)Ahlak kuralları", "B) Din kuraları", "C) Örf ve Adet hukuku kuralları", "D) Görgü kuralları"],
+      "options": ["Ahlak kuralları", " Din kuraları", " Örf ve Adet hukuku kuralları", " Görgü kuralları"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangisi seçimle işbaşına gelir?",
-      "options": ["A) Vali", "B) Kaymakam", "C) Müftü", "D) Belediye Başkanı"],
+      "options": [" Vali", " Kaymakam", " Müftü", " Belediye Başkanı"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'de ilk anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1921", "B) 1924", "C) 1927", "D) 1930"],
+      "options": [" 1921", " 1924", " 1927", " 1930"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Cumhurbaşkanı kaç yıl için seçilir?",
-      "options": ["A) 7", "B) 6", "C) 5", "D) 4"],
+      "options": [" 7", " 6", " 5", " 4"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Bir devlete uyrukluk bağı ile bağlı olan gerçek kişilere ne ad verilir?",
-      "options": ["A) Soydaş", "B) Millet", "C) Birey", "D) Vatandaş"],
+      "options": [" Soydaş", " Millet", " Birey", " Vatandaş"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
       "question": " Kanunların şekil bakımından Anayasa’ya uygun olup olmadığını hangisi denetler?",
-      "options": ["A) Yargıtay", "B) Anayasa Mahkemesi", "C) Danıştay", "D) Uyuşmazlık Mahkemesi"],
+      "options": [" Yargıtay", " Anayasa Mahkemesi", " Danıştay", " Uyuşmazlık Mahkemesi"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": " Kişinin özel hukuk ilişkilerinin düzenleyen  temel kanun hangisidir?",
-      "options": ["A) Anayasa", "B) Ceza Kanunu", "C) Medeni Kanun", "D) Ticaret Kanunu"],
+      "options": [" Anayasa", " Ceza Kanunu", " Medeni Kanun", " Ticaret Kanunu"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": " Hâkim, bir uyuşmazlığın çözümünde aşağıdakilerden hangisine diğerlerinden önce başvurur",
-      "options": ["A) Yargı kararları", "B) Anayasa", "C)  Kanun", "D) İçtihat"],
+      "options": [" Yargı kararları", " Anayasa", "  Kanun", "İçtihat"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangisi seçimle değil, yalnızca atama yoluyla göreve gelir?",
-      "options": ["A) İl Genel Meclisi üyesi ", "B) Belediye Meclis üyeleri", "C) Vali", "D) Belediye Başkanı"],
+      "options": [" İl Genel Meclisi üyesi ", " Belediye Meclis üyeleri", " Vali", " Belediye Başkanı"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
