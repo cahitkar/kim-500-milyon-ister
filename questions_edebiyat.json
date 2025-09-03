@@ -8,13 +8,6 @@
       "prize": 5000
     },
     {
-      "question": "'Don Kişot' romanının yazarı kimdir?",
-      "options": ["A) Cervantes", "B) Shakespeare", "C) Goethe", "D) Dante"],
-      "correctAnswer": 0,
-      "level": 1,
-      "prize": 10000
-    },
-    {
       "question": "'Çalıkuşu' romanının yazarı kimdir?",
       "options": ["A) Reşat Nuri Güntekin", "B) Halide Edip Adıvar", "C) Yakup Kadri Karaosmanoğlu", "D) Ömer Seyfettin"],
       "correctAnswer": 0,
@@ -450,6 +443,7 @@
     }
   ]
 }
+
 
 
 
