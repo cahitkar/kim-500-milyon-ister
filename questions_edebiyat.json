@@ -2,7 +2,7 @@
   "questions": [
     {
       "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
-      "options": ["A) Tolstoy", "B) Dostoyevski", "C) Çehov", "D) Puşkin"],
+      "options": ["Tolstoy", "Dostoyevski", "Çehov", "Puşkin"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
@@ -527,6 +527,7 @@
     }
   ]
 }
+
 
 
 
