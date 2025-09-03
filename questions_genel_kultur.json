@@ -421,7 +421,7 @@
       "prize": 3000000
     },
     {
-      "question": "1882 yılında Mekteb-i Sanayi-i Nefise-i Şâhâne adıyla kurulan yükseköğretim kurumunun günümüzdeki adı ?",
+      "question": "1882 yılında Mekteb-i Sanayi-i Nefise-i Şâhâne adıyla kurulan yükseköğretim kurumunun günümüzdeki adı nedir ?",
       "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
       "correctAnswer": 0,
       "level": 13,
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
