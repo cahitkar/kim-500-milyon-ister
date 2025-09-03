@@ -65,77 +65,77 @@
     },
     {
       "question": "Hangisi gerçek kişi niteliği taşır",
-      "options": ["A) Dernekler", "B) Dernekler", "C) Köyler", "D) İnsanlar"],
+      "options": ["Dernekler", " LTD. Şirketi", "Köyler", "İnsanlar"],
       "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Türkiye'de dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "question": "1982 Anayasası’na göre, milletvekili seçilebilmek için en az hangi düzeyde mezuniyet gerekir??",
+      "options": ["Lisans", "B) Ortaöğretim", "İlköğretim", "Okur-Yazar olmak"],
       "correctAnswer": 2,
       "level": 3,
       "prize": 30000
     },
     {
-      "question": "Türkiye'de onuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
+      "question": "Medeni Kanunu’na göre erginlik kaç yaşın doldurulmasıyla başlar?",
+      "options": ["15", "16", "17", "18"],
+      "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
     {
-      "question": "Türkiye'de on birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
+    "question": "Medeni Kanun’a göre bir kişinin evlenme ehliyeti kaç yaşında başlar?",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": 2,
+    "level": 3,
+    "prize": 30000
+   },
+    {
+    "question": "Medeni Kanun’a göre vesayet altına alınabilecek kişiler arasında hangisi yer alır?",
+    "options": ["18 yaşını doldurmuş bir yetişkin", "Akıl hastalığı nedeniyle kendi işlerini göremeyen kişi", "Hukuk fakültesi öğrencisi", "Yabancı uyruklu bir turist"],
+    "correctAnswer": 1,
+    "level": 3,
+    "prize": 30000
+   },
+    {
+      "question": "Yardım nafakası nedir?",
+      "options": ["Anne ve babanın ihtiyaçlarına göre yardım", "Çocukların ihtiyaçlarına göre yardım ", "Kardeşlerin ihtiyaçlarına göre yardım edilmesi", "Hepsi"],
+      "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
+     {
+    "question": "Türk Ceza Kanunu’na göre fiili işlediği sırada kaç yaşını doldurmamış olan çocukların ceza sorumluluğu yoktur?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": 2,
+    "level": 4,
+    "prize": 90000
+   },
     {
-      "question": "Türkiye'de on ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 3,
-      "prize": 30000
-    },
+    "question": "Türk Ticaret Kanunu’na göre anonim şirket kurulması için en az kaç ortak gereklidir?",
+    "options": ["1", "2", "3", "5"],
+    "correctAnswer": 0,
+    "level": 4,
+    "prize": 90000
+   },
     {
-      "question": "Türkiye'de on üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 3,
-      "prize": 30000
-    },
+    "question": "Evlât edinilen ile evlât edinenden arasında en az kaç yaş fark olmalıdır?",
+    "options": ["18", "21", "25", "30"],
+    "correctAnswer": 0,
+    "level": 4,
+    "prize": 90000
+   },
     {
-      "question": "Türkiye'de on dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "question": "Dernek kurulması için en az kaç kişi gereklidir?",
+      "options": ["3", "5", "7", "9"],
       "correctAnswer": 2,
       "level": 4,
       "prize": 90000
     },
     {
-      "question": "Türkiye'de on beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Türkiye'de on altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Türkiye'de on yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Türkiye'de on sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "question": "1926 yılında kabul edilen Türk Ceza Kanunu aşağıdaki ülkelerin hangisinin ceza kanunundan iktibas edilmiştir?",
+      "options": ["Fransa", "Almanya", "İtalya", "İngiltere"],
       "correctAnswer": 2,
       "level": 4,
       "prize": 90000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
