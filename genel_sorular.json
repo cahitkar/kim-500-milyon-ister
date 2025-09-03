@@ -691,7 +691,7 @@
     },
     {
       "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": [Babamın erkek kardeşi dayım olur","Annemin kız kardeşi teyzem olur","Babamın kız kardeşi halam olur","Halamın tek erkek kardeşi babam olur" ],
+      "options": ["Babamın erkek kardeşi dayım olur","Annemin kız kardeşi teyzem olur","Babamın kız kardeşi halam olur","Halamın tek erkek kardeşi babam olur" ],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
