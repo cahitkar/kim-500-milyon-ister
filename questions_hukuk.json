@@ -147,9 +147,7 @@
       "level": 5,
       "prize": 200000
     },
-    [
-  // Level 5
-  {
+    {
     "question": "Türkiye Cumhuriyeti Anayasası’na göre, temel hak ve özgürlüklerin sınırlandırılmasında hangi ilke esas alınır?",
     "options": ["Mutlaklık", "Orantılılık", "Eşitlik", "Özgürlük"],
     "correctAnswer": 1,
@@ -474,6 +472,7 @@
   }
   ]
 }
+
 
 
 
