@@ -30,7 +30,7 @@
     },
     {
       "question": "Türkiye'nin en büyük gölü hangisidir?",
-      "options": ["A) Van Gölü", "B) Tuz Gölü", "C) Beyşehir Gölü", "D) İznik Gölü"],
+      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "İznik Gölü"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
