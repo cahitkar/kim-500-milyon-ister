@@ -1,20 +1,20 @@
 {
   "questions": [
     {
-      "id": "online_q_1_0",
       "question": "'Abanın kadri yağmurda bilinir' atasözünün anlamı nedir?",
-      "options": [
-        "Değerli şeyler her zaman bilinmez",
-        "Bir şeyin gerçek değeri ona ihtiyaç duyulduğunda anlaşılır",
-        "Ucuz şeylerin kıymeti yoktur",
-        "Yağmur zamanı her şey değerlidir"
-      ],
+      "options": ["Değerli şeyler her zaman bilinmez", "Bir şeyin gerçek değeri ona ihtiyaç duyulduğunda anlaşılır", "Ucuz şeylerin kıymeti yoktur",  "Yağmur zamanı her şey değerlidir"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
+{
+      "question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
+      "options": ["Demokratik", "Laik", "İnsan haklarına saygılı", " Halkçı"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
     {
-      "id": "online_q_1_1",
       "question": "'Ete kemiğe bürünmek' deyiminin anlamı nedir?",
       "options": [
         "Kilo almak",
@@ -27,98 +27,119 @@
       "prize": 5000
     },
     {
-      "id": "online_q_1_2",
       "question": "'Kulağına kar suyu kaçmak' deyiminin anlamı nedir?",
-      "options": [
-        "Soğukta kalmak",
-        "Huzurunu rahatını kaçıran bir haber işitmek",
-        "Hasta olmak",
-        "Hiçbiri"
-      ],
+      "options": ["Soğukta kalmak", "Huzurunu rahatını kaçıran bir haber işitmek","Hasta olmak", "Hiçbiri" ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+{
+      "question": "Aşağıdaki ülkelerden hangisinin bayrağında hilal yoktur?",
+      "options": ["Tunus", "Cezayir", "Pakistan", "Irak"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç bölge bulunmaktadır?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Aşağıdakilerin hangisi adli yargı ilk derece mahkemelerinden biri değildir?",
+      "options": ["Sulh Hukuk Mahkemesi", "İdare Mahkemesi", "Asliye Ceza Mahkmesi", "İcra Mahkemeleri"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "id": "online_q_1_3",
-      "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
-      "options": [
-        "İnatçı olmak",
-        "Hızlı hareket etmek",
-        "Kibirli olmak",
-        "Hiçbiri"
-      ],
-      "correctAnswer": 2,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "id": "online_q_1_4",
-      "question": "'Elden ayaktan düşmek' deyiminin anlamı nedir?",
-      "options": [
-        "Yorulmak",
-        "Düşmek",
-        "Yaşlanmak",
-        "Hiçbiri"
-      ],
-      "correctAnswer": 2,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "id": "online_q_1_5",
-      "question": "'Ayak uydurmak' deyiminin anlamı nedir?",
-      "options": [
-        "Duruma uyum sağlamak",
-        "Hızlı yürümek",
-        "Dans etmek",
-        "Hiçbiri"
-      ],
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "İznik Gölü"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
-      "id": "online_q_1_6",
-      "question": "'Dört gözle beklemek' deyiminin anlamı nedir?",
-      "options": [
-        "Dikkatle bakmak",
-        "Gözlük takmak",
-        "Sabırsızlıkla beklemek",
-        "Hiçbiri"
-      ],
+      "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
+      "options": ["İnatçı olmak", "Hızlı hareket etmek", "Kibirli olmak", "Hiçbiri"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "id": "online_q_1_7",
+      "question": "'Elden ayaktan düşmek' deyiminin anlamı nedir?",
+      "options": [ "Yorulmak","Düşmek", "Yaşlanmak", "Hiçbiri"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "'Ayak uydurmak' deyiminin anlamı nedir?",
+      "options": ["Duruma uyum sağlamak","Hızlı yürümek", "Dans etmek", "Hiçbiri"  ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "'Dört gözle beklemek' deyiminin anlamı nedir?",
+      "options": ["Dikkatle bakmak","Gözlük takmak","Sabırsızlıkla beklemek","Hiçbiri"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
       "question": "'Kafa yormak' deyiminin anlamı nedir?",
       "options": [
-        "Çok düşünmek",
-        "Baş ağrısı çekmek",
-        "Zorlanmak",
-        "Hiçbiri"
-      ],
+        "Çok düşünmek", "Baş ağrısı çekmek","Zorlanmak", "Hiçbiri" ],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
+ {
+      "question": " İlçe yönetiminin başında aşağıdakilerden hangisi bulunur?",
+      "options": ["Belediye Başkanı", "Kaymakam", "Vali", "Muhtar"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
     {
-      "id": "online_q_1_8",
+      "question": "Türkiye'nin en büyük adası hangisidir?",
+      "options": ["Gökçeada", "Bozcaada", "Marmara", "Avşa"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en kalabalık bölgesi hangisidir?",
+      "options": ["Marmara", "İç Anadolu", "Ege", "Akdeniz"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük ovası hangisidir?",
+      "options": ["Konya Ovası", "Çukurova", "Bafra Ovası", "Çarşamba Ovası"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük yarımadası hangisidir?",
+      "options": ["Gelibolu", "Biga", "Datça", "Sinop"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
       "question": "'El elin eşeğeni türkü çala çala arar' atasözünün anlamı nedir?",
-      "options": [
-        "Kaybolan eşeğin aranma şeklidir",
-        "Türkü çala çala arayan mutlu olur",
-        "Herkes ancak kendi işine canla başla sarılır ve ona çare üretir",
-        "Söyle bir ata sözü yoktur"
-      ],
+      "options": ["Kaybolan eşeğin aranma şeklidir", "Türkü çala çala arayan mutlu olur", "Herkes ancak kendi işine canla başla sarılır ve ona çare üretir", "Söyle bir ata sözü yoktur" ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "id": "online_q_1_9",
       "question": "'Dostun attığı taş baş yarmaz' atasözünün anlamı nedir?",
       "options": [
         "Dost eleştirisi zarar vermez",
@@ -131,7 +152,6 @@
       "prize": 5000
     },
     {
-      "id": "online_q_1_10",
       "question": "'Göz ardı etmek' deyiminin anlamı nedir?",
       "options": [
         "Gözüne girmek",
@@ -144,7 +164,6 @@
       "prize": 5000
     },
     {
-      "id": "online_q_1_11",
       "question": "'Alın teri dökmek' deyiminin anlamı aşağıdakilerden hangisidir?",
 	"options": [
     "Sıcakta çok terlemek",
@@ -157,7 +176,6 @@
       "prize": 5000
     },
 	{
-      "id": "online_q_1_12",
       "question": "Aşağıdaki cümlelerde geçen deyimlerin hangisinde özlem söz konusudur?",
 	"options": [
 	"Elinde avucunda bir şey kalmadı",
@@ -170,7 +188,6 @@
       "prize": 5000
     },
 	{
-      "id": "online_q_1_13",
       "question": "'Ateşle oynamak' deyiminin anlamı hangi seçenekte verilmiştir?",
 	"options": [
 	"Ateşi sağa sola dağıtmak",
@@ -183,7 +200,6 @@
       "prize": 5000
     },
 	{
-      "id": "online_q_1_14",
       "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
 	"options": [
 	"Dışarıdan gelen tehlike daha büyüktür",
@@ -196,7 +212,6 @@
       "prize": 5000
     },
     {
-      "id": "online_q_2_0",
       "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
       "options": [
         "Erciyes Dağı",
@@ -209,7 +224,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_1",
       "question": "Hangi göl Türkiye’nin en derin gölüdür?",
       "options": [
         "Salda Gölü",
@@ -222,7 +236,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_2",
       "question": "Hangi nehir Türkiye’de doğup Karadeniz’e dökülür?",
       "options": [
         "Meriç",
@@ -235,7 +248,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_3",
       "question": "Hangi il Marmara Bölgesi’nde yer almaz?",
       "options": [
         "Bursa",
@@ -248,7 +260,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_4",
       "question": "Türkiye’nin en büyük üçüncü şehri hangisidir?",
       "options": [
         "Ankara",
@@ -261,7 +272,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_5",
       "question": "Hangi il Güneydoğu Anadolu Bölgesi’nde yer alır?",
       "options": [
         "Malatya",
@@ -274,7 +284,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_6",
       "question": "Hangi il Türkiye’nin en kuzeyindeki ildir?",
       "options": [
         "Zonguldak",
@@ -287,7 +296,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_7",
       "question": "Hangi il Doğu Anadolu Bölgesi’nde yer alır?",
       "options": [
         "Sivas",
@@ -300,7 +308,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_8",
       "question": "Hangi il Türkiye’nin en güneyindeki ildir?",
       "options": [
         "Mersin",
@@ -313,7 +320,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_9",
       "question": "Hangi il Karadeniz Bölgesi’nde yer almaz?",
       "options": [
         "Samsun",
@@ -326,7 +332,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_2_10",
       "question": "Yağı alınmış süt/yoğurdun kaynatılmasıyla elde edilen ve ‘çökelek’ diye de bilinen peynirin diğer adı nedir?",
       "options": [
         "Katık",
@@ -339,7 +344,6 @@
       "prize": 10000
     },
     {
-      "id": "online_q_3_0",
       "question": "Voleybolda 'smaç' nedir?",
       "options": [
         "Servis atışı",
@@ -352,7 +356,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_1",
       "question": "Türkiye Milli Futbol Takımı, Dünya Kupası’na ilk kez hangi yıl katılmıştır?",
       "options": [
         "1950",
@@ -365,7 +368,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_2",
       "question": "Voleybolda bir takım kaç oyuncuyla sahada oynar?",
       "options": [
     	"5",
@@ -378,7 +380,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_3",
       "question": "Futbolda 'taç atışı' nedir?",
       "options": [
         "Penaltı atışı",
@@ -391,7 +392,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_4",
       "question": "Basketbolda 'ribaund' nedir?",
       "options": [
         "Topu potadan geri almak",
@@ -404,7 +404,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_5",
       "question": "Teniste bir set kaç oyunda kazanılır?",
       "options": [
         "4 oyun",
@@ -417,7 +416,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_6",
       "question": "Futbolda 'sarı kart' neyi ifade eder?",
       "options": [
         "Serbest vuruş",
@@ -430,7 +428,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_7",
       "question": "Voleybolda 'blok' nedir?",
       "options": [
         "Pas verme",
@@ -443,7 +440,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_8",
       "question": "Basketbolda bir maç kaç periyot oynanır (NBA)?",
       "options": [
         "2 periyot",
@@ -456,7 +452,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_9",
       "question": "Teniste 'ace' nedir?",
       "options": [
         "Tie-break",
@@ -469,7 +464,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_3_10",
       "question": "Hangisi yağlı güreşteki oyun türlerinden biridir?",
       "options": [
         "Köprü",
@@ -482,7 +476,6 @@
       "prize": 30000
     },
 	 {
-      "id": "online_q_3_11",
       "question": "Olimpiyatlarda çekiç atmada, kullanılan 'çekiç'in' ağırlığı erkekler ve kadınlar için kaç kilogramdır?",
       "options": [
        "Erkekler 6.5 kg, Kadınlar 4.5 kg",
@@ -495,7 +488,6 @@
       "prize": 30000
     },
     {
-      "id": "online_q_4_0",
       "question": "'Kaldırım Şairi' olarak bilinen Türk şair kimdir?",
       "options": [
         "Necip Fazıl Kısakürek",
@@ -508,7 +500,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_1",
       "question": "'Otuz Beş Yaş' şiirinin yazarı kimdir?",
       "options": [
         "Cemal Süreya",
@@ -521,7 +512,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_2",
       "question": "'Çocuk ve Allah' eserinin yazarı kimdir?",
       "options": [
         "Cahit Kulebeli",
@@ -534,7 +524,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_3",
       "question": "'Hâşim’e' şiirinin yazarı kimdir?",
       "options": [
         "Ahmet Hamdi Tanpınar",
@@ -547,7 +536,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_4",
       "question": "'Büyük Saat' eserinin yazarı kimdir?",
       "options": [
         "Cemal Süreya",
@@ -560,7 +548,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_5",
       "question": "'Sevda Sözleri' adlı eserin yazarı kimdir?",
       "options": [
         "Turgut Uyar",
@@ -573,7 +560,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_6",
       "question": "'Oteller Hanlar Hamamlar İçin Şiir' eserinin yazarı kimdir?",
       "options": [
         "Cahit Sıtkı Tarancı",
@@ -586,7 +572,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_7",
       "question": "'Havada Bulut Yok' şiirinin yazarı kimdir?",
       "options": [
         "Edip Cansever",
@@ -599,7 +584,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_8",
       "question": "'Kırlangıç Çığlığı' eserinin yazarı kimdir?",
       "options": [
         "Attilâ İlhan",
@@ -612,7 +596,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_4_9",
       "question": "'Kaldırımlar' şiirinin yazarı kimdir?",
       "options": [
         "Attilâ İlhan",
@@ -625,7 +608,6 @@
       "prize": 90000
     },
      {
-   "id": "online_q_4_10",
       "question": "'Sodom ve Gomore' eserinin yazarı kimdir?",
       "options": [
         "Necip Fazıl Kısakürek",
@@ -638,7 +620,6 @@
       "prize": 90000
     },
     {
-      "id": "online_q_5_0",
       "question": "İslam'da hac ibadetinin merkezi olan şehir hangisidir?",
       "options": [
         "Medine",
@@ -651,7 +632,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_1",
       "question": "Felsefede 'Cogito, ergo sum' (Düşünüyorum, öyleyse varım) sözünü kim söylemiştir?",
       "options": [
         "Immanuel Kant",
@@ -664,7 +644,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_2",
       "question": "Hangi ülke, dünyadaki en küçük bağımsız devlet olarak kabul edilir?",
       "options": [
         "Monako",
@@ -677,7 +656,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_3",
       "question": "Hukukta 'Habeas Corpus' neyi ifade eder?",
       "options": [
         "Suçun kanıtlanması",
@@ -690,7 +668,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_4",
       "question": "Tıpta ilk başarılı organ nakli hangi organdır?",
       "options": [
         "Karaciğer",
@@ -703,7 +680,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_5",
       "question": "Biyolojide 'mitoz' hangi süreci ifade eder?",
       "options": [
         "Hücre bölünmesi",
@@ -716,7 +692,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_6",
       "question": "Tiyatroda 'absürt tiyatro' türünün öncüsü olarak kabul edilen yazar kimdir?",
       "options": [
         "Samuel Beckett",
@@ -729,7 +704,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_7",
       "question": "Hangi film, 1994 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
         "Pulp Fiction",
@@ -742,7 +716,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_8",
       "question": "Hangi din, Nirvana’ya ulaşmayı nihai hedef olarak görür?",
       "options": [
         "Hinduizm",
@@ -755,7 +728,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_5_9",
       "question": "Genel kültürde, UNESCO Dünya Mirası Listesi’nde yer alan ilk Türk eseri hangisidir?",
       "options": [
         "Ayasofya",
@@ -768,7 +740,6 @@
       "prize": 200000
     },
    {
-      "id": "online_q_5_10",
       "question": "Tüm metaller arasında en yüksek elektrik iletkenliğine sahip element hangisidir?",
       "options": [
         "Altın",
@@ -781,7 +752,6 @@
       "prize": 200000
     },
     {
-      "id": "online_q_6_0",
       "question": "Hristiyanlıkta 'Havari' olarak bilinen 12 kişi, kimin öğrencileriydi?",
       "options": [
         "Pavlus",
@@ -794,7 +764,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_1",
       "question": "Felsefede 'Kategorik Imperatif' kavramını kim geliştirmiştir?",
       "options": [
         "Immanuel Kant",
@@ -807,7 +776,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_2",
       "question": "Hukukta, uluslararası anlaşmaların üstünlüğünü savunan ilke nedir?",
       "options": [
         "Monizm",
@@ -820,7 +788,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_3",
       "question": "Tıpta, kan dolaşımını ilk kez doğru şekilde tanımlayan bilim insanı kimdir?",
       "options": [
         "William Harvey",
@@ -833,7 +800,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_4",
       "question": "Biyolojide, 'homeostazis' neyi ifade eder?",
       "options": [
         "Vücudun iç dengesini koruma",
@@ -846,7 +812,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_5",
       "question": "Tiyatroda, 'Kral Oidipus' tragedyisinin yazarı kimdir?",
       "options": [
         "Sophokles",
@@ -859,7 +824,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_6",
       "question": "Hangi film, 2019 yılında Cannes Film Festivali’nde Altın Palmiye kazanmıştır?",
       "options": [
         "Joker",
@@ -872,7 +836,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_7",
       "question": "Hinduizm’de, evrenin yaratıcısı olarak kabul edilen tanrı kimdir?",
       "options": [
         "Vishnu",
@@ -885,7 +848,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_8",
       "question": "Genel kültürde, dünyanın yedi harikasından biri olan Babil’in Asma Bahçeleri hangi ülkededir?",
       "options": [
         "Mısır",
@@ -898,7 +860,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_6_9",
       "question": "Hukukta, 'Medeni Kanun' hangi alanda düzenlemeler yapar?",
       "options": [
         "Ceza hukuku",
@@ -911,7 +872,6 @@
       "prize": 400000
     },
    {
-      "id": "online_q_6_10",
       "question": "Hangi klasik eserin yazarı Stendhal’dır?",
       "options": [
         "Sefiller",
@@ -924,7 +884,6 @@
       "prize": 400000
     },
     {
-      "id": "online_q_7_0",
       "question": "Yahudilikte kutsal kabul edilen Tevrat’ın kaç kitabı vardır?",
       "options": [
         "5",
@@ -937,7 +896,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_1",
       "question": "Felsefede, 'Übermensch' (üstinsan) kavramını kim ortaya atmıştır?",
       "options": [
         "Søren Kierkegaard",
@@ -950,7 +908,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_2",
       "question": "Hukukta, 'Lahey Adalet Divanı' hangi kuruluşun ana yargı organıdır?",
       "options": [
         "NATO",
@@ -963,7 +920,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_3",
       "question": "Tıpta, insülin hormonunu keşfeden bilim insanları kimlerdir?",
       "options": [
         "Banting ve Best",
@@ -976,7 +932,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_4",
       "question": "Biyolojide, 'ekosistem' kavramını ilk kez kim tanımlamıştır?",
       "options": [
         "Charles Darwin",
@@ -989,7 +944,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_5",
       "question": "Tiyatroda, 'Brecht Epik Tiyatrosu'nun kurucusu kimdir?",
       "options": [
         "Bertolt Brecht",
@@ -1002,7 +956,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_6",
       "question": "Hangi film, 2000 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
         "Gladiator",
@@ -1015,7 +968,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_7",
       "question": "İslam’da, Kur’an-ı Kerim’in ilk vahiy aldığı yer neresidir?",
       "options": [
         "Hira Mağarası",
@@ -1028,7 +980,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_8",
       "question": "Genel kültürde, Machu Picchu hangi ülkede yer alır?",
       "options": [
         "Meksika",
@@ -1041,7 +992,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_9",
       "question": "Hukukta, 'Magna Carta' hangi yılda imzalanmıştır?",
       "options": [
         "1215",
@@ -1054,7 +1004,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_7_10",
       "question": "Galatasaray’ın 2000 yılında UEFA Kupası’nı kazandığı final maçında kırmızı kart gören futbolcu kimdir?",
       "options": [
         "Hakan Şükür",
@@ -1067,7 +1016,6 @@
       "prize": 600000
     },
     {
-      "id": "online_q_8_0",
       "question": "Hristiyanlıkta, 'Kutsal Üçlü' (Teslis) inancını hangi mezhep reddeder?",
       "options": [
         "Katoliklik",
@@ -1080,7 +1028,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_1",
       "question": "Felsefede, 'Fenomenoloji' akımının kurucusu kimdir?",
       "options": [
         "Edmund Husserl",
@@ -1093,7 +1040,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_2",
       "question": "Hukukta, 'Nürnberg Mahkemeleri' hangi suçları yargılamak için kurulmuştur?",
       "options": [
         "Savaş suçları",
@@ -1106,7 +1052,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_3",
       "question": "Tıpta, X-ışınlarını keşfeden bilim insanı kimdir?",
       "options": [
         "Wilhelm Röntgen",
@@ -1119,7 +1064,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_4",
       "question": "Biyolojide, genetik kalıtımın temel kurallarını kim keşfetmiştir?",
       "options": [
         "Gregor Mendel",
@@ -1132,7 +1076,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_5",
       "question": "Tiyatroda, 'Stanislavski Sistemi'ni geliştiren Rus yönetmen kimdir?",
       "options": [
         "Konstantin Stanislavski",
@@ -1145,7 +1088,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_6",
       "question": "Hangi film, 1972 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
         "The Godfather",
@@ -1158,7 +1100,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_7",
       "question": "Budizm’de, 'Dört Soylu Gerçek' hangi kavramla ilişkilidir?",
       "options": [
         "Karma",
@@ -1171,7 +1112,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_8",
       "question": "Genel kültürde, Chichen Itza hangi medeniyete aittir?",
       "options": [
         "Aztek",
@@ -1184,7 +1124,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_9",
       "question": "Hukukta, 'Napolyon Kanunları' hangi alanda etkili olmuştur?",
       "options": [
         "Ceza hukuku",
@@ -1197,7 +1136,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_8_10",
       "question": "Uhud Savaşı sırasında Hz. Peygamber’in amcası Hz. Hamza’yı şehit eden kişi kimdir?",
       "options": [
         "Ebu Süfyan",
@@ -1210,7 +1148,6 @@
       "prize": 800000
     },
     {
-      "id": "online_q_9_0",
       "question": "'Mai ve Siyah' romanının yazarı kimdir?",
       "options": [
         "Halit Ziya Uşaklıgil",
@@ -1223,7 +1160,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_1",
       "question": "'Sefalet' (Les Misérables) romanında Jean Valjean hangi suçtan dolayı hapse girer?",
       "options": [
         "Hırsızlık",
@@ -1236,7 +1172,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_2",
       "question": "'Suç ve Ceza' romanında Raskolnikov’un işlediği suç nedir?",
       "options": [
         "Hırsızlık",
@@ -1249,7 +1184,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_3",
       "question": "'Aşk-ı Memnu' romanının yazarı kimdir?",
       "options": [
         "Halit Ziya Uşaklıgil",
@@ -1262,7 +1196,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_4",
       "question": "'Don Kişot' romanında baş karakterin hayali düşmanı nedir?",
       "options": [
         "Devler",
@@ -1275,7 +1208,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_5",
       "question": "'Küçük Prens' eserinde Küçük Prens’in gezegeni hangisidir?",
       "options": [
         "B-612",
@@ -1288,7 +1220,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_6",
       "question": "'Anayurt Oteli' romanının yazarı kimdir?",
       "options": [
         "Yusuf Atılgan",
@@ -1301,7 +1232,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_7",
       "question": "'Cesur Yeni Dünya' (Brave New World) romanının yazarı kimdir?",
       "options": [
         "Aldous Huxley",
@@ -1314,7 +1244,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_8",
       "question": "'Veba' (The Plague) romanının yazarı kimdir?",
       "options": [
         "Albert Camus",
@@ -1327,7 +1256,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_9",
       "question": "'Anna Karenina' romanının yazarı kimdir?",
       "options": [
         "Lev Tolstoy",
@@ -1340,7 +1268,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_9_10",
       "question": "'Savaş ve Barış' romanının yazarı kimdir?",
       "options": [
         "Lev Tolstoy",
@@ -1353,7 +1280,6 @@
       "prize": 1000000
     },
     {
-      "id": "online_q_10_0",
       "question": "'Yol' filminin yönetmeni kimdir?",
       "options": [
         "Yılmaz Güney",
@@ -1366,7 +1292,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_1",
       "question": "Tiyatroda, 'Antigone' tragedyisinin yazarı kimdir?",
       "options": [
         "Sophokles",
@@ -1379,7 +1304,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_2",
       "question": "Tiyatroda, 'Faust' eserinin yazarı kimdir?",
       "options": [
         "Johann Wolfgang von Goethe",
@@ -1392,7 +1316,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_3",
       "question": "Tiyatroda, 'Cimri' oyununun yazarı kimdir?",
       "options": [
         "Molière",
@@ -1405,7 +1328,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_4",
       "question": "Tiyatroda, 'Üç Kız Kardeş' oyununun yazarı kimdir?",
       "options": [
         "Anton Çehov",
@@ -1418,7 +1340,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_5",
       "question": "Tiyatroda, 'Hedda Gabler' oyununun yazarı kimdir?",
       "options": [
         "Henrik Ibsen",
@@ -1431,7 +1352,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_6",
       "question": "Tiyatroda, 'Cyrano de Bergerac' oyununun yazarı kimdir?",
       "options": [
         "Edmond Rostand",
@@ -1444,7 +1364,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_7",
       "question": "Tiyatroda, 'Martı' oyununun yazarı kimdir?",
       "options": [
         "Anton Çehov",
@@ -1457,7 +1376,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_8",
       "question": "Tiyatroda, 'Pygmalion' oyununun yazarı kimdir?",
       "options": [
         "George Bernard Shaw",
@@ -1470,7 +1388,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_9",
       "question": "Tiyatroda, 'Vanya Dayı' oyununun yazarı kimdir?",
       "options": [
         "Anton Çehov",
@@ -1483,7 +1400,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_10_10",
       "question": "Fârâbî’nin 'el-Medînetü’l-Fâzıla' eserinde ideal devletin temel kavramı nedir?",
       "options": [
         "Bilgi",
@@ -1496,7 +1412,6 @@
       "prize": 1500000
     },
     {
-      "id": "online_q_11_0",
       "question": "'Yıldızlı Gece' tablosunun ressamı kimdir?",
       "options": [
         "Vincent van Gogh",
@@ -1509,7 +1424,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_1",
       "question": "'Guernica' tablosunun ressamı kimdir?",
       "options": [
         "Pablo Picasso",
@@ -1522,7 +1436,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_2",
       "question": "'Son Yargı' freskinin ressamı kimdir?",
       "options": [
         "Michelangelo",
@@ -1535,7 +1448,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_3",
       "question": "'Naber Çiçekleri' tablosunun ressamı kimdir?",
       "options": [
         "Claude Monet",
@@ -1548,7 +1460,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_4",
       "question": "'Çığlık' tablosunun ressamı kimdir?",
       "options": [
         "Edvard Munch",
@@ -1561,7 +1472,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_5",
       "question": "'Belşazzar’ın Ziyafeti' tablosunun ressamı kimdir?",
       "options": [
         "Rembrandt",
@@ -1574,7 +1484,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_6",
       "question": "'Öpücük' tablosunun ressamı kimdir?",
       "options": [
         "Gustav Klimt",
@@ -1587,7 +1496,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_7",
       "question": "'Kızıl Üzüm Bağı' tablosunun ressamı kimdir?",
       "options": [
         "Isaac Levitan",
@@ -1600,7 +1508,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_8",
       "question": "'Kuzey Işıkları' tablosunun ressamı kimdir?",
       "options": [
         "Frederic Edwin Church",
@@ -1613,7 +1520,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_9",
       "question": "'Ayçiçeği' tablosunun ressamı kimdir?",
       "options": [
         "Vincent van Gogh",
@@ -1626,7 +1532,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_11_10",
       "question": "İbn Sînâ’nın 'eş-Şifâʾ' eserinde varlık ve mahiyet ayrımı neyi açıklar?",
       "options": [
         "Tanrı’nın özü",
@@ -1639,7 +1544,6 @@
       "prize": 2000000
     },
     {
-      "id": "online_q_12_0",
       "question": "İslam’da, 'Kadir Gecesi' hangi ayda kutlanır?",
       "options": [
         "Şaban",
@@ -1652,7 +1556,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_1",
       "question": "Felsefede, 'Pragmatizm' akımının öncüsü kimdir?",
       "options": [
         "William James",
@@ -1665,7 +1568,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_2",
       "question": "Hukukta, 'Hammurabi Kanunları' hangi medeniyete aittir?",
       "options": [
         "Sümer",
@@ -1678,7 +1580,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_3",
       "question": "Tıpta, ilk kalp pili hangi yılda kullanıldı?",
       "options": [
         "1958",
@@ -1691,7 +1592,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_4",
       "question": "Biyolojide, 'CRISPR' teknolojisi neyi ifade eder?",
       "options": [
         "Gen düzenleme",
@@ -1704,7 +1604,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_5",
       "question": "Tiyatroda, 'Altı Kişi Yazarını Arıyor' oyununun yazarı kimdir?",
       "options": [
         "Luigi Pirandello",
@@ -1717,7 +1616,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_6",
       "question": "Hangi film, 2020 yılında En İyi Film Oscar’ını kazanmıştır?",
       "options": [
         "Joker",
@@ -1730,7 +1628,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_7",
       "question": "Hinduizm’de, kutsal metinlerden 'Bhagavad Gita' hangi destanın parçasıdır?",
       "options": [
         "Ramayana",
@@ -1743,7 +1640,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_8",
       "question": "Genel kültürde, Angkor Wat hangi ülkede bulunur?",
       "options": [
         "Tayland",
@@ -1756,7 +1652,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_9",
       "question": "Hukukta, 'Justinian Kanunları' hangi imparatorlukta uygulanmıştır?",
       "options": [
         "Roma İmparatorluğu",
@@ -1769,7 +1664,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_12_10",
       "question": "El-Cezerî’nin *Kitâb fî Maʿrifat al-Hiyal* eserinde hangi ilke modern otomasyona katkı sağlar?",
       "options": [
         "Dişli mekanizmalar",
@@ -1782,7 +1676,6 @@
       "prize": 3000000
     },
     {
-      "id": "online_q_13_0",
       "question": "Kuantum fiziğinin kurucusu kimdir?",
       "options": [
         "Albert Einstein",
@@ -1795,7 +1688,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_1",
       "question": "Orta Çağ'da Avrupa’da feodal düzenin çöküşüne yol açan veba salgını hangi isimle anılır?",
       "options": [
         "Kara Ölüm",
@@ -1808,7 +1700,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_2",
       "question": "Orta Çağ'da Haçlı Seferleri'nin başlamasına neden olan Clermont Konseyi hangi yılda düzenlenmiştir?",
       "options": [
         "1095",
@@ -1821,7 +1712,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_3",
       "question": "Hangi dağ sırası, Güney Amerika'nın batı kıyısı boyunca uzanır ve dünyanın en uzun kıtasal dağ zinciridir?",
       "options": [
         "Himalayalar",
@@ -1834,7 +1724,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_4",
       "question": "İlk Çağ'da yazıyı ilk kullanan medeniyet hangisidir?",
       "options": [
         "Mısır",
@@ -1847,7 +1736,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_5",
       "question": "Hangi çöl, yüzölçümü bakımından dünyanın en büyük sıcak çölüdür?",
       "options": [
         "Gobi Çölü",
@@ -1860,7 +1748,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_6",
       "question": "Orta Çağ'da İslam'ın Altın Çağı sırasında bilimsel çalışmaların merkezi olan 'Bilgelik Evi' hangi şehirde bulunuyordu?",
       "options": [
         "Kudüs",
@@ -1873,7 +1760,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_7",
       "question": "İlk uzay yürüyüşü hangi yılda gerçekleşti?",
       "options": [
         "1963",
@@ -1886,7 +1772,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_8",
       "question": "İlk uzay istasyonunu geliştiren ülke hangisidir?",
       "options": [
         "Amerika",
@@ -1899,7 +1784,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_9",
       "question": "Hangi ada, biyoçeşitlilik açısından dünyanın en zengin bölgelerinden biri olup Madagaskar’ın doğusunda yer alır?",
       "options": [
         "Borneo",
@@ -1912,7 +1796,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_10",
       "question": "Hangi nehir, Çin’in en uzun nehri olup “Sarı Nehir” olarak da bilinir?",
       "options": [
         "Yangtze Nehri",
@@ -1925,7 +1808,6 @@
       "prize": 5000000
     },
     {
-      "id": "online_q_13_11",
       "question": "İlk Çağ’da İpek Yolu’nun en önemli ticaret merkezlerinden biri olan Petra hangi medeniyete aittir?",
       "options": [
         "Partlar",
@@ -1938,7 +1820,4 @@
       "prize": 5000000
     }
     ],
-  "totalQuestions": 149,
-  "lastUpdated": "2025-08-23",
-  "description": "Online sorular"
-}
+ }
