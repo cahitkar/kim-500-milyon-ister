@@ -197,9 +197,9 @@
       "prize": 400000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
-      "correctAnswer": 0,
+      "question": "2008 yılında bağımsızlığını ilan eden Balkan ülkesi aşağıdakilerden hangisi?",
+      "options": ["Sırbistan", "Makedonya", "Kosova", "Hırvatistan"],
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
@@ -457,4 +457,5 @@
     }
   ]
 }
+
 
