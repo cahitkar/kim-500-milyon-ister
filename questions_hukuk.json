@@ -36,9 +36,9 @@
       "prize": 5000
     },
     {
-      "question": "Türkiye'de dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
+      "question": " Kanunların şekil bakımından Anayasa’ya uygun olup olmadığını hangisi denetler?",
+      "options": ["A) Yargıtay", "B) Anayasa Mahkemesi", "C) Danıştay", "D) Uyuşmazlık Mahkemesi"],
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
@@ -457,5 +457,6 @@
     }
   ]
 }
+
 
 
