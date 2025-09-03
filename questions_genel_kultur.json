@@ -1,9 +1,9 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin başkenti neresidir?",
-      "options": ["A) İstanbul", "B) Ankara", "C) İzmir", "D) Bursa"],
-      "correctAnswer": 1,
+      "question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
+      "options": ["Demokratik", "Laik", "İnsan haklarına saygılı", " Halkçı"],
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
@@ -457,4 +457,5 @@
     }
   ]
 }
+
 
