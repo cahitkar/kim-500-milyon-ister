@@ -192,7 +192,7 @@
   {
     "question": "1982 Anayasası’na göre Sayıştay, aşağıdakilerden hangisi adına denetim görevini gerçekleştirmektedir?",
     "options": ["Cumhurbaşkanı", "Bakanlar Kurulu", "Kamu Başdenetçisi", "Türkiye Büyük Millet Meclisi"],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "level": 6,
     "prize": 400000
   },
@@ -464,6 +464,7 @@
   }
  ]
 }
+
 
 
 
