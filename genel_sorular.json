@@ -517,7 +517,7 @@
     },
     {
       "question": "Türkiye’nin Yüzölçümü Kaç Kilometre Karedir?",
-      "options": ["729.472 Kilometre Karedir.", "779.452 Kilometre Karedir.", "789.764 Kilometre Karedir.", "779.897 Kilometre Karedir."],
+      "options": ["729.472 Kilometre Karedir", "779.452 Kilometre Karedir", "789.764 Kilometre Karedir", "779.897 Kilometre Karedir"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
@@ -670,13 +670,13 @@
     },
     {
       "question": "Hangisi, Türk Halk Edebiyatı’nın bir çeşidi olan Âşık Edebiyatı geleneğinin temsilcilerinden biri değildir?",
-      "options": [ " Karacaoğlan"."Köroğlu","Aşık Paşa","Aşık Veysel"],
+      "options": [ " Karacaoğlan", "Köroğlu","Aşık Paşa","Aşık Veysel"],
       "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Kur’an’da anlatılan; 'parçalanmış kuşların canlanarak gelmesi" mucizesi hangi peygambere aittir?",
+      "question": "Kur’an’da anlatılan 'parçalanmış kuşların canlanarak gelmesi" mucizesi hangi peygambere aittir?",
       "options": [ "Hz. Musa", "Hz.İbrahim", "Hz.İsa", "Hz. Muhammed" ],
       "correctAnswer": 1,
       "level": 5,
