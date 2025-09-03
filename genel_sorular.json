@@ -1069,14 +1069,9 @@
       "prize": 800000
     },
     {
-      "question": "Tiyatroda, 'Stanislavski Sistemi'ni geliştiren Rus yönetmen kimdir?",
-      "options": [
-        "Konstantin Stanislavski",
-        "Vsevolod Meyerhold",
-        "Antonin Artaud",
-        "Jerzy Grotowski"
-      ],
-      "correctAnswer": 0,
+      "question": "'Dünya'nın Yedi Harikası'ndan' biri olarak kabul edilen asma bahçeleriyle ünlü antik şehir hangisidir?",
+      "options": ["Roma","Atina","Babil","İskenderiye " ],
+      "correctAnswer": 2,
       "level": 8,
       "prize": 800000
     },
@@ -1105,14 +1100,14 @@
       "prize": 800000
     },
     {
-      "question": "Genel kültürde, Chichen Itza hangi medeniyete aittir?",
+      "question": "1776'da imzalanan ünlü belge hangisidir?",
       "options": [
-        "Aztek",
-        "Maya",
-        "İnka",
-        "Olmec"
+        "Magna Carta",
+        "Haklar Bildirgesi",
+        "Bağımsızlık Bildirgesi",
+        "Kölelikten Kurtuluş Bildirgesi"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "level": 8,
       "prize": 800000
     },
