@@ -421,7 +421,7 @@
       "prize": 3000000
     },
     {
-      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "question": "1882 yılında Mekteb-i Sanayi-i Nefise-i Şâhâne adıyla kurulan yükseköğretim kurumunun günümüzdeki adı ?",
       "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
       "correctAnswer": 0,
       "level": 13,
@@ -429,8 +429,8 @@
     },
     {
       "question": "Türkiye'nin en büyük çayır hangisidir?",
-      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
-      "correctAnswer": 0,
+      "options": [" İstanbul Teknik Üniversitesi", "İstanbul Üniversitesi", "Mimar Sinan Güzel Sanatlar Üniversitesi", "Yıldız Üniversitesi"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
