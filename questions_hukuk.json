@@ -147,316 +147,334 @@
       "level": 5,
       "prize": 200000
     },
-    {
-      "question": "Türkiye'de yirminci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de yirmi birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de yirmi ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de yirmi üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de yirmi dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de yirmi beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de yirmi altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de yirmi yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de yirmi sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de yirmi dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de otuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de otuz birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de otuz ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de otuz üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de otuz dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de otuz beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de otuz altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de otuz yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de otuz sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de otuz dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Türkiye'de kırkıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Türkiye'de kırk birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Türkiye'de kırk ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Türkiye'de kırk üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Türkiye'de kırk dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kırk beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kırk altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kırk yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kırk sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kırk dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Türkiye'de ellinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Türkiye'de elli birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Türkiye'de elli ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Türkiye'de elli üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Türkiye'de elli dördüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Türkiye'de elli beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Türkiye'de elli altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Türkiye'de elli yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Türkiye'de elli sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Türkiye'de elli dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Türkiye'de altmışıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Türkiye'de altmış birinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Türkiye'de altmış ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Türkiye'de altmış üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
-      "level": 13,
-      "prize": 5000000
-    }
+    [
+  // Level 5
+  {
+    "question": "Türkiye Cumhuriyeti Anayasası’na göre, temel hak ve özgürlüklerin sınırlandırılmasında hangi ilke esas alınır?",
+    "options": ["Mutlaklık", "Orantılılık", "Eşitlik", "Özgürlük"],
+    "correctAnswer": 1,
+    "level": 5,
+    "prize": 200000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, kasten öldürme suçunun temel şeklinin cezası nedir?",
+    "options": ["7-12 yıl hapis", "12-18 yıl hapis", "Müebbet hapis", "Ağırlaştırılmış müebbet hapis"],
+    "correctAnswer": 2,
+    "level": 5,
+    "prize": 200000
+  },
+  {
+    "question": "Medeni Kanun’a göre, evliliğin mutlak butlanla batıl olması hangi durumda mümkündür?",
+    "options": ["Eşlerden birinin evli olması", "Eşlerin mal rejimi seçimi", "Nafaka ödenmemesi", "Evliliğin kısa sürmesi"],
+    "correctAnswer": 0,
+    "level": 5,
+    "prize": 200000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, anonim şirketlerde yönetim kurulunun asgari üye sayısı kaçtır?",
+    "options": ["1", "3", "5", "7"],
+    "correctAnswer": 0,
+    "level": 5,
+    "prize": 200000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari işlemin iptali davası hangi süre içinde açılmalıdır?",
+    "options": ["30 gün", "60 gün", "90 gün", "120 gün"],
+    "correctAnswer": 1,
+    "level": 5,
+    "prize": 200000
+  },
+  // Level 6
+  {
+    "question": "Anayasa’ya göre, kanunların anayasaya uygunluğunu denetleyen mahkeme hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Sayıştay"],
+    "correctAnswer": 2,
+    "level": 6,
+    "prize": 400000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, nitelikli dolandırıcılık suçunun cezası kaç yıldır?",
+    "options": ["1-5 yıl", "2-7 yıl", "3-8 yıl", "5-10 yıl"],
+    "correctAnswer": 1,
+    "level": 6,
+    "prize": 400000
+  },
+  {
+    "question": "Medeni Kanun’a göre, mirasın reddi için hangi mahkemeye başvurulur?",
+    "options": ["Asliye Hukuk Mahkemesi", "Sulh Hukuk Mahkemesi", "Aile Mahkemesi", "İcra Mahkemesi"],
+    "correctAnswer": 1,
+    "level": 6,
+    "prize": 400000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, limited şirketlerde ortakların sorumluluğu neye sınırlıdır?",
+    "options": ["Şirket borçlarının tamamı", "Taahhüt ettikleri sermaye payı", "Şirket karı", "Şirketin yönetim giderleri"],
+    "correctAnswer": 1,
+    "level": 6,
+    "prize": 400000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari işlemlerin hangi özelliği onları yargısal denetime açık hale getirir?",
+    "options": ["Kesinlik", "Yürütülürlük", "Hukuka uygunluk karinesi", "Geçicilik"],
+    "correctAnswer": 2,
+    "level": 6,
+    "prize": 400000
+  },
+  // Level 7
+  {
+    "question": "Anayasa’ya göre, olağanüstü hal ilan etme yetkisi kime aittir?",
+    "options": ["TBMM", "Cumhurbaşkanı", "Bakanlar Kurulu", "Anayasa Mahkemesi"],
+    "correctAnswer": 1,
+    "level": 7,
+    "prize": 600000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, haksız tahrik indirimi en fazla hangi oranda uygulanır?",
+    "options": ["1/3", "1/2", "2/3", "3/4"],
+    "correctAnswer": 2,
+    "level": 7,
+    "prize": 600000
+  },
+  {
+    "question": "Medeni Kanun’a göre, bir vasiyetnamenin iptali için hangi süre içinde dava açılmalıdır?",
+    "options": ["1 yıl", "3 yıl", "5 yıl", "10 yıl"],
+    "correctAnswer": 0,
+    "level": 7,
+    "prize": 600000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, tacir sıfatını kazandıran temel unsur nedir?",
+    "options": ["Vergi mükellefi olmak", "Ticari işletme işletmek", "Şirket kurucusu olmak", "Borsada işlem yapmak"],
+    "correctAnswer": 1,
+    "level": 7,
+    "prize": 600000
+  },
+  {
+    "question": "İdare Hukuku’na göre, tam yargı davası hangi tür zararların tazmini için açılır?",
+    "options": ["Yalnızca maddi zararlar", "Yalnızca manevi zararlar", "Hem maddi hem manevi zararlar", "Yalnızca idari cezalar"],
+    "correctAnswer": 2,
+    "level": 7,
+    "prize": 600000
+  },
+  // Level 8
+  {
+    "question": "Anayasa’ya göre, milletvekilliği hangi durumda düşer?",
+    "options": ["Vekilin istifa etmesi", "Vekilin başka bir işe girmesi", "Vekilin yurtdışına çıkması", "Vekilin yaşının 65’i geçmesi"],
+    "correctAnswer": 0,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, suç işlemek için örgüt kurmanın cezası nedir?",
+    "options": ["1-3 yıl hapis", "2-6 yıl hapis", "5-10 yıl hapis", "7-15 yıl hapis"],
+    "correctAnswer": 1,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "Medeni Kanun’a göre, intifa hakkının sona ermesi hangi durumda gerçekleşir?",
+    "options": ["Hak sahibinin ölümü", "Taşınmazın satışı", "Sözleşmenin yenilenmesi", "Mahkeme kararı olmadan"],
+    "correctAnswer": 0,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, anonim şirketlerde genel kurul kararları hangi çoğunlukla alınır?",
+    "options": ["Salt çoğunluk", "2/3 çoğunluk", "3/4 çoğunluk", "Oybirliği"],
+    "correctAnswer": 0,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda yürütmenin durdurulması kararı hangi mahkeme tarafından verilir?",
+    "options": ["Sulh Hukuk Mahkemesi", "İdare Mahkemesi", "Yargıtay", "Anayasa Mahkemesi"],
+    "correctAnswer": 1,
+    "level": 8,
+    "prize": 800000
+  },
+  // Level 9
+  {
+    "question": "Anayasa’ya göre, Anayasa Mahkemesi’ne bireysel başvuru hangi durumda yapılabilir?",
+    "options": ["Her türlü mahkeme kararına karşı", "Temel hak ve özgürlüklerin ihlali iddiasıyla", "İdari işlemlerin iptali için", "Vergi cezalarına karşı"],
+    "correctAnswer": 1,
+    "level": 9,
+    "prize": 1000000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, zimmet suçunun cezası kaç yıldır?",
+    "options": ["3-7 yıl", "5-12 yıl", "7-15 yıl", "10-20 yıl"],
+    "correctAnswer": 1,
+    "level": 9,
+    "prize": 1000000
+  },
+  {
+    "question": "Medeni Kanun’a göre, bir mirasçı mirastan yoksun bırakılabilir mi?",
+    "options": ["Evet, mirasbırakana ağır suç işlerse", "Hayır, miras hakkı devredilemez", "Evet, mirasçı kendi rızasıyla vazgeçerse", "Hayır, miras otomatik devredilir"],
+    "correctAnswer": 0,
+    "level": 9,
+    "prize": 1000000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, ticari defterlerin saklanma süresi kaç yıldır?",
+    "options": ["5 yıl", "7 yıl", "10 yıl", "15 yıl"],
+    "correctAnswer": 2,
+    "level": 9,
+    "prize": 1000000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda hangi ilke idari işlemlerin hukuka uygun olduğunu varsayar?",
+    "options": ["Hukuka uygunluk karinesi", "Kanunilik ilkesi", "Eşitlik ilkesi", "Şeffaflık ilkesi"],
+    "correctAnswer": 0,
+    "level": 9,
+    "prize": 1000000
+  },
+  // Level 10
+  {
+    "question": "Anayasa’ya göre, kanun hükmünde kararname çıkarma yetkisi hangi durumda TBMM’den alınır?",
+    "options": ["Olağanüstü hal sırasında", "Seçim döneminde", "TBMM tatildeyken", "Anayasa değişikliği sırasında"],
+    "correctAnswer": 0,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, rüşvet suçunun cezası kaç yıldır?",
+    "options": ["1-3 yıl", "2-5 yıl", "4-12 yıl", "7-15 yıl"],
+    "correctAnswer": 2,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": "Medeni Kanun’a göre, bir taşınmaz üzerindeki üst hakkı süresi en fazla kaç yıl olabilir?",
+    "options": ["49 yıl", "99 yıl", "150 yıl", "Sınırsız"],
+    "correctAnswer": 1,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, sermaye şirketlerinde denetim hangi organ tarafından yapılır?",
+    "options": ["Yönetim Kurulu", "Genel Kurul", "Denetim Kurulu", "Bağımsız Denetçi"],
+    "correctAnswer": 3,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda iptal davası açma hakkı kime aittir?",
+    "options": ["Herkes", "Menfaati ihlal edilenler", "Yalnızca kamu görevlileri", "Yalnızca tüzel kişiler"],
+    "correctAnswer": 1,
+    "level": 10,
+    "prize": 1500000
+  },
+  // Level 11
+  {
+    "question": "Anayasa’ya göre, temel hak ve özgürlüklerin özüne dokunulamazlık ilkesi hangi madde ile düzenlenir?",
+    "options": ["Madde 13", "Madde 15", "Madde 17", "Madde 19"],
+    "correctAnswer": 0,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, 15-18 yaş arası çocuklar için ceza indirimi oranı nedir?",
+    "options": ["1/3", "1/2", "2/3", "Tamamı"],
+    "correctAnswer": 1,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Medeni Kanun’a göre, bir taşınmazın mülkiyeti tapu siciline tescil olmadan devredilebilir mi?",
+    "options": ["Evet, noter sözleşmesiyle", "Hayır, tescil şarttır", "Evet, sözlü anlaşmayla", "Hayır, mahkeme kararı gerekir"],
+    "correctAnswer": 1,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, bir şirketin tasfiyesi hangi durumda zorunlu hale gelir?",
+    "options": ["Şirketin kâr etmesi", "Sermayenin 2/3’ünün kaybı", "Yeni ortak alınması", "Yönetim kurulu değişikliği"],
+    "correctAnswer": 1,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda kararların temyiz mercii hangisidir?",
+    "options": ["Anayasa Mahkemesi", "Yargıtay", "Danıştay", "Bölge İdare Mahkemesi"],
+    "correctAnswer": 2,
+    "level": 11,
+    "prize": 2000000
+  },
+  // Level 12
+  {
+    "question": "Anayasa’ya göre, kanunların Anayasa’ya aykırılığı iddiasıyla iptal davası kimler tarafından açılabilir?",
+    "options": ["Yalnızca vatandaşlar", "TBMM üye tam sayısının 1/5’i", "Yalnızca Cumhurbaşkanı", "Yalnızca siyasi partiler"],
+    "correctAnswer": 1,
+    "level": 12,
+    "prize": 3000000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, suçun iştirak halinde işlenmesi durumunda cezada değişiklik olur mu?",
+    "options": ["Hayır, herkes tam ceza alır", "Evet, cezada indirim yapılır", "Evet, cezada artış yapılır", "Hayır, sadece azmettirici cezalandırılır"],
+    "correctAnswer": 0,
+    "level": 12,
+    "prize": 3000000
+  },
+  {
+    "question": "Medeni Kanun’a göre, bir vasiyetnamenin şekil şartlarına aykırılığı hangi sonucu doğurur?",
+    "options": ["Vasiyetname geçersizdir", "Vasiyetname kısmen geçerlidir", "Vasiyetname mahkemece düzeltilir", "Vasiyetname otomatik onaylanır"],
+    "correctAnswer": 0,
+    "level": 12,
+    "prize": 3000000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, haksız rekabetin yaptırımı nedir?",
+    "options": ["Yalnızca para cezası", "Tazminat ve yasaklama", "Şirketin feshi", "Yalnızca uyarı"],
+    "correctAnswer": 1,
+    "level": 12,
+    "prize": 3000000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda hangi tür dava idarenin işlem yapmamasını hedefler?",
+    "options": ["İptal davası", "Tam yargı davası", "İdari sözleşme davası", "İdari işlem davası"],
+    "correctAnswer": 0,
+    "level": 12,
+    "prize": 3000000
+  },
+  // Level 13
+  {
+    "question": "Anayasa’ya göre, Anayasa değişikliği teklifinin kabulü için TBMM’de kaç oy gereklidir?",
+    "options": ["Üye tam sayısının 1/3’ü", "Üye tam sayısının 2/3’ü", "Üye tam sayısının 3/5’i", "Oybirliği"],
+    "correctAnswer": 1,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Türk Ceza Kanunu’na göre, nitelikli yağma suçunun cezası kaç yıldır?",
+    "options": ["3-7 yıl", "5-10 yıl", "7-12 yıl", "10-15 yıl"],
+    "correctAnswer": 2,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Medeni Kanun’a göre, miras paylaşımında zamanaşımı süresi nedir?",
+    "options": ["5 yıl", "10 yıl", "20 yıl", "Zamanaşımı yoktur"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Türk Ticaret Kanunu’na göre, bir anonim şirketin sermayesinin tamamı ödenmezse ne olur?",
+    "options": ["Şirket kurulamaz", "Şirket feshedilir", "Ortaklar ek ödeme yapar", "Şirket borçlanır"],
+    "correctAnswer": 0,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "İdare Hukuku’na göre, idari yargıda ‘üstün kamu yararı’ hangi durumda yürütmenin durdurulmasını engeller?",
+    "options": ["Çevre davalarında", "Telafisi güç veya imkânsız zarar doğarsa", "Kamu düzeni ve güvenliği söz konusuysa", "İdari işlem kesinleşmişse"],
+    "correctAnswer": 2,
+    "level": 13,
+    "prize": 5000000
+  }
   ]
-}
+  }"
+
 
 
 
