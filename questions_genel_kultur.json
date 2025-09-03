@@ -8,8 +8,8 @@
       "prize": 5000
     },
     {
-      "question": "Türkiye'nin en büyük şehri hangisidir?",
-      "options": ["A) Ankara", "B) İzmir", "C) İstanbul", "D) Bursa"],
+      "question": "Aşağıdaki ülkelerden hangisinin bayrağında hilal yoktur?",
+      "options": ["Tunus", "Cezayir", "Pakistan", "Irak"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
@@ -22,8 +22,8 @@
       "prize": 5000
     },
     {
-      "question": "Türkiye'nin en yüksek dağı hangisidir?",
-      "options": ["A) Erciyes", "B) Ağrı", "C) Uludağ", "D) Kaçkar"],
+      "question": "Aşağıdakilerin hangisi adli yargı ilk derece mahkemelerinden biri değildir?",
+      "options": ["Sulh Hukuk Mahkemesi", "İdare Mahkemesi", "Asliye Ceza Mahkmesi", "İcra Mahkemeleri"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
@@ -457,5 +457,6 @@
     }
   ]
 }
+
 
 
