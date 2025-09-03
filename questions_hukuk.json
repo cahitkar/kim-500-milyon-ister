@@ -43,8 +43,8 @@
       "prize": 10000
     },
     {
-      "question": "Türkiye'de beşinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "question": " Kişinin özel hukuk ilişkilerinin düzenleyen  temel kanun hangisidir?",
+      "options": ["A) Anayasa", "B) Ceza Kanunu", "C) Medeni Kanun", "D) Ticaret Kanunu"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
