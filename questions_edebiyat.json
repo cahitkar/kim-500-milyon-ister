@@ -8,11 +8,11 @@
       "prize": 5000
     },
     {
-      "question": "'Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını' anlatan atasözü hangisidir?",
-      "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
-      "correctAnswer": 0,
-      "level": 1,
-      "prize": 5000
+      "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
+      "options": ["Tolstoy", "Dostoyevski", "Çehov", "Puşkin"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
     },
     {
       "question": "'Çalıkuşu' romanının yazarı kimdir?",
@@ -450,5 +450,6 @@
     }
   ]
 }
+
 
 
