@@ -190,9 +190,9 @@
       "prize": 400000
     },
     {
-      "question": "Türkiye'de kaç doktor bulunmaktadır?",
-      "options": ["A) 50.000'dan az", "B) 50.000-100.000 arası", "C) 100.000-150.000 arası", "D) 150.000'dan fazla"],
-      "correctAnswer": 1,
+      "question": "1986 yılında uğradığı suikast sonucu hayatını kaybeden Olof Palme,aşağıdaki ülkelerin hangisinde başbakanlık yapmıştır?",
+      "options": ["Almanya", "Hollanda", "İngiltere", "İsveç"],
+      "correctAnswer": 3,
       "level": 6,
       "prize": 400000
     },
@@ -457,3 +457,4 @@
     }
   ]
 }
+
