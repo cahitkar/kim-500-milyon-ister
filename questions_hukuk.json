@@ -141,9 +141,9 @@
       "prize": 90000
     },
     {
-      "question": "Türkiye'de on dokuzuncu anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
+      "question": " Birden fazla kişinin, belirlenmiş bir payları olmaksızın aynı eşyanın tamamına malik olmaları aşağıdakilerden hangisiyle ifade edilir?",
+      "options": ["Zilyetlik", "Elbirliği", "Rehin", "Kat mülkileti"],
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
