@@ -1405,11 +1405,11 @@
       "prize": 1500000
     },
     {
-      "question": "'Yıldızlı Gece' tablosunun ressamı kimdir?",
+      "question": "Ayrımcı rejime son verme çabalarından dolayı 1993’te Nobel Barış Ödülü’nü alan ve Aralık 2013’te hayatını kaybeden, demokratik yollarla seçilen ilk Güney Afrika devlet başkanı aşağıdakilerden hangisidir?",
       "options": [
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Paul Cézanne",
+        "Hugo Chavez",
+        "Fidel Castro",
+        "Nelson Mandela",
         "Pierre-Auguste Renoir"
       ],
       "correctAnswer": 0,
