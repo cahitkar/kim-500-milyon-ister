@@ -1,9 +1,9 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1982", "C) 1984", "D) 1986"],
-      "correctAnswer": 1,
+      "question": "Ağızda lokma varken konuşulmaması, başkası konuşmasını bitirmeden araya girilmemesi gibi haller aşağıdaki kurallarından hangisine örnek teşkil eder?",
+      "options": ["A)Ahlak kuralları", "B) Din kuraları", "C) Örf ve Adet hukuku kuralları", "D) Görgü kuralları?"],
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
@@ -457,3 +457,4 @@
     }
   ]
 }
+
