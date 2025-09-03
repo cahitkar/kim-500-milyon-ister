@@ -29,11 +29,11 @@
       "prize": 5000
     },
     {
-       "question": "Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını anlatan atasözü hangisidir?",
-       "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
-       "correctAnswer": 0,
-       "level": 1,
-       "prize": 5000
+      "question": "Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını anlatan atasözü hangisidir?",
+      "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
     },
     {
       "question": "'Don Kişot' romanının yazarı kimdir?",
@@ -450,6 +450,7 @@
     }
   ]
 }
+
 
 
 
