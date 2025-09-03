@@ -7,8 +7,8 @@
       "level": 1,
       "prize": 5000
     },
-{
-      "question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
+   {
+	"question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
       "options": ["Demokratik", "Laik", "İnsan haklarına saygılı", " Halkçı"],
       "correctAnswer": 3,
       "level": 1,
