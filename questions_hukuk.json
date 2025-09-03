@@ -112,21 +112,21 @@
     "level": 4,
     "prize": 90000
    },
-    {
+   {
     "question": "Türk Ticaret Kanunu’na göre anonim şirket kurulması için en az kaç ortak gereklidir?",
     "options": ["1", "2", "3", "5"],
     "correctAnswer": 0,
     "level": 4,
     "prize": 90000
    },
-    {
+   {
     "question": "Evlât edinilen ile evlât edinenden arasında en az kaç yaş fark olmalıdır?",
     "options": ["18", "21", "25", "30"],
     "correctAnswer": 0,
     "level": 4,
     "prize": 90000
    },
-    {
+   {
       "question": "Dernek kurulması için en az kaç kişi gereklidir?",
       "options": ["3", "5", "7", "9"],
       "correctAnswer": 2,
@@ -462,8 +462,9 @@
     "level": 13,
     "prize": 5000000
   }
-  ]
+ ]
 }
+
 
 
 
