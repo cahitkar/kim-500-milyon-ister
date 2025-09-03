@@ -1,442 +1,449 @@
 {
   "questions": [
     {
-      "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
+      "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
       "options": ["Tolstoy", "Dostoyevski", "Çehov", "Puşkin"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
-    },
+    },
     {
       "question": "'Çalıkuşu' romanının yazarı kimdir?",
-      "options": ["A) Reşat Nuri Güntekin", "B) Halide Edip Adıvar", "C) Yakup Kadri Karaosmanoğlu", "D) Ömer Seyfettin"],
+      "options": ["Reşat Nuri Güntekin", "Halide Edip Adıvar", "Yakup Kadri Karaosmanoğlu", "Ömer Seyfettin"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangi şair 'Sessiz Gemi' şiirinin yazarıdır?",
-      "options": ["A) Yahya Kemal Beyatlı", "B) Nazım Hikmet", "C) Ahmet Haşim", "D) Mehmet Akif Ersoy"],
+      "options": ["Yahya Kemal Beyatlı", "Nazım Hikmet", "Ahmet Haşim", "Mehmet Akif Ersoy"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "'Kürk Mantolu Madonna' romanının yazarı kimdir?",
-      "options": ["A) Sabahattin Ali", "B) Reşat Nuri Güntekin", "C) Yakup Kadri Karaosmanoğlu", "D) Halide Edip Adıvar"],
+      "options": ["Sabahattin Ali", "Reşat Nuri Güntekin", "Yakup Kadri Karaosmanoğlu", "Halide Edip Adıvar"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
+      "question": "Hangi edebi tür şiir, roman ve tiyatro gibi türleri kapsar?",
+      "options": ["Nesir", "Şiir", "Edebiyat", "Sanat"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
       "question": "'Don Kişot' romanının yazarı kimdir?",
-      "options": ["A) Cervantes", "B) Shakespeare", "C) Goethe", "D) Dante"],
+      "options": ["Cervantes", "Shakespeare", "Goethe", "Dante"],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "'Sefiller' romanının yazarı kimdir?",
-      "options": [" Balzac", " Hugo", " Dumas", " Zola"],
+      "options": ["Balzac", "Hugo", "Dumas", "Zola"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi roman türü gerçek olayları anlatır?",
-      "options": [" Fantastik", " Tarihi", " Bilim Kurgu", " Romantik"],
+      "options": ["Fantastik", "Tarihi", "Bilim Kurgu", "Romantik"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi edebi akım 19. yüzyılda ortaya çıkmıştır?",
-      "options": [" Klasisizm", " Romantizm", " Realizm", " Sürrealizm"],
+      "options": ["Klasisizm", "Romantizm", "Realizm", "Sürrealizm"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "'Romeo ve Juliet' eserinin türü nedir?",
-      "options": [" Roman", " Şiir", " Tiyatro", " Deneme"],
+      "options": ["Roman", "Şiir", "Tiyatro", "Deneme"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi şair 'Çanakkale Şehitlerine' şiirini yazmıştır?",
-      "options": [" Mehmet Akif Ersoy", " Nazım Hikmet", " Yahya Kemal", " Tevfik Fikret"],
+      "options": ["Mehmet Akif Ersoy", "Nazım Hikmet", "Yahya Kemal", "Tevfik Fikret"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "'İstiklal Marşı'nın yazarı kimdir?",
-      "options": ["A) Namık Kemal", "B) Mehmet Akif Ersoy", "C) Tevfik Fikret", "D) Abdülhak Hamit"],
+      "options": ["Namık Kemal", "Mehmet Akif Ersoy", "Tevfik Fikret", "Abdülhak Hamit"],
       "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi şair 'Memleketim' şiirini yazmıştır?",
-      "options": [" Nazım Hikmet", " Orhan Veli", " Cahit Sıtkı Tarancı", " Fazıl Hüsnü Dağlarca"],
+      "options": ["Nazım Hikmet", "Orhan Veli", "Cahit Sıtkı Tarancı", "Fazıl Hüsnü Dağlarca"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "'Otuz Beş Yaş' şiirinin yazarı kimdir?",
-      "options": ["A) Cahit Sıtkı Tarancı", "B) Orhan Veli", "C) Nazım Hikmet", "D) Yahya Kemal"],
+      "options": ["Cahit Sıtkı Tarancı", "Orhan Veli", "Nazım Hikmet", "Yahya Kemal"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi şair 'Sakarya Türküsü' şiirini yazmıştır?",
-      "options": ["A) Necip Fazıl Kısakürek", "B) Yahya Kemal", "C) Nazım Hikmet", "D) Mehmet Akif"],
+      "options": ["Necip Fazıl Kısakürek", "Yahya Kemal", "Nazım Hikmet", "Mehmet Akif"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Malazgirt Savaşı hangi yıl yapılmıştır?",
-      "options": ["A) 1071", "B) 1081", "C) 1091", "D) 1101"],
+      "options": ["1071", "1081", "1091", "1101"],
       "correctAnswer": 0,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "'1984' romanının yazarı kimdir?",
-      "options": ["A) Aldous Huxley", "B) George Orwell", "C) Ray Bradbury", "D) H.G. Wells"],
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
       "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "'Küçük Prens' eserinin yazarı kimdir?",
-      "options": ["A) Antoine de Saint-Exupéry", "B) Jean de La Fontaine", "C) Charles Perrault", "D) Hans Christian Andersen"],
+      "options": ["Antoine de Saint-Exupéry", "Jean de La Fontaine", "Charles Perrault", "Hans Christian Andersen"],
       "correctAnswer": 0,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "'Fareler ve İnsanlar' romanının yazarı kimdir?",
-      "options": ["A) John Steinbeck", "B) Ernest Hemingway", "C) William Faulkner", "D) F. Scott Fitzgerald"],
+      "options": ["John Steinbeck", "Ernest Hemingway", "William Faulkner", "F. Scott Fitzgerald"],
       "correctAnswer": 0,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "'Şeker Portakalı' romanının yazarı kimdir?",
-      "options": ["A) José Mauro de Vasconcelos", "B) Paulo Coelho", "C) Jorge Amado", "D) Machado de Assis"],
+      "options": ["José Mauro de Vasconcelos", "Paulo Coelho", "Jorge Amado", "Machado de Assis"],
       "correctAnswer": 0,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Hangi eser 'Romeo ve Juliet' ile aynı yazar tarafından yazılmıştır?",
-      "options": ["A) Hamlet", "B) Macbeth", "C) Othello", "D) Hepsi"],
+      "options": ["Hamlet", "Macbeth", "Othello", "Hepsi"],
       "correctAnswer": 3,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "'Divan-ı Hikmet' eserinin yazarı kimdir?",
-      "options": ["A) Ahmet Yesevi", "B) Yunus Emre", "C) Mevlana", "D) Hacı Bektaş Veli"],
+      "options": ["Ahmet Yesevi", "Yunus Emre", "Mevlana", "Hacı Bektaş Veli"],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "'Kutadgu Bilig' eserinin yazarı kimdir?",
-      "options": ["A) Yusuf Has Hacip", "B) Kaşgarlı Mahmut", "C) Edip Ahmet", "D) Ahmet Yesevi"],
+      "options": ["Yusuf Has Hacip", "Kaşgarlı Mahmut", "Edip Ahmet", "Ahmet Yesevi"],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "'Atabetü'l Hakayık' eserinin yazarı kimdir?",
-      "options": ["A) Edip Ahmet", "B) Yusuf Has Hacip", "C) Kaşgarlı Mahmut", "D) Ahmet Yesevi"],
+      "options": ["Edip Ahmet", "Yusuf Has Hacip", "Kaşgarlı Mahmut", "Ahmet Yesevi"],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "'Divan-ı Lügati't Türk' eserinin yazarı kimdir?",
-      "options": ["A) Kaşgarlı Mahmut", "B) Yusuf Has Hacip", "C) Edip Ahmet", "D) Ahmet Yesevi"],
+      "options": ["Kaşgarlı Mahmut", "Yusuf Has Hacip", "Edip Ahmet", "Ahmet Yesevi"],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Amerika'yı ilk keşfeden kimdir?",
-      "options": ["A) Vasco da Gama", "B) Kristof Kolomb", "C) Ferdinand Magellan", "D) Marco Polo"],
+      "options": ["Vasco da Gama", "Kristof Kolomb", "Ferdinand Magellan", "Marco Polo"],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "'Nutuk' eserinin yazarı kimdir?",
-      "options": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Kazım Karabekir", "D) Fevzi Çakmak"],
+      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "'Geometri' kitabının yazarı kimdir?",
-      "options": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Kazım Karabekir", "D) Fevzi Çakmak"],
+      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "'Medeni Bilgiler' kitabının yazarı kimdir?",
-      "options": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Kazım Karabekir", "D) Fevzi Çakmak"],
+      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "'Cumalı Ordugahı' eserinin yazarı kimdir?",
-      "options": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Kazım Karabekir", "D) Fevzi Çakmak"],
+      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Fransız Devrimi hangi yıl gerçekleşmiştir?",
-      "options": ["A) 1789", "B) 1799", "C) 1809", "D) 1819"],
+      "options": ["1789", "1799", "1809", "1819"],
       "correctAnswer": 0,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi imparator Roma İmparatorluğu'nu Hristiyan yapmıştır?",
-      "options": ["A) Julius Caesar", "B) Augustus", "C) Konstantin", "D) Nero"],
+      "options": ["Julius Caesar", "Augustus", "Konstantin", "Nero"],
       "correctAnswer": 2,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
-      "options": ["A) 1914-1915", "B) 1915-1916", "C) 1916-1917", "D) 1917-1918"],
+      "options": ["1914-1915", "1915-1916", "1916-1917", "1917-1918"],
       "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi yıl II. Dünya Savaşı başlamıştır?",
-      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
+      "options": ["1937", "1938", "1939", "1940"],
       "correctAnswer": 2,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi yıl Berlin Duvarı yıkılmıştır?",
-      "options": ["A) 1987", "B) 1988", "C) 1989", "D) 1990"],
+      "options": ["1987", "1988", "1989", "1990"],
       "correctAnswer": 2,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
-      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
+      "options": ["1945", "1946", "1947", "1948"],
       "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
-      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "options": ["1946", "1950", "1954", "1958"],
       "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk televizyon yayını başlamıştır?",
-      "options": ["A) 1968", "B) 1971", "C) 1974", "D) 1980"],
+      "options": ["1968", "1971", "1974", "1980"],
       "correctAnswer": 0,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk radyo yayını başlamıştır?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "options": ["1927", "1930", "1933", "1936"],
       "correctAnswer": 0,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk nüfus sayımı yapılmıştır?",
-      "options": ["A) 1923", "B) 1927", "C) 1935", "D) 1940"],
+      "options": ["1923", "1927", "1935", "1940"],
       "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk üniversite kurulmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1933", "D) 1936"],
+      "options": ["1923", "1927", "1933", "1936"],
       "correctAnswer": 2,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "options": ["1927", "1930", "1933", "1936"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "options": ["1927", "1930", "1933", "1936"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "options": ["1923", "1927", "1930", "1935"],
       "correctAnswer": 3,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "options": ["1971", "1973", "1975", "1977"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın başbakan olmuştur?",
-      "options": ["A) 1990", "B) 1993", "C) 1996", "D) 1999"],
+      "options": ["1990", "1993", "1996", "1999"],
       "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın cumhurbaşkanı olmuştur?",
-      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
+      "options": ["Hiç olmamış", "2000", "2005", "2010"],
       "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "options": ["1950", "1955", "1960", "1965"],
       "correctAnswer": 0,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "options": ["1950", "1955", "1960", "1965"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "options": ["1950", "1955", "1960", "1965"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "options": ["1950", "1955", "1960", "1965"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın pilot olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "options": ["1950", "1955", "1960", "1965"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın astronot olmuştur?",
-      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
+      "options": ["Hiç olmamış", "2000", "2005", "2010"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın ressam olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "options": ["1923", "1927", "1930", "1933"],
       "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "options": ["1923", "1927", "1930", "1935"],
       "correctAnswer": 3,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "options": ["1971", "1973", "1975", "1977"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
