@@ -33,7 +33,7 @@
       "level": 1,
       "prize": 5000
     },
-{
+	{
       "question": "Aşağıdaki ülkelerden hangisinin bayrağında hilal yoktur?",
       "options": ["Tunus", "Cezayir", "Pakistan", "Irak"],
       "correctAnswer": 2,
@@ -97,7 +97,7 @@
       "level": 1,
       "prize": 5000
     },
- {
+ 	{
       "question": " İlçe yönetiminin başında aşağıdakilerden hangisi bulunur?",
       "options": ["Belediye Başkanı", "Kaymakam", "Vali", "Muhtar"],
       "correctAnswer": 1,
@@ -732,7 +732,7 @@
       "level": 5,
       "prize": 200000
     },
-   {
+   	{
       "question": "Tüm metaller arasında en yüksek elektrik iletkenliğine sahip element hangisidir?",
       "options": [
         "Altın",
@@ -864,7 +864,7 @@
       "level": 6,
       "prize": 400000
     },
-   {
+   	{
       "question": "Hangi klasik eserin yazarı Stendhal’dır?",
       "options": [
         "Sefiller",
