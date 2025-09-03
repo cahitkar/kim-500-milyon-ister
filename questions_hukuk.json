@@ -57,16 +57,16 @@
       "prize": 10000
     },
     {
-      "question": "Türkiye'de yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) ", "B) Anayasa", "C) 1982", "D) 1983"],
+      "question": "Hangisi seçimle değil, yalnızca atama yoluyla göreve gelir?",
+      "options": ["A) İl Genel Meclisi üyesi ", "B) Belediye Meclis üyeleri", "C) Vali", "D) Belediye Başkanı"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Türkiye'de sekizinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
-      "correctAnswer": 2,
+      "question": "Hangisi gerçek kişi niteliği taşır",
+      "options": ["A) Dernekler", "B) Dernekler", "C) Köyler", "D) İnsanlar"],
+      "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
