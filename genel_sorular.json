@@ -36,7 +36,7 @@
 	{
       "question": "Aşağıdaki ülkelerden hangisinin bayrağında hilal yoktur?",
       "options": ["Tunus", "Cezayir", "Pakistan", "Irak"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
@@ -63,8 +63,8 @@
     },
     {
       "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
-      "options": ["İnatçı olmak", "Hızlı hareket etmek", "Kibirli olmak", "Hiçbiri"],
-      "correctAnswer": 2,
+      "options": ["İnatçı olmak", "bir topluluğu çürüten öğeler kendi içinde bulunur", "Kibirli olmak", "Hiçbiri"],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
