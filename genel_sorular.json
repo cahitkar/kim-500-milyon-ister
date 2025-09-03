@@ -757,14 +757,14 @@
       "prize": 400000
     },
     {
-      "question": "Felsefede 'Kategorik Imperatif' kavramını kim geliştirmiştir?",
+      "question": "Nihilizm kelimesi ilk defa hangi kitapla dünyada duyuldu?",
       "options": [
-        "Immanuel Kant",
-        "Friedrich Nietzsche",
-        "Jean-Jacques Rousseau",
-        "David Hume"
+        "Sefiller",
+        "Devlet",
+        "Babalar ve Oğllar",
+        "Madam Bowary"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
