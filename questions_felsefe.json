@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Felsefenin anlamı nedir?",
+      "options": ["A) Bilgi sevgisi", "B) Bilim sevgisi", "C) Sanat sevgisi", "D) Müzik sevgisi"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Felsefenin kurucusu kimdir?",
+      "options": ["A) Aristoteles", "B) Platon", "C) Sokrates", "D) Thales"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Felsefenin ana konuları nelerdir?",
+      "options": ["A) Varlık, bilgi, değer", "B) Sadece varlık", "C) Sadece bilgi", "D) Sadece değer"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Felsefenin yöntemi nedir?",
+      "options": ["A) Deney", "B) Gözlem", "C) Akıl yürütme", "D) Hepsi"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Felsefenin amacı nedir?",
+      "options": ["A) Gerçeği bulmak", "B) Para kazanmak", "C) Ün yapmak", "D) Savaşmak"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Varlık felsefesi neyi inceler?",
+      "options": ["A) Var olan her şeyi", "B) Sadece insanı", "C) Sadece hayvanları", "D) Sadece bitkileri"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bilgi felsefesi neyi inceler?",
+      "options": ["A) Bilginin kaynağını", "B) Sadece öğrenmeyi", "C) Sadece ezberlemeyi", "D) Sadece yazmayı"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Değer felsefesi neyi inceler?",
+      "options": ["A) İyi, kötü, güzel", "B) Sadece para", "C) Sadece altın", "D) Sadece gümüş"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mantık felsefesi neyi inceler?",
+      "options": ["A) Doğru düşünme", "B) Sadece matematik", "C) Sadece geometri", "D) Sadece cebir"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Ahlak felsefesi neyi inceler?",
+      "options": ["A) Doğru ve yanlış", "B) Sadece yasalar", "C) Sadece kurallar", "D) Sadece emirler"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Sokrates'in öğretisi nedir?",
+      "options": ["A) Kendini bil", "B) Sadece oku", "C) Sadece yaz", "D) Sadece dinle"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Platon'un idealar dünyası nedir?",
+      "options": ["A) Gerçek dünya", "B) Hayali dünya", "C) Rüya dünyası", "D) Uyku dünyası"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Aristoteles'in madde-form teorisi nedir?",
+      "options": ["A) Varlık açıklaması", "B) Sadece madde", "C) Sadece form", "D) Sadece şekil"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Descartes'in 'Düşünüyorum, o halde varım' sözü ne anlama gelir?",
+      "options": ["A) Düşüncenin varlığı", "B) Sadece düşünme", "C) Sadece var olma", "D) Sadece olma"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Kant'ın ahlak felsefesi nedir?",
+      "options": ["A) Ödev ahlakı", "B) Sadece mutluluk", "C) Sadece haz", "D) Sadece acı"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hegel'in diyalektik yöntemi nedir?",
+      "options": ["A) Tez-antitez-sentez", "B) Sadece tez", "C) Sadece antitez", "D) Sadece sentez"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Marx'ın tarihsel materyalizmi nedir?",
+      "options": ["A) Ekonomik temelli tarih", "B) Sadece siyaset", "C) Sadece din", "D) Sadece sanat"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Nietzsche'nin güç istenci nedir?",
+      "options": ["A) Yaşam gücü", "B) Sadece zayıflık", "C) Sadece korku", "D) Sadece nefret"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Sartre'ın varoluşçuluğu nedir?",
+      "options": ["A) İnsan özgürlüğü", "B) Sadece kader", "C) Sadece zorunluluk", "D) Sadece tesadüf"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Foucault'nun iktidar analizi nedir?",
+      "options": ["A) Güç ilişkileri", "B) Sadece devlet", "C) Sadece hükümet", "D) Sadece yasa"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Derrida'nın yapısökümü nedir?",
+      "options": ["A) Metin analizi", "B) Sadece okuma", "C) Sadece yazma", "D) Sadece dinleme"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Deleuze'ün rizom teorisi nedir?",
+      "options": ["A) Ağ yapısı", "B) Sadece kök", "C) Sadece dal", "D) Sadece yaprak"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Baudrillard'ın simülasyon teorisi nedir?",
+      "options": ["A) Gerçeklik kopyası", "B) Sadece gerçek", "C) Sadece sahte", "D) Sadece yalan"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Lyotard'ın postmodern durum nedir?",
+      "options": ["A) Büyük anlatıların sonu", "B) Sadece hikaye", "C) Sadece masal", "D) Sadece destan"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Rorty'nin pragmatizmi nedir?",
+      "options": ["A) Faydalı olan doğru", "B) Sadece doğru", "C) Sadece yanlış", "D) Sadece güzel"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Chomsky'nin dil felsefesi nedir?",
+      "options": ["A) Evrensel dil", "B) Sadece Türkçe", "C) Sadece İngilizce", "D) Sadece Almanca"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Searle'ın zihin felsefesi nedir?",
+      "options": ["A) Bilinç analizi", "B) Sadece beyin", "C) Sadece sinir", "D) Sadece kas"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Dennett'in bilinç teorisi nedir?",
+      "options": ["A) Çoklu taslak modeli", "B) Sadece tek model", "C) Sadece iki model", "D) Sadece üç model"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Churchland'ın eliminatif materyalizmi nedir?",
+      "options": ["A) Zihinsel kavramların reddi", "B) Sadece kabul", "C) Sadece onay", "D) Sadece destek"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Fodor'ın modüler zihin teorisi nedir?",
+      "options": ["A) Zihnin bölümleri", "B) Sadece bütün", "C) Sadece parça", "D) Sadece kısım"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Putnam'ın işlevselcilik teorisi nedir?",
+      "options": ["A) Zihinsel durumlar", "B) Sadece fiziksel", "C) Sadece kimyasal", "D) Sadece biyolojik"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Kripke'nin adlandırma teorisi nedir?",
+      "options": ["A) İsim ve referans", "B) Sadece isim", "C) Sadece referans", "D) Sadece anlam"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Davidson'ın anlam teorisi nedir?",
+      "options": ["A) Doğruluk koşulları", "B) Sadece yanlış", "C) Sadece doğru", "D) Sadece güzel"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Quine'ın holizmi nedir?",
+      "options": ["A) Bütüncül bilgi", "B) Sadece parça", "C) Sadece kısım", "D) Sadece bölüm"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Goodman'ın yapıcılık teorisi nedir?",
+      "options": ["A) Dünya yapımı", "B) Sadece doğal", "C) Sadece yapay", "D) Sadece organik"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Kuhn'un paradigma teorisi nedir?",
+      "options": ["A) Bilimsel devrim", "B) Sadece evrim", "C) Sadece değişim", "D) Sadece gelişim"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Popper'ın yanlışlanabilirlik teorisi nedir?",
+      "options": ["A) Bilimsel yöntem", "B) Sadece doğrulama", "C) Sadece onay", "D) Sadece kabul"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Lakatos'ın araştırma programları nedir?",
+      "options": ["A) Bilimsel gelişim", "B) Sadece durma", "C) Sadece geri gitme", "D) Sadece sabit kalma"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Feyerabend'ın anarşizm teorisi nedir?",
+      "options": ["A) Metod kuralları yok", "B) Sadece kurallar", "C) Sadece yasalar", "D) Sadece emirler"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Laudan'ın problem çözme teorisi nedir?",
+      "options": ["A) Bilimsel ilerleme", "B) Sadece problem", "C) Sadece çözüm", "D) Sadece sonuç"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Rawls'ın adalet teorisi nedir?",
+      "options": ["A) Sosyal adalet", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Nozick'in minimal devlet teorisi nedir?",
+      "options": ["A) Sınırlı devlet", "B) Sadece büyük", "C) Sadece küçük", "D) Sadece orta"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Sandel'in komüniteryanizmi nedir?",
+      "options": ["A) Topluluk değerleri", "B) Sadece birey", "C) Sadece toplum", "D) Sadece devlet"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Taylor'ın çok kültürlülük teorisi nedir?",
+      "options": ["A) Kültürel çeşitlilik", "B) Sadece tek kültür", "C) Sadece iki kültür", "D) Sadece üç kültür"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Walzer'ın adalet teorisi nedir?",
+      "options": ["A) Sphères de justice", "B) Sadece tek alan", "C) Sadece iki alan", "D) Sadece üç alan"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Habermas'ın iletişimsel eylem teorisi nedir?",
+      "options": ["A) Rasyonel tartışma", "B) Sadece konuşma", "C) Sadece dinleme", "D) Sadece yazma"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Arendt'in siyaset felsefesi nedir?",
+      "options": ["A) Kamusal alan", "B) Sadece özel", "C) Sadece gizli", "D) Sadece kapalı"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Schmitt'in siyaset teorisi nedir?",
+      "options": ["A) Dost-düşman ayrımı", "B) Sadece dost", "C) Sadece düşman", "D) Sadece nötr"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Mouffe'ün radikal demokrasi teorisi nedir?",
+      "options": ["A) Agonistik demokrasi", "B) Sadece barış", "C) Sadece savaş", "D) Sadece uzlaşma"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Laclau'nun hegemonya teorisi nedir?",
+      "options": ["A) İktidar ilişkileri", "B) Sadece güç", "C) Sadece zayıflık", "D) Sadece eşitlik"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Butler'ın performativite teorisi nedir?",
+      "options": ["A) Cinsiyet performansı", "B) Sadece biyoloji", "C) Sadece psikoloji", "D) Sadece sosyoloji"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Spivak'ın postkolonyal teorisi nedir?",
+      "options": ["A) Alt sınıf konuşabilir mi?", "B) Sadece evet", "C) Sadece hayır", "D) Sadece belki"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Bhabha'nın hibritlik teorisi nedir?",
+      "options": ["A) Kültürel karışım", "B) Sadece saf", "C) Sadece temiz", "D) Sadece arı"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Said'in oryantalizm teorisi nedir?",
+      "options": ["A) Doğu tasviri", "B) Sadece batı", "C) Sadece kuzey", "D) Sadece güney"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Fanon'un sömürgecilik teorisi nedir?",
+      "options": ["A) Sömürge psikolojisi", "B) Sadece ekonomi", "C) Sadece siyaset", "D) Sadece kültür"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Agamben'in biyopolitika teorisi nedir?",
+      "options": ["A) Çıplak hayat", "B) Sadece giyim", "C) Sadece yemek", "D) Sadece barınma"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Rancière'in demokrasi teorisi nedir?",
+      "options": ["A) Eşitlik ilkesi", "B) Sadece eşitsizlik", "C) Sadece farklılık", "D) Sadece benzerlik"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Badiou'un varlık teorisi nedir?",
+      "options": ["A) Olay felsefesi", "B) Sadece durum", "C) Sadece hal", "D) Sadece vaziyet"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Žižek'in ideoloji teorisi nedir?",
+      "options": ["A) Gerçeklik yanılsaması", "B) Sadece gerçek", "C) Sadece yanılsama", "D) Sadece hayal"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Mouffe'ün agonistik demokrasi teorisi nedir?",
+      "options": ["A) Çatışmacı demokrasi", "B) Sadece barışçıl", "C) Sadece savaşçı", "D) Sadece nötr"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Latour'un aktör-ağ teorisi nedir?",
+      "options": ["A) Sosyal ağlar", "B) Sadece bireyler", "C) Sadece gruplar", "D) Sadece toplumlar"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Sloterdijk'in küreselleşme teorisi nedir?",
+      "options": ["A) Köpük dünyası", "B) Sadece sıvı", "C) Sadece katı", "D) Sadece gaz"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Sloterdijk'in antropoteknik teorisi nedir?",
+      "options": ["A) İnsan teknolojisi", "B) Sadece hayvan", "C) Sadece bitki", "D) Sadece mineral"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Sloterdijk'in korku teorisi nedir?",
+      "options": ["A) Toplu korku", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Sloterdijk'in öfke teorisi nedir?",
+      "options": ["A) Toplu öfke", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

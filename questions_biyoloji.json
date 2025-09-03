@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Hücrenin temel yapı taşı nedir?",
+      "options": ["A) Protein", "B) Karbonhidrat", "C) Yağ", "D) Su"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin kontrol merkezi nedir?",
+      "options": ["A) Çekirdek", "B) Mitokondri", "C) Golgi", "D) Endoplazmik retikulum"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin enerji santrali nedir?",
+      "options": ["A) Mitokondri", "B) Çekirdek", "C) Golgi", "D) Lizozom"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin paketleme merkezi nedir?",
+      "options": ["A) Golgi", "B) Mitokondri", "C) Çekirdek", "D) Ribozom"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin sindirim organeli nedir?",
+      "options": ["A) Lizozom", "B) Golgi", "C) Mitokondri", "D) Çekirdek"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "DNA'nın yapısı nasıldır?",
+      "options": ["A) Çift sarmal", "B) Tek sarmal", "C) Düz zincir", "D) Dairesel"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "RNA'nın türleri nelerdir?",
+      "options": ["A) mRNA, tRNA, rRNA", "B) Sadece mRNA", "C) Sadece tRNA", "D) Sadece rRNA"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Protein sentezi nerede gerçekleşir?",
+      "options": ["A) Ribozom", "B) Çekirdek", "C) Golgi", "D) Mitokondri"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Genetik kod kaç harflidir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mutasyon nedir?",
+      "options": ["A) Gen değişikliği", "B) Hücre bölünmesi", "C) Protein sentezi", "D) DNA kopyalama"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mitoz bölünme kaç aşamalıdır?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Mayoz bölünme kaç aşamalıdır?",
+      "options": ["A) 8", "B) 9", "C) 10", "D) 11"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Kromozom sayısı insanda kaçtır?",
+      "options": ["A) 46", "B) 44", "C) 48", "D) 50"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Cinsiyet kromozomları nelerdir?",
+      "options": ["A) X ve Y", "B) A ve B", "C) 1 ve 2", "D) Alpha ve Beta"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Gen nedir?",
+      "options": ["A) Kalıtım birimi", "B) Hücre birimi", "C) Protein birimi", "D) Enzim birimi"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Alel nedir?",
+      "options": ["A) Gen çeşidi", "B) Hücre çeşidi", "C) Protein çeşidi", "D) Enzim çeşidi"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Dominant gen nedir?",
+      "options": ["A) Baskın gen", "B) Çekinik gen", "C) Orta gen", "D) Karışık gen"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Resesif gen nedir?",
+      "options": ["A) Çekinik gen", "B) Baskın gen", "C) Orta gen", "D) Karışık gen"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Heterozigot nedir?",
+      "options": ["A) Farklı aleller", "B) Aynı aleller", "C) Benzer aleller", "D) Karışık aleller"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Homozigot nedir?",
+      "options": ["A) Aynı aleller", "B) Farklı aleller", "C) Benzer aleller", "D) Karışık aleller"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Punnett karesi ne için kullanılır?",
+      "options": ["A) Genetik hesaplama", "B) Hücre sayımı", "C) Protein ölçümü", "D) Enzim analizi"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in çaprazlama deneyleri hangi bitki ile yapılmıştır?",
+      "options": ["A) Bezelye", "B) Fasulye", "C) Mercimek", "D) Nohut"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in birinci yasası nedir?",
+      "options": ["A) Ayrılma yasası", "B) Bağımsız dağılım", "C) Dominantlık", "D) Çekiniklik"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in ikinci yasası nedir?",
+      "options": ["A) Bağımsız dağılım", "B) Ayrılma yasası", "C) Dominantlık", "D) Çekiniklik"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in üçüncü yasası nedir?",
+      "options": ["A) Dominantlık", "B) Ayrılma yasası", "C) Bağımsız dağılım", "D) Çekiniklik"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Kan grupları kaç türlüdür?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Rh faktörü nedir?",
+      "options": ["A) Kan proteini", "B) Kan hücresi", "C) Kan sıvısı", "D) Kan pıhtısı"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Evrim nedir?",
+      "options": ["A) Tür değişimi", "B) Hücre değişimi", "C) Protein değişimi", "D) Enzim değişimi"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Doğal seçilim nedir?",
+      "options": ["A) Çevreye uyum", "B) Rastgele değişim", "C) Zorla değişim", "D) İsteğe bağlı değişim"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Adaptasyon nedir?",
+      "options": ["A) Çevreye uyum", "B) Çevreye karşı koyma", "C) Çevreyi değiştirme", "D) Çevreyi yok etme"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Tür nedir?",
+      "options": ["A) Benzer canlı grubu", "B) Farklı canlı grubu", "C) Karışık canlı grubu", "D) Orta canlı grubu"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Popülasyon nedir?",
+      "options": ["A) Aynı türden bireyler", "B) Farklı türden bireyler", "C) Karışık türden bireyler", "D) Orta türden bireyler"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Ekosistem nedir?",
+      "options": ["A) Canlı ve cansız çevre", "B) Sadece canlı çevre", "C) Sadece cansız çevre", "D) Karışık çevre"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Biyoçeşitlilik nedir?",
+      "options": ["A) Canlı çeşitliliği", "B) Sadece bitki çeşitliliği", "C) Sadece hayvan çeşitliliği", "D) Sadece mikroorganizma çeşitliliği"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Besin zinciri nedir?",
+      "options": ["A) Beslenme ilişkisi", "B) Sadece av-avcı", "C) Sadece bitki-hayvan", "D) Sadece otçul-etçil"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Fotosentez nedir?",
+      "options": ["A) Işık enerjisi ile besin üretimi", "B) Sadece ışık emilimi", "C) Sadece besin üretimi", "D) Sadece enerji üretimi"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Solunum nedir?",
+      "options": ["A) Enerji üretimi", "B) Sadece oksijen alımı", "C) Sadece karbondioksit verimi", "D) Sadece su üretimi"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Osmoz nedir?",
+      "options": ["A) Su geçişi", "B) Sadece tuz geçişi", "C) Sadece şeker geçişi", "D) Sadece protein geçişi"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Difüzyon nedir?",
+      "options": ["A) Madde geçişi", "B) Sadece su geçişi", "C) Sadece gaz geçişi", "D) Sadece sıvı geçişi"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Aktif taşıma nedir?",
+      "options": ["A) Enerji ile madde taşınması", "B) Sadece pasif taşıma", "C) Sadece basit difüzyon", "D) Sadece osmoz"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Enzim nedir?",
+      "options": ["A) Biyolojik katalizör", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hormon nedir?",
+      "options": ["A) Kimyasal haberci", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Antikor nedir?",
+      "options": ["A) Bağışıklık proteini", "B) Sadece kan proteini", "C) Sadece kas proteini", "D) Sadece kemik proteini"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Antijen nedir?",
+      "options": ["A) Bağışıklık uyarıcısı", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Lenfosit nedir?",
+      "options": ["A) Bağışıklık hücresi", "B) Sadece kan hücresi", "C) Sadece kemik hücresi", "D) Sadece kas hücresi"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Nöron nedir?",
+      "options": ["A) Sinir hücresi", "B) Sadece beyin hücresi", "C) Sadece omurilik hücresi", "D) Sadece sinir hücresi"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Sinaps nedir?",
+      "options": ["A) Nöron bağlantısı", "B) Sadece nöron", "C) Sadece bağlantı", "D) Sadece ileti"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Nörotransmitter nedir?",
+      "options": ["A) Sinir ileticisi", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Refleks nedir?",
+      "options": ["A) Otomatik tepki", "B) Sadece istemli hareket", "C) Sadece öğrenilmiş hareket", "D) Sadece koşullu hareket"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Beyin nedir?",
+      "options": ["A) Merkezi sinir sistemi", "B) Sadece sinir hücresi", "C) Sadece nöron", "D) Sadece sinaps"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Kalp nedir?",
+      "options": ["A) Dolaşım organı", "B) Sadece kas", "C) Sadece damar", "D) Sadece kan"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Damar nedir?",
+      "options": ["A) Kan taşıyıcısı", "B) Sadece atardamar", "C) Sadece toplardamar", "D) Sadece kılcal damar"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Kan nedir?",
+      "options": ["A) Dolaşım sıvısı", "B) Sadece plazma", "C) Sadece hücre", "D) Sadece trombosit"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Alyuvar nedir?",
+      "options": ["A) Oksijen taşıyıcısı", "B) Sadece kan hücresi", "C) Sadece bağışıklık hücresi", "D) Sadece pıhtılaşma hücresi"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Akyuvar nedir?",
+      "options": ["A) Bağışıklık hücresi", "B) Sadece kan hücresi", "C) Sadece oksijen taşıyıcısı", "D) Sadece pıhtılaşma hücresi"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Akciğer nedir?",
+      "options": ["A) Solunum organı", "B) Sadece hava kesesi", "C) Sadece bronş", "D) Sadece alveol"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Bronş nedir?",
+      "options": ["A) Hava yolu", "B) Sadece hava kesesi", "C) Sadece akciğer", "D) Sadece alveol"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Alveol nedir?",
+      "options": ["A) Hava kesesi", "B) Sadece hava yolu", "C) Sadece bronş", "D) Sadece akciğer"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Diyafram nedir?",
+      "options": ["A) Solunum kası", "B) Sadece karın kası", "C) Sadece göğüs kası", "D) Sadece boyun kası"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Solunum nedir?",
+      "options": ["A) Gaz değişimi", "B) Sadece oksijen alımı", "C) Sadece karbondioksit verimi", "D) Sadece hava alımı"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Böbrek nedir?",
+      "options": ["A) Boşaltım organı", "B) Sadece süzme organı", "C) Sadece emme organı", "D) Sadece salgılama organı"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Nefron nedir?",
+      "options": ["A) Böbrek birimi", "B) Sadece süzme birimi", "C) Sadece emme birimi", "D) Sadece salgılama birimi"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Üre nedir?",
+      "options": ["A) Azotlu atık", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Ürik asit nedir?",
+      "options": ["A) Azotlu atık", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Kreatinin nedir?",
+      "options": ["A) Azotlu atık", "B) Sadece protein", "C) Sadece karbonhidrat", "D) Sadece yağ"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

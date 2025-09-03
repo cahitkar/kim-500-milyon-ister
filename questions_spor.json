@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'nin en popüler spor dalı hangisidir?",
+      "options": ["A) Futbol", "B) Basketbol", "C) Voleybol", "D) Güreş"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi takım Türkiye'de en çok şampiyon olmuştur?",
+      "options": ["A) Galatasaray", "B) Fenerbahçe", "C) Beşiktaş", "D) Trabzonspor"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç profesyonel futbol takımı bulunmaktadır?",
+      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk profesyonel lig kurulmuştur?",
+      "options": ["A) 1959", "B) 1960", "C) 1961", "D) 1962"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç stadyum bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi spor dalında Türkiye en başarılıdır?",
+      "options": ["A) Futbol", "B) Güreş", "C) Basketbol", "D) Voleybol"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç güreş kulübü bulunmaktadır?",
+      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk güreş federasyonu kurulmuştur?",
+      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç basketbol takımı bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-40 arası", "C) 40-60 arası", "D) 60'dan fazla"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk basketbol federasyonu kurulmuştur?",
+      "options": ["A) 1934", "B) 1935", "C) 1936", "D) 1937"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç voleybol takımı bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-40 arası", "C) 40-60 arası", "D) 60'dan fazla"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk voleybol federasyonu kurulmuştur?",
+      "options": ["A) 1948", "B) 1949", "C) 1950", "D) 1951"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç tenis kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk tenis federasyonu kurulmuştur?",
+      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç yüzme kulübü bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç atletizm kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk atletizm federasyonu kurulmuştur?",
+      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç cimnastik kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk cimnastik federasyonu kurulmuştur?",
+      "options": ["A) 1930", "B) 1931", "C) 1932", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç eskrim kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç okçuluk kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk okçuluk federasyonu kurulmuştur?",
+      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç binicilik kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk binicilik federasyonu kurulmuştur?",
+      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç yelken kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç dağcılık kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk dağcılık federasyonu kurulmuştur?",
+      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç kayak kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kayak federasyonu kurulmuştur?",
+      "options": ["A) 1936", "B) 1937", "C) 1938", "D) 1939"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç buz pateni kulübü bulunmaktadır?",
+      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç judo kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk judo federasyonu kurulmuştur?",
+      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç karate kulübü bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk karate federasyonu kurulmuştur?",
+      "options": ["A) 1985", "B) 1986", "C) 1987", "D) 1988"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç tekvando kulübü bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç boks kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk boks federasyonu kurulmuştur?",
+      "options": ["A) 1924", "B) 1925", "C) 1926", "D) 1927"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç halter kulübü bulunmaktadır?",
+      "options": ["A) 30'dan az", "B) 30-60 arası", "C) 60-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk halter federasyonu kurulmuştur?",
+      "options": ["A) 1924", "B) 1925", "C) 1926", "D) 1927"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç kürek kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç kano kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kano federasyonu kurulmuştur?",
+      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç triatlon kulübü bulunmaktadır?",
+      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk triatlon federasyonu kurulmuştur?",
+      "options": ["A) 2000", "B) 2001", "C) 2002", "D) 2003"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç bisiklet kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç masa tenisi kulübü bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk masa tenisi federasyonu kurulmuştur?",
+      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç badminton kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk badminton federasyonu kurulmuştur?",
+      "options": ["A) 1991", "B) 1992", "C) 1993", "D) 1994"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç squash kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç golf kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk golf federasyonu kurulmuştur?",
+      "options": ["A) 1996", "B) 1997", "C) 1998", "D) 1999"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç bowling kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk bowling federasyonu kurulmuştur?",
+      "options": ["A) 1998", "B) 1999", "C) 2000", "D) 2001"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç dart kulübü bulunmaktadır?",
+      "options": ["A) 30'dan az", "B) 30-60 arası", "C) 60-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç bilardo kulübü bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk bilardo federasyonu kurulmuştur?",
+      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç satranç kulübü bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk satranç federasyonu kurulmuştur?",
+      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç go kulübü bulunmaktadır?",
+      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç bridge kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk bridge federasyonu kurulmuştur?",
+      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de kaç poker kulübü bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk poker federasyonu kurulmuştur?",
+      "options": ["A) 2010", "B) 2011", "C) 2012", "D) 2013"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de kaç e-spor kulübü bulunmaktadır?",
+      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

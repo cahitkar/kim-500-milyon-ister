@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["A) İstanbul", "B) Ankara", "C) İzmir", "D) Bursa"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en büyük şehri hangisidir?",
+      "options": ["A) Ankara", "B) İzmir", "C) İstanbul", "D) Bursa"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç bölge bulunmaktadır?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en yüksek dağı hangisidir?",
+      "options": ["A) Erciyes", "B) Ağrı", "C) Uludağ", "D) Kaçkar"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": ["A) Van Gölü", "B) Tuz Gölü", "C) Beyşehir Gölü", "D) İznik Gölü"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en uzun nehri hangisidir?",
+      "options": ["A) Fırat", "B) Dicle", "C) Kızılırmak", "D) Sakarya"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük adası hangisidir?",
+      "options": ["A) Gökçeada", "B) Bozcaada", "C) Marmara", "D) Avşa"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en kalabalık bölgesi hangisidir?",
+      "options": ["A) Marmara", "B) İç Anadolu", "C) Ege", "D) Akdeniz"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük ovası hangisidir?",
+      "options": ["A) Konya Ovası", "B) Çukurova", "C) Bafra Ovası", "D) Çarşamba Ovası"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük yarımadası hangisidir?",
+      "options": ["A) Gelibolu", "B) Biga", "C) Datça", "D) Sinop"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en büyük körfezi hangisidir?",
+      "options": ["A) İzmir Körfezi", "B) Antalya Körfezi", "C) Mersin Körfezi", "D) İskenderun Körfezi"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'nin en büyük koyu hangisidir?",
+      "options": ["A) Gökova", "B) Hisarönü", "C) Fethiye", "D) Marmaris"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'nin en büyük burnu hangisidir?",
+      "options": ["A) İnceburun", "B) Baba Burnu", "C) Bozburun", "D) Gelidonya"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'nin en büyük mağarası hangisidir?",
+      "options": ["A) Damlataş", "B) Dim", "C) İnsuyu", "D) Narlıkuyu"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'nin en büyük ormanı hangisidir?",
+      "options": ["A) Belgrad Ormanı", "B) Kazdağı Ormanı", "C) Yozgat Ormanı", "D) Aladağ Ormanı"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'nin en büyük çölü hangisidir?",
+      "options": ["A) Karapınar", "B) Tuz Gölü", "C) Konya Ovası", "D) Hiçbiri"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'nin en büyük yanardağı hangisidir?",
+      "options": ["A) Erciyes", "B) Ağrı", "C) Tendürek", "D) Süphan"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'nin en yüksek şelalesi hangisidir?",
+      "options": ["A) Tortum", "B) Düden", "C) Manavgat", "D) Kurşunlu"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'nin en büyük milli parkı hangisidir?",
+      "options": ["A) Uludağ", "B) Kazdağı", "C) Yozgat Çamlığı", "D) Aladağlar"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'nin en büyük tabiat parkı hangisidir?",
+      "options": ["A) Gölcük", "B) Abant", "C) Sapanca", "D) İznik"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'nin en büyük kuş cenneti hangisidir?",
+      "options": ["A) Manyas", "B) Tuz Gölü", "C) Van Gölü", "D) İznik Gölü"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'nin en büyük sulak alanı hangisidir?",
+      "options": ["A) Tuz Gölü", "B) Van Gölü", "C) Beyşehir Gölü", "D) İznik Gölü"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'nin en büyük kanyonu hangisidir?",
+      "options": ["A) Köprülü", "B) Saklıkent", "C) Gökçeören", "D) Valla"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'nin en büyük vadisi hangisidir?",
+      "options": ["A) Ihlara", "B) Zelve", "C) Devrent", "D) Paşabağ"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'nin en büyük platosu hangisidir?",
+      "options": ["A) Bozok", "B) Cihanbeyli", "C) Haymana", "D) Obruk"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayırı hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'nin en büyük mera hangisidir?",
+      "options": ["A) Kızılırmak", "B) Sakarya", "C) Yeşilırmak", "D) Çoruh"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'nin en büyük çayır hangisidir?",
+      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

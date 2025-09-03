@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'de anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1982", "C) 1984", "D) 1986"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç anayasa kabul edilmiştir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de ilk anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1921", "B) 1924", "C) 1927", "D) 1930"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1921", "B) 1924", "C) 1927", "D) 1930"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1960", "B) 1961", "C) 1962", "D) 1963"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de onuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de on birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de on ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de on üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de on dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de on beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de on altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de on yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de on sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de on dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de yirminci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de yirmi birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de yirmi ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de yirmi üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de yirmi dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de yirmi beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de yirmi altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de yirmi yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de yirmi sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de yirmi dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de otuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de otuz birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de otuz ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de otuz üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de otuz dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de otuz beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de otuz altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de otuz yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de otuz sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de otuz dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kırkıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kırk birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kırk ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kırk üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kırk dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kırk beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kırk altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kırk yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kırk sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kırk dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de ellinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de elli birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de elli ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de elli üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de elli dördüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de elli beşinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de elli altıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de elli yedinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de elli sekizinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de elli dokuzuncu anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de altmışıncı anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de altmış birinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de altmış ikinci anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de altmış üçüncü anayasa hangi yıl kabul edilmiştir?",
+      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

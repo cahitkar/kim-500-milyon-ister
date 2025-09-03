@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "İslam dininde kaç vakit namaz vardır?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam dininde oruç hangi ayda tutulur?",
+      "options": ["A) Şaban", "B) Ramazan", "C) Recep", "D) Zilhicce"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam dininde hac hangi ayda yapılır?",
+      "options": ["A) Şaban", "B) Ramazan", "C) Recep", "D) Zilhicce"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam dininde zekat hangi maldan verilir?",
+      "options": ["A) Altın", "B) Gümüş", "C) Para", "D) Hepsi"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam dininde kelime-i şehadet kaç kelimeden oluşur?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam dininde abdest kaç uzuvdan alınır?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İslam dininde gusül kaç uzuvdan alınır?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İslam dininde teyemmüm kaç uzuvdan alınır?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İslam dininde namaz kaç rekattan oluşur?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) Değişir"],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İslam dininde rükü kaç kez yapılır?",
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İslam dininde secde kaç kez yapılır?",
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "İslam dininde tahiyyat kaç kez okunur?",
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "İslam dininde selam kaç kez verilir?",
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "İslam dininde fatiha kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "İslam dininde ihlas kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam dininde nasr kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam dininde tebbet kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam dininde fil kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "İslam dininde kureyş kaç ayettir?",
+      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "İslam dininde maun kaç ayettir?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "İslam dininde kevser kaç ayettir?",
+      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "İslam dininde kafirun kaç ayettir?",
+      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

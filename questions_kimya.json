@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Hangi element periyodik tabloda 'H' sembolü ile gösterilir?",
+      "options": ["A) Helyum", "B) Hidrojen", "C) Karbon", "D) Azot"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'O' sembolü ile gösterilir?",
+      "options": ["A) Oksijen", "B) Osmiyum", "C) Oganesson", "D) Osmium"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'C' sembolü ile gösterilir?",
+      "options": ["A) Kalsiyum", "B) Karbon", "C) Klor", "D) Kobalt"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'N' sembolü ile gösterilir?",
+      "options": ["A) Neon", "B) Azot", "C) Nikel", "D) Sodyum"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
+      "options": ["A) Flor", "B) Demir", "C) Fermiyum", "D) Flerovyum"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Au' sembolü ile gösterilir?",
+      "options": ["A) Gümüş", "B) Altın", "C) Alüminyum", "D) Arsenik"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ag' sembolü ile gösterilir?",
+      "options": ["A) Gümüş", "B) Altın", "C) Alüminyum", "D) Arsenik"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cu' sembolü ile gösterilir?",
+      "options": ["A) Karbon", "B) Kalsiyum", "C) Bakır", "D) Kobalt"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Zn' sembolü ile gösterilir?",
+      "options": ["A) Çinko", "B) Zirkonyum", "C) Zink", "D) Zirconium"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Pb' sembolü ile gösterilir?",
+      "options": ["A) Plütonyum", "B) Kurşun", "C) Polonyum", "D) Protaktinyum"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Hg' sembolü ile gösterilir?",
+      "options": ["A) Magnezyum", "B) Mangan", "C) Cıva", "D) Molibden"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Sn' sembolü ile gösterilir?",
+      "options": ["A) Kalay", "B) Kükürt", "C) Kalsiyum", "D) Karbon"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Al' sembolü ile gösterilir?",
+      "options": ["A) Alüminyum", "B) Altın", "C) Arsenik", "D) Antimon"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Si' sembolü ile gösterilir?",
+      "options": ["A) Silisyum", "B) Sodyum", "C) Kükürt", "D) Selenyum"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'P' sembolü ile gösterilir?",
+      "options": ["A) Fosfor", "B) Flor", "C) Plütonyum", "D) Polonyum"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'S' sembolü ile gösterilir?",
+      "options": ["A) Kükürt", "B) Sodyum", "C) Selenyum", "D) Stronsiyum"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cl' sembolü ile gösterilir?",
+      "options": ["A) Klor", "B) Kalsiyum", "C) Krom", "D) Kobalt"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'K' sembolü ile gösterilir?",
+      "options": ["A) Potasyum", "B) Kalsiyum", "C) Karbon", "D) Klor"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Na' sembolü ile gösterilir?",
+      "options": ["A) Sodyum", "B) Neon", "C) Nikel", "D) Azot"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ca' sembolü ile gösterilir?",
+      "options": ["A) Kalsiyum", "B) Karbon", "C) Klor", "D) Krom"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Mg' sembolü ile gösterilir?",
+      "options": ["A) Magnezyum", "B) Mangan", "C) Molibden", "D) Meitnerium"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Mn' sembolü ile gösterilir?",
+      "options": ["A) Mangan", "B) Magnezyum", "C) Molibden", "D) Meitnerium"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cr' sembolü ile gösterilir?",
+      "options": ["A) Krom", "B) Karbon", "C) Klor", "D) Kalsiyum"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Co' sembolü ile gösterilir?",
+      "options": ["A) Kobalt", "B) Karbon", "C) Klor", "D) Kalsiyum"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ni' sembolü ile gösterilir?",
+      "options": ["A) Nikel", "B) Neon", "C) Azot", "D) Sodyum"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'W' sembolü ile gösterilir?",
+      "options": ["A) Tungsten", "B) Vanadyum", "C) Wolfram", "D) Wismut"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'V' sembolü ile gösterilir?",
+      "options": ["A) Vanadyum", "B) Vanadium", "C) Vanadium", "D) Vanadium"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Mo' sembolü ile gösterilir?",
+      "options": ["A) Molibden", "B) Mangan", "C) Magnezyum", "D) Meitnerium"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'U' sembolü ile gösterilir?",
+      "options": ["A) Uranyum", "B) Uranium", "C) Uranium", "D) Uranium"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Th' sembolü ile gösterilir?",
+      "options": ["A) Toryum", "B) Thorium", "C) Thorium", "D) Thorium"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ra' sembolü ile gösterilir?",
+      "options": ["A) Radyum", "B) Radium", "C) Radium", "D) Radium"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Rn' sembolü ile gösterilir?",
+      "options": ["A) Radon", "B) Radon", "C) Radon", "D) Radon"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Fr' sembolü ile gösterilir?",
+      "options": ["A) Fransiyum", "B) Francium", "C) Francium", "D) Francium"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ac' sembolü ile gösterilir?",
+      "options": ["A) Aktinyum", "B) Actinium", "C) Actinium", "D) Actinium"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Pa' sembolü ile gösterilir?",
+      "options": ["A) Protaktinyum", "B) Protactinium", "C) Protactinium", "D) Protactinium"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Np' sembolü ile gösterilir?",
+      "options": ["A) Neptünyum", "B) Neptunium", "C) Neptunium", "D) Neptunium"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Pu' sembolü ile gösterilir?",
+      "options": ["A) Plütonyum", "B) Plutonium", "C) Plutonium", "D) Plutonium"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Am' sembolü ile gösterilir?",
+      "options": ["A) Amerikyum", "B) Americium", "C) Americium", "D) Americium"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cm' sembolü ile gösterilir?",
+      "options": ["A) Küriyum", "B) Curium", "C) Curium", "D) Curium"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Bk' sembolü ile gösterilir?",
+      "options": ["A) Berkeliyum", "B) Berkelium", "C) Berkelium", "D) Berkelium"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cf' sembolü ile gösterilir?",
+      "options": ["A) Kaliforniyum", "B) Californium", "C) Californium", "D) Californium"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Es' sembolü ile gösterilir?",
+      "options": ["A) Einsteinium", "B) Einsteinium", "C) Einsteinium", "D) Einsteinium"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Fm' sembolü ile gösterilir?",
+      "options": ["A) Fermiyum", "B) Fermium", "C) Fermium", "D) Fermium"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Md' sembolü ile gösterilir?",
+      "options": ["A) Mendelevyum", "B) Mendelevium", "C) Mendelevium", "D) Mendelevium"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'No' sembolü ile gösterilir?",
+      "options": ["A) Nobelyum", "B) Nobelium", "C) Nobelium", "D) Nobelium"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Lr' sembolü ile gösterilir?",
+      "options": ["A) Lavrensiyum", "B) Lawrencium", "C) Lawrencium", "D) Lawrencium"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Rf' sembolü ile gösterilir?",
+      "options": ["A) Rutherfordyum", "B) Rutherfordium", "C) Rutherfordium", "D) Rutherfordium"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Db' sembolü ile gösterilir?",
+      "options": ["A) Dubniyum", "B) Dubnium", "C) Dubnium", "D) Dubnium"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Sg' sembolü ile gösterilir?",
+      "options": ["A) Seaborgiyum", "B) Seaborgium", "C) Seaborgium", "D) Seaborgium"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Bh' sembolü ile gösterilir?",
+      "options": ["A) Bohriyum", "B) Bohrium", "C) Bohrium", "D) Bohrium"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Hs' sembolü ile gösterilir?",
+      "options": ["A) Hassiyum", "B) Hassium", "C) Hassium", "D) Hassium"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Mt' sembolü ile gösterilir?",
+      "options": ["A) Meitneriyum", "B) Meitnerium", "C) Meitnerium", "D) Meitnerium"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ds' sembolü ile gösterilir?",
+      "options": ["A) Darmstadtiyum", "B) Darmstadtium", "C) Darmstadtium", "D) Darmstadtium"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Rg' sembolü ile gösterilir?",
+      "options": ["A) Röntgenyum", "B) Roentgenium", "C) Roentgenium", "D) Roentgenium"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cn' sembolü ile gösterilir?",
+      "options": ["A) Kopernikyum", "B) Copernicium", "C) Copernicium", "D) Copernicium"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Nh' sembolü ile gösterilir?",
+      "options": ["A) Nihonyum", "B) Nihonium", "C) Nihonium", "D) Nihonium"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Fl' sembolü ile gösterilir?",
+      "options": ["A) Flerovyum", "B) Flerovium", "C) Flerovium", "D) Flerovium"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Mc' sembolü ile gösterilir?",
+      "options": ["A) Moskovyum", "B) Moscovium", "C) Moscovium", "D) Moscovium"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Lv' sembolü ile gösterilir?",
+      "options": ["A) Livermoryum", "B) Livermorium", "C) Livermorium", "D) Livermorium"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ts' sembolü ile gösterilir?",
+      "options": ["A) Tenesyum", "B) Tennessine", "C) Tennessine", "D) Tennessine"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Og' sembolü ile gösterilir?",
+      "options": ["A) Oganesson", "B) Oganesson", "C) Oganesson", "D) Oganesson"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'He' sembolü ile gösterilir?",
+      "options": ["A) Helyum", "B) Hidrojen", "C) Karbon", "D) Azot"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ne' sembolü ile gösterilir?",
+      "options": ["A) Neon", "B) Azot", "C) Nikel", "D) Sodyum"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ar' sembolü ile gösterilir?",
+      "options": ["A) Argon", "B) Arsenik", "C) Altın", "D) Alüminyum"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Kr' sembolü ile gösterilir?",
+      "options": ["A) Kripton", "B) Krom", "C) Kobalt", "D) Kalsiyum"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

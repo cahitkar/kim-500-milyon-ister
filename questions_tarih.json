@@ -1,0 +1,452 @@
+{
+  "questions": [
+    {
+      "question": "Hangi yıl İstanbul fethedilmiştir?",
+      "options": ["A) 1451", "B) 1453", "C) 1455", "D) 1457"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+      "options": ["A) Orhan Bey", "B) Osman Bey", "C) Murat Bey", "D) Bayezid Bey"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yıl Osmanlı İmparatorluğu kurulmuştur?",
+      "options": ["A) 1281", "B) 1299", "C) 1307", "D) 1315"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi padişah 'Fatih' lakabıyla anılmıştır?",
+      "options": ["A) I. Mehmet", "B) II. Mehmet", "C) I. Süleyman", "D) II. Bayezid"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
+      "options": ["A) 1920", "B) 1923", "C) 1927", "D) 1938"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Malazgirt Savaşı hangi yıl yapılmıştır?",
+      "options": ["A) 1071", "B) 1081", "C) 1091", "D) 1101"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Kurtuluş Savaşı başlamıştır?",
+      "options": ["A) 1919", "B) 1920", "C) 1921", "D) 1922"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Kurtuluş Savaşı bitmiştir?",
+      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Lozan Antlaşması imzalanmıştır?",
+      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de saltanat kaldırılmıştır?",
+      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi savaş I. Dünya Savaşı'nı sona erdirmiştir?",
+      "options": ["A) Verdun Savaşı", "B) Somme Savaşı", "C) Marne Savaşı", "D) Hiçbiri"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl I. Dünya Savaşı başlamıştır?",
+      "options": ["A) 1912", "B) 1914", "C) 1916", "D) 1918"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl I. Dünya Savaşı bitmiştir?",
+      "options": ["A) 1916", "B) 1917", "C) 1918", "D) 1919"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl II. Dünya Savaşı bitmiştir?",
+      "options": ["A) 1943", "B) 1944", "C) 1945", "D) 1946"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl Soğuk Savaş başlamıştır?",
+      "options": ["A) 1945", "B) 1947", "C) 1949", "D) 1951"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Amerika'yı ilk keşfeden kimdir?",
+      "options": ["A) Vasco da Gama", "B) Kristof Kolomb", "C) Ferdinand Magellan", "D) Marco Polo"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Amerika keşfedilmiştir?",
+      "options": ["A) 1492", "B) 1498", "C) 1500", "D) 1502"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Hindistan'a deniz yolu bulunmuştur?",
+      "options": ["A) 1492", "B) 1498", "C) 1500", "D) 1502"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Dünya'nın etrafı dolaşılmıştır?",
+      "options": ["A) 1519", "B) 1522", "C) 1525", "D) 1528"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl İpek Yolu keşfedilmiştir?",
+      "options": ["A) 1200", "B) 1250", "C) 1300", "D) 1350"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Fransız Devrimi hangi yıl gerçekleşmiştir?",
+      "options": ["A) 1789", "B) 1799", "C) 1809", "D) 1819"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Sanayi Devrimi başlamıştır?",
+      "options": ["A) 1750", "B) 1760", "C) 1770", "D) 1780"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Fransız Devrimi bitmiştir?",
+      "options": ["A) 1799", "B) 1804", "C) 1809", "D) 1814"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Napolyon imparator olmuştur?",
+      "options": ["A) 1799", "B) 1804", "C) 1809", "D) 1814"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Waterloo Savaşı yapılmıştır?",
+      "options": ["A) 1812", "B) 1815", "C) 1818", "D) 1821"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
+      "options": ["A) 1914-1915", "B) 1915-1916", "C) 1916-1917", "D) 1917-1918"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Çanakkale Savaşı başlamıştır?",
+      "options": ["A) 1914", "B) 1915", "C) 1916", "D) 1917"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Çanakkale Savaşı bitmiştir?",
+      "options": ["A) 1915", "B) 1916", "C) 1917", "D) 1918"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Sakarya Savaşı yapılmıştır?",
+      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Büyük Taarruz başlamıştır?",
+      "options": ["A) 1921", "B) 1922", "C) 1923", "D) 1924"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl II. Dünya Savaşı başlamıştır?",
+      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Pearl Harbor saldırısı olmuştur?",
+      "options": ["A) 1940", "B) 1941", "C) 1942", "D) 1943"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl D-Day çıkarması yapılmıştır?",
+      "options": ["A) 1943", "B) 1944", "C) 1945", "D) 1946"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl atom bombası atılmıştır?",
+      "options": ["A) 1944", "B) 1945", "C) 1946", "D) 1947"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Soğuk Savaş bitmiştir?",
+      "options": ["A) 1987", "B) 1989", "C) 1991", "D) 1993"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
+      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
+      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk televizyon yayını başlamıştır?",
+      "options": ["A) 1968", "B) 1971", "C) 1974", "D) 1980"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk radyo yayını başlamıştır?",
+      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk nüfus sayımı yapılmıştır?",
+      "options": ["A) 1923", "B) 1927", "C) 1935", "D) 1940"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk üniversite kurulmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1933", "D) 1936"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
+      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
+      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
+      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın başbakan olmuştur?",
+      "options": ["A) 1990", "B) 1993", "C) 1996", "D) 1999"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın cumhurbaşkanı olmuştur?",
+      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın pilot olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın astronot olmuştur?",
+      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın ressam olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
+      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}

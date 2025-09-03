@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
+      "options": ["A) İsmet İnönü", "B) Mustafa Kemal Atatürk", "C) Celal Bayar", "D) Fahri Korutürk"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç parti bulunmaktadır?",
+      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
+      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç milletvekili bulunmaktadır?",
+      "options": ["A) 400", "B) 500", "C) 600", "D) 700"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
+      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de kaç bakan bulunmaktadır?",
+      "options": ["A) 10'dan az", "B) 10-20 arası", "C) 20-30 arası", "D) 30'dan fazla"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
+      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç vali bulunmaktadır?",
+      "options": ["A) 50'den az", "B) 50-60 arası", "C) 60-70 arası", "D) 70'den fazla"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın vali olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç belediye başkanı bulunmaktadır?",
+      "options": ["A) 100'den az", "B) 100-500 arası", "C) 500-1000 arası", "D) 1000'den fazla"],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de kaç il bulunmaktadır?",
+      "options": ["A) 70'den az", "B) 70-80 arası", "C) 80-90 arası", "D) 90'dan fazla"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
+      "options": ["A) 1930", "B) 1933", "C) 1935", "D) 1938"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç ilçe bulunmaktadır?",
+      "options": ["A) 500'den az", "B) 500-700 arası", "C) 700-900 arası", "D) 900'dan fazla"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın belediye başkanı olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç köy bulunmaktadır?",
+      "options": ["A) 10.000'den az", "B) 10.000-20.000 arası", "C) 20.000-30.000 arası", "D) 30.000'dan fazla"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye'de kaç mahalle bulunmaktadır?",
+      "options": ["A) 20.000'den az", "B) 20.000-30.000 arası", "C) 30.000-40.000 arası", "D) 40.000'dan fazla"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç hakim bulunmaktadır?",
+      "options": ["A) 5.000'den az", "B) 5.000-10.000 arası", "C) 10.000-15.000 arası", "D) 15.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç savcı bulunmaktadır?",
+      "options": ["A) 2.000'den az", "B) 2.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Türkiye'de kaç polis bulunmaktadır?",
+      "options": ["A) 100.000'dan az", "B) 100.000-200.000 arası", "C) 200.000-300.000 arası", "D) 300.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç asker bulunmaktadır?",
+      "options": ["A) 200.000'dan az", "B) 200.000-400.000 arası", "C) 400.000-600.000 arası", "D) 600.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
+      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç pilot bulunmaktadır?",
+      "options": ["A) 1.000'den az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Türkiye'de kaç öğretmen bulunmaktadır?",
+      "options": ["A) 500.000'dan az", "B) 500.000-1.000.000 arası", "C) 1.000.000-1.500.000 arası", "D) 1.500.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç doktor bulunmaktadır?",
+      "options": ["A) 50.000'dan az", "B) 50.000-100.000 arası", "C) 100.000-150.000 arası", "D) 150.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
+      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç avukat bulunmaktadır?",
+      "options": ["A) 20.000'dan az", "B) 20.000-50.000 arası", "C) 50.000-100.000 arası", "D) 100.000'dan fazla"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Türkiye'de kaç mühendis bulunmaktadır?",
+      "options": ["A) 100.000'dan az", "B) 100.000-200.000 arası", "C) 200.000-300.000 arası", "D) 300.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç mimar bulunmaktadır?",
+      "options": ["A) 10.000'dan az", "B) 10.000-20.000 arası", "C) 20.000-30.000 arası", "D) 30.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç ressam bulunmaktadır?",
+      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Türkiye'de kaç müzisyen bulunmaktadır?",
+      "options": ["A) 5.000'dan az", "B) 5.000-10.000 arası", "C) 10.000-20.000 arası", "D) 20.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç heykeltıraş bulunmaktadır?",
+      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç yazar bulunmaktadır?",
+      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Türkiye'de kaç şair bulunmaktadır?",
+      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın şair olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç gazeteci bulunmaktadır?",
+      "options": ["A) 5.000'dan az", "B) 5.000-10.000 arası", "C) 10.000-20.000 arası", "D) 20.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın gazeteci olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç sporcu bulunmaktadır?",
+      "options": ["A) 10.000'dan az", "B) 10.000-50.000 arası", "C) 50.000-100.000 arası", "D) 100.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de kaç oyuncu bulunmaktadır?",
+      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın oyuncu olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç yönetmen bulunmaktadır?",
+      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın yönetmen olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç senarist bulunmaktadır?",
+      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Türkiye'de kaç besteci bulunmaktadır?",
+      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın besteci olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç koreograf bulunmaktadır?",
+      "options": ["A) 50'dan az", "B) 50-200 arası", "C) 200-500 arası", "D) 500'dan fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın koreograf olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç dansçı bulunmaktadır?",
+      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de kaç fotoğrafçı bulunmaktadır?",
+      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın fotoğrafçı olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç grafiker bulunmaktadır?",
+      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın grafiker olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç tasarımcı bulunmaktadır?",
+      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de kaç arkeolog bulunmaktadır?",
+      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın arkeolog olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de kaç tarihçi bulunmaktadır?",
+      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi yıl Türkiye'de ilk kadın tarihçi olmuştur?",
+      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de kaç felsefeci bulunmaktadır?",
+      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}
