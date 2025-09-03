@@ -62,8 +62,8 @@
       "prize": 5000
     },
     {
-      "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
-      "options": ["İnatçı olmak", "bir topluluğu çürüten öğeler kendi içinde bulunur", "Kibirli olmak", "Hiçbiri"],
+      "question": "“Hangi atasözü, bir kişinin kendi ortamında daha değerli olduğunu ifade eder?",
+      "options": ["Elbise insanı kral yapar", "Taş yerinde ağırdır", "Erken kalkan yol alır", "Hiçbiri"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
@@ -212,48 +212,48 @@
       "prize": 5000
     },
     {
-      "question": "Hangi dağ Türkiye’nin ikinci en yüksek dağıdır?",
+      "question": " 'Etekleri zil çalmak' deyimi aşağıdaki deyimlerden hangisi ile benzer  duyguyu ifade eder?",
       "options": [
-        "Erciyes Dağı",
-        "Kaçkar Dağı",
-        "Süphan Dağı",
-        "Cilo Dağı"
+        "Etekleri tutuşmak",
+        "Ağzı kulaklarına varmak",
+        "Ateş bacayı sarmış",
+        "Küçük dilini yutmak"
       ],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi göl Türkiye’nin en derin gölüdür?",
+      "question": "Türkiye'nin Maldivleri diye ün yapmış gölü ?",
       "options": [
         "Salda Gölü",
         "Çıldır Gölü",
         "Hazar Gölü",
-        "Van Gölü"
+        "Beyşehir"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi nehir Türkiye’de doğup Karadeniz’e dökülür?",
+      "question": "Hangi nehir Türkiye’de doğup, Karadeniz’e Türkiye dışından dökülür?",
       "options": [
         "Meriç",
         "Gediz",
         "Seyhan",
-        "Yeşilırmak"
+        "Çoruh"
       ],
       "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi il Marmara Bölgesi’nde yer almaz?",
+      "question": "'Yurtdışında doğup' Türkiyeden denize dökülen ırmak hangisidir?",
       "options": [
-        "Bursa",
-        "Kocaeli",
-        "Balıkesir",
-        "Bolu"
+        "Menderes",
+        "Fırat",
+        "Dicle",
+        "Asi"
       ],
       "correctAnswer": 3,
       "level": 2,
@@ -272,10 +272,10 @@
       "prize": 10000
     },
     {
-      "question": "Hangi il Güneydoğu Anadolu Bölgesi’nde yer alır?",
+      "question": "Peri Bacaları Hangi İlimizdedir?",
       "options": [
-        "Malatya",
-        "Kilis",
+        "Kırşehir",
+        "Nevşehir",
         "Kahramanmaraş",
         "Sivas"
       ],
