@@ -2,15 +2,15 @@
   "questions": [
     {
       "question": "Ağızda lokma varken konuşulmaması, başkası konuşmasını bitirmeden araya girilmemesi gibi haller aşağıdaki kurallarından hangisine örnek teşkil eder?",
-      "options": ["A)Ahlak kuralları", "B) Din kuraları", "C) Örf ve Adet hukuku kuralları", "D) Görgü kuralları?"],
+      "options": ["A)Ahlak kuralları", "B) Din kuraları", "C) Örf ve Adet hukuku kuralları", "D) Görgü kuralları"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Türkiye'de kaç anayasa kabul edilmiştir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
+      "question": "Hangisi seçimle işbaşına gelir?",
+      "options": ["A) Vali", "B) Kaymakam", "C) Müftü", "D) Belediye Başkanı"],
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
@@ -22,16 +22,16 @@
       "prize": 5000
     },
     {
-      "question": "Türkiye'de ikinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1921", "B) 1924", "C) 1927", "D) 1930"],
-      "correctAnswer": 1,
+      "question": "Cumhurbaşkanı kaç yıl için seçilir?",
+      "options": ["A) 7", "B) 6", "C) 5", "D) 4"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Türkiye'de üçüncü anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1960", "B) 1961", "C) 1962", "D) 1963"],
-      "correctAnswer": 1,
+      "question": "Bir devlete uyrukluk bağı ile bağlı olan gerçek kişilere ne ad verilir?",
+      "options": ["A) Soydaş", "B) Millet", "C) Birey", "D) Vatandaş"],
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
@@ -457,4 +457,5 @@
     }
   ]
 }
+
 
