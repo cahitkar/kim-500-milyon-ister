@@ -29,56 +29,56 @@
       "prize": 5000
     },
     {
-        "question": "Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını anlatan atasözü hangisidir?",
-        "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
-        "correctAnswer": 0,
-        "level": 1,
-        "prize": 5000
+       "question": "Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını anlatan atasözü hangisidir?",
+       "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
+       "correctAnswer": 0,
+       "level": 1,
+       "prize": 5000
     },
     {
-        "question": "Hangi atasözü, zor ve sıkıntılı zamanlarda kişiye yakınlarının destek olacağını ifade eder?",
-        "options": ["Adam ahbabından bellidir", "Ağaç düşse de yakınına yaslanır", "Dost acı söyler", "İyilik eden iyilik bulur"],
+       "question": "Hangi atasözü, zor ve sıkıntılı zamanlarda kişiye yakınlarının destek olacağını ifade eder?",
+       "options": ["Adam ahbabından bellidir", "Ağaç düşse de yakınına yaslanır", "Dost acı söyler", "İyilik eden iyilik bulur"],
         "correctAnswer": 1,
         "level": 1,
         "prize": 5000
     },
     {
-        "question": "Küçük yaşta başlayan çocuk terbiyesinin önemini vurgulayan atasözü hangisidir?",
-        "options": ["Akıl yaşta değil baştadır", "Ağaç yaş iken eğilir", "Bakarsan bağ, bakmazsan dağ olur", "Ev alma komşu al"],
-        "correctAnswer": 1,
-        "level": 1,
+       "question": "Küçük yaşta başlayan çocuk terbiyesinin önemini vurgulayan atasözü hangisidir?",
+       "options": ["Akıl yaşta değil baştadır", "Ağaç yaş iken eğilir", "Bakarsan bağ, bakmazsan dağ olur", "Ev alma komşu al"],
+       "correctAnswer": 1,
+       "level": 1,
+       "prize": 5000
+    },
+    {
+       "question": "Kazancımızın bir kısmını sıkıntılı günler için saklamamız gerektiğini anlatan atasözü hangisidir?",
+       "options": ["Ak akçe kara gün içindir", "Aza kanaat etmeyen çoğu hiç bulamaz", "İşten artmaz, dişten artar", "Para ile dost bulunmaz"],
+       "correctAnswer": 0,
+       "level": 1,
+       "prize": 5000
+    },
+    {
+       "question": "Birikim yapmanın önemini anlatan 'Küçük ve önemsiz gibi görünen şeyler birikerek büyük şeyleri oluşturur' atasözü hangisidir?",
+       "options": ["Az veren candan, çok veren maldan", "Damlaya damlaya göl olur", "Hazıra dağlar dayanmaz", "Sel ile gelen yel ile gider"],
+       "correctAnswer": 1,
+       "level": 1,
         "prize": 5000
     },
     {
-        "question": "Kazancımızın bir kısmını sıkıntılı günler için saklamamız gerektiğini anlatan atasözü hangisidir?",
-        "options": ["Ak akçe kara gün içindir", "Aza kanaat etmeyen çoğu hiç bulamaz", "İşten artmaz, dişten artar", "Para ile dost bulunmaz"],
-        "correctAnswer": 0,
-        "level": 1,
-        "prize": 5000
+       "question": "Bir şeyi sevmenin getirdiği sıkıntılara katlanmak gerektiğini ifade eden atasözü hangisidir?",
+       "options": ["Gülme komşuna, gelir başına", "Gülü seven dikenine katlanır", "Tatlı dil yılanı deliğinden çıkarır", "Güneş balçıkla sıvanmaz"],
+       "correctAnswer": 1,
+       "level": 1,
+       "prize": 5000
     },
     {
-        "question": "Birikim yapmanın önemini anlatan 'Küçük ve önemsiz gibi görünen şeyler birikerek büyük şeyleri oluşturur' atasözü hangisidir?",
-        "options": ["Az veren candan, çok veren maldan", "Damlaya damlaya göl olur", "Hazıra dağlar dayanmaz", "Sel ile gelen yel ile gider"],
-        "correctAnswer": 1,
-        "level": 1,
-        "prize": 5000
+       "question": "Bir şey için önceden yapılan hesapların ve planların bazen gerçeklerle çakışabileceğini anlatan atasözü hangisidir?",
+       "options": ["Evdeki hesap çarşıya uymaz", "Geç olsun da güç olmasın", "Gönülsüz yenen aş, ya karın ağrıtır, ya baş", "Her işte bir hayır vardır"],
+       "correctAnswer": 0,
+       "level": 2,
+       "prize": 10000
     },
     {
-        "question": "Bir şeyi sevmenin getirdiği sıkıntılara katlanmak gerektiğini ifade eden atasözü hangisidir?",
-        "options": ["Gülme komşuna, gelir başına", "Gülü seven dikenine katlanır", "Tatlı dil yılanı deliğinden çıkarır", "Güneş balçıkla sıvanmaz"],
-        "correctAnswer": 1,
-        "level": 1,
-        "prize": 5000
-    },
-    {
-        "question": "Bir şey için önceden yapılan hesapların ve planların bazen gerçeklerle çakışabileceğini anlatan atasözü hangisidir?",
-        "options": ["Evdeki hesap çarşıya uymaz", "Geç olsun da güç olmasın", "Gönülsüz yenen aş, ya karın ağrıtır, ya baş", "Her işte bir hayır vardır"],
-        "correctAnswer": 0,
-        "level": 2,
-        "prize": 10000
-    },
-    {
-        "question": "Çalışmanın, insandaki isteksizliği bitirip onu canlı ve etkili kıldığını anlatan atasözü hangisidir?",
+       "question": "Çalışmanın, insandaki isteksizliği bitirip onu canlı ve etkili kıldığını anlatan atasözü hangisidir?",
         "options": ["İş insanın aynasıdır", "Nerede hareket, orada bereket", "İşleyen demir ışıldar", "Akan su yosun tutmaz"],
         "correctAnswer": 2,
         "level": 2,
@@ -527,6 +527,7 @@
     }
   ]
 }
+
 
 
 
