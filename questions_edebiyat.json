@@ -237,7 +237,7 @@
         "correctAnswer": 2,
         "level": 5,
         "prize": 100000
-    }
+    },
     {
       "question": "'Don Kişot' romanının yazarı kimdir?",
       "options": ["A) Cervantes", "B) Shakespeare", "C) Goethe", "D) Dante"],
@@ -653,5 +653,6 @@
     }
   ]
 }
+
 
 
