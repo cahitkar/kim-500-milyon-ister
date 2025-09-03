@@ -475,7 +475,7 @@
       "level": 3,
       "prize": 30000
     },
-	 {
+	{
       "question": "Olimpiyatlarda çekiç atmada, kullanılan 'çekiç'in' ağırlığı erkekler ve kadınlar için kaç kilogramdır?",
       "options": [
        "Erkekler 6.5 kg, Kadınlar 4.5 kg",
@@ -484,6 +484,41 @@
 	   "Erkekler 8 kg, Kadınlar 5 kg"
       ],
       "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+	{
+      "question": "Türkiye'nin en büyük körfezi hangisidir?",
+      "options": ["İzmir Körfezi", "Antalya Körfezi", "Mersin Körfezi", "İskenderun Körfezi"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Hangisi hukukun yazılı kaynaklarından biri değildir?",
+      "options": ["Kanun", "Tüzük", "Örf ve Adet", "Yönetmelik"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Tek Kulağına Küpe Takan Osmanlı Padişahı Kimdir?",
+      "options": ["Orhan Bey", "Yavuz Sultan Selim", "Fatih Sultan Mehmet", "Sarı Selim"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Günümüzde Nüfusu En Fazla Olan İslam Ülkesi Hangisidir?",
+      "options": ["Türkiye", " Mısır", "Hindistan", " Endenozya"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Türkiye’nin Yüzölçümü Kaç Kilometre Karedir?",
+      "options": ["729.472 Kilometre Karedir.", "779.452 Kilometre Karedir.", "789.764 Kilometre Karedir.", "779.897 Kilometre Karedir."],
+      "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
@@ -560,23 +595,23 @@
       "prize": 90000
     },
     {
-      "question": "'Havada Bulut Yok' şiirinin yazarı kimdir?",
+      "question": "'Nazım Hikmet'e ait "Ceviz Ağacı" şiirinin şarkı olarak söyleyen sanatçı kimdir?",
       "options": [
-        "Edip Cansever",
-        "Orhan Veli Kanık",
-        "Turgut Uyar",
-        "Cemal Süreya"
+        "Barış Manço",
+        "Cem Karaca",
+        "Mazhar Alanson ",
+        "Fuat Güner"
       ],
       "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
-      "question": "'Kırlangıç Çığlığı' eserinin yazarı kimdir?",
+      "question": "'Kırlangıç Çığlığı' kitabının yazarı kimdir?",
       "options": [
         "Attilâ İlhan",
         "Edip Cansever",
-        "Cahit Zarifoğlu",
+        "Ahmet Ümit",
         "Turgut Uyar"
       ],
       "correctAnswer": 2,
@@ -608,25 +643,15 @@
       "prize": 90000
     },
     {
-      "question": "İslam'da hac ibadetinin merkezi olan şehir hangisidir?",
-      "options": [
-        "Medine",
-        "Mekke",
-        "Kudüs",
-        "Riyad"
-      ],
-      "correctAnswer": 1,
+      "question": "“Olmak ya da olmamak, işte bütün mesele bu.” sözüyle tanınan, Hamlet oyununun yazarı İngiliz edebiyatçı aşağıdakilerden hangisidir?",
+      "options": [ "George Eliot","Thomas More", "William Shakespeare","Daniel Defoe"],
+      "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Felsefede 'Cogito, ergo sum' (Düşünüyorum, öyleyse varım) sözünü kim söylemiştir?",
-      "options": [
-        "Immanuel Kant",
-        "René Descartes",
-        "John Locke",
-        "Baruch Spinoza"
-      ],
+      "question": "Aşağıdakilerden hangisi, bir ada ülkesi değildir?",
+      "options": ["Japonya", "Hindistan", "Yeni Zelanda", "İngiltere"],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
@@ -644,60 +669,40 @@
       "prize": 200000
     },
     {
-      "question": "Hukukta 'Habeas Corpus' neyi ifade eder?",
-      "options": [
-        "Suçun kanıtlanması",
-        "Haksız yere tutuklamaya karşı koruma",
-        "Mahkeme celbi",
-        "Ceza indirimi"
-      ],
+      "question": "Hangisi, Türk Halk Edebiyatı’nın bir çeşidi olan Âşık Edebiyatı geleneğinin temsilcilerinden biri değildir?",
+      "options": [ " Karacaoğlan"."Köroğlu","Aşık Paşa","Aşık Veysel"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Kur’an’da anlatılan; 'parçalanmış kuşların canlanarak gelmesi" mucizesi hangi peygambere aittir?",
+      "options": [ "Hz. Musa", "Hz.İbrahim", "Hz.İsa", "Hz. Muhammed" ],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Tıpta ilk başarılı organ nakli hangi organdır?",
-      "options": [
-        "Karaciğer",
-        "Böbrek",
-        "Kalp",
-        "Akciğer"
-      ],
+      "question": "Aşağıdaki hormonlardan hangisi insanlarda kaçma ve saldırı davranışları ile doğrudan ilgilidir?",
+      "options": ["Progesteron","Adrenalin","Östrojen", "Prolaktin" ],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Biyolojide 'mitoz' hangi süreci ifade eder?",
-      "options": [
-        "Hücre bölünmesi",
-        "Hücre solunumu",
-        "Protein sentezi",
-        "DNA replikasyonu"
-      ],
+      "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [Babamın erkek kardeşi dayım olur","Annemin kız kardeşi teyzem olur","Babamın kız kardeşi halam olur","Halamın tek erkek kardeşi babam olur" ],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Tiyatroda 'absürt tiyatro' türünün öncüsü olarak kabul edilen yazar kimdir?",
+      "question": " Hangisi kartal ailesinden küçük bir yırtıcı kuştur?",
       "options": [
-        "Samuel Beckett",
-        "Bertolt Brecht",
-        "Anton Çehov",
-        "Henrik Ibsen"
-      ],
-      "correctAnswer": 0,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Hangi film, 1994 yılında En İyi Film Oscar’ını kazanmıştır?",
-      "options": [
-        "Pulp Fiction",
-        "Forrest Gump",
-        "The Shawshank Redemption",
-        "Speed"
+        "Karga",
+        "Atmaca",
+        "Serçe",
+        "Güvercin"
       ],
       "correctAnswer": 1,
       "level": 5,
