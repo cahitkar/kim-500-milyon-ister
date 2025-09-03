@@ -414,23 +414,23 @@
       "prize": 3000000
     },
     {
-      "question": "Türkiye'nin en büyük çayır hangisidir?",
-      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
-      "correctAnswer": 0,
+      "question": "Türkiye aşağıdaki uluslararası örgütlerden hangisine üye değildir?",
+      "options": [" İslam Konferansı Örgütü (İKÖ)", " Bağımsız Devletler Topluluğu (BDT)", "Ekonomik İşbirliği Örgütü (ECO)", "Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT)"],
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "1882 yılında Mekteb-i Sanayi-i Nefise-i Şâhâne adıyla kurulan yükseköğretim kurumunun günümüzdeki adı nedir ?",
-      "options": ["A) Yaylacık", "B) Çamlıyayla", "C) Ayder", "D) Pokut"],
+      "options": ["İstanbul Teknik Üniversitesi", "İstanbul Üniversitesi", "Mimar Sinan Güzel Sanatlar Üniversitesi", "Yıldız Üniversitesi"],
       "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Türkiye'nin en büyük çayır hangisidir?",
-      "options": [" İstanbul Teknik Üniversitesi", "İstanbul Üniversitesi", "Mimar Sinan Güzel Sanatlar Üniversitesi", "Yıldız Üniversitesi"],
-      "correctAnswer": 2,
+      "question": "2014 yılında, Kemerlerinizi Bağlayınız adlı filmi ile İtalya’nın prestijli ödüllerinden Nastri d’Argento’da 3 dalda ödüle layık görülen, İtalya’da yaşayan ünlü yönetmen aşağıdakilerden hangisidir?",
+      "options": ["Mustafa Altıoklar", "Zeki Demirkubuz", "Sinan Çetin", "Ferzan Özpetek"],
+      "correctAnswer": 3,
       "level": 13,
       "prize": 5000000
     },
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
