@@ -29,12 +29,216 @@
       "prize": 5000
     },
     {
-      "question": "Hangi edebi tür şiir, roman ve tiyatro gibi türleri kapsar?",
-      "options": ["A) Nesir", "B) Şiir", "C) Edebiyat", "D) Sanat"],
-      "correctAnswer": 2,
-      "level": 1,
-      "prize": 5000
-    },
+        "question": "Bir işte çok acele edildiği zaman istenilen sonucun ortaya çıkmayacağını anlatan atasözü hangisidir?",
+        "options": ["Acele işin sonu pişmanlık", "Ağır taş yerinden oynamaz", "Ağaç yaş iken eğilir", "Damlaya damlaya göl olur"],
+        "correctAnswer": 0,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Hangi atasözü, zor ve sıkıntılı zamanlarda kişiye yakınlarının destek olacağını ifade eder?",
+        "options": ["Adam ahbabından bellidir", "Ağaç düşse de yakınına yaslanır", "Dost acı söyler", "İyilik eden iyilik bulur"],
+        "correctAnswer": 1,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Küçük yaşta başlayan çocuk terbiyesinin önemini vurgulayan atasözü hangisidir?",
+        "options": ["Akıl yaşta değil baştadır", "Ağaç yaş iken eğilir", "Bakarsan bağ, bakmazsan dağ olur", "Ev alma komşu al"],
+        "correctAnswer": 1,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Kazancımızın bir kısmını sıkıntılı günler için saklamamız gerektiğini anlatan atasözü hangisidir?",
+        "options": ["Ak akçe kara gün içindir", "Aza kanaat etmeyen çoğu hiç bulamaz", "İşten artmaz, dişten artar", "Para ile dost bulunmaz"],
+        "correctAnswer": 0,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Birikim yapmanın önemini anlatan 'Küçük ve önemsiz gibi görünen şeyler birikerek büyük şeyleri oluşturur.' atasözü hangisidir?",
+        "options": ["Az veren candan, çok veren maldan", "Damlaya damlaya göl olur", "Hazıra dağlar dayanmaz", "Sel ile gelen yel ile gider"],
+        "correctAnswer": 1,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Bir şeyi sevmenin getirdiği sıkıntılara katlanmak gerektiğini ifade eden atasözü hangisidir?",
+        "options": ["Gülme komşuna, gelir başına", "Gülü seven dikenine katlanır", "Tatlı dil yılanı deliğinden çıkarır", "Güneş balçıkla sıvanmaz"],
+        "correctAnswer": 1,
+        "level": 1,
+        "prize": 5000
+    },
+    {
+        "question": "Bir şey için önceden yapılan hesapların ve planların bazen gerçeklerle çakışabileceğini anlatan atasözü hangisidir?",
+        "options": ["Evdeki hesap çarşıya uymaz", "Geç olsun da güç olmasın", "Gönülsüz yenen aş, ya karın ağrıtır, ya baş", "Her işte bir hayır vardır"],
+        "correctAnswer": 0,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Çalışmanın, insandaki isteksizliği bitirip onu canlı ve etkili kıldığını anlatan atasözü hangisidir?",
+        "options": ["İş insanın aynasıdır", "Nerede hareket, orada bereket", "İşleyen demir ışıldar", "Akan su yosun tutmaz"],
+        "correctAnswer": 2,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Çok açık ve bilinen gerçekler için ayrıca kanıt aranmayacağını ifade eden atasözü hangisidir?",
+        "options": ["Görünen köy kılavuz istemez", "Güneş balçıkla sıvanmaz", "Akıl için yol birdir", "Yanlış hesap Bağdat'tan döner"],
+        "correctAnswer": 0,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Bir kişi ne kadar çalışırsa çalışsın, eğer tutumlu olmazsa birikim yapamayacağını ifade eden atasözü hangisidir?",
+        "options": ["İşten artmaz, dişten artar", "Zahmetsiz rahmet olmaz", "Mal canın yongasıdır", "Ucuz alan pahalı alır"],
+        "correctAnswer": 0,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Küçük bir çıkar için bütün varlıklarını tehlikeye atan açgözlü kişileri anlatan atasözü hangisidir?",
+        "options": ["Keçiyi yardan uçuran bir tutam ottur", "Kimse ayranım ekşi demez", "Açık ağız aç kalmaz", "Düşmez kalkmaz bir Allah"],
+        "correctAnswer": 0,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Bir işin nasıl sonuçlanacağının başlangıcından belli olduğunu ifade eden atasözü hangisidir?",
+        "options": ["Acele işin sonu pişmanlık", "Bugünün işini yarına bırakma", "Perşembenin gelişi çarşambadan bellidir", "Öfkeyle kalkan, zararla oturur"],
+        "correctAnswer": 2,
+        "level": 2,
+        "prize": 10000
+    },
+    {
+        "question": "Yaşanan bir olayın, binlerce öğütten daha etkili olduğunu anlatan atasözü hangisidir?",
+        "options": ["Akıl akıldan üstündür", "Bir musibet bin nasihatten yeğdir", "Derdini söylemeyen derman bulamaz", "Başa gelmeyince bilinmez"],
+        "correctAnswer": 1,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "İnsanların hiç beklemediği bir anda farklı şeylerle karşılaşabileceğini ifade eden atasözü hangisidir?",
+        "options": ["Akıntıya kürek çekilmez", "Aklına gelmeyen başa gelir", "Güneş doğmadan neler doğar", "Düşmez kalkmaz bir Allah"],
+        "correctAnswer": 1,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "Bir kişi ne kadar akıllı olursa olsun, unutmaması gereken şeyin bir yere yazılması gerektiğini anlatan atasözü hangisidir?",
+        "options": ["Akıl yaşta değil baştadır", "Alim unutmuş, kalem unutmamış", "Marifet iltifata tabidir", "Su küçüğün, söz büyüğün"],
+        "correctAnswer": 1,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "Bir işte en iyinin de en iyisi olabileceğini, her zaman daha bilgilisi ve işin uzmanının bulunabileceğini ifade eden atasözü hangisidir?",
+        "options": ["El elden üstündür", "Taş yerinde ağırdır", "Bilmemek ayıp değil, sormamak ayıp", "İyiliğe iyilik her kişinin kârı"],
+        "correctAnswer": 0,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "Sürekli yalan söyleyen birine, doğruyu söylese bile kimsenin inanmayacağını anlatan atasözü hangisidir?",
+        "options": ["Yalancının mumu yatsıya kadar yanar", "Lafla peynir gemisi yürümez", "Yalancının evi yanmış, kimse inanmamış", "Ne oldum dememeli, ne olacağım demeli"],
+        "correctAnswer": 2,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "Kişinin, mesleği itibariyle yerine getirdiği hizmet konusunda iş kendisine gelince onu yapmaya fırsat bulamadığını ifade eden atasözü hangisidir?",
+        "options": ["Tereciye tere satılmaz", "Terzi kendi söküğünü dikemez", "Mum dibine ışık vermez", "Bir elin nesi var iki elin sesi var"],
+        "correctAnswer": 1,
+        "level": 3,
+        "prize": 20000
+    },
+    {
+        "question": "Bir şeyi elde etmek için sabretmenin güç olduğunu fakat sonucunun güzel olacağını anlatan atasözü hangisidir?",
+        "options": ["Sabır acıdır meyvesi tatlıdır", "Sabreden derviş, muradına ermiş", "Su uyur, düşman uyumaz", "Sükût ikrardan gelir"],
+        "correctAnswer": 0,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Bir işin iyi sonuç vermesi için gerekli araç ve gereçlerin tam olması gerektiğini veya bazı işlerin tek başına yapılamayacağını ifade eden atasözü hangisidir?",
+        "options": ["Su küçüğün, söz büyüğün", "Tek kanatla kuş uçmaz", "Ummadığın taş baş yarar", "Veren el, alandan üstündür"],
+        "correctAnswer": 1,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Öfkesine hakim olamayan kişinin kendi sağlığını ve işlerini alt üst edeceğini anlatan atasözü hangisidir?",
+        "options": ["Öfkeyle kalkan, zararla oturur", "Rüzgâr eken, fırtına biçer", "Keskin sirke küpüne zarar verir", "Hatasız kul olmaz"],
+        "correctAnswer": 2,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Toplumda başarılı, bilgili ve becerikli kimselerin kıskançlık uyandıracağını ve onlara saldıran çok kişi olacağını ifade eden atasözü hangisidir?",
+        "options": ["Meyveli ağacı taşlarlar", "Marifet iltifata tabidir", "Altın pas tutmaz", "Düşmez kalkmaz bir Allah"],
+        "correctAnswer": 0,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Herkesin, yaptığı iyilik veya kötülüğün karşılığını göreceğini ifade eden atasözü hangisidir?",
+        "options": ["İyilik eden iyilik bulur", "Ne ekersen onu biçersin", "İğneyi kendine, çuvaldızı başkasına batır", "Kusursuz dost arayan dostsuz kalır"],
+        "correctAnswer": 1,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Bir işi en iyi yapmanın yolunun, onu günü gününe, zamanında yapmak olduğunu vurgulayan atasözü hangisidir?",
+        "options": ["Geç olsun da güç olmasın", "Bugünün işini yarına bırakma", "Vakit nakittir", "İşleyen demir ışıldar"],
+        "correctAnswer": 1,
+        "level": 4,
+        "prize": 40000
+    },
+    {
+        "question": "Kendine, sevdiklerine veya sahip olduğu şeylere gelen zarardan canına gelmiş gibi acı duyan bir insanı anlatan atasözü hangisidir?",
+        "options": ["Mal canın yongasıdır", "Para ile dost bulunmaz", "Hazıra dağlar dayanmaz", "Ucuz alan pahalı alır"],
+        "correctAnswer": 0,
+        "level": 5,
+        "prize": 100000
+    },
+    {
+        "question": "Bir şeyi elde etmek için zahmet çekmeden istenilen güzel sonuçlara ulaşılamayacağını anlatan atasözü hangisidir?",
+        "options": ["Zahmetsiz rahmet olmaz", "Gönülsüz yenen aş, ya karın ağrıtır, ya baş", "Mayasız yoğurt tutmaz", "Emeksiz kazanç olmaz"],
+        "correctAnswer": 0,
+        "level": 5,
+        "prize": 100000
+    },
+    {
+        "question": "Bir işin ustasına, o işin nasıl yapılacağının öğretilemeyeceğini anlatan atasözü hangisidir?",
+        "options": ["Kelin ilacı olsa başına sürer", "Tereciye tere satılmaz", "Görünen köy kılavuz istemez", "Tatsız aşa tuz neylesin"],
+        "correctAnswer": 1,
+        "level": 5,
+        "prize": 100000
+    },
+    {
+        "question": "Önemli, küçük ve önemsiz gibi görünen şeylerin etkilerinin çok büyük olabileceğini ifade eden atasözü hangisidir?",
+        "options": ["Güneş girmeyen eve doktor girer", "Ummadığın taş baş yarar", "Bir musibet bin nasihatten yeğdir", "Yel kayadan ne koparır"],
+        "correctAnswer": 1,
+        "level": 5,
+        "prize": 100000
+    },
+    {
+        "question": "Hangi atasözü, çalışkan, dürüst ve sağlam karakterli kişilere kimsenin kolay kolay zarar veremeyeceğini belirtir?",
+        "options": ["Yalancının mumu yatsıya kadar yanar", "Yazın başı pişenin, kışın aşı pişer", "Yel kayadan ne koparır", "Kusursuz dost arayan dostsuz kalır"],
+        "correctAnswer": 2,
+        "level": 5,
+        "prize": 100000
+    },
+    {
+        "question": "Bir işi iyi yapmak için icraatın, boş sözlerden daha önemli olduğunu anlatan atasözü hangisidir?",
+        "options": ["Sora sora Bağdat bulunur", "Sütten ağzı yanan yoğurdu üfleyerek yer", "Lafla peynir gemisi yürümez", "Bir söyle iki dinle"],
+        "correctAnswer": 2,
+        "level": 5,
+        "prize": 100000
+    }
+]
     {
       "question": "'Don Kişot' romanının yazarı kimdir?",
       "options": ["A) Cervantes", "B) Shakespeare", "C) Goethe", "D) Dante"],
@@ -44,35 +248,35 @@
     },
     {
       "question": "'Sefiller' romanının yazarı kimdir?",
-      "options": ["A) Balzac", "B) Hugo", "C) Dumas", "D) Zola"],
+      "options": [" Balzac", " Hugo", " Dumas", " Zola"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi roman türü gerçek olayları anlatır?",
-      "options": ["A) Fantastik", "B) Tarihi", "C) Bilim Kurgu", "D) Romantik"],
+      "options": [" Fantastik", " Tarihi", " Bilim Kurgu", " Romantik"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi edebi akım 19. yüzyılda ortaya çıkmıştır?",
-      "options": ["A) Klasisizm", "B) Romantizm", "C) Realizm", "D) Sürrealizm"],
+      "options": [" Klasisizm", " Romantizm", " Realizm", " Sürrealizm"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "'Romeo ve Juliet' eserinin türü nedir?",
-      "options": ["A) Roman", "B) Şiir", "C) Tiyatro", "D) Deneme"],
+      "options": [" Roman", " Şiir", " Tiyatro", " Deneme"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi şair 'Çanakkale Şehitlerine' şiirini yazmıştır?",
-      "options": ["A) Mehmet Akif Ersoy", "B) Nazım Hikmet", "C) Yahya Kemal", "D) Tevfik Fikret"],
+      "options": [" Mehmet Akif Ersoy", " Nazım Hikmet", " Yahya Kemal", " Tevfik Fikret"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
@@ -86,7 +290,7 @@
     },
     {
       "question": "Hangi şair 'Memleketim' şiirini yazmıştır?",
-      "options": ["A) Nazım Hikmet", "B) Orhan Veli", "C) Cahit Sıtkı Tarancı", "D) Fazıl Hüsnü Dağlarca"],
+      "options": [" Nazım Hikmet", " Orhan Veli", " Cahit Sıtkı Tarancı", " Fazıl Hüsnü Dağlarca"],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
@@ -450,3 +654,4 @@
     }
   ]
 }
+
