@@ -16,7 +16,7 @@
     },
     {
       "question": "Türkiye'de kaç bölge bulunmaktadır?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "options": ["5", "6", "7", "8"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
