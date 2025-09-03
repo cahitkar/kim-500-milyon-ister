@@ -50,15 +50,15 @@
       "prize": 10000
     },
     {
-      "question": "Türkiye'de altıncı anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "question": " Hâkim, bir uyuşmazlığın çözümünde aşağıdakilerden hangisine diğerlerinden önce başvurur",
+      "options": ["A) Yargı kararları", "B) Anayasa", "C)  Kanun", "D) İçtihat"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Türkiye'de yedinci anayasa hangi yıl kabul edilmiştir?",
-      "options": ["A) 1980", "B) 1981", "C) 1982", "D) 1983"],
+      "options": ["A) ", "B) Anayasa", "C) 1982", "D) 1983"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
