@@ -119,8 +119,8 @@
       "prize": 10000
     },
     {
-      "question": "Türkiye'nin en büyük ovası hangisidir?",
-      "options": ["Konya Ovası", "Çukurova", "Bafra Ovası", "Çarşamba Ovası"],
+      "question": "'dağ… kavuşmaz… insan…' atasözünü doğru olarak tamamlayan sözcükler hangi seçenekte verilmiştir?",
+      "options": ["Dağa – insan – kavuşur", "Yol – yola – kavuşur", "İnsana – dağa – kavuşur", "Ay – Ay’a – kavuşur"],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
