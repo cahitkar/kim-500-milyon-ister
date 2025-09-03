@@ -36,9 +36,9 @@
       "prize": 5000
     },
     {
-      "question": "Türkiye'nin en uzun nehri hangisidir?",
-      "options": ["A) Fırat", "B) Dicle", "C) Kızılırmak", "D) Sakarya"],
-      "correctAnswer": 2,
+      "question": " İlçe yönetiminin başında aşağıdakilerden hangisi bulunur?",
+      "options": ["Belediye Başkanı", "Kaymakam", "Vali", "Muhtar"],
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
@@ -457,6 +457,7 @@
     }
   ]
 }
+
 
 
 
