@@ -488,18 +488,6 @@
       "prize": 30000
     },
     {
-      "question": "'Kaldırım Şairi' olarak bilinen Türk şair kimdir?",
-      "options": [
-        "Necip Fazıl Kısakürek",
-        "Attilâ İlhan",
-        "Cahit Zarifoğlu",
-        "Ümit Yaşar Oğuzcan"
-      ],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
       "question": "'Otuz Beş Yaş' şiirinin yazarı kimdir?",
       "options": [
         "Cemal Süreya",
@@ -516,7 +504,7 @@
       "options": [
         "Cahit Kulebeli",
         "Nazım Hikmet",
-        "Cahit Zarifoğlu",
+        "Fazıl Hüsnü Dağlarca",
         "Edip Cansever"
       ],
       "correctAnswer": 2,
@@ -524,7 +512,7 @@
       "prize": 90000
     },
     {
-      "question": "'Hâşim’e' şiirinin yazarı kimdir?",
+      "question": "'Saatleri Ayarlama Enstitüs' eserinin yazarı kimdir?",
       "options": [
         "Ahmet Hamdi Tanpınar",
         "Yahya Kemal Beyatlı",
@@ -536,7 +524,7 @@
       "prize": 90000
     },
     {
-      "question": "'Büyük Saat' eserinin yazarı kimdir?",
+      "question": "'Büyük Saat' şiir kitabının yazarı kimdir?",
       "options": [
         "Cemal Süreya",
         "Cahit Zarifoğlu",
@@ -560,12 +548,12 @@
       "prize": 90000
     },
     {
-      "question": "'Oteller Hanlar Hamamlar İçin Şiir' eserinin yazarı kimdir?",
+      "question": "'Mono Roza' şiirinin şairi kimdir?",
       "options": [
         "Cahit Sıtkı Tarancı",
-        "Cahit Zarifoğlu",
+        "Abdurrahim Karakoç",
         "Attilâ İlhan",
-        "Edip Cansever"
+        "Sezai Karakoç"
       ],
       "correctAnswer": 3,
       "level": 4,
