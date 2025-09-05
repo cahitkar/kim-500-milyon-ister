@@ -501,31 +501,27 @@
     "prize": 5000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+    "question": "Alexandre Dumas’nın Monte Kristo Kontu adlı eserinin ana konusu nedir ve başkahramanı kimdir?",
+    "options": ["Aile bağları ve fedakârlık, başkahraman Hester Prynne.",
+      "Aşk ve ihanet, başkahraman Henry Fleming", 
+      "İhanet ve intikam, başkahraman Edmond Dantès",
+      "Doğa ve yalnızlık, başkahraman Robinson Crusoe"],
+    "correctAnswer": 2,
     "level": 13,
     "prize": 5000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+    "question": "George Orwell'ın '1984' adlı eserindeki başkarakterin adı nedir?",
+    "options": ["Jay Gatsby",
+      "Winston Smith", 
+      "Atticus Finch",
+      "John Proctor"],
+    "correctAnswer": 1,
     "level": 13,
     "prize": 5000000
   }
-]
+  ]
 }
-
-
-
-
 
 
 
