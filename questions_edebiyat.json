@@ -190,7 +190,7 @@
       "prize": 400000
     },
     {
-      "question": "Aşağıdaki cümlelerden hangisinde altı çizili sözcüğün yazımı yanlıştır?",
+      "question": "Aşağıdaki cümlelerden hangisinde yazım yanlışı vardır?",
       "options": [
                   "Her zaman, çünkü sen bu işi bilmiyorsun, derdi babam",
                   "Herkez kapısının önünün süpürse kent tertemiz olur",
@@ -217,3 +217,4 @@
     }
   ]
 }
+
