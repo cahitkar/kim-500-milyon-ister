@@ -232,7 +232,34 @@
     "correctAnswer": 3,
     "level": 7,
     "prize": 600000
-}
+    },
+    {
+      "question": "Ben Sana Mecburum şiiri hangi şairindir?",
+    "options": [ "Orhan Veli Kanık", "Nazım Hikmet", "Cahit Sıtkı Tarancı","Attila İlhan"],
+    "correctAnswer": 3,
+    "level": 8,
+    "prize": 800000
+    },
+    {
+    "question": "Hasretinden Prangalar Eskittim şiiri hangi şairindir?",
+    "options": [ "Attila İlhan", "Cemal Süreya","Ahmed Arif", "Edip Cansever"],
+    "correctAnswer": 2,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "İstanbul'u Dinliyorum şiiri hangi şairindir?",
+    "options": ["Orhan Veli Kanık", "Nazım Hikmet", "Attila İlhan", "Yahya Kemal Beyatlı"],
+    "correctAnswer": 0,
+    "level": 8,
+    "prize": 800000
+  },
+  {
+    "question": "Her Şey Sende Gizli şiiri hangi şairindir?",
+    "options": ["Cahit Zarifoğlu", "Can Yücel", "Ümit Yaşar Oğuzcan", "Turgut Uyar"],
+    "correctAnswer": 1,
+    "level": 8,
+    "prize": 800000
+  }
   ]
 }
-
