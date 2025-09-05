@@ -103,13 +103,14 @@
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
+    },
     {
       "question": "Hangi yazar 'Kar' romanını yazmıştır?",
       "options": ["Elif Şafak", "Latife Tekin", "Orhan Pamuk", "Ahmet Ümit"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
-    },
+	},
     {
       "question": "Hangi yazar '1Q84' adlı eseriyle tanınır?",
       "options": ["Kazuo Ishiguro", "Yukio Mishima", "Banana Yoshimoto","Haruki Murakami"],
@@ -130,7 +131,7 @@
       "correctAnswer": 2,
       "level": 1,
       "prize": 50000
-    }
+    },
  	{
       "question": " İlçe yönetiminin başında aşağıdakilerden hangisi bulunur?",
       "options": ["Belediye Başkanı", "Kaymakam", "Vali", "Muhtar"],
