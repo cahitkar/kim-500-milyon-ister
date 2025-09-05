@@ -148,7 +148,7 @@
       "prize": 200000
     },
     {
-      "question": "'Onun kalbi taş gibi" cümlesinde hangi sanat vardır?",
+      "question": "'Onun kalbi taş gibi' cümlesinde hangi sanat vardır?",
       "options": ["Abartma", "Kişileştirme", "Benzetme", "Mecaz"],
       "correctAnswer": 2,
       "level": 5,
@@ -212,4 +212,5 @@
     }
   ]
 }
+
 
