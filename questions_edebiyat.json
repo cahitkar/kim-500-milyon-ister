@@ -453,9 +453,9 @@
       "correctAnswer":2,
     "level": 12,
     "prize": 3000000
-  },
+   },
    {
-    "question": "Zülfü Livaneli’nin 'Ada' romanında, hikâyenin merkezinde yer alan ve farklı kuşakların çatışmasını simgeleyen mekân neresidir?",
+     "question": "Zülfü Livaneli’nin 'Ada' romanında, hikâyenin merkezinde yer alan ve farklı kuşakların çatışmasını simgeleyen mekân neresidir?",
       "options": [
         "Bozcaada’daki bağ evi",
         "Burgazada’daki eski konak",
@@ -463,10 +463,11 @@
         "Büyükada’daki köşk"
       ],
       "correctAnswer": 3,
-    "level": 12,
+      "level": 12,
     "prize": 3000000
   },
-   "question": "‘Dokuzuncu Hariciye Koğuşu’nda isimsiz genç kahramanın hastalığı nedir?",
+  }
+    "question": "‘Dokuzuncu Hariciye Koğuşu’nda isimsiz genç kahramanın hastalığı nedir?",
       "options": [
         "Akciğer Veremi",
         "Kemik veremi",
@@ -474,8 +475,8 @@
         "Akciğer zarı iltihabı"
       ],
       "correctAnswer": 1,
-    "level": 12,
-    "prize": 3000000
+      "level": 12,
+       "prize": 3000000
   },
   {
       "question": "Agatha Christie'nin yaklaşık 100 milyon satan romanı hangisidir?",
@@ -535,5 +536,6 @@
   }
   ]
 }
+
 
 
