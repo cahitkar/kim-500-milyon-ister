@@ -1,4 +1,4 @@
- {
+{
   "questions": [
     {
       "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Hangi şair 'Sessiz Gemi' şiirinin yazarıdır?",
-      "options": [ "Nazım Hikmet", "Ahmet Haşim", "Yahya Kemal Beyatlı","Mehmet Akif Ersoy"],
+      "options": ["Nazım Hikmet", "Ahmet Haşim", "Yahya Kemal Beyatlı", "Mehmet Akif Ersoy"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
@@ -86,14 +86,14 @@
     },
     {
       "question": "Hangi şair 'Memleketim' şiirini yazmıştır?",
-      "options": [ "Orhan Veli", "Cahit Sıtkı Tarancı", "Fazıl Hüsnü Dağlarca","Nazım Hikmet"],
+      "options": ["Orhan Veli", "Cahit Sıtkı Tarancı", "Fazıl Hüsnü Dağlarca", "Nazım Hikmet"],
       "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "'Otuz Beş Yaş' şiirinin yazarı kimdir?",
-      "options": [ "Orhan Veli", "Cahit Sıtkı Tarancı","Nazım Hikmet", "Yahya Kemal"],
+      "options": ["Orhan Veli", "Cahit Sıtkı Tarancı", "Nazım Hikmet", "Yahya Kemal"],
       "correctAnswer": 1,
       "level": 3,
       "prize": 30000
@@ -106,7 +106,7 @@
       "prize": 30000
     },
     {
-      "question": " Başlıca eserleri 'Zafername,Rüya,Veraset Mektupları ve Eş’ar-ı Ziyâ' olan yazar kimdir?",
+      "question": "Başlıca eserleri 'Zafername,Rüya,Veraset Mektupları ve Eş’ar-ı Ziyâ' olan yazar kimdir?",
       "options": ["Tevfik Fikret", "Namık Kemal", "Ziya Paşa", "Şinasi"],
       "correctAnswer": 2,
       "level": 4,
@@ -209,244 +209,6 @@
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
-    },
-    {
-      "question": "Fransız Devrimi hangi yıl gerçekleşmiştir?",
-      "options": ["1789", "1799", "1809", "1819"],
-      "correctAnswer": 0,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi imparator Roma İmparatorluğu'nu Hristiyan yapmıştır?",
-      "options": ["Julius Caesar", "Augustus", "Konstantin", "Nero"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
-      "options": ["1914-1915", "1915-1916", "1916-1917", "1917-1918"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl II. Dünya Savaşı başlamıştır?",
-      "options": ["1937", "1938", "1939", "1940"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl Berlin Duvarı yıkılmıştır?",
-      "options": ["1987", "1988", "1989", "1990"],
-      "correctAnswer": 2,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
-      "options": ["1945", "1946", "1947", "1948"],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
-      "options": ["1946", "1950", "1954", "1958"],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk televizyon yayını başlamıştır?",
-      "options": ["1968", "1971", "1974", "1980"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk radyo yayını başlamıştır?",
-      "options": ["1927", "1930", "1933", "1936"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk nüfus sayımı yapılmıştır?",
-      "options": ["1923", "1927", "1935", "1940"],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk üniversite kurulmuştur?",
-      "options": ["1923", "1927", "1933", "1936"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["1927", "1930", "1933", "1936"],
-      "correctAnswer": 0,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["1927", "1930", "1933", "1936"],
-      "correctAnswer": 0,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["1923", "1927", "1930", "1935"],
-      "correctAnswer": 3,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["1971", "1973", "1975", "1977"],
-      "correctAnswer": 1,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın başbakan olmuştur?",
-      "options": ["1990", "1993", "1996", "1999"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın cumhurbaşkanı olmuştur?",
-      "options": ["Hiç olmamış", "2000", "2005", "2010"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
-      "options": ["1950", "1955", "1960", "1965"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
-      "options": ["1950", "1955", "1960", "1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
-      "options": ["1950", "1955", "1960", "1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
-      "options": ["1950", "1955", "1960", "1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın pilot olmuştur?",
-      "options": ["1950", "1955", "1960", "1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın astronot olmuştur?",
-      "options": ["Hiç olmamış", "2000", "2005", "2010"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın ressam olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["1923", "1927", "1930", "1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["1923", "1927", "1930", "1935"],
-      "correctAnswer": 3,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["1971", "1973", "1975", "1977"],
-      "correctAnswer": 1,
-      "level": 13,
-      "prize": 5000000
     }
   ]
 }
