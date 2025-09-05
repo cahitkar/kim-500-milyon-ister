@@ -328,9 +328,20 @@
     "correctAnswer": 1,
     "level": 10,
     "prize": 1500000
+  },
+  {
+    "question": " 'Bir çeşmenin başına bir testiyi koysalar kırk yıl orada dursa kendi dolası değil' bu cümleye atasözlerinden hangisi anlamca en uzaktır?",
+    "options": [" Bal bal demekle ağız tatlanmaz",
+      "Azıcık aşım kaygısız başım", 
+      "Lafla peynir gemisi yürümez",
+      "Yazın gölge hoş, kışın çuval boş"],
+    "correctAnswer": 2,
+    "level": 10,
+    "prize": 1500000
   }
 ]
 }
+
 
 
 
