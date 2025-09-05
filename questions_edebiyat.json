@@ -209,11 +209,17 @@
       "prize": 400000
     },
     {
-      "question": "'Cumalı Ordugahı' eserinin yazarı kimdir?",
-      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
-      "correctAnswer": 0,
-      "level": 6,
-      "prize": 400000
-    }
+      "text": "Dünyada arasanız da benden daha küreselini bulamazsınız. Hangi memlekete gitsem yalnız orada oturduğumu sanıyorlar. Küreselim ve bütün insanların dostluk, kardeşlik, barış içinde sevgi ve saygıyla yaşamasını, yardımlaşmasını istiyorum.",
+      "question": "Bu parçada yazar, aşağıdakilerden hangisini vurgulamaktadır?",
+      "options": [
+                "Farklı ülkeleri gezmeyi çok sevdiğini",
+                "Farklılıklara saygı duyulması gerektiğini",
+                "Bütün dünyayı kendi evi gibi hissettiğini",
+                "Her insanın bir bütünün parçası olduğunu"
+                ],
+  "correctAnswer": 3,
+  "level": 6,
+  "prize": 400000
+}
   ]
 }
