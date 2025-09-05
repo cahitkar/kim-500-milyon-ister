@@ -367,7 +367,7 @@
       "Jean Paul Sartre"],
     "correctAnswer": 3,
     "level": 11,
-    "prize": 1500000
+    "prize": 2000000
   },
   {
     "question": "Türk edebiyatının önemli eserlerinden olan Hababam Sınıfı romanının yazarı kimdir?",
@@ -400,32 +400,33 @@
     "prize": 2000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
+    "question": "Hangisi 'İnsan dışındaki varlıklara konuşma yeteneği kazandırma' sanatıdır?",
+    "options": ["Teşbih",
+      "Mübalağa", 
+      "Ad Aktarması",
+      " İntak "],
     "correctAnswer": 3,
     "level": 11,
     "prize": 2000000
   },
   {
     "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+    "options": ["Yüzüklerin Efendisi",
+      "Kayıp zamanın izinde",
+      "Leo Tolstoy - Savaş ve Barış",
+      "Madeleine de Scudéry - Artamène"
+    ],
+    "correctAnswer": 1,
     "level": 11,
     "prize": 2000000
   },  
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+    "question": "Guinness Dünyü rekorlarına göre 9.609.000 krakterle en uzun roman hangisidir?",
+    "options": ["Yüzüklerin Efendisi",
+                "Kayıp zamanın izinde",
+                "Harry Potter ve Felsefe Taşı",
+              "Savaş ve Barış"],
+    "correctAnswer": 1,
     "level": 12,
     "prize": 3000000
   },
@@ -521,6 +522,7 @@
   }
 ]
 }
+
 
 
 
