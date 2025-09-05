@@ -181,7 +181,7 @@
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
-    }
+    },
     {
       "question": "'Nutuk' eserinin yazarı kimdir?",
       "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
@@ -450,3 +450,4 @@
     }
   ]
 }
+
