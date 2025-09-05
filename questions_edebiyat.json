@@ -315,12 +315,23 @@
       "Üç saat aralıksız çalıştıktan sonra işi paydos etti", 
       "Kurallara aykırı dövüştüğü için boksörü diskalifiye ettiler",
       "Sözleşmeyi imzalayacakken karşı firma su koyuverdi"],
+    "correctAnswer": 3,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": " Aşağıdakilerin hangisinde 'anlayışlı olmak' anlamında bir söz kullanılmıştır?",
+    "options": [" Sen onu bilirsin o, her konuda ahkâm keser",
+      "Ben ne yapayım adam olana bir söz yeter", 
+      "Feleğin çemberinden geçmiş biri bu onu sarsmaz",
+      "Ben lafımı bilirim toplantıya ben katılayım"],
     "correctAnswer": 1,
     "level": 10,
     "prize": 1500000
   }
 ]
 }
+
 
 
 
