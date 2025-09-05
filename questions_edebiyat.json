@@ -308,9 +308,20 @@
     "correctAnswer": 0,
     "level": 9,
     "prize": 1000000
+  },
+  {
+    "question": " Aşağıdaki cümlelerin hangisinde 'caymak' anlamında bir deyim kullanılmıştır?",
+    "options": [" Casuslar kılıktan kılığa girmede ustadır",
+      "Üç saat aralıksız çalıştıktan sonra işi paydos etti", 
+      "Kurallara aykırı dövüştüğü için boksörü diskalifiye ettiler",
+      "Sözleşmeyi imzalayacakken karşı firma su koyuverdi"],
+    "correctAnswer": 1,
+    "level": 10,
+    "prize": 1000000
   }
 ]
 }
+
 
 
 
