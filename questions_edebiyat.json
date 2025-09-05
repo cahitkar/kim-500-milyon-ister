@@ -176,15 +176,12 @@
       "prize": 200000
     },
     {
-      "question": "Gönlümle oturdum da hüzünlendim o yerde",
-                   "Sen nerdesin, ey sevgili, yaz günleri nerde!",
-                    "Dağlar ağarırken konuşmuştuk tepelerde",
-                    "Sen nerde o fecrin ağaran dağları nerde!' mısraları hangi şaire aittir?",
-      "options": ["Ahmet Haşim", "Yahya Kemal Beyatlı", "Orhan Veli Kınık", "Tevfik Fikret"],
+      "question": "'Gönlümle oturdum da hüzünlendim o yerde,\nSen nerdesin, ey sevgili, yaz günleri nerde!\nDağlar ağarırken konuşmuştuk tepelerde,\nSen nerde o fecrin ağaran dağları nerde!' mısraları hangi şaire aittir?",
+      "options": ["Ahmet Haşim", "Yahya Kemal Beyatlı", "Orhan Veli Kanık", "Tevfik Fikret"],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
-    },
+    }
     {
       "question": "'Nutuk' eserinin yazarı kimdir?",
       "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
@@ -453,6 +450,7 @@
     }
   ]
 }
+
 
 
 
