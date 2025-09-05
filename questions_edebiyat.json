@@ -217,9 +217,21 @@
                 "Bütün dünyayı kendi evi gibi hissettiğini",
                 "Her insanın bir bütünün parçası olduğunu"
                 ],
-  "correctAnswer": 3,
-  "level": 6,
-  "prize": 400000
+    "correctAnswer": 3,
+    "level": 6,
+    "prize": 400000
+    },
+    {
+     "question": "Aşağıdakilerin hangisinde hem ünsüz yumuşaması hem de ses düşmesi vardır?",
+     "options": [
+                "Akla gelen başa gelir",
+                "Keskin sirke kabına zarar verir",
+                "Kırlangıcın zararını biberciden sor",
+                "Her yiğidin gönlünde bir arslan yatar"
+                ],
+    "correctAnswer": 3,
+    "level": 7,
+    "prize": 600000
 }
   ]
 }
