@@ -148,11 +148,11 @@
       "prize": 200000
     },
     {
-      "question": "'Divan-ı Hikmet' eserinin yazarı kimdir?",
-      "options": ["Ahmet Yesevi", "Yunus Emre", "Mevlana", "Hacı Bektaş Veli"],
-      "correctAnswer": 0,
+      "question": "'Onun kalbi taş gibi" cümlesinde hangi sanat vardır?",
+      "options": ["Abartma", "Kişileştirme", "Benzetme", "Mecaz"],
+      "correctAnswer": 2,
       "level": 5,
-      "prize": 200000
+      "prize": 400000
     },
     {
       "question": "'Kutadgu Bilig' eserinin yazarı kimdir?",
@@ -212,3 +212,4 @@
     }
   ]
 }
+
