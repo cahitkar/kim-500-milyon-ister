@@ -294,6 +294,13 @@
     "correctAnswer": 1,
     "level": 8,
     "prize": 800000
+  },
+  {
+    "question": "Aşağıdaki cümlelerin hangisinde "zor" sözcüğü, sözcük türü bakımından ötekilerden farklıdır?",
+    "options": ["Zor işleri hep bana yaptırıyorsun diye yakınıyordu", "İstemeden zor bir çalışmanın içine girmişti","Terlemiş, çok yorulmuştu, zor yürüyordu","Öğretmenliğin zor bir meslek olduğunu anlamıştı"],
+    "correctAnswer": 2,
+    "level": 9,
+    "prize": 1000000
   }
   ]
 }
