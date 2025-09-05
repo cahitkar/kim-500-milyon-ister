@@ -2,14 +2,24 @@
   "questions": [
     {
       "question": "'Abanın kadri yağmurda bilinir' atasözünün anlamı nedir?",
-      "options": ["Değerli şeyler her zaman bilinmez", "Bir şeyin gerçek değeri ona ihtiyaç duyulduğunda anlaşılır", "Ucuz şeylerin kıymeti yoktur",  "Yağmur zamanı her şey değerlidir"],
+      "options": [
+        "Değerli şeyler her zaman bilinmez",
+        "Bir şeyin gerçek değeri ona ihtiyaç duyulduğunda anlaşılır",
+        "Ucuz şeylerin kıymeti yoktur",
+        "Yağmur zamanı her şey değerlidir"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
-   {
-	"question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
-      "options": ["Demokratik", "Laik", "İnsan haklarına saygılı", " Halkçı"],
+    {
+      "question": "Hangisi,Anayasa’nın 2. maddesinde sayılan cumhuriyetin nitelikleri arasında yer almaz?",
+      "options": [
+        "Demokratik",
+        "Laik",
+        "İnsan haklarına saygılı",
+        " Halkçı"
+      ],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
@@ -28,63 +38,108 @@
     },
     {
       "question": "'Kulağına kar suyu kaçmak' deyiminin anlamı nedir?",
-      "options": ["Soğukta kalmak", "Huzurunu rahatını kaçıran bir haber işitmek","Hasta olmak", "Hiçbiri" ],
+      "options": [
+        "Soğukta kalmak",
+        "Huzurunu rahatını kaçıran bir haber işitmek",
+        "Hasta olmak",
+        "Hiçbiri"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
-	{
+    {
       "question": "Aşağıdaki ülkelerden hangisinin bayrağında hilal yoktur?",
-      "options": ["Tunus", "Cezayir", "Pakistan", "Irak"],
+      "options": [
+        "Tunus",
+        "Cezayir",
+        "Pakistan",
+        "Irak"
+      ],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'de kaç bölge bulunmaktadır?",
-      "options": ["5", "6", "7", "8"],
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Aşağıdakilerin hangisi adli yargı ilk derece mahkemelerinden biri değildir?",
-      "options": ["Sulh Hukuk Mahkemesi", "İdare Mahkemesi", "Asliye Ceza Mahkmesi", "İcra Mahkemeleri"],
+      "options": [
+        "Sulh Hukuk Mahkemesi",
+        "İdare Mahkemesi",
+        "Asliye Ceza Mahkmesi",
+        "İcra Mahkemeleri"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'nin en büyük gölü hangisidir?",
-      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "İznik Gölü"],
+      "options": [
+        "Van Gölü",
+        "Tuz Gölü",
+        "Beyşehir Gölü",
+        "İznik Gölü"
+      ],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "“Hangi atasözü, bir kişinin kendi ortamında daha değerli olduğunu ifade eder?",
-      "options": ["Elbise insanı kral yapar", "Taş yerinde ağırdır", "Erken kalkan yol alır", "Hiçbiri"],
+      "options": [
+        "Elbise insanı kral yapar",
+        "Taş yerinde ağırdır",
+        "Erken kalkan yol alır",
+        "Hiçbiri"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "'Elden ayaktan düşmek' deyiminin anlamı nedir?",
-      "options": [ "Yorulmak","Düşmek", "Yaşlanmak", "Hiçbiri"],
+      "options": [
+        "Yorulmak",
+        "Düşmek",
+        "Yaşlanmak",
+        "Hiçbiri"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "'Ayak uydurmak' deyiminin anlamı nedir?",
-      "options": ["Duruma uyum sağlamak","Hızlı yürümek", "Dans etmek", "Hiçbiri"  ],
+      "options": [
+        "Duruma uyum sağlamak",
+        "Hızlı yürümek",
+        "Dans etmek",
+        "Hiçbiri"
+      ],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "'Dört gözle beklemek' deyiminin anlamı nedir?",
-      "options": ["Dikkatle bakmak","Gözlük takmak","Sabırsızlıkla beklemek","Hiçbiri"],
+      "options": [
+        "Dikkatle bakmak",
+        "Gözlük takmak",
+        "Sabırsızlıkla beklemek",
+        "Hiçbiri"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
@@ -92,84 +147,143 @@
     {
       "question": "'Kafa yormak' deyiminin anlamı nedir?",
       "options": [
-        "Çok düşünmek", "Baş ağrısı çekmek","Zorlanmak", "Hiçbiri" ],
+        "Çok düşünmek",
+        "Baş ağrısı çekmek",
+        "Zorlanmak",
+        "Hiçbiri"
+      ],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
-	{
+    {
       "question": "Hangi yazar 'Körlük' romanının yazarıdır?",
-      "options": ["Paulo Coelho", "José Saramago", "Orhan Pamuk", "Haruki Murakami"],
+      "options": [
+        "Paulo Coelho",
+        "José Saramago",
+        "Orhan Pamuk",
+        "Haruki Murakami"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangi yazar 'Kar' romanını yazmıştır?",
-      "options": ["Elif Şafak", "Latife Tekin", "Orhan Pamuk", "Ahmet Ümit"],
+      "options": [
+        "Elif Şafak",
+        "Latife Tekin",
+        "Orhan Pamuk",
+        "Ahmet Ümit"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
-	},
+    },
     {
       "question": "Hangi yazar '1Q84' adlı eseriyle tanınır?",
-      "options": ["Kazuo Ishiguro", "Yukio Mishima", "Banana Yoshimoto","Haruki Murakami"],
+      "options": [
+        "Kazuo Ishiguro",
+        "Yukio Mishima",
+        "Banana Yoshimoto",
+        "Haruki Murakami"
+      ],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangi yazar 'Aşk' adlı romanı ile bilinir?",
-      "options": ["Ayşe Kulin", "Zülfü Livaneli", "Elif Şafak", "Orhan Pamuk"],
+      "options": [
+        "Ayşe Kulin",
+        "Zülfü Livaneli",
+        "Elif Şafak",
+        "Orhan Pamuk"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 30000
     },
     {
       "question": "Hangi yazar 'Never Let Me Go' adlı romanın yazarıdır?",
-      "options": [ "Margaret Atwood", "Salman Rushdie","Kazuo Ishiguro", "Julian Barnes"],
+      "options": [
+        "Margaret Atwood",
+        "Salman Rushdie",
+        "Kazuo Ishiguro",
+        "Julian Barnes"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 50000
     },
- 	{
+    {
       "question": " İlçe yönetiminin başında aşağıdakilerden hangisi bulunur?",
-      "options": ["Belediye Başkanı", "Kaymakam", "Vali", "Muhtar"],
+      "options": [
+        "Belediye Başkanı",
+        "Kaymakam",
+        "Vali",
+        "Muhtar"
+      ],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Türkiye'nin en büyük adası hangisidir?",
-      "options": ["Gökçeada", "Bozcaada", "Marmara", "Avşa"],
+      "options": [
+        "Gökçeada",
+        "Bozcaada",
+        "Marmara",
+        "Avşa"
+      ],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
-	{
+    {
       "question": "Türkiye'nin en kalabalık bölgesi hangisidir?",
-      "options": ["Marmara", "İç Anadolu", "Ege", "Akdeniz"],
+      "options": [
+        "Marmara",
+        "İç Anadolu",
+        "Ege",
+        "Akdeniz"
+      ],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "'dağ… kavuşmaz… insan…' atasözünü doğru olarak tamamlayan sözcükler hangi seçenekte verilmiştir?",
-      "options": ["Dağa – insan – kavuşur", "Yol – yola – kavuşur", "İnsana – dağa – kavuşur", "Ay – Ay’a – kavuşur"],
+      "options": [
+        "Dağa – insan – kavuşur",
+        "Yol – yola – kavuşur",
+        "İnsana – dağa – kavuşur",
+        "Ay – Ay’a – kavuşur"
+      ],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Türkiye'nin en büyük yarımadası hangisidir?",
-      "options": ["Gelibolu", "Biga", "Datça", "Sinop"],
+      "options": [
+        "Gelibolu",
+        "Biga",
+        "Datça",
+        "Sinop"
+      ],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "'El elin eşeğeni türkü çala çala arar' atasözünün anlamı nedir?",
-      "options": ["Kaybolan eşeğin aranma şeklidir", "Türkü çala çala arayan mutlu olur", "Herkes ancak kendi işine canla başla sarılır ve ona çare üretir", "Söyle bir ata sözü yoktur" ],
+      "options": [
+        "Kaybolan eşeğin aranma şeklidir",
+        "Türkü çala çala arayan mutlu olur",
+        "Herkes ancak kendi işine canla başla sarılır ve ona çare üretir",
+        "Söyle bir ata sözü yoktur"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
@@ -200,48 +314,48 @@
     },
     {
       "question": "'Alın teri dökmek' deyiminin anlamı aşağıdakilerden hangisidir?",
-	"options": [
-    "Sıcakta çok terlemek",
-	"Bir işle çok uğraşmak",
-	"Birine laf anlatmak",
-	"Sıcaktan bunalmak"
-     ],
+      "options": [
+        "Sıcakta çok terlemek",
+        "Bir işle çok uğraşmak",
+        "Birine laf anlatmak",
+        "Sıcaktan bunalmak"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
-	{
+    {
       "question": "Aşağıdaki cümlelerde geçen deyimlerin hangisinde özlem söz konusudur?",
-	"options": [
-	"Elinde avucunda bir şey kalmadı",
-	"Adanın temiz havası burnumda tütüyor",
-	"Onun adını çoktan defterden sildim",
-	"Duyduklarım karşısında kulaklarıma inanamadım"
-	],
+      "options": [
+        "Elinde avucunda bir şey kalmadı",
+        "Adanın temiz havası burnumda tütüyor",
+        "Onun adını çoktan defterden sildim",
+        "Duyduklarım karşısında kulaklarıma inanamadım"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
-	{
+    {
       "question": "'Ateşle oynamak' deyiminin anlamı hangi seçenekte verilmiştir?",
-	"options": [
-	"Ateşi sağa sola dağıtmak",
-	"Ateşin üzerinden atlamak",
-	"Tehlikeli bir işe girişmek",
-	"Birisiyle alay etmek"
-	],
+      "options": [
+        "Ateşi sağa sola dağıtmak",
+        "Ateşin üzerinden atlamak",
+        "Tehlikeli bir işe girişmek",
+        "Birisiyle alay etmek"
+      ],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
-	{
+    {
       "question": "'Ağacın kurdu içinde olur' atasözünün anlamı nedir?",
-	"options": [
-	"Dışarıdan gelen tehlike daha büyüktür",
-    "Toplumu yıkan unsurlar içeriden çıkar",
-    "Her ağaç içinde böcek taşır",
-    "Kurt içten yer bitirir"
-	],
+      "options": [
+        "Dışarıdan gelen tehlike daha büyüktür",
+        "Toplumu yıkan unsurlar içeriden çıkar",
+        "Her ağaç içinde böcek taşır",
+        "Kurt içten yer bitirir"
+      ],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
@@ -405,10 +519,10 @@
     {
       "question": "Voleybolda bir takım kaç oyuncuyla sahada oynar?",
       "options": [
-    	"5",
-    	"6",
-    	"7",
-    	"8"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
       "correctAnswer": 1,
       "level": 3,
@@ -510,49 +624,74 @@
       "level": 3,
       "prize": 30000
     },
-	{
+    {
       "question": "Olimpiyatlarda çekiç atmada, kullanılan 'çekiç'in' ağırlığı erkekler ve kadınlar için kaç kilogramdır?",
       "options": [
-       "Erkekler 6.5 kg, Kadınlar 4.5 kg",
-	   "Erkekler 5 kg, Kadınlar 3 kg",
-	   "Erkekler 7.26 kg, Kadınlar 4 kg",
-	   "Erkekler 8 kg, Kadınlar 5 kg"
+        "Erkekler 6.5 kg, Kadınlar 4.5 kg",
+        "Erkekler 5 kg, Kadınlar 3 kg",
+        "Erkekler 7.26 kg, Kadınlar 4 kg",
+        "Erkekler 8 kg, Kadınlar 5 kg"
       ],
       "correctAnswer": 2,
       "level": 3,
       "prize": 30000
     },
-	{
+    {
       "question": "Türkiye'nin en büyük körfezi hangisidir?",
-      "options": ["İzmir Körfezi", "Antalya Körfezi", "Mersin Körfezi", "İskenderun Körfezi"],
+      "options": [
+        "İzmir Körfezi",
+        "Antalya Körfezi",
+        "Mersin Körfezi",
+        "İskenderun Körfezi"
+      ],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangisi hukukun yazılı kaynaklarından biri değildir?",
-      "options": ["Kanun", "Tüzük", "Örf ve Adet", "Yönetmelik"],
+      "options": [
+        "Kanun",
+        "Tüzük",
+        "Örf ve Adet",
+        "Yönetmelik"
+      ],
       "correctAnswer": 2,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Tek Kulağına Küpe Takan Osmanlı Padişahı Kimdir?",
-      "options": ["Orhan Bey", "Yavuz Sultan Selim", "Fatih Sultan Mehmet", "Sarı Selim"],
+      "options": [
+        "Orhan Bey",
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmet",
+        "Sarı Selim"
+      ],
       "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Günümüzde Nüfusu En Fazla Olan İslam Ülkesi Hangisidir?",
-      "options": ["Türkiye", " Mısır", "Hindistan", " Endenozya"],
+      "options": [
+        "Türkiye",
+        " Mısır",
+        "Hindistan",
+        " Endenozya"
+      ],
       "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Türkiye’nin Yüzölçümü Kaç Kilometre Karedir?",
-      "options": ["729.472 Kilometre Karedir", "779.452 Kilometre Karedir", "789.764 Kilometre Karedir", "779.897 Kilometre Karedir"],
+      "options": [
+        "729.472 Kilometre Karedir",
+        "779.452 Kilometre Karedir",
+        "789.764 Kilometre Karedir",
+        "779.897 Kilometre Karedir"
+      ],
       "correctAnswer": 0,
       "level": 3,
       "prize": 30000
@@ -665,7 +804,7 @@
       "level": 4,
       "prize": 90000
     },
-     {
+    {
       "question": "'Sodom ve Gomore' eserinin yazarı kimdir?",
       "options": [
         "Necip Fazıl Kısakürek",
@@ -679,14 +818,24 @@
     },
     {
       "question": "“Olmak ya da olmamak, işte bütün mesele bu.” sözüyle tanınan, Hamlet oyununun yazarı İngiliz edebiyatçı aşağıdakilerden hangisidir?",
-      "options": [ "George Eliot","Thomas More", "William Shakespeare","Daniel Defoe"],
+      "options": [
+        "George Eliot",
+        "Thomas More",
+        "William Shakespeare",
+        "Daniel Defoe"
+      ],
       "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Aşağıdakilerden hangisi, bir ada ülkesi değildir?",
-      "options": ["Japonya", "Hindistan", "Yeni Zelanda", "İngiltere"],
+      "options": [
+        "Japonya",
+        "Hindistan",
+        "Yeni Zelanda",
+        "İngiltere"
+      ],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
@@ -705,28 +854,48 @@
     },
     {
       "question": "Hangisi, Türk Halk Edebiyatı’nın bir çeşidi olan Âşık Edebiyatı geleneğinin temsilcilerinden biri değildir?",
-      "options": [ " Karacaoğlan", "Köroğlu","Aşık Paşa","Aşık Veysel"],
+      "options": [
+        " Karacaoğlan",
+        "Köroğlu",
+        "Aşık Paşa",
+        "Aşık Veysel"
+      ],
       "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Kur’an’da anlatılan 'parçalanmış kuşların canlanarak gelmesi' mucizesi hangi peygambere aittir?",
-      "options": [ "Hz. Musa", "Hz.İbrahim", "Hz.İsa", "Hz. Muhammed" ],
+      "options": [
+        "Hz. Musa",
+        "Hz.İbrahim",
+        "Hz.İsa",
+        "Hz. Muhammed"
+      ],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Aşağıdaki hormonlardan hangisi insanlarda kaçma ve saldırı davranışları ile doğrudan ilgilidir?",
-      "options": ["Progesteron","Adrenalin","Östrojen", "Prolaktin" ],
+      "options": [
+        "Progesteron",
+        "Adrenalin",
+        "Östrojen",
+        "Prolaktin"
+      ],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["Babamın erkek kardeşi dayım olur","Annemin kız kardeşi teyzem olur","Babamın kız kardeşi halam olur","Halamın tek erkek kardeşi babam olur" ],
+      "options": [
+        "Babamın erkek kardeşi dayım olur",
+        "Annemin kız kardeşi teyzem olur",
+        "Babamın kız kardeşi halam olur",
+        "Halamın tek erkek kardeşi babam olur"
+      ],
       "correctAnswer": 0,
       "level": 5,
       "prize": 200000
@@ -767,7 +936,7 @@
       "level": 5,
       "prize": 200000
     },
-   	{
+    {
       "question": "Tüm metaller arasında en yüksek elektrik iletkenliğine sahip element hangisidir?",
       "options": [
         "Altın",
@@ -899,7 +1068,7 @@
       "level": 6,
       "prize": 400000
     },
-   	{
+    {
       "question": "Hangi klasik eserin yazarı Stendhal’dır?",
       "options": [
         "Sefiller",
@@ -1105,7 +1274,12 @@
     },
     {
       "question": "'Dünya'nın Yedi Harikası'ndan' biri olarak kabul edilen asma bahçeleriyle ünlü antik şehir hangisidir?",
-      "options": ["Roma","Atina","Babil","İskenderiye " ],
+      "options": [
+        "Roma",
+        "Atina",
+        "Babil",
+        "İskenderiye "
+      ],
       "correctAnswer": 2,
       "level": 8,
       "prize": 800000
@@ -1842,5 +2016,5 @@
       "level": 13,
       "prize": 5000000
     }
-    ]
- }
+  ]
+}
