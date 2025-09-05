@@ -141,11 +141,12 @@
       "prize": 90000
     },
     {
-      "question": "Hangi eser 'Romeo ve Juliet' ile aynı yazar tarafından yazılmıştır?",
-      "options": ["Hamlet", "Macbeth", "Othello", "Hepsi"],
-      "correctAnswer": 3,
+      "question": "'Dede Korkut Hikâyeleri'nde Dirse Han’ın oğlu kimdir?",
+      "options": ["Bamsı Beyrek", "Tepegöz", "Boğaç Han", "Uruz Bey"],
+      "correctAnswer": 2,
       "level": 5,
       "prize": 200000
+  },
     },
     {
       "question": "'Divan-ı Hikmet' eserinin yazarı kimdir?",
@@ -453,6 +454,7 @@
     }
   ]
 }
+
 
 
 
