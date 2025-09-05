@@ -190,9 +190,14 @@
       "prize": 400000
     },
     {
-      "question": "'Geometri' kitabının yazarı kimdir?",
-      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
-      "correctAnswer": 0,
+      "question": "Aşağıdaki cümlelerden hangisinde altı çizili sözcüğün yazımı yanlıştır?",
+      "options": [
+                  "Her zaman, çünkü sen bu işi bilmiyorsun, derdi babam",
+                  "Herkez kapısının önünün süpürse kent tertemiz olur",
+                  "Yalanla yanlışın arkadaşlığı her zaman felaket getirir",
+                  "Çocukların kibritle oynaması yangına sebep oluyor"
+                  ],
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
