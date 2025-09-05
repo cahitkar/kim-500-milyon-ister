@@ -417,7 +417,7 @@
         "Bu Ülke",
         "Umrandan Uygarlığa"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": 2,
     "level": 11,
     "prize": 2000000
   },  
@@ -461,7 +461,6 @@
         "Burgazada’daki eski konak",
         "Heybeliada’daki yetimhane",
         "Büyükada’daki köşk"
-        "
       ],
       "correctAnswer": 3,
     "level": 12,
@@ -491,7 +490,7 @@
       "prize": 5000000
   },
   {
-    " "question": "J.R.R. Tolkien'in yaklaşık 150 milyon satan eseri hangisidir?",
+      "question": "J.R.R. Tolkien'in yaklaşık 150 milyon satan eseri hangisidir?",
       "options": [
         "Silmarillion",
         "Hobbit",
@@ -536,4 +535,5 @@
   }
   ]
 }
+
 
