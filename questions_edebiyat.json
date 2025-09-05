@@ -176,10 +176,10 @@
       "prize": 200000
     },
     {
-      "question": "'Gönlümle oturdum da hüzünlendim o yerde',
-                   'Sen nerdesin, ey sevgili, yaz günleri nerde!',
-                    'Dağlar ağarırken konuşmuştuk tepelerde',
-                    'Sen nerde o fecrin ağaran dağları nerde!' mısraları hangi şaire aittir?",
+      "question": "Gönlümle oturdum da hüzünlendim o yerde",
+                   "Sen nerdesin, ey sevgili, yaz günleri nerde!",
+                    "Dağlar ağarırken konuşmuştuk tepelerde",
+                    "Sen nerde o fecrin ağaran dağları nerde!' mısraları hangi şaire aittir?",
       "options": ["Ahmet Haşim", "Yahya Kemal Beyatlı", "Orhan Veli Kınık", "Tevfik Fikret"],
       "correctAnswer": 1,
       "level": 6,
@@ -453,6 +453,7 @@
     }
   ]
 }
+
 
 
 
