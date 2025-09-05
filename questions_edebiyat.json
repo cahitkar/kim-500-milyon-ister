@@ -471,14 +471,16 @@
     "prize": 3000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
-    "level": 13,
-    "prize": 5000000
+      "question": "Filozof Jean-Paul Sartre'ın ölmeden önceki son sözleri nelerdir?",
+      "options": [
+        "Hayat bir absürddür.",
+        "Sevgilim, seni çok seviyorum.",
+        "Özgürlük her şeydir.",
+        "Artık yazamayacağım."
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 5000000",
   },
   {
     "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
@@ -499,7 +501,7 @@
         "Eser, mitolojik unsurlar içermez ve sadece İrlanda bağımsızlık mücadelesini anlatır."
       ],
       "correctAnswer": 1,
-      "level": 12,
+      "level": 13,
        "prize": 5000000,
   },
   {
@@ -524,6 +526,7 @@
   }
   ]
 }
+
 
 
 
