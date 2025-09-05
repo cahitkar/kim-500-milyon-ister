@@ -204,7 +204,7 @@
     {
       "question": "Aşağıdaki cümlelerin hangisinde ifadenin okunuşuna uygun bir ek getirilmemesinden kaynaklanan 'yazım yanlışı' vardır?",
       "options": ["Saat 16.30’da başlayan maç TRT’den naklen yayınlanıyordu", "Öğrenciliği zamanında Zonguldak’ın Ereğli ilçesindeki KYK’da kalmıştı","Kulüplerin 5. olağan toplantısı TFF’nin tesislerinde gerçekleştirildi","Bir yaz günü saat 19.00’da TBMM’nin önünde buluşup yola çıkmışlardı"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
@@ -304,4 +304,5 @@
   }
 ]
 }
+
 
