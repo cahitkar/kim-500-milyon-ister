@@ -410,13 +410,14 @@
     "prize": 2000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Yüzüklerin Efendisi",
-      "Kayıp zamanın izinde",
-      "Leo Tolstoy - Savaş ve Barış",
-      "Madeleine de Scudéry - Artamène"
-    ],
-    "correctAnswer": 1,
+    "question": "Cemil Meriç’in 1974 yılında yayımlanan ve edebiyat incelemelerini topladığı eseri hangisidir?",
+      "options": [
+        "Kırk Ambar",
+        "Mağaradakiler",
+        "Bu Ülke",
+        "Umrandan Uygarlığa"
+      ],
+      "correctAnswer": "2"
     "level": 11,
     "prize": 2000000
   },  
@@ -431,66 +432,75 @@
     "prize": 3000000
   },
    {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+     "question": "'Cehennem' (Inferno) romanında Robert Langdon, Dante’nin İlahi Komedya’sından yola çıkarak küresel bir biyolojik tehdidi çözmeye çalışır. Roman boyunca Langdon’a eşlik eden ve WHO için çalışan karakter kimdir?",
+      "options": [
+        "Vittoria Vetra",
+        "Sienna Brooks",
+        "Sophie Neveu",
+        "Katherine Solomon"
+      ],
+      "correctAnswer": 1,
+    "level": 12,
+    "prize": 3000000
+  },
+   "question": "'Da Vinci Şifresi'nde Robert Langdon ve Sophie Neveu, Louvre’daki cinayet sonrası hangi ünlü tablo üzerinde saklı bir şifre bulurlar?",
+      "options": [
+        "Son Akşam Yemeği",
+        "Vitruvius Adamı",
+        "Mona Lisa",
+        "Kayaların Madonnası"
+      ],
+      "correctAnswer":2,
     "level": 12,
     "prize": 3000000
   },
    {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+    "question": "Zülfü Livaneli’nin 'Ada' romanında, hikâyenin merkezinde yer alan ve farklı kuşakların çatışmasını simgeleyen mekân neresidir?",
+      "options": [
+        "Bozcaada’daki bağ evi",
+        "Burgazada’daki eski konak",
+        "Heybeliada’daki yetimhane",
+        "Büyükada’daki köşk"
+        "
+      ],
+      "correctAnswer": 3,
     "level": 12,
     "prize": 3000000
   },
-   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
-    "level": 12,
-    "prize": 3000000
-  },
-   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
+   "question": "‘Dokuzuncu Hariciye Koğuşu’nda isimsiz genç kahramanın hastalığı nedir?",
+      "options": [
+        "Akciğer Veremi",
+        "Kemik veremi",
+        "Kalp romatizması",
+        "Akciğer zarı iltihabı"
+      ],
+      "correctAnswer": 1,
     "level": 12,
     "prize": 3000000
   },
   {
-      "question": "Filozof Jean-Paul Sartre'ın ölmeden önceki son sözleri nelerdir?",
+      "question": "Agatha Christie'nin yaklaşık 100 milyon satan romanı hangisidir?",
       "options": [
-        "Hayat bir absürddür.",
-        "Sevgilim, seni çok seviyorum.",
-        "Özgürlük her şeydir.",
-        "Artık yazamayacağım."
+        "Doğu Ekspresinde Cinayet",
+        "On Küçük Zenci ",
+        "Roger Ackroyd Cinayeti",
+        "Nil'de Ölüm"
       ],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
   },
   {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
-    "level": 13,
-    "prize": 5000000
+    " "question": "J.R.R. Tolkien'in yaklaşık 150 milyon satan eseri hangisidir?",
+      "options": [
+        "Silmarillion",
+        "Hobbit",
+        "Yüzüklerin Efendisi",
+        "Kayıp Öyküler Kitabı"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
   },
   {
       "question": "James Joyce'un 'Ulysses' adlı eserinin yapısı, Homeros'un 'Odysseia' destanına nasıl paralellik gösterir ve başkahraman Leopold Bloom'un yolculuğu hangi temaları yansıtır?",
@@ -526,3 +536,4 @@
   }
   ]
 }
+
