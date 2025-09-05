@@ -234,6 +234,40 @@
     "prize": 600000
     },
     {
+     "question": "Aşağıdaki sözcüklerden hangisi sesli harfle başlayan bir ek aldığında sonundaki sessiz harf yumuşamaz?",
+     "options": ["Salıncak", "Kitap", "Süt", "Yatak"],
+    "correctAnswer": 2,
+    "level": 7,
+    "prize": 600000
+    },
+    {
+     "question": "Aşağıdakilerden hangisinde ünsüz yumuşamasına uğramış bir kelime yoktur?",
+     "options": [
+                "Ardına bakmadan kapıdan dışarı hızlıca çıktı",
+                "Duvarı boyarken hangi rengi kullanacağımıza karar veremedik",
+                "Bugün pazar erken kalkmana gerek yok",
+                "Sınıf arkadaşım kalbimi kırdı"
+                ],
+    "correctAnswer": 2,
+    "level": 7,
+    "prize": 600000
+    },
+    {
+     "question": " Aşağıdaki cümlelerin hangisinde ünsüz yumuşamasına örnek bir kelime vardır?",
+     "options": [
+                "Arkası gelmez dertlerimin", "Bannem bizi yemeğe çağırdı","Sırada bekleyen çocuklar sıkıldılar","Ali kitabını masanın üzerine bıraktı"],
+    "correctAnswer": 1,
+    "level": 7,
+    "prize": 600000
+    },
+    {
+     "question": "Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?",
+     "options": ["Eriği","Kitabı","Kağıdı","Çorapı"],
+    "correctAnswer": 3,
+    "level": 7,
+    "prize": 600000
+    },
+    {
       "question": "Ben Sana Mecburum şiiri hangi şairindir?",
     "options": [ "Orhan Veli Kanık", "Nazım Hikmet", "Cahit Sıtkı Tarancı","Attila İlhan"],
     "correctAnswer": 3,
@@ -263,3 +297,4 @@
   }
   ]
 }
+
