@@ -39,15 +39,15 @@
       "question": "'Don Kişot' romanının yazarı kimdir?",
       "options": ["Cervantes", "Shakespeare", "Goethe", "Dante"],
       "correctAnswer": 0,
-      "level": 2,
-      "prize": 10000
+      "level": 1,
+      "prize": 5000
     },
     {
       "question": "'Sefiller' romanının yazarı kimdir?",
       "options": ["Balzac", "Hugo", "Dumas", "Zola"],
       "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
+      "level": 1,
+      "prize": 5000
     },
     {
       "question": "Hangi roman türü gerçek olayları anlatır?",
@@ -235,3 +235,4 @@
 }
   ]
 }
+
