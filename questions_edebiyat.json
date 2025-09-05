@@ -338,9 +338,190 @@
     "correctAnswer": 2,
     "level": 10,
     "prize": 1500000
+  },
+  {
+    "question": " 'Nobel Ödüllü romancımız' hangisidir",
+    "options": [" Ahmet Altan",
+      "Orhan Pamuk", 
+      "Zülfi Livaneli",
+      "Yaşar Kemal"],
+    "correctAnswer": 1,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": " 'Edebi sanatlardan tevriye hangisidir",
+    "options": [" Bir sözü, benzetme amacı gütmeden başka bir söz yerine kullanma sanatıdır",
+      "Bir kişiyi  olayı ya da durumu alaylı yoldan  iğneleyici bir dille eleştirme sanatıdır", 
+      "Birkaç anlamı olan bir kelimenin iki ya da daha fazla anlama gelecek şekilde kullanılması ve bir sözcüğün yakın anlamını söyleyip uzak anlamını kastetme sanatıdır",
+      "İnsan dışındaki varlıklara insana özgü, insanın yapabileceği davranışları yaptırma sanatıdır"],
+    "correctAnswer": 2,
+    "level": 10,
+    "prize": 1500000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 11,
+    "prize": 1500000
+  },
+  {
+    "question": "Türk edebiyatının önemli eserlerinden olan Hababam Sınıfı romanının yazarı kimdir?",
+    "options": ["Haldun Taner",
+      "Adile Naşit", 
+      "Rıfat Ilgaz",
+      "Tarık Buğra"],
+    "correctAnswer": 2,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Telmih hangi edebi sanattır?",
+    "options": ["Bir sözcüğün veya cümlenin anlamını güçlendirmek için tekrar edilmesi sanatıdır",
+      "Bir hikâye kişi veya olaya dolaylı olarak işaret etme sanatıdır", 
+      "Zıt anlamlı kelimelerin aynı cümlede kullanılması sanatıdır",
+      "Bir sözü gerçek anlamından çıkararak başka bir anlamda kullanma sanatıdır"],
+    "correctAnswer": 1,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Tecahül-i arif hangi edebi sanattır?",
+    "options": ["Bir olayı veya durumu abartarak anlatma sanatıdır",
+      "Bir kelimeyi birden fazla anlamda kullanma sanatıdır.", 
+      "Bilinen bir şeyi bilmezden gelerek sözü daha etkili kılma sanatıdır",
+      "Bir sözü hem gerçek hem mecaz anlamıyla kullanma sanatıdır"],
+    "correctAnswer": 2,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 11,
+    "prize": 2000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 11,
+    "prize": 2000000
+  },  
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 12,
+    "prize": 3000000
+  },
+   {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 12,
+    "prize": 3000000
+  },
+   {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 12,
+    "prize": 3000000
+  },
+   {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 12,
+    "prize": 3000000
+  },
+   {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 12,
+    "prize": 3000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
+  },
+  {
+    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+    "options": ["Albert Camus",
+      "Pablo Neruda", 
+      "Gabriel García Márquez",
+      "Jean Paul Sartre"],
+    "correctAnswer": 3,
+    "level": 13,
+    "prize": 5000000
   }
 ]
 }
+
 
 
 
