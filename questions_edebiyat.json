@@ -29,7 +29,7 @@
       "prize": 5000
     },
     {
-      "question": "Jurnal" hangi yazarın eseridir?",
+      "question": "'Jurnal' hangi yazarın eseridir?",
       "options": ["Uğur Mumcu", "Aziz Nesin", "Cemil Meriç", "Ertuğrul Özkök"],
       "correctAnswer": 2,
       "level": 1,
@@ -453,5 +453,6 @@
     }
   ]
 }
+
 
 
