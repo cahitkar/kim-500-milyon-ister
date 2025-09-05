@@ -301,8 +301,16 @@
     "correctAnswer": 2,
     "level": 9,
     "prize": 1000000
-  }
+  },
+  {
+    "question": "Aşağıdaki cümlelerin hangisinde yer yön belirteci, tamlayan olduğu için adlaşmıştır? ",
+    "options": ["Dışarının gürültüsü hepimizi rahatsız etti", "Kapının önüne oturmuş, geleni geçeni izliyor","Yukarıya çıkıp arkadaşımla da görüşeyim","Beş yüz metre ileriden sağa döneceksiniz"],
+    "correctAnswer": 0,
+    "level": 9,
+    "prize": 1000000
+  },
 ]
 }
+
 
 
