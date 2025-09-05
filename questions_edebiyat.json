@@ -106,7 +106,7 @@
       "prize": 30000
     },
     {
-      "question": "Başlıca eserleri 'Zafername,Rüya,Veraset Mektupları ve Eş’ar-ı Ziyâ' olan yazar kimdir?",
+      "question": "Başlıca eserleri 'Zafername, Rüya, Veraset Mektupları ve Eş’ar-ı Ziyâ' olan yazar kimdir?",
       "options": ["Tevfik Fikret", "Namık Kemal", "Ziya Paşa", "Şinasi"],
       "correctAnswer": 2,
       "level": 4,
@@ -184,7 +184,7 @@
     },
     {
       "question": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
-      "options": ["18 Mayıs 2013’te Ordu’da göreve başladı","Hepimiz Van Kedisi için sıraya girdik", "Nemrut Dağı’nda güneşin batışını izlediniz mi?","Mayıs ayı içerisinde Doğu Karadeniz’i gezelim"],
+      "options": ["18 Mayıs 2013’te Ordu’da göreve başladı", "Hepimiz Van Kedisi için sıraya girdik", "Nemrut Dağı’nda güneşin batışını izlediniz mi?", "Mayıs ayı içerisinde Doğu Karadeniz’i gezelim"],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
@@ -192,18 +192,18 @@
     {
       "question": "Aşağıdaki cümlelerden hangisinde yazım yanlışı vardır?",
       "options": [
-                  "Her zaman, çünkü sen bu işi bilmiyorsun, derdi babam",
-                  "Herkez kapısının önünün süpürse kent tertemiz olur",
-                  "Yalanla yanlışın arkadaşlığı her zaman felaket getirir",
-                  "Çocukların kibritle oynaması yangına sebep oluyor"
-                  ],
+        "Her zaman, çünkü sen bu işi bilmiyorsun, derdi babam",
+        "Herkez kapısının önünün süpürse kent tertemiz olur",
+        "Yalanla yanlışın arkadaşlığı her zaman felaket getirir",
+        "Çocukların kibritle oynaması yangına sebep oluyor"
+      ],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Aşağıdaki cümlelerin hangisinde ifadenin okunuşuna uygun bir ek getirilmemesinden kaynaklanan 'yazım yanlışı' vardır?",
-      "options": ["Saat 16.30’da başlayan maç TRT’den naklen yayınlanıyordu", "Öğrenciliği zamanında Zonguldak’ın Ereğli ilçesindeki KYK’da kalmıştı","Kulüplerin 5. olağan toplantısı TFF’nin tesislerinde gerçekleştirildi","Bir yaz günü saat 19.00’da TBMM’nin önünde buluşup yola çıkmışlardı"],
+      "options": ["Saat 16.30’da başlayan maç TRT’den naklen yayınlanıyordu", "Öğrenciliği zamanında Zonguldak’ın Ereğli ilçesindeki KYK’da kalmıştı", "Kulüplerin 5. olağan toplantısı TFF’nin tesislerinde gerçekleştirildi", "Bir yaz günü saat 19.00’da TBMM’nin önünde buluşup yola çıkmışlardı"],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
@@ -212,330 +212,293 @@
       "text": "Dünyada arasanız da benden daha küreselini bulamazsınız. Hangi memlekete gitsem yalnız orada oturduğumu sanıyorlar. Küreselim ve bütün insanların dostluk, kardeşlik, barış içinde sevgi ve saygıyla yaşamasını, yardımlaşmasını istiyorum.",
       "question": "Bu parçada yazar, aşağıdakilerden hangisini vurgulamaktadır?",
       "options": [
-                "Farklı ülkeleri gezmeyi çok sevdiğini",
-                "Farklılıklara saygı duyulması gerektiğini",
-                "Bütün dünyayı kendi evi gibi hissettiğini",
-                "Her insanın bir bütünün parçası olduğunu"
-                ],
-    "correctAnswer": 3,
-    "level": 6,
-    "prize": 400000
+        "Farklı ülkeleri gezmeyi çok sevdiğini",
+        "Farklılıklara saygı duyulması gerektiğini",
+        "Bütün dünyayı kendi evi gibi hissettiğini",
+        "Her insanın bir bütünün parçası olduğunu"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 400000
     },
     {
-     "question": "Aşağıdakilerin hangisinde hem ünsüz yumuşaması hem de ses düşmesi vardır?",
-     "options": [
-                "Akla gelen başa gelir",
-                "Keskin sirke kabına zarar verir",
-                "Kırlangıcın zararını biberciden sor",
-                "Her yiğidin gönlünde bir arslan yatar"
-                ],
-    "correctAnswer": 3,
-    "level": 7,
-    "prize": 600000
+      "question": "Aşağıdakilerin hangisinde hem ünsüz yumuşaması hem de ses düşmesi vardır?",
+      "options": [
+        "Akla gelen başa gelir",
+        "Keskin sirke kabına zarar verir",
+        "Kırlangıcın zararını biberciden sor",
+        "Her yiğidin gönlünde bir arslan yatar"
+      ],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 600000
     },
     {
-     "question": "Aşağıdaki sözcüklerden hangisi sesli harfle başlayan bir ek aldığında sonundaki sessiz harf yumuşamaz?",
-     "options": ["Salıncak", "Kitap", "Süt", "Yatak"],
-    "correctAnswer": 2,
-    "level": 7,
-    "prize": 600000
+      "question": "Aşağıdaki sözcüklerden hangisi sesli harfle başlayan bir ek aldığında sonundaki sessiz harf yumuşamaz?",
+      "options": ["Salıncak", "Kitap", "Süt", "Yatak"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
     },
     {
-     "question": "Aşağıdakilerden hangisinde ünsüz yumuşamasına uğramış bir kelime yoktur?",
-     "options": [
-                "Ardına bakmadan kapıdan dışarı hızlıca çıktı",
-                "Duvarı boyarken hangi rengi kullanacağımıza karar veremedik",
-                "Bugün pazar erken kalkmana gerek yok",
-                "Sınıf arkadaşım kalbimi kırdı"
-                ],
-    "correctAnswer": 2,
-    "level": 7,
-    "prize": 600000
+      "question": "Aşağıdakilerden hangisinde ünsüz yumuşamasına uğramış bir kelime yoktur?",
+      "options": [
+        "Ardına bakmadan kapıdan dışarı hızlıca çıktı",
+        "Duvarı boyarken hangi rengi kullanacağımıza karar veremedik",
+        "Bugün pazar erken kalkmana gerek yok",
+        "Sınıf arkadaşım kalbimi kırdı"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
     },
     {
-     "question": " Aşağıdaki cümlelerin hangisinde ünsüz yumuşamasına örnek bir kelime vardır?",
-     "options": [
-                "Arkası gelmez dertlerimin", "Bannem bizi yemeğe çağırdı","Sırada bekleyen çocuklar sıkıldılar","Ali kitabını masanın üzerine bıraktı"],
-    "correctAnswer": 1,
-    "level": 7,
-    "prize": 600000
+      "question": "Aşağıdaki cümlelerin hangisinde ünsüz yumuşamasına örnek bir kelime vardır?",
+      "options": [
+        "Arkası gelmez dertlerimin",
+        "Bannem bizi yemeğe çağırdı",
+        "Sırada bekleyen çocuklar sıkıldılar",
+        "Ali kitabını masanın üzerine bıraktı"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
     },
     {
-     "question": "Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?",
-     "options": ["Eriği","Kitabı","Kağıdı","Çorapı"],
-     "correctAnswer": 3,
-     "level": 7,
-     "prize": 600000
+      "question": "Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?",
+      "options": ["Eriği", "Kitabı", "Kağıdı", "Çorapı"],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 600000
     },
     {
       "question": "Ben Sana Mecburum şiiri hangi şairindir?",
-       "options": [ "Orhan Veli Kanık", "Nazım Hikmet", "Cahit Sıtkı Tarancı","Attila İlhan"],
-    "correctAnswer": 3,
-    "level": 8,
-    "prize": 800000
+      "options": ["Orhan Veli Kanık", "Nazım Hikmet", "Cahit Sıtkı Tarancı", "Attila İlhan"],
+      "correctAnswer": 3,
+      "level": 8,
+      "prize": 800000
     },
     {
-    "question": "Hasretinden Prangalar Eskittim şiiri hangi şairindir?",
-    "options": [ "Attila İlhan", "Cemal Süreya","Ahmed Arif", "Edip Cansever"],
-    "correctAnswer": 2,
-    "level": 8,
-    "prize": 800000
-  },
-  {
-    "question": "İstanbul'u Dinliyorum şiiri hangi şairindir?",
-    "options": ["Orhan Veli Kanık", "Nazım Hikmet", "Attila İlhan", "Yahya Kemal Beyatlı"],
-    "correctAnswer": 0,
-    "level": 8,
-    "prize": 800000
-  },
-  {
-    "question": "Her Şey Sende Gizli şiiri hangi şairindir?",
-    "options": ["Cahit Zarifoğlu", "Can Yücel", "Ümit Yaşar Oğuzcan", "Turgut Uyar"],
-    "correctAnswer": 1,
-    "level": 8,
-    "prize": 800000
-  },
-  {
-    "question": "Aşağıdaki cümlelerin hangisinde 'zor' sözcüğü, sözcük türü bakımından ötekilerden farklıdır?",
-    "options": ["Zor işleri hep bana yaptırıyorsun diye yakınıyordu", "İstemeden zor bir çalışmanın içine girmişti","Terlemiş çok yorulmuştu zor yürüyordu","Öğretmenliğin zor bir meslek olduğunu anlamıştı"],
-    "correctAnswer": 2,
-    "level": 9,
-    "prize": 1000000
-  },
-  {
-    "question": "Aşağıdaki cümlelerin hangisinde yer yön belirteci  tamlayan olduğu için adlaşmıştır? ",
-    "options": ["Dışarının gürültüsü hepimizi rahatsız etti", "Kapının önüne oturmuş geleni geçeni izliyor","Yukarıya çıkıp arkadaşımla da görüşeyim","Beş yüz metre ileriden sağa döneceksiniz"],
-    "correctAnswer": 0,
-    "level": 9,
-    "prize": 1000000
-  },
-  {
-    "question": " Aşağıdaki cümlelerin hangisinde 'caymak' anlamında bir deyim kullanılmıştır?",
-    "options": [" Casuslar kılıktan kılığa girmede ustadır",
-      "Üç saat aralıksız çalıştıktan sonra işi paydos etti", 
-      "Kurallara aykırı dövüştüğü için boksörü diskalifiye ettiler",
-      "Sözleşmeyi imzalayacakken karşı firma su koyuverdi"],
-    "correctAnswer": 3,
-    "level": 10,
-    "prize": 1500000
-  },
-  {
-    "question": " Aşağıdakilerin hangisinde 'anlayışlı olmak' anlamında bir söz kullanılmıştır?",
-    "options": [" Sen onu bilirsin o her konuda ahkâm keser",
-      "Ben ne yapayım adam olana bir söz yeter", 
-      "Feleğin çemberinden geçmiş biri bu onu sarsmaz",
-      "Ben lafımı bilirim toplantıya ben katılayım"],
-    "correctAnswer": 1,
-    "level": 10,
-    "prize": 1500000
-  },
-  {
-    "question": " 'Bir çeşmenin başına bir testiyi koysalar kırk yıl orada dursa kendi dolası değil' bu cümleye atasözlerinden hangisi anlamca en uzaktır?",
-    "options": [" Bal bal demekle ağız tatlanmaz",
-      "Azıcık aşım kaygısız başım", 
-      "Lafla peynir gemisi yürümez",
-      "Yazın gölge hoş, kışın çuval boş"],
-    "correctAnswer": 2,
-    "level": 10,
-    "prize": 1500000
-  },
-  {
-    "question": " 'Nobel Ödüllü romancımız' hangisidir",
-    "options": [" Ahmet Altan",
-      "Orhan Pamuk", 
-      "Zülfi Livaneli",
-      "Yaşar Kemal"],
-    "correctAnswer": 1,
-    "level": 10,
-    "prize": 1500000
-  },
-  {
-    "question": " 'Edebi sanatlardan tevriye hangisidir",
-    "options": [" Bir sözü, benzetme amacı gütmeden başka bir söz yerine kullanma sanatıdır",
-      "Bir kişiyi  olayı ya da durumu alaylı yoldan  iğneleyici bir dille eleştirme sanatıdır", 
-      "Birkaç anlamı olan bir kelimenin iki ya da daha fazla anlama gelecek şekilde kullanılması ve bir sözcüğün yakın anlamını söyleyip uzak anlamını kastetme sanatıdır",
-      "İnsan dışındaki varlıklara insana özgü, insanın yapabileceği davranışları yaptırma sanatıdır"],
-    "correctAnswer": 2,
-    "level": 10,
-    "prize": 1500000
-  },
-  {
-    "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
-    "options": ["Albert Camus",
-      "Pablo Neruda", 
-      "Gabriel García Márquez",
-      "Jean Paul Sartre"],
-    "correctAnswer": 3,
-    "level": 11,
-    "prize": 2000000
-  },
-  {
-    "question": "Türk edebiyatının önemli eserlerinden olan Hababam Sınıfı romanının yazarı kimdir?",
-    "options": ["Haldun Taner",
-      "Adile Naşit", 
-      "Rıfat Ilgaz",
-      "Tarık Buğra"],
-    "correctAnswer": 2,
-    "level": 11,
-    "prize": 2000000
-  },
-  {
-    "question": "Telmih hangi edebi sanattır?",
-    "options": ["Bir sözcüğün veya cümlenin anlamını güçlendirmek için tekrar edilmesi sanatıdır",
-      "Bir hikâye kişi veya olaya dolaylı olarak işaret etme sanatıdır", 
-      "Zıt anlamlı kelimelerin aynı cümlede kullanılması sanatıdır",
-      "Bir sözü gerçek anlamından çıkararak başka bir anlamda kullanma sanatıdır"],
-    "correctAnswer": 1,
-    "level": 11,
-    "prize": 2000000
-  },
-  {
-    "question": "Tecahül-i arif hangi edebi sanattır?",
-    "options": ["Bir olayı veya durumu abartarak anlatma sanatıdır",
-      "Bir kelimeyi birden fazla anlamda kullanma sanatıdır.", 
-      "Bilinen bir şeyi bilmezden gelerek sözü daha etkili kılma sanatıdır",
-      "Bir sözü hem gerçek hem mecaz anlamıyla kullanma sanatıdır"],
-    "correctAnswer": 2,
-    "level": 11,
-    "prize": 2000000
-  },
-  {
-    "question": "Hangisi 'İnsan dışındaki varlıklara konuşma yeteneği kazandırma' sanatıdır?",
-    "options": ["Teşbih",
-      "Mübalağa", 
-      "Ad Aktarması",
-      " İntak "],
-    "correctAnswer": 3,
-    "level": 11,
-    "prize": 2000000
-  },
-  {
-    "question": "Cemil Meriç’in 1974 yılında yayımlanan ve edebiyat incelemelerini topladığı eseri hangisidir?",
-      "options": [
-        "Kırk Ambar",
-        "Mağaradakiler",
-        "Bu Ülke",
-        "Umrandan Uygarlığa"
-      ],
+      "question": "Hasretinden Prangalar Eskittim şiiri hangi şairindir?",
+      "options": ["Attila İlhan", "Cemal Süreya", "Ahmed Arif", "Edip Cansever"],
       "correctAnswer": 2,
-    "level": 11,
-    "prize": 2000000
-  },  
-  {
-    "question": "Guinness Dünyü rekorlarına göre 9.609.000 krakterle en uzun roman hangisidir?",
-    "options": ["Yüzüklerin Efendisi",
-                "Kayıp zamanın izinde",
-                "Harry Potter ve Felsefe Taşı",
-              "Savaş ve Barış"],
-    "correctAnswer": 1,
-    "level": 12,
-    "prize": 3000000
-  },
-   {
-     "question": "'Cehennem' (Inferno) romanında Robert Langdon, Dante’nin İlahi Komedya’sından yola çıkarak küresel bir biyolojik tehdidi çözmeye çalışır. Roman boyunca Langdon’a eşlik eden ve WHO için çalışan karakter kimdir?",
-      "options": [
-        "Vittoria Vetra",
-        "Sienna Brooks",
-        "Sophie Neveu",
-        "Katherine Solomon"
-      ],
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "İstanbul'u Dinliyorum şiiri hangi şairindir?",
+      "options": ["Orhan Veli Kanık", "Nazım Hikmet", "Attila İlhan", "Yahya Kemal Beyatlı"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Her Şey Sende Gizli şiiri hangi şairindir?",
+      "options": ["Cahit Zarifoğlu", "Can Yücel", "Ümit Yaşar Oğuzcan", "Turgut Uyar"],
       "correctAnswer": 1,
-    "level": 12,
-    "prize": 3000000
-  },
-   "question": "'Da Vinci Şifresi'nde Robert Langdon ve Sophie Neveu, Louvre’daki cinayet sonrası hangi ünlü tablo üzerinde saklı bir şifre bulurlar?",
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Aşağıdaki cümlelerin hangisinde 'zor' sözcüğü, sözcük türü bakımından ötekilerden farklıdır?",
+      "options": ["Zor işleri hep bana yaptırıyorsun diye yakınıyordu", "İstemeden zor bir çalışmanın içine girmişti", "Terlemiş çok yorulmuştu zor yürüyordu", "Öğretmenliğin zor bir meslek olduğunu anlamıştı"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Aşağıdaki cümlelerin hangisinde yer yön belirteci tamlayan olduğu için adlaşmıştır?",
+      "options": ["Dışarının gürültüsü hepimizi rahatsız etti", "Kapının önüne oturmuş geleni geçeni izliyor", "Yukarıya çıkıp arkadaşımla da görüşeyim", "Beş yüz metre ileriden sağa döneceksiniz"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Aşağıdaki cümlelerin hangisinde 'caymak' anlamında bir deyim kullanılmıştır?",
       "options": [
-        "Son Akşam Yemeği",
-        "Vitruvius Adamı",
-        "Mona Lisa",
-        "Kayaların Madonnası"
-      ],
-      "correctAnswer":2,
-    "level": 12,
-    "prize": 3000000
-   },
-   {
-     "question": "Zülfü Livaneli’nin 'Ada' romanında, hikâyenin merkezinde yer alan ve farklı kuşakların çatışmasını simgeleyen mekân neresidir?",
-      "options": [
-        "Bozcaada’daki bağ evi",
-        "Burgazada’daki eski konak",
-        "Heybeliada’daki yetimhane",
-        "Büyükada’daki köşk"
+        "Casuslar kılıktan kılığa girmede ustadır",
+        "Üç saat aralıksız çalıştıktan sonra işi paydos etti",
+        "Kurallara aykırı dövüştüğü için boksörü diskalifiye ettiler",
+        "Sözleşmeyi imzalayacakken karşı firma su koyuverdi"
       ],
       "correctAnswer": 3,
-      "level": 12,
-    "prize": 3000000
-  },
-  }
-    "question": "‘Dokuzuncu Hariciye Koğuşu’nda isimsiz genç kahramanın hastalığı nedir?",
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Aşağıdakilerin hangisinde 'anlayışlı olmak' anlamında bir söz kullanılmıştır?",
       "options": [
-        "Akciğer Veremi",
-        "Kemik veremi",
-        "Kalp romatizması",
-        "Akciğer zarı iltihabı"
+        "Sen onu bilirsin o her konuda ahkâm keser",
+        "Ben ne yapayım adam olana bir söz yeter",
+        "Feleğin çemberinden geçmiş biri bu onu sarsmaz",
+        "Ben lafımı bilirim toplantıya ben katılayım"
       ],
       "correctAnswer": 1,
-      "level": 12,
-       "prize": 3000000
-  },
-  {
-      "question": "Agatha Christie'nin yaklaşık 100 milyon satan romanı hangisidir?",
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "'Bir çeşmenin başına bir testiyi koysalar kırk yıl orada dursa kendi dolası değil' bu cümleye atasözlerinden hangisi anlamca en uzaktır?",
       "options": [
-        "Doğu Ekspresinde Cinayet",
-        "On Küçük Zenci ",
-        "Roger Ackroyd Cinayeti",
-        "Nil'de Ölüm"
+        "Bal bal demekle ağız tatlanmaz",
+        "Azıcık aşım kaygısız başım",
+        "Lafla peynir gemisi yürümez",
+        "Yazın gölge hoş, kışın çuval boş"
       ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "'Nobel Ödüllü romancımız' hangisidir?",
+      "options": ["Ahmet Altan", "Orhan Pamuk", "Zülfü Livaneli", "Yaşar Kemal"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "'Edebi sanatlardan tevriye hangisidir?",
+      "options": [
+        "Bir sözü, benzetme amacı gütmeden başka bir söz yerine kullanma sanatıdır",
+        "Bir kişiyi olayı ya da durumu alaylı yoldan iğneleyici bir dille eleştirme sanatıdır",
+        "Birkaç anlamı olan bir kelimenin iki ya da daha fazla anlama gelecek şekilde kullanılması ve bir sözcüğün yakın anlamını söyleyip uzak anlamını kastetme sanatıdır",
+        "İnsan dışındaki varlıklara insana özgü, insanın yapabileceği davranışları yaptırma sanatıdır"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Nobel Edebiyat ödülünü kabul etmeyen tek edebiyatçı kimdir?",
+      "options": ["Albert Camus", "Pablo Neruda", "Gabriel García Márquez", "Jean Paul Sartre"],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türk edebiyatının önemli eserlerinden olan Hababam Sınıfı romanının yazarı kimdir?",
+      "options": ["Haldun Taner", "Adile Naşit", "Rıfat Ilgaz", "Tarık Buğra"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Telmih hangi edebi sanattır?",
+      "options": [
+        "Bir sözcüğün veya cümlenin anlamını güçlendirmek için tekrar edilmesi sanatıdır",
+        "Bir hikâye kişi veya olaya dolaylı olarak işaret etme sanatıdır",
+        "Zıt anlamlı kelimelerin aynı cümlede kullanılması sanatıdır",
+        "Bir sözü gerçek anlamından çıkararak başka bir anlamda kullanma sanatıdır"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Tecahül-i arif hangi edebi sanattır?",
+      "options": [
+        "Bir olayı veya durumu abartarak anlatma sanatıdır",
+        "Bir kelimeyi birden fazla anlamda kullanma sanatıdır",
+        "Bilinen bir şeyi bilmezden gelerek sözü daha etkili kılma sanatıdır",
+        "Bir sözü hem gerçek hem mecaz anlamıyla kullanma sanatıdır"
+      ],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangisi 'İnsan dışındaki varlıklara konuşma yeteneği kazandırma' sanatıdır?",
+      "options": ["Teşbih", "Mübalağa", "Ad Aktarması", "İntak"],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Cemil Meriç’in 1974 yılında yayımlanan ve edebiyat incelemelerini topladığı eseri hangisidir?",
+      "options": ["Kırk Ambar", "Mağaradakiler", "Bu Ülke", "Umrandan Uygarlığa"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Guinness Dünya rekorlarına göre 9.609.000 karakterle en uzun roman hangisidir?",
+      "options": ["Yüzüklerin Efendisi", "Kayıp Zamanın İzinde", "Harry Potter ve Felsefe Taşı", "Savaş ve Barış"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "'Cehennem' (Inferno) romanında Robert Langdon, Dante’nin İlahi Komedya’sından yola çıkarak küresel bir biyolojik tehdidi çözmeye çalışır. Roman boyunca Langdon’a eşlik eden ve WHO için çalışan karakter kimdir?",
+      "options": ["Vittoria Vetra", "Sienna Brooks", "Sophie Neveu", "Katherine Solomon"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "'Da Vinci Şifresi'nde Robert Langdon ve Sophie Neveu, Louvre’daki cinayet sonrası hangi ünlü tablo üzerinde saklı bir şifre bulurlar?",
+      "options": ["Son Akşam Yemeği", "Vitruvius Adamı", "Mona Lisa", "Kayaların Madonnası"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Zülfü Livaneli’nin 'Ada' romanında, hikâyenin merkezinde yer alan ve farklı kuşakların çatışmasını simgeleyen mekân neresidir?",
+      "options": ["Bozcaada’daki bağ evi", "Burgazada’daki eski konak", "Heybeliada’daki yetimhane", "Büyükada’daki köşk"],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "‘Dokuzuncu Hariciye Koğuşu’nda isimsiz genç kahramanın hastalığı nedir?",
+      "options": ["Akciğer Veremi", "Kemik Veremi", "Kalp Romatizması", "Akciğer Zarı İltihabı"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Agatha Christie'nin yaklaşık 100 milyon satan romanı hangisidir?",
+      "options": ["Doğu Ekspresinde Cinayet", "On Küçük Zenci", "Roger Ackroyd Cinayeti", "Nil'de Ölüm"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
-  },
-  {
+    },
+    {
       "question": "J.R.R. Tolkien'in yaklaşık 150 milyon satan eseri hangisidir?",
-      "options": [
-        "Silmarillion",
-        "Hobbit",
-        "Yüzüklerin Efendisi",
-        "Kayıp Öyküler Kitabı"
-      ],
+      "options": ["Silmarillion", "Hobbit", "Yüzüklerin Efendisi", "Kayıp Öyküler Kitabı"],
       "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
-  },
-  {
+    },
+    {
       "question": "James Joyce'un 'Ulysses' adlı eserinin yapısı, Homeros'un 'Odysseia' destanına nasıl paralellik gösterir ve başkahraman Leopold Bloom'un yolculuğu hangi temaları yansıtır?",
       "options": [
-         "Eser, 24 bölümden oluşur ve İlyada'ya paraleldir; temalar savaş ve kahramanlık üzerine yoğunlaşır.",
+        "Eser, 24 bölümden oluşur ve İlyada'ya paraleldir; temalar savaş ve kahramanlık üzerine yoğunlaşır.",
         "Eser, 18 bölümden oluşur ve her bölüm Odysseia'nın bir kısmına karşılık gelir; temalar arasında modern Dublin hayatı, bilinç akışı ve Yahudi kimliği yer alır.",
-         "Eser, tek bir günde geçer ancak klasik destanlara atıf yapmaz; temalar sadece aşk ve ihanet üzerinedir.",
+        "Eser, tek bir günde geçer ancak klasik destanlara atıf yapmaz; temalar sadece aşk ve ihanet üzerinedir.",
         "Eser, mitolojik unsurlar içermez ve sadece İrlanda bağımsızlık mücadelesini anlatır."
       ],
       "correctAnswer": 1,
       "level": 13,
-       "prize": 5000000,
-  },
-  {
-    "question": "Alexandre Dumas’nın Monte Kristo Kontu adlı eserinin ana konusu nedir ve başkahramanı kimdir?",
-    "options": ["Aile bağları ve fedakârlık, başkahraman Hester Prynne.",
-      "Aşk ve ihanet, başkahraman Henry Fleming", 
-      "İhanet ve intikam, başkahraman Edmond Dantès",
-      "Doğa ve yalnızlık, başkahraman Robinson Crusoe"],
-    "correctAnswer": 2,
-    "level": 13,
-    "prize": 5000000
-  },
-  {
-    "question": "George Orwell'ın '1984' adlı eserindeki başkarakterin adı nedir?",
-    "options": ["Jay Gatsby",
-      "Winston Smith", 
-      "Atticus Finch",
-      "John Proctor"],
-    "correctAnswer": 1,
-    "level": 13,
-    "prize": 5000000
-  }
+      "prize": 5000000
+    },
+    {
+      "question": "Alexandre Dumas’nın Monte Kristo Kontu adlı eserinin ana konusu nedir ve başkahramanı kimdir?",
+      "options": [
+        "Aile bağları ve fedakârlık, başkahraman Hester Prynne.",
+        "Aşk ve ihanet, başkahraman Henry Fleming",
+        "İhanet ve intikam, başkahraman Edmond Dantès",
+        "Doğa ve yalnızlık, başkahraman Robinson Crusoe"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "George Orwell'ın '1984' adlı eserindeki başkarakterin adı nedir?",
+      "options": ["Jay Gatsby", "Winston Smith", "Atticus Finch", "John Proctor"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    }
   ]
 }
-
-
-
