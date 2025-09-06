@@ -1,456 +1,274 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin en popüler spor dalı hangisidir?",
-      "options": ["A) Futbol", "B) Basketbol", "C) Voleybol", "D) Güreş"],
-      "correctAnswer": 0,
+      "question": "Futbolda bir takım sahaya kaç oyuncu ile başlar?",
+      "options": ["10", "11", "12", "9"],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi takım Türkiye'de en çok şampiyon olmuştur?",
-      "options": ["A) Galatasaray", "B) Fenerbahçe", "C) Beşiktaş", "D) Trabzonspor"],
-      "correctAnswer": 0,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Türkiye'de kaç profesyonel futbol takımı bulunmaktadır?",
-      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Basketbolda serbest atış çizgisi kaç metredir?",
+      "options": ["3,5 metre", "4,2 metre", "4,6 metre", "5,8 metre"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk profesyonel lig kurulmuştur?",
-      "options": ["A) 1959", "B) 1960", "C) 1961", "D) 1962"],
-      "correctAnswer": 0,
+      "question": "Voleybolda bir set kaç sayıda biter?",
+      "options": ["21", "25", "30", "28"],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Türkiye'de kaç stadyum bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "question": "Satrançta piyon ilk hamlesinde kaç kare ilerleyebilir?",
+      "options": ["Bir veya iki", "Sadece bir", "Sadece iki", "Üç"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bilardoda hangi topla vurularak diğer topların ceplere girmesi amaçlanır?",
+      "options": ["Hedef top", "8 numara", "Beyaz top", "Siyah top"],
       "correctAnswer": 2,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Hangi spor dalında Türkiye en başarılıdır?",
-      "options": ["A) Futbol", "B) Güreş", "C) Basketbol", "D) Voleybol"],
-      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Türkiye'de kaç güreş kulübü bulunmaktadır?",
-      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
-      "correctAnswer": 1,
+      "question": "Futbolda ofsayt kuralı hangi durumlarda uygulanmaz?",
+      "options": ["Kendi yarı sahasında", "Köşe vuruşunda", "Aut vuruşunda", "Hepsi"],
+      "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk güreş federasyonu kurulmuştur?",
-      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
-      "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Türkiye'de kaç basketbol takımı bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-40 arası", "C) 40-60 arası", "D) 60'dan fazla"],
-      "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk basketbol federasyonu kurulmuştur?",
-      "options": ["A) 1934", "B) 1935", "C) 1936", "D) 1937"],
-      "correctAnswer": 0,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Türkiye'de kaç voleybol takımı bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-40 arası", "C) 40-60 arası", "D) 60'dan fazla"],
+      "question": "Basketbolda 3 sayı atış çizgisi kaç metre uzaklıktadır?",
+      "options": ["6.25 metre", "6.75 metre", "7.24 metre", "7.52 metre"],
       "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk voleybol federasyonu kurulmuştur?",
-      "options": ["A) 1948", "B) 1949", "C) 1950", "D) 1951"],
-      "correctAnswer": 0,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "Türkiye'de kaç tenis kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Voleybolda bir takım set başına kaç mola hakkına sahiptir?",
+      "options": ["1", "2", "3", "Sınırsız"],
       "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk tenis federasyonu kurulmuştur?",
-      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
-      "correctAnswer": 0,
+      "question": "Satrançta 'açılış' olarak adlandırılan kısım oyunun hangi evresidir?",
+      "options": ["Oyun sonu", "Oyun ortası", "Oyun başı", "Sadece şah mat"],
+      "correctAnswer": 2,
       "level": 3,
       "prize": 30000
     },
     {
-      "question": "Türkiye'de kaç yüzme kulübü bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
-      "correctAnswer": 1,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "Türkiye'de kaç atletizm kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Futbolda penaltı vuruşu kaç metre uzaklıktan kullanılır?",
+      "options": ["10 metre", "11 metre", "12 metre", "9 metre"],
       "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk atletizm federasyonu kurulmuştur?",
-      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Türkiye'de kaç cimnastik kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk cimnastik federasyonu kurulmuştur?",
-      "options": ["A) 1930", "B) 1931", "C) 1932", "D) 1933"],
+      "question": "Bilardoda 'snooker' oyununda, en yüksek puanlı top hangi renktir?",
+      "options": ["Siyah", "Pembe", "Mavi", "Kırmızı"],
       "correctAnswer": 0,
       "level": 4,
       "prize": 90000
     },
     {
-      "question": "Türkiye'de kaç eskrim kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "question": "Basketbol sahasının boyutları (uzunluk ve genişlik) nedir?",
+      "options": ["25x15 metre", "28x15 metre", "30x16 metre", "24x14 metre"],
       "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
-      "question": "Türkiye'de kaç okçuluk kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "question": "Satrançta en güçlü taş hangisidir?",
+      "options": ["Şah", "Kale", "Vezir", "Fil"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Voleybolda 'libero' oyuncusunun en önemli özelliği nedir?",
+      "options": ["Smaç vurması", "Blok yapması", "Sadece ön alanda oynaması", "Sadece savunmada oynaması"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Futbolda bir korner atışı kaç metre yarıçaplı daireden kullanılır?",
+      "options": ["0,5 metre", "1 metre", "1,5 metre", "2 metre"],
       "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk okçuluk federasyonu kurulmuştur?",
-      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
-      "correctAnswer": 0,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de kaç binicilik kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
-      "correctAnswer": 1,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk binicilik federasyonu kurulmuştur?",
-      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
-      "correctAnswer": 0,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de kaç yelken kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
-      "level": 5,
-      "prize": 200000
-    },
-    {
-      "question": "Türkiye'de kaç dağcılık kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Bilardoda topun havada sekerek cebe girmesi nasıl isimlendirilir?",
+      "options": ["İngiliz", "Jump Shot", "Kicker", "Jump"],
       "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk dağcılık federasyonu kurulmuştur?",
-      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
+      "question": "Basketbolda 24 saniye kuralı ne zaman uygulanır?",
+      "options": ["Hücum başladığında", "Top potaya değdiğinde", "Faul yapıldığında", "Takım mola aldığında"],
       "correctAnswer": 0,
       "level": 6,
       "prize": 400000
     },
     {
-      "question": "Türkiye'de kaç kayak kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
+      "question": "Satrançta 'rok' hamlesi hangi taşlar arasında yapılır?",
+      "options": ["Şah ve Fil", "Vezir ve Kale", "Şah ve Kale", "At ve Kale"],
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kayak federasyonu kurulmuştur?",
-      "options": ["A) 1936", "B) 1937", "C) 1938", "D) 1939"],
-      "correctAnswer": 0,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de kaç buz pateni kulübü bulunmaktadır?",
-      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Türkiye'de kaç judo kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Futbolda en çok gol atan oyuncuya verilen ödül nedir?",
+      "options": ["Altın Top", "Altın Ayakkabı", "Gümüş Top", "Altın Eldiven"],
       "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk judo federasyonu kurulmuştur?",
-      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
+      "question": "Voleybolda bir oyuncunun kaç kez topa üst üste dokunma hakkı vardır?",
+      "options": ["1", "2", "3", "4"],
       "correctAnswer": 0,
       "level": 7,
       "prize": 600000
     },
     {
-      "question": "Türkiye'de kaç karate kulübü bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
-      "correctAnswer": 1,
+      "question": "Bilardoda '8 Top' oyununda, 8 numaralı top ne zaman cebe atılmalıdır?",
+      "options": ["Oyunun başında", "İlk top atıldığında", "Kendi grubundaki toplar bitince", "Herhangi bir zamanda"],
+      "correctAnswer": 2,
       "level": 7,
       "prize": 600000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk karate federasyonu kurulmuştur?",
-      "options": ["A) 1985", "B) 1986", "C) 1987", "D) 1988"],
-      "correctAnswer": 0,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de kaç tekvando kulübü bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Türkiye'de kaç boks kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Basketbolda oyuncuların kaç faul hakkı vardır?",
+      "options": ["4", "5", "6", "Sınırsız"],
       "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk boks federasyonu kurulmuştur?",
-      "options": ["A) 1924", "B) 1925", "C) 1926", "D) 1927"],
-      "correctAnswer": 0,
+      "question": "Satrançta 'puanlama' sisteminin adı nedir?",
+      "options": ["ELO", "ELO rating", "Elo", "Elo puanlama sistemi"],
+      "correctAnswer": 2,
       "level": 8,
       "prize": 800000
     },
     {
-      "question": "Türkiye'de kaç halter kulübü bulunmaktadır?",
-      "options": ["A) 30'dan az", "B) 30-60 arası", "C) 60-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
+      "question": "Futbolun beşiği olarak kabul edilen ülke hangisidir?",
+      "options": ["Brezilya", "İspanya", "İngiltere", "Arjantin"],
+      "correctAnswer": 2,
       "level": 8,
       "prize": 800000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk halter federasyonu kurulmuştur?",
-      "options": ["A) 1924", "B) 1925", "C) 1926", "D) 1927"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de kaç kürek kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
-      "correctAnswer": 1,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Türkiye'de kaç kano kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
-      "correctAnswer": 1,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kano federasyonu kurulmuştur?",
-      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "question": "Voleybolda kullanılan topun çevresi kaç cm'dir?",
+      "options": ["65-67 cm", "60-62 cm", "70-72 cm", "68-70 cm"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç triatlon kulübü bulunmaktadır?",
-      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
-      "correctAnswer": 1,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk triatlon federasyonu kurulmuştur?",
-      "options": ["A) 2000", "B) 2001", "C) 2002", "D) 2003"],
+      "question": "Bilardoda 'Bant atışları' ne anlama gelir?",
+      "options": ["Topun masanın bantına değmesi", "Topun yere değmesi", "Topun diğer toplara değmesi", "Topun cebe girmesi"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç bisiklet kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
-      "correctAnswer": 1,
+      "question": "Satrançta 'açmaz' ne demektir?",
+      "options": ["Bir taşın hareket edememesi", "Bir taşın saldırı altında olması", "Bir taşın şahı koruması", "Bir taşın tehdit altında olması"],
+      "correctAnswer": 2,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç masa tenisi kulübü bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
+      "question": "Basketbolda hücum süresi kaç saniyedir?",
+      "options": ["15 saniye", "24 saniye", "30 saniye", "45 saniye"],
       "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk masa tenisi federasyonu kurulmuştur?",
-      "options": ["A) 1966", "B) 1967", "C) 1968", "D) 1969"],
-      "correctAnswer": 0,
+      "question": "Futbolda bir maçın uzatma süresi kaç dakikadır?",
+      "options": ["5 dakika", "15 dakika", "30 dakika", "45 dakika"],
+      "correctAnswer": 2,
       "level": 10,
       "prize": 1500000
     },
     {
-      "question": "Türkiye'de kaç badminton kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk badminton federasyonu kurulmuştur?",
-      "options": ["A) 1991", "B) 1992", "C) 1993", "D) 1994"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kaç squash kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
+      "question": "Voleybolda 'file ihlali' ne demektir?",
+      "options": ["Topun fileye değmesi", "Oyuncunun fileye değmesi", "Topun fileyi geçememesi", "Topun fileden geçmesi"],
       "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
-      "question": "Türkiye'de kaç golf kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk golf federasyonu kurulmuştur?",
-      "options": ["A) 1996", "B) 1997", "C) 1998", "D) 1999"],
+      "question": "Satrançta 'çekmece' ne demektir?",
+      "options": ["Oyunun berabere bitmesi", "Oyunun kazananı", "Oyunun kaybedeni", "Oyunun devamı"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç bowling kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk bowling federasyonu kurulmuştur?",
-      "options": ["A) 1998", "B) 1999", "C) 2000", "D) 2001"],
+      "question": "Bilardoda 'üç bant' ne demektir?",
+      "options": ["Topun üç kez bantlara değmesi", "Topun üç kez cebe girmesi", "Topun üç kez diğer toplara değmesi", "Topun üç kez masaya değmesi"],
       "correctAnswer": 0,
       "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç dart kulübü bulunmaktadır?",
-      "options": ["A) 30'dan az", "B) 30-60 arası", "C) 60-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
+      "question": "Futbolda 'hat-trick' ne anlama gelir?",
+      "options": ["Bir oyuncunun üç maçta gol atması", "Bir takımın üç gol atması", "Bir oyuncunun bir maçta üç gol atması", "Bir oyuncunun üç asist yapması"],
+      "correctAnswer": 2,
       "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç bilardo kulübü bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
-      "correctAnswer": 1,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk bilardo federasyonu kurulmuştur?",
-      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "question": "Basketbolda en uzun süre oyun içinde kalan oyuncuya ne isim verilir?",
+      "options": ["Pivot", "Guard", "Forvet", "Point Guard"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
-      "question": "Türkiye'de kaç satranç kulübü bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-200 arası", "C) 200-300 arası", "D) 300'den fazla"],
-      "correctAnswer": 1,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk satranç federasyonu kurulmuştur?",
-      "options": ["A) 1923", "B) 1924", "C) 1925", "D) 1926"],
+      "question": "Voleybolda 'manşet' vuruşu hangi bölgeye yapılan vuruştur?",
+      "options": ["Kolların iç kısmı", "Kolların dış kısmı", "Eller", "Ayaklar"],
       "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
-      "question": "Türkiye'de kaç go kulübü bulunmaktadır?",
-      "options": ["A) 5'ten az", "B) 5-15 arası", "C) 15-25 arası", "D) 25'ten fazla"],
-      "correctAnswer": 1,
+      "question": "Satrançta 'şah çekmek' ne anlama gelir?",
+      "options": ["Rakip şahı tehdit etmek", "Kendi şahını korumak", "Rakip şahı mat etmek", "Rakip şahı yeme"],
+      "correctAnswer": 0,
       "level": 12,
       "prize": 3000000
     },
     {
-      "question": "Türkiye'de kaç bridge kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
-      "correctAnswer": 1,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk bridge federasyonu kurulmuştur?",
-      "options": ["A) 1990", "B) 1991", "C) 1992", "D) 1993"],
+      "question": "Bilardoda en yüksek puanlı top hangi renktir?",
+      "options": ["Siyah", "Sarı", "Mavi", "Kırmızı"],
       "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Türkiye'de kaç poker kulübü bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-30 arası", "C) 30-50 arası", "D) 50'den fazla"],
-      "correctAnswer": 1,
+      "question": "Futbolda en çok Dünya Kupası kazanan ülke hangisidir?",
+      "options": ["Almanya", "İtalya", "Brezilya", "Arjantin"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk poker federasyonu kurulmuştur?",
-      "options": ["A) 2010", "B) 2011", "C) 2012", "D) 2013"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Türkiye'de kaç e-spor kulübü bulunmaktadır?",
-      "options": ["A) 20'den az", "B) 20-50 arası", "C) 50-100 arası", "D) 100'den fazla"],
+      "question": "Basketbolda NBA'de en çok şampiyonluk kazanan takım hangisidir?",
+      "options": ["Golden State Warriors", "Boston Celtics", "Los Angeles Lakers", "Chicago Bulls"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
