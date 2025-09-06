@@ -1,457 +1,639 @@
 {
   "questions": [
     {
-      "question": "İslam dininde kaç vakit namaz vardır?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 2,
+      "question": "İslam'ın beş şartından ilki ve 'Allah'tan başka ilah yoktur, Hz. Muhammed O'nun elçisidir' anlamına gelen ifade nedir?",
+      "options": ["Kelime-i Şehadet", "Salat", "Zekat", "Hac"],
+      "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "İslam dininde oruç hangi ayda tutulur?",
-      "options": ["A) Şaban", "B) Ramazan", "C) Recep", "D) Zilhicce"],
+      "question": "İslam'da oruç tutulan ayın adı nedir?",
+      "options": ["Şevval", "Ramazan", "Recep", "Muharrem"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "İslam dininde hac hangi ayda yapılır?",
-      "options": ["A) Şaban", "B) Ramazan", "C) Recep", "D) Zilhicce"],
+      "question": "Hz. Muhammed'in doğduğu şehir neresidir?",
+      "options": ["Medine", "Kudüs", "Şam", "Mekke"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "İslam dininde zekat hangi maldan verilir?",
-      "options": ["A) Altın", "B) Gümüş", "C) Para", "D) Hepsi"],
-      "correctAnswer": 3,
+      "question": "İslam'da namaz kılmak için yüzün dönülmesi gereken yön (kıble) neresidir?",
+      "options": ["Medine", "Kudüs", "Mekke", "Şam"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "İslam dininde kelime-i şehadet kaç kelimeden oluşur?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 0,
+      "question": "İslam'ın ilk müezzini (ezan okuyan) kimdir?",
+      "options": ["Hz. Ömer", "Hz. Ebu Bekir", "Hz. Bilal-i Habeşi", "Hz. Osman"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "İslam dininde abdest kaç uzuvdan alınır?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "Kur'an-ı Kerim'in ilk suresi hangisidir?",
+      "options": ["Nas", "Fatiha", "İhlas", "Kevser"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam'da iman esaslarının ilki hangisidir?",
+      "options": ["Peygamberlere iman", "Allah'a iman", "Kitaplara iman", "Meleklere iman"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hz. Muhammed'e gelen ilk vahyin adı nedir?",
+      "options": ["Alak Suresi", "Fatiha Suresi", "Yasin Suresi", "Bakara Suresi"],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "İslam dininde gusül kaç uzuvdan alınır?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 0,
+      "question": "Hz. Muhammed'in eşi olan ve O'na ilk inanan kişi kimdir?",
+      "options": ["Hz. Aişe", "Hz. Fatıma", "Hz. Hatice", "Hz. Zeynep"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "İslam dininde teyemmüm kaç uzuvdan alınır?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 0,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "İslam dininde namaz kaç rekattan oluşur?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) Değişir"],
+      "question": "Hz. Muhammed'in Mekke'den Medine'ye göç etme olayına ne ad verilir?",
+      "options": ["Bi'set", "İsra", "Mirac", "Hicret"],
       "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "İslam dininde rükü kaç kez yapılır?",
-      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
-      "correctAnswer": 0,
+      "question": "İslam'da 'Sıddık' unvanıyla bilinen ve Hz. Muhammed'e ilk inanan erkeklerden olan sahabi kimdir?",
+      "options": ["Hz. Ömer", "Hz. Ali", "Hz. Ebu Bekir", "Hz. Osman"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "İslam dininde secde kaç kez yapılır?",
-      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
-      "correctAnswer": 1,
-      "level": 3,
-      "prize": 30000
+      "question": "İslam'da zekat ibadeti için gerekli olan malın asgari miktarına ne ad verilir?",
+      "options": ["Fitre", "Sadaka", "Nisap", "Fıtır"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
     },
     {
-      "question": "İslam dininde tahiyyat kaç kez okunur?",
-      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "question": "Hz. Muhammed'in hayatını anlatan ilim dalına ne ad verilir?",
+      "options": ["Tefsir", "Hadis", "Siyer", "Fıkıh"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Müslümanların yaptığı ilk savaş hangisidir?",
+      "options": ["Uhud Savaşı", "Hendek Savaşı", "Bedir Savaşı", "Hayber Savaşı"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hz. Muhammed'in vefatından sonra İslam Devleti'ne liderlik eden 'Dört Halife' döneminde, ilk halife kim olmuştur?",
+      "options": ["Hz. Ali", "Hz. Ömer", "Hz. Osman", "Hz. Ebu Bekir"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Müslümanların yaptığı ilk hendek savaşında, hendek kazma fikrini veren sahabi kimdir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ali", "Selman-ı Farisi", "Hz. Ömer"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Uhud Savaşı'nda okçuların tepeyi terk etmeleri nedeniyle Müslümanların yenilgiye uğradığı savaştaki okçular tepesinin adı nedir?",
+      "options": ["Cebel-i Nur", "Cebel-i Okçu", "Sevr Dağı", "Uhud Dağı"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Hz. Muhammed'in son hutbesini okuduğu ve Müslümanlara son tavsiyelerini verdiği hac ibadetinin adı nedir?",
+      "options": ["İfrad Haccı", "Temettu Haccı", "Veda Haccı", "Kıran Haccı"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Mekke'nin Fethi hangi yılda gerçekleşmiştir?",
+      "options": ["Hicret'in 6. yılı", "Hicret'in 7. yılı", "Hicret'in 8. yılı", "Hicret'in 9. yılı"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Hz. Muhammed'in, amcası Ebu Talib'in ölümünden sonra Mekke'de yaşadığı, zorlukların ve üzüntülerin arttığı döneme ne ad verilir?",
+      "options": ["Hicret Yılı", "Fetih Yılı", "Hüzün Yılı", "Veda Yılı"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "İslam'da 'Allah'ın emri' anlamına gelen ve yapılması kesinlikle zorunlu olan ibadet ve fiillere ne ad verilir?",
+      "options": ["Sünnet", "Mekruh", "Farz", "Mübah"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Müslümanlar ile Mekke müşrikleri arasında yapılan ve Mekkelilerin aleyhine sonuçlanan antlaşma hangisidir?",
+      "options": ["Medine Sözleşmesi", "Akabe Biatları", "Hudeybiye Antlaşması", "Taif Antlaşması"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hz. Muhammed'in hicret yolculuğunda gizlendiği mağaranın adı nedir?",
+      "options": ["Hira Mağarası", "Sevr Mağarası", "Nur Mağarası", "Musa Mağarası"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "İslam'da namazın farzlarından 'kıyam' ne anlama gelir?",
+      "options": ["Secdeye gitmek", "Rükûya eğilmek", "Ayakta durmak", "Oturmak"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hz. Muhammed'in vefatından sonra 'Hüseyin'in Kerbela'da şehit edilmesi' olayı hangi halife dönemine denk gelmektedir?",
+      "options": ["Hz. Ali", "Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "İslam'da temizlikle ilgili hükümlerin yer aldığı ilim dalına ne ad verilir?",
+      "options": ["Kelam", "Akaid", "Fıkıh", "Tefsir"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hz. Muhammed'in Mescid-i Haram'dan Mescid-i Aksa'ya gece yolculuğunun adı nedir?",
+      "options": ["Mirac", "Hicret", "İsra", "Tebük"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hz. Muhammed'in İslam'a davet için gittiği ancak taşlandığı ve kötü muamele gördüğü şehir hangisidir?",
+      "options": ["Hayber", "Taif", "Tebük", "Şam"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Müslümanları kardeş ilan ettiği' olayda, Mekke'den gelen Müslümanlara (Muhacirler) evlerini ve mallarını açan Medineli Müslümanlara ne ad verilir?",
+      "options": ["Münafıklar", "Ensarlar", "Sıddıklar", "Gaziler"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "İslam'da 'Allah'a hiçbir şeyi ortak koşmamak' anlamına gelen temel inanç ilkesi hangisidir?",
+      "options": ["Tevhid", "Şirk", "Sünnet", "Bidat"],
       "correctAnswer": 0,
-      "level": 3,
-      "prize": 30000
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "İslam dininde selam kaç kez verilir?",
-      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
-      "correctAnswer": 1,
-      "level": 3,
-      "prize": 30000
+      "question": "Cemel ve Sıffin Savaşları hangi halife döneminde gerçekleşmiştir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Osman", "Hz. Ali"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "İslam dininde fatiha kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-      "correctAnswer": 2,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "İslam dininde ihlas kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 2,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 2,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "question": "İslam'da hac ibadeti sırasında 'şeytan taşlama' ritüeli hangi mevkide gerçekleştirilir?",
+      "options": ["Arafat", "Müzdelife", "Mina", "Safa ve Merve"],
       "correctAnswer": 2,
       "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Kur'an-ı Kerim'in tamamının yazılı bir mushaf haline getirilmesi hangi halife döneminde gerçekleşmiştir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Osman", "Hz. Ali"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "İslam'da oruç ibadeti için sahur ve iftar vakitlerini belirleyen kavramlar nelerdir?",
+      "options": ["Güneşin doğuşu ve batışı", "İmsak ve iftar", "Sabah namazı ve yatsı namazı", "Gün doğumu ve gün batımı"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Veda Hutbesi'nde', 'kadın hakları' ve 'kan davaları' gibi konulara değinmesi, İslam'ın hangi evrensel değerlerini vurgulamıştır?",
+      "options": ["Eşitlik ve adalet", "Hoşgörü ve sevgi", "Savaş ve barış", "Ekonomi ve ticaret"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "İslam'da 'Siyer' ilmi, Hz. Muhammed'in hayatını hangi dönemlere ayırarak inceler?",
+      "options": ["Mekke ve Medine", "Gençlik ve yaşlılık", "Peygamberlik öncesi ve sonrası", "Savaş ve barış"],
+      "correctAnswer": 0,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 5,
+      "question": "Hz. Muhammed'in 'Gazve' adı verilen, bizzat kendisinin katıldığı savaşlardan biri olmayan hangisidir?",
+      "options": ["Bedir", "Uhud", "Hendek", "Mute"],
+      "correctAnswer": 3,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "İslam'da hac ibadeti sırasında 'ihram'a girilen ve hacıların belirli kurallara uyması gereken yerlere ne ad verilir?",
+      "options": ["Kabe", "Arafat", "Mikat", "Mescid-i Haram"],
       "correctAnswer": 2,
-      "level": 5,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 5,
+      "question": "Hz. Muhammed'in amcası olan ve Bedir Savaşı'nda esir düşen ancak daha sonra Müslüman olan sahabi kimdir?",
+      "options": ["Ebu Talib", "Hz. Hamza", "Hz. Abbas", "Ebu Leheb"],
+      "correctAnswer": 2,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 2,
-      "level": 5,
+      "question": "İslam'da 'Allah'ın varlığına ve birliğine' akli deliller getiren ilim dalı hangisidir?",
+      "options": ["Fıkıh", "Kelam", "Hadis", "Tefsir"],
+      "correctAnswer": 1,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "question": "Hz. Muhammed'in 'Mekke'den Medine'ye' hicret etmesine karar vermesini sağlayan, Mekkelilerin Müslümanlara karşı uyguladığı baskının en yoğun olduğu dönem ne olarak adlandırılır?",
+      "options": ["Amul Hüzün", "Akabe Biatları", "Boykot", "Fil Vakası"],
       "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "Müslümanlar ile Mekkeliler arasında yapılan ve İslam'ın yayılmasında dönüm noktası olan 'Hudeybiye Antlaşması' hangi yıl imzalanmıştır?",
+      "options": ["625", "628", "630", "632"],
       "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 2,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Emeviler döneminde 'İslam'da ilk deniz filosu'nu kurarak denizcilik faaliyetlerine başlamasını sağlayan halife kimdir?",
+      "options": ["Yezid bin Muaviye", "Abdülmelik bin Mervan", "Muaviye bin Ebu Süfyan", "Velid bin Abdülmelik"],
       "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "Hz. Muhammed'in vefatından sonra ilk defa ortaya çıkan ve 'Halife'nin Kureyş'ten olması gerektiği' fikrini savunan fırka hangisidir?",
+      "options": ["Şia", "Haricilik", "Cebriye", "Ehl-i Sünnet"],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "İslam'da 'Allah'ın bir ve tek olduğunu' kabul eden, ancak Hz. Muhammed'in peygamberliğini reddeden Haniflik esaslarına göre yaşamış bir şahsiyet olmayan kimdir?",
+      "options": ["Ebu Talib", "Zeyd bin Amr", "Varaka bin Nevfel", "Kuss bin Saide"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Hicretten sonra 'Medine'de' ilk İslam devletinin kurulması ve Hz. Muhammed'in liderliğindeki 'Medine Sözleşmesi'nin imzalanması, hangi sosyolojik kavramla açıklanır?",
+      "options": ["Kabilecilik", "Teokrasi", "Ulus devlet", "Site devleti"],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Hz. Muhammed'in Hayber'in fethinde kullandığı ve 'İslam'ın Kılıcı' olarak anılan sahabi kimdir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Ali", "Halid bin Velid"],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Hz. Muhammed'in Mekke'nin fethi sırasında 'Kabe'deki putları kırdığı' olay, İslam'ın hangi esasını vurgulamıştır?",
+      "options": ["Adalet", "Tevhid", "Hoşgörü", "Ticaret"],
       "correctAnswer": 1,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "question": "İslam'da 'Allah'ın ve Peygamberin emirlerine uyma' anlamına gelen ve 'şeri hükümler'in kaynağını oluşturan kavram nedir?",
+      "options": ["Tefsir", "Fıkıh", "Sünnet", "İcma"],
       "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
+      "question": "Dört Halife döneminde 'Yermuk Savaşı'nın' kazanılmasıyla, İslam orduları hangi coğrafyada büyük bir ilerleme sağlamıştır?",
+      "options": ["İran", "Mısır", "Anadolu", "Suriye"],
+      "correctAnswer": 3,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "Hz. Muhammed'in Mekke'den Medine'ye hicret ederken, müşriklerin kendisini aradığı ve Hz. Ebu Bekir'le birlikte gizlendiği 'Sevr Mağarası'nda' onlara yardım eden güvercin ve örümcek hikayesi hangi yönüyle sembolik olarak anlatılmıştır?",
+      "options": ["Allah'ın koruması ve yardımı", "Doğanın mucizeleri", "Hayvan sevgisi", "İnsanların iyiliği"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "İslam'da 'Kelam' ilmi, temel olarak hangi konuları ele alır?",
+      "options": ["Hukuk", "Siyer", "Akaid ve ilahiyat", "Hadis"],
       "correctAnswer": 2,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "Hz. Muhammed'in mektuplarından biri olan ve 'Bizans İmparatoru Herakleios'a' gönderilen mektup, İslam'ın hangi yönünü göstermektedir?",
+      "options": ["Siyasi güç", "Diplomasi", "Ekonomik ilişkiler", "Askeri strateji"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Müslümanların 'Hayber'de' fethettiği kale ve şehrin, Yahudilerin en büyük ticaret merkezi olması, Hz. Muhammed'in fethi hangi yönden stratejik hale getirmiştir?",
+      "options": ["Dini", "Siyasi", "Ekonomik", "Askeri"],
       "correctAnswer": 2,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "İslam'da 'İman esasları' arasında yer alan 'ahirete iman'ın' ana amacı nedir?",
+      "options": ["Ölümden korkmak", "Hayattan keyif almak", "Dünya hayatını boşvermek", "Sorumluluk bilinci geliştirmek"],
+      "correctAnswer": 3,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Hz. Muhammed'in, hicretten sonra 'ensar ve muhacir'i bir araya getirmesiyle oluşan sosyal ve ekonomik dayanışma modeline ne ad verilir?",
+      "options": ["Aşiret", "Müahât", "Kabile", "Mücahit"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Dört Halife döneminde 'Hz. Ömer'in' vefat etmeden önce halifelik için kurduğu ve 'Halifeyi seçmek için bir araya gelen' meclisin adı nedir?",
+      "options": ["Şura Meclisi", "İcma-i Ümmet", "Rıdvan Biatı", "Sakife"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Mekke'de' yaşadığı 'İslam'a davetin ilk gizli dönemi' ne kadar sürmüştür?",
+      "options": ["1 yıl", "3 yıl", "5 yıl", "7 yıl"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-      "correctAnswer": 2,
+      "question": "İslam'da 'Kul hakkı' ve 'Adalet' kavramlarının önemi, Hz. Muhammed'in hangi hadisinde en açık şekilde vurgulanmıştır?",
+      "options": ["Veda Hutbesi", "Uhud'da Savaş", "Bedir'de Esirler", "Hendek'te Savunma"],
+      "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 2,
-      "level": 9,
-      "prize": 1000000
-    },
-    {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "Hz. Muhammed'in 'Mescid-i Nebevi'yi inşa ettiği ve İslam devletini kurduğu şehir hangisidir?",
+      "options": ["Mekke", "Medine", "Taif", "Şam"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Hz. Muhammed'in 'Hayber'in Fethi'nde' 'İslam'ın en büyük kale fatihi' olarak anılan sahabi kimdir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Osman", "Hz. Ali"],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İslam'da 'ilmihal bilgileri'nin temel amacı nedir?",
+      "options": ["Siyasi güç elde etmek", "Ekonomik zenginlik kazanmak", "İbadetleri doğru şekilde yapmak", "Filozof olmak"],
       "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
+      "question": "Hz. Muhammed'in 'Veda Hutbesi'nde' 'Bütün insanlar Adem'den, Adem de topraktandır' ifadesi, İslam'ın hangi temel ilkesini vurgulamaktadır?",
+      "options": ["Kabilecilik", "Korku", "Irkçılık", "Eşitlik"],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 1,
+      "question": "Kerbela'da katledilen 'Hz. Hüseyin'in' mezarının bulunduğu şehir hangisidir?",
+      "options": ["Mekke", "Medine", "Necef", "Kerbela"],
+      "correctAnswer": 3,
       "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-      "correctAnswer": 2,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 2,
-      "level": 11,
       "prize": 2000000
     },
     {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-      "correctAnswer": 1,
-      "level": 11,
+      "question": "İslam'da 'Haniflik' geleneğine göre, Hz. Muhammed'in peygamberliği öncesi dönemde 'Allah'ın birliğine inanan ve putlara tapmayan' kişi veya grup kimlerdir?",
+      "options": ["Müşrikler", "Yahudiler", "Hristiyanlar", "Hanifler"],
+      "correctAnswer": 3,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
-      "correctAnswer": 2,
-      "level": 11,
+      "question": "Hz. Muhammed'in 'Yemame'deki' sahte peygamberlere karşı yapılan savaşta 'Kur'an hafızlarının' şehit olması, Kur'an'ın toplanması fikrini hangi halifeye vermiştir?",
+      "options": ["Hz. Ömer", "Hz. Ebu Bekir", "Hz. Osman", "Hz. Ali"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 1,
-      "level": 11,
+      "question": "Hz. Muhammed'in mektuplarından biri olan ve 'Mısır'ın Hristiyan yöneticisine' gönderilen mektup, İslam'ın hangi yönünü vurgulamıştır?",
+      "options": ["Barışçıl davet", "Askeri tehdit", "Siyasi ittifak", "Ekonomik işbirliği"],
+      "correctAnswer": 0,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "İslam'da 'Hz. Muhammed'in' vefatından sonra ortaya çıkan ve 'Halifelik meselesinde' tartışmalara neden olan fırka hangisidir?",
+      "options": ["Sünnilik", "Şiilik", "Haricilik", "Mutezile"],
       "correctAnswer": 1,
-      "level": 11,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-      "correctAnswer": 2,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "Hz. Muhammed'in 'Tebük Seferi'nin' gerçekleşme nedeni nedir?",
+      "options": ["Ticaret yollarını kontrol etmek", "Bizans İmparatorluğu'na karşı savaşmak", "Mekke'yi fethetmek", "Müslümanları birleştirmek"],
       "correctAnswer": 1,
-      "level": 12,
-      "prize": 3000000
+      "level": 10,
+      "prize": 2000000
     },
     {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "İslam'da 'İbadet' kavramının temel amacı nedir?",
+      "options": ["Şöhret kazanmak", "Gösteriş yapmak", "Allah'a kulluk ve şükran duygularını ifade etmek", "Para kazanmak"],
       "correctAnswer": 2,
-      "level": 12,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Hz. Muhammed'in son hutbesinde 'Hiçbir Arap'ın Arap olmayana, beyazın siyaha üstünlüğü yoktur' ifadesi hangi kavramı reddetmektedir?",
+      "options": ["Adalet", "Tevhid", "Irkçılık", "Eşitlik"],
+      "correctAnswer": 2,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "İslam dininde nasr kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "İslam'da 'iman esasları' arasında yer alan 'kaza ve kadere iman'ın' anlamı nedir?",
+      "options": ["Her şeyin Allah'ın önceden belirlemiş olduğu plana göre gerçekleştiğine inanmak", "İnsanların kaderlerini kendilerinin belirlemesi", "Ölümün varlığına inanmak", "Rızkın Allah tarafından verildiğine inanmak"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Mekke'nin Fethi' sırasında, kendisine yıllarca eziyet eden Mekkelilere karşı 'genel af' ilan etmesi, İslam'ın hangi yönünü göstermiştir?",
+      "options": ["Adalet", "Hoşgörü", "Savaş", "Ekonomi"],
       "correctAnswer": 1,
-      "level": 12,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "İslam dininde tebbet kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Hz. Muhammed'in Medine'de inşa ettiği ve İslam'ın ilk mescidi olan 'Kuba Mescidi'nin' en önemli özelliği nedir?",
+      "options": ["En büyük mescit olması", "En eski mescit olması", "Takva üzerine kurulmuş ilk mescit olması", "En çok ziyaret edilen mescit olması"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'vahiy' dışında söylediği ve 'hadis-i kutsi' olarak bilinen sözler, hangi yönüyle Kur'an'dan ayrılır?",
+      "options": ["Anlamı Allah'a, sözleri Hz. Muhammed'e aittir", "Anlamı ve sözleri Allah'a aittir", "Anlamı ve sözleri Hz. Muhammed'e aittir", "Anlamı sahabelere aittir"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Dört Halife döneminde 'Hz. Ömer'in' 'divan teşkilatı'nı kurması, hangi alanda bir reformu temsil etmektedir?",
+      "options": ["Askeri", "Hukuki", "Ekonomik ve idari", "Dini"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "İslam'da 'ilmihal'in' ana kaynakları nelerdir?",
+      "options": ["Kur'an ve hadis", "Kur'an ve felsefe", "Fıkıh ve kelam", "Tarih ve coğrafya"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Hz. Muhammed'in Mekke'den Medine'ye hicretinden önce, 'Medine'den gelen Müslümanlarla' yaptığı ve 'Hz. Muhammed'e bağlılık' yemini ettiği antlaşmanın adı nedir?",
+      "options": ["Hudeybiye Antlaşması", "Medine Sözleşmesi", "Akabe Biatları", "Rıdvan Biatı"],
       "correctAnswer": 2,
       "level": 12,
-      "prize": 3000000
+      "prize": 4000000
     },
     {
-      "question": "İslam dininde fil kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "question": "İslam'da 'Hz. Ömer'in' vefatından sonra halifelik için kurulan 'altı kişilik şura heyeti'nin' içinde yer almayan sahabi kimdir?",
+      "options": ["Hz. Osman", "Hz. Ali", "Abdurrahman bin Avf", "Sa'd bin Ebi Vakkas"],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Mekke'den Medine'ye hicretinde' kendisine rehberlik yapan ve müşriklerin aramasından kurtaran kişi kimdir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ali", "Abdullah bin Uraykıt", "Selman-ı Farisi"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "İslam'da 'ilmihal'in' konusu olan ve 'ibadetlerin şartları' arasında yer alan 'nezafet' ne anlama gelir?",
+      "options": ["Temizlik", "Abdest", "Namaz", "Oruç"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Uhud Savaşı'nda' 'dişi kırılan ve yaralanan' ancak 'savaşa devam eden' sahabi kimdir?",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Hamza", "Hz. Ali"],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "İslam'da 'Hristiyan' ve 'Yahudiler'e karşı uygulanan ve 'barış ve hoşgörü'yü esas alan bir yaklaşımı temsil eden antlaşma hangisidir?",
+      "options": ["Medine Sözleşmesi", "Hudeybiye Antlaşması", "Akabe Biatları", "Tebük Antlaşması"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Hayber'in Fethi'nde' 'yahudilerin direnci'ne karşı kullanılan ve 'Kattaniye' adı verilen mancınıklar, hangi yönüyle savaş tarihinde bir ilki temsil etmiştir?",
+      "options": ["Mancınıkların ilk kullanımı", "Ağır silahların ilk kullanımı", "Kuşatma tekniğinin ilk kullanımı", "Psikolojik savaşın ilk kullanımı"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hz. Muhammed'in 'Mekke'nin Fethi' sırasında, Mekke'ye girişini kolaylaştırmak için 'İslam ordusunun bir bölümünü' şehre 'gizlice' sokma emrini verdiği sahabi kimdir?",
+      "options": ["Hz. Ömer", "Halid bin Velid", "Hz. Ebu Ubeyde bin Cerrah", "Amr bin As"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "İslam dininde kureyş kaç ayettir?",
-      "options": ["A) 3", "B) 4", "C) 5", "D) 6"],
+      "question": "Dört Halife döneminde 'Mısır'ın fethi' hangi komutanın liderliğinde gerçekleşmiştir?",
+      "options": ["Halid bin Velid", "Amr bin As", "Sa'd bin Ebi Vakkas", "Ebu Ubeyde bin Cerrah"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "İslam dininde maun kaç ayettir?",
-      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-      "correctAnswer": 2,
+      "question": "Hz. Muhammed'in 'vahiy katibi' olan ve Kur'an'ın yazılı bir metin haline getirilmesinde önemli rol oynayan sahabi kimdir?",
+      "options": ["Zeyd bin Sabit", "Ubey bin Ka'b", "Muaz bin Cebel", "Abdullah bin Mes'ud"],
+      "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "İslam dininde kevser kaç ayettir?",
-      "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+      "question": "İslam'da 'Fıkıh' ilminin temel amacı nedir?",
+      "options": ["İslami inançları savunmak", "İslami hayat tarzını düzenlemek", "İslam tarihini yazmak", "Kur'an'ı tefsir etmek"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "İslam dininde kafirun kaç ayettir?",
-      "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-      "correctAnswer": 2,
+      "question": "Hz. Muhammed'in 'Veda Hutbesi'nde', 'faizin' ve 'kan davalarının' kaldırıldığını ilan etmesi, İslam'ın hangi yönünü vurgulamıştır?",
+      "options": ["Ekonomik adalet", "Siyasi adalet", "Askeri adalet", "Hukuki adalet"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "İslam'da 'iman esasları' arasında yer alan 'peygamberlere iman'ın' anlamı nedir?",
+      "options": ["Sadece Hz. Muhammed'e inanmak", "Tüm peygamberlere inanmak", "Peygamberlerin melek olduğuna inanmak", "Peygamberlerin insan olduğuna inanmak"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Dört Halife döneminde 'Sıffin Savaşı'nda' Hz. Ali'ye karşı savaşan ve Emevi Devleti'nin kurucusu olan kişi kimdir?",
+      "options": ["Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan", "Velid bin Abdülmelik"],
+      "correctAnswer": 0,
       "level": 13,
       "prize": 5000000
     }
