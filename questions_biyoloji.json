@@ -1,1 +1,784 @@
-
+{
+  "questions": [
+    {
+      "question": "Hücrenin temel yapı taşı nedir?",
+      "options": [
+        "Karbonhidrat",
+        "Yağ",
+        "Protein",
+        "Su"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin kontrol merkezi nedir?",
+      "options": [
+        "Çekirdek",
+        "Mitokondri",
+        "Golgi",
+        "Endoplazmik retikulum"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin enerji santrali nedir?",
+      "options": [
+        "Çekirdek",
+        "Mitokondri",
+        "Golgi",
+        "Lizozom"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin paketleme merkezi nedir?",
+      "options": [
+        "Golgi",
+        "Mitokondri",
+        "Çekirdek",
+        "Ribozom"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin sindirim organeli nedir?",
+      "options": [
+        "Golgi",
+        "Mitokondri",
+        "Çekirdek",
+        "Lizozom"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "DNA'nın yapısı nasıldır?",
+      "options": [
+        "Tek sarmal",
+        "Düz zincir",
+        "Dairesel",
+        "Çift sarmal"
+      ],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "RNA'nın türleri nelerdir?",
+      "options": [
+        "Sadece mRNA",
+        "Sadece tRNA",
+        "mRNA, tRNA, rRNA",
+        "Sadece rRNA"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Protein sentezi nerede gerçekleşir?",
+      "options": [
+        "Çekirdek",
+        "Ribozom",
+        "Golgi",
+        "Mitokondri"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Genetik kod kaç harflidir?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mutasyon nedir?",
+      "options": [
+        "Hücre bölünmesi",
+        "Protein sentezi",
+        "Gen değişikliği",
+        "DNA kopyalama"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mitoz bölünme kaç aşamalıdır?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Mayoz bölünme kaç aşamalıdır?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Kromozom sayısı insanda kaçtır?",
+      "options": [
+        "46",
+        "44",
+        "48",
+        "50"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Cinsiyet kromozomları nelerdir?",
+      "options": [
+        "X ve Y",
+        "A ve B",
+        "1 ve 2",
+        "Alpha ve Beta"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Gen nedir?",
+      "options": [
+        "Hücre birimi",
+        "Protein birimi",
+        "Enzim birimi",
+        "Kalıtım birimi"
+      ],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 30000
+    },
+    {
+      "question": "Alel nedir?",
+      "options": [
+        "Hücre çeşidi",
+        "Gen çeşidi",
+        "Protein çeşidi",
+        "Enzim çeşidi"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Dominant gen nedir?",
+      "options": [
+        "Çekinik gen",
+        "Orta gen",
+        "Karışık gen",
+        "Baskın gen"
+      ],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Resesif gen nedir?",
+      "options": [
+        "Baskın gen",
+        "Orta gen",
+        "Çekinik gen",
+        "Karışık gen"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Heterozigot nedir?",
+      "options": [
+        "Aynı aleller",
+        "Farklı aleller",
+        "Benzer aleller",
+        "Karışık aleller"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Homozigot nedir?",
+      "options": [
+        "Farklı aleller",
+        "Aynı aleller",
+        "Benzer aleller",
+        "Karışık aleller"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 90000
+    },
+    {
+      "question": "Punnett karesi ne için kullanılır?",
+      "options": [
+        "Hücre sayımı",
+        "Protein ölçümü",
+        "Enzim analizi",
+        "Genetik hesaplama"
+      ],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in çaprazlama deneyleri hangi bitki ile yapılmıştır?",
+      "options": [
+        "Fasulye",
+        "Mercimek",
+        "Bezelye",
+        "Nohut"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in birinci yasası nedir?",
+      "options": [
+        "Bağımsız dağılım",
+        "Ayrılma yasası",
+        "Dominantlık",
+        "Çekiniklik"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in ikinci yasası nedir?",
+      "options": [
+        "Ayrılma yasası",
+        "Dominantlık",
+        "Çekiniklik",
+        "Bağımsız dağılım"
+      ],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Mendel'in üçüncü yasası nedir?",
+      "options": [
+        "Ayrılma yasası",
+        "Bağımsız dağılım",
+        "Dominantlık",
+        "Çekiniklik"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Kan grupları kaç türlüdür?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Rh faktörü nedir?",
+      "options": [
+        "Kan hücresi",
+        "Kan sıvısı",
+        "Kan pıhtısı",
+        "Kan proteini"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Evrim nedir?",
+      "options": [
+        "Tür değişimi",
+        "Hücre değişimi",
+        "Protein değişimi",
+        "Enzim değişimi"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Doğal seçilim nedir?",
+      "options": [
+        "Çevreye uyum",
+        "Rastgele değişim",
+        "Zorla değişim",
+        "İsteğe bağlı değişim"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Adaptasyon nedir?",
+      "options": [
+        "Çevreye karşı koyma",
+        "Çevreyi değiştirme",
+        "Çevreye uyum",
+        "Çevreyi yok etme"
+      ],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 400000
+    },
+    {
+      "question": "Tür nedir?",
+      "options": [
+        "Farklı canlı grubu",
+        "Benzer canlı grubu",
+        "Karışık canlı grubu",
+        "Orta canlı grubu"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Popülasyon nedir?",
+      "options": [
+        "Farklı türden bireyler",
+        "Karışık türden bireyler",
+        "Orta türden bireyler",
+        "Aynı türden bireyler"
+      ],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Ekosistem nedir?",
+      "options": [
+        "Sadece canlı çevre",
+        "Sadece cansız çevre",
+        "Canlı ve cansız çevre",
+        "Karışık çevre"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Biyoçeşitlilik nedir?",
+      "options": [
+        "Sadece bitki çeşitliliği",
+        "Canlı çeşitliliği",
+        "Sadece hayvan çeşitliliği",
+        "Sadece mikroorganizma çeşitliliği"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Besin zinciri nedir?",
+      "options": [
+        "Sadece av-avcı",
+        "Sadece bitki-hayvan",
+        "Sadece otçul-etçil",
+        "Beslenme ilişkisi"
+      ],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 600000
+    },
+    {
+      "question": "Fotosentez nedir?",
+      "options": [
+        "Sadece ışık emilimi",
+        "Sadece besin üretimi",
+        "Işık enerjisi ile besin üretimi",
+        "Sadece enerji üretimi"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Solunum nedir?",
+      "options": [
+        "Sadece oksijen alımı",
+        "Sadece karbondioksit verimi",
+        "Enerji üretimi",
+        "Sadece su üretimi"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Osmoz nedir?",
+      "options": [
+        "Sadece tuz geçişi",
+        "Sadece şeker geçişi",
+        "Sadece protein geçişi",
+        "Su geçişi"
+      ],
+      "correctAnswer": 3,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Difüzyon nedir?",
+      "options": [
+        "Sadece su geçişi",
+        "Madde geçişi",
+        "Sadece gaz geçişi",
+        "Sadece sıvı geçişi"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Aktif taşıma nedir?",
+      "options": [
+        "Sadece pasif taşıma",
+        "Enerji ile madde taşınması",
+        "Sadece basit difüzyon",
+        "Sadece osmoz"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 800000
+    },
+    {
+      "question": "Enzim nedir?",
+      "options": [
+        "Sadece protein",
+        "Sadece karbonhidrat",
+        "Biyolojik katalizör",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hormon nedir?",
+      "options": [
+        "Sadece protein",
+        "Sadece karbonhidrat",
+        "Sadece yağ",
+        "Kimyasal haberci"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Antikor nedir?",
+      "options": [
+        "Sadece kan proteini",
+        "Sadece kas proteini",
+        "Sadece kemik proteini",
+        "Bağışıklık proteini"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Antijen nedir?",
+      "options": [
+        "Sadece protein",
+        "Bağışıklık uyarıcısı",
+        "Sadece karbonhidrat",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Lenfosit nedir?",
+      "options": [
+        "Sadece kan hücresi",
+        "Sadece kemik hücresi",
+        "Bağışıklık hücresi",
+        "Sadece kas hücresi"
+      ],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Nöron nedir?",
+      "options": [
+        "Sinir hücresi",
+        "Sadece beyin hücresi",
+        "Sadece omurilik hücresi",
+        "Sadece sinir hücresi"
+      ],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Sinaps nedir?",
+      "options": [
+        "Nöron bağlantısı",
+        "Sadece nöron",
+        "Sadece bağlantı",
+        "Sadece ileti"
+      ],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Nörotransmitter nedir?",
+      "options": [
+        "Sadece protein",
+        "Sadece karbonhidrat",
+        "Sadece yağ",
+        "Sinir ileticisi"
+      ],
+      "correctAnswer": 3,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Refleks nedir?",
+      "options": [
+        "Sadece istemli hareket",
+        "Sadece öğrenilmiş hareket",
+        "Otomatik tepki",
+        "Sadece koşullu hareket"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Beyin nedir?",
+      "options": [
+        "Sadece sinir hücresi",
+        "Merkezi sinir sistemi",
+        "Sadece nöron",
+        "Sadece sinaps"
+      ],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1500000
+    },
+    {
+      "question": "Kalp nedir?",
+      "options": [
+        "Dolaşım organı",
+        "Sadece kas",
+        "Sadece damar",
+        "Sadece kan"
+      ],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Damar nedir?",
+      "options": [
+        "Kan taşıyıcısı",
+        "Sadece atardamar",
+        "Sadece toplardamar",
+        "Sadece kılcal damar"
+      ],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Kan nedir?",
+      "options": [
+        "Sadece plazma",
+        "Dolaşım sıvısı",
+        "Sadece hücre",
+        "Sadece trombosit"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Alyuvar nedir?",
+      "options": [
+        "Oksijen taşıyıcısı",
+        "Sadece kan hücresi",
+        "Sadece bağışıklık hücresi",
+        "Sadece pıhtılaşma hücresi"
+      ],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Akyuvar nedir?",
+      "options": [
+        "Sadece kan hücresi",
+        "Sadece oksijen taşıyıcısı",
+        "Sadece pıhtılaşma hücresi",
+        "Bağışıklık hücresi"
+      ],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Akciğer nedir?",
+      "options": [
+        "Sadece hava kesesi",
+        "Sadece bronş",
+        "Solunum organı",
+        "Sadece alveol"
+      ],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Bronş nedir?",
+      "options": [
+        "Hava yolu",
+        "Sadece hava kesesi",
+        "Sadece akciğer",
+        "Sadece alveol"
+      ],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Alveol nedir?",
+      "options": [
+        "Sadece hava yolu",
+        "Sadece bronş",
+        "Sadece akciğer",
+        "Hava kesesi"
+      ],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Diyafram nedir?",
+      "options": [
+        "Sadece karın kası",
+        "Sadece göğüs kası",
+        "Solunum kası",
+        "Sadece boyun kası"
+      ],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Solunum nedir?",
+      "options": [
+        "Sadece oksijen alımı",
+        "Gaz değişimi",
+        "Sadece karbondioksit verimi",
+        "Sadece hava alımı"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Böbrek nedir?",
+      "options": [
+        "Sadece süzme organı",
+        "Sadece emme organı",
+        "Boşaltım organı",
+        "Sadece salgılama organı"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Nefron nedir?",
+      "options": [
+        "Sadece süzme birimi",
+        "Sadece emme birimi",
+        "Sadece salgılama birimi",
+        "Böbrek birimi"
+      ],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Üre nedir?",
+      "options": [
+        "Sadece protein",
+        "Azotlu atık",
+        "Sadece karbonhidrat",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Ürik asit nedir?",
+      "options": [
+        "Sadece protein",
+        "Sadece karbonhidrat",
+        "Azotlu atık",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Kreatinin nedir?",
+      "options": [
+        "Azotlu atık",
+        "Sadece protein",
+        "Sadece karbonhidrat",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}
