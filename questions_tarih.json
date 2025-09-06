@@ -1,449 +1,904 @@
 {
   "questions": [
     {
-      "question": "Hangi yıl İstanbul fethedilmiştir?",
-      "options": ["A) 1451", "B) 1453", "C) 1455", "D) 1457"],
+      "question": "Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı kimdir?",
+      "options": ["İsmet İnönü", "Fevzi Çakmak", "Mustafa Kemal Atatürk", "Celal Bayar"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Mısır'da antik dönemde kral ve kraliçelere verilen unvan nedir?",
+      "options": ["Sultan", "Şah", "Firavun", "İmparator"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Orta Asya'da kurulan ilk Türk devletlerinden olan Göktürklerin en önemli destanı hangisidir?",
+      "options": ["Manas Destanı", "Oğuz Kağan Destanı", "Ergenekon Destanı", "Yaratılış Destanı"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Hitit İmparatorluğu'nun başkenti hangi şehirdir?",
+      "options": ["Hattuşaş", "Troya", "Efese", "Bergama"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+      "options": ["Alparslan", "Sultan Melikşah", "Tuğrul Bey", "Çağrı Bey"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun ilk başkenti hangi şehirdir?",
+      "options": ["İstanbul", "Bursa", "Edirne", "Söğüt"],
       "correctAnswer": 1,
       "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Avrupa'da 18. yüzyılda başlayan, bilim ve aklın ön planda tutulduğu dönem hangi isimle anılır?",
+      "options": ["Rönesans", "Reform", "Aydınlanma Çağı", "Sanayi Devrimi"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun en önemli lideri kimdir?",
+      "options": ["Timur", "Attila", "Cengiz Han", "Ogeday Han"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Emeviler döneminde İslam Devleti'nin başkenti hangi şehirdir?",
+      "options": ["Medine", "Mekke", "Şam", "Bağdat"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "İlk Türk İslam devleti olan Karahanlılar hangi coğrafyada hüküm sürmüştür?",
+      "options": ["Anadolu", "Mezopotamya", "Orta Asya", "Kuzey Afrika"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Türk tarihinin ilk yazılı belgeleri olan Orhun Yazıtları hangi devlete aittir?",
+      "options": ["Uygurlar", "Göktürkler", "Hunlar", "Karahanlılar"],
+      "correctAnswer": 1,
+      "level": 2,
       "prize": 5000
     },
     {
-      "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
-      "options": ["A) Orhan Bey", "B) Osman Bey", "C) Murat Bey", "D) Bayezid Bey"],
+      "question": "Anadolu Selçuklu Devleti'nin kurucusu kimdir?",
+      "options": ["I. Kılıçarslan", "Süleyman Şah", "II. Kılıçarslan", "Gıyaseddin Keyhüsrev"],
       "correctAnswer": 1,
-      "level": 1,
+      "level": 2,
       "prize": 5000
     },
     {
-      "question": "Hangi yıl Osmanlı İmparatorluğu kurulmuştur?",
-      "options": ["A) 1281", "B) 1299", "C) 1307", "D) 1315"],
-      "correctAnswer": 1,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Hangi padişah 'Fatih' lakabıyla anılmıştır?",
-      "options": ["A) I. Mehmet", "B) II. Mehmet", "C) I. Süleyman", "D) II. Bayezid"],
-      "correctAnswer": 1,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
-      "options": ["A) 1920", "B) 1923", "C) 1927", "D) 1938"],
-      "correctAnswer": 1,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Malazgirt Savaşı hangi yıl yapılmıştır?",
-      "options": ["A) 1071", "B) 1081", "C) 1091", "D) 1101"],
+      "question": "Abbasiler döneminde bilim, sanat ve felsefenin merkezi haline gelen ve 'Hikmet Evi'ni barındıran şehir hangisidir?",
+      "options": ["Bağdat", "Şam", "Kahire", "İsfahan"],
       "correctAnswer": 0,
       "level": 2,
-      "prize": 10000
+      "prize": 5000
     },
     {
-      "question": "Hangi yıl Kurtuluş Savaşı başlamıştır?",
-      "options": ["A) 1919", "B) 1920", "C) 1921", "D) 1922"],
-      "correctAnswer": 0,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi yıl Kurtuluş Savaşı bitmiştir?",
-      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
-      "correctAnswer": 2,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi yıl Lozan Antlaşması imzalanmıştır?",
-      "options": ["A) 1922", "B) 1923", "C) 1924", "D) 1925"],
+      "question": "Avrupa'da coğrafi keşiflerin başlamasında en önemli etkenlerden biri olan ve baharat yolunu arayan Portekizli denizci kimdir?",
+      "options": ["Kristof Kolomb", "Vasco da Gama", "Macellan", "James Cook"],
       "correctAnswer": 1,
       "level": 2,
-      "prize": 10000
+      "prize": 5000
     },
     {
-      "question": "Hangi yıl Türkiye'de saltanat kaldırılmıştır?",
-      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
+      "question": "Mısır'da piramitlerin en büyüğü olan 'Keops Piramidi' hangi dönemde yapılmıştır?",
+      "options": ["Eski Krallık", "Orta Krallık", "Yeni Krallık", "Ptolemaios Hanedanı"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Asur İmparatorluğu'nun en önemli başkenti ve dünyanın ilk kütüphanesini kuran şehir hangisidir?",
+      "options": ["Babil", "Ninova", "Asur", "Kültepe"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nda 'Fetret Devri'ne son vererek birliği sağlayan padişah kimdir?",
+      "options": ["Yıldırım Bayezid", "Çelebi Mehmet", "II. Murat", "Fatih Sultan Mehmet"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde bilinen ilk kervansaray hangi dönemde inşa edilmiştir?",
+      "options": ["Süleyman Şah", "I. Kılıçarslan", "I. Mesud", "II. Kılıçarslan"],
       "correctAnswer": 2,
       "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nda 'Yasalar' anlamına gelen, Cengiz Han tarafından oluşturulan hukuk kurallarının adı nedir?",
+      "options": ["Töre", "Yassa", "Yarlık", "Orun"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye Cumhuriyeti'nde 'Harf Devrimi' ne zaman gerçekleşmiştir?",
+      "options": ["1923", "1924", "1928", "1930"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 5000
+    },
+    {
+      "question": "Hitit İmparatorluğu ile Mısır arasında yapılan ve tarihin bilinen ilk yazılı antlaşması olan 'Kadeş Antlaşması' hangi yıl imzalanmıştır?",
+      "options": ["M.Ö. 1280", "M.Ö. 1350", "M.Ö. 1296", "M.Ö. 1400"],
+      "correctAnswer": 2,
+      "level": 3,
       "prize": 10000
     },
     {
-      "question": "Hangi savaş I. Dünya Savaşı'nı sona erdirmiştir?",
-      "options": ["A) Verdun Savaşı", "B) Somme Savaşı", "C) Marne Savaşı", "D) Hiçbiri"],
+      "question": "Anadolu beyliklerinden hangisi 'Dulkadiroğulları' olarak bilinir ve Kahramanmaraş çevresinde kurulmuştur?",
+      "options": ["Karamanoğulları", "Germiyanoğulları", "Aydınoğulları", "Dulkadiroğulları"],
       "correctAnswer": 3,
       "level": 3,
-      "prize": 30000
+      "prize": 10000
     },
     {
-      "question": "Hangi yıl I. Dünya Savaşı başlamıştır?",
-      "options": ["A) 1912", "B) 1914", "C) 1916", "D) 1918"],
-      "correctAnswer": 1,
+      "question": "Uygurların Maniheizm dinini kabul etmeleriyle yerleşik hayata geçmeleri hangi kağan döneminde gerçekleşmiştir?",
+      "options": ["Kutluk Bilge Kül Kağan", "Bayan Çor Kağan", "Moyen Çor Kağan", "Bögü Kağan"],
+      "correctAnswer": 3,
       "level": 3,
-      "prize": 30000
+      "prize": 10000
     },
     {
-      "question": "Hangi yıl I. Dünya Savaşı bitmiştir?",
-      "options": ["A) 1916", "B) 1917", "C) 1918", "D) 1919"],
-      "correctAnswer": 2,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "Hangi yıl II. Dünya Savaşı bitmiştir?",
-      "options": ["A) 1943", "B) 1944", "C) 1945", "D) 1946"],
+      "question": "Avrupa'da Sanayi Devrimi'nin ilk olarak başladığı ülke hangisidir?",
+      "options": ["Almanya", "Fransa", "İngiltere", "ABD"],
       "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 10000
     },
     {
-      "question": "Hangi yıl Soğuk Savaş başlamıştır?",
-      "options": ["A) 1945", "B) 1947", "C) 1949", "D) 1951"],
+      "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' hangi padişah dönemine denk gelir?",
+      "options": ["III. Selim", "III. Ahmet", "I. Mahmut", "II. Mahmut"],
       "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 10000
     },
     {
-      "question": "Amerika'yı ilk keşfeden kimdir?",
-      "options": ["A) Vasco da Gama", "B) Kristof Kolomb", "C) Ferdinand Magellan", "D) Marco Polo"],
+      "question": "Türkiye'nin ilk yerli savaş uçağı projesi olan 'Hürkuş' hangi dönemde geliştirilmiştir?",
+      "options": ["Atatürk Dönemi", "İnönü Dönemi", "Demokrat Parti Dönemi", "Cevdet Sunay Dönemi"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 10000
+    },
+    {
+      "question": "Abbasilerin en parlak dönemi olarak kabul edilen ve 'Harun Reşid'in torunu' olarak bilinen halife kimdir?",
+      "options": ["Mansur", "Müstağni Billah", "Emin", "Memun"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 10000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanmasıyla kurulan ve Hülagü Han tarafından yönetilen devlet hangisidir?",
+      "options": ["Altın Orda Devleti", "Çağatay Hanlığı", "İlhanlılar", "Kubilay Hanlığı"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 10000
+    },
+    {
+      "question": "Mısır'ın son Firavunu ve Ptolemaios Hanedanı'nın son kraliçesi kimdir?",
+      "options": ["Nefertiti", "Kleopatra VII", "Nefertari", "Hatshepsut"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 10000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nin en büyük ticaret yollarından biri olan 'Kervansaray Ağı' hangi sultan döneminde en parlak dönemini yaşamıştır?",
+      "options": ["I. Gıyaseddin Keyhüsrev", "II. Kılıçarslan", "I. Alaeddin Keykubat", "II. Mesud"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 10000
+    },
+    {
+      "question": "Avrupa'da 'Viking Çağı' hangi yüzyılları kapsar?",
+      "options": ["6. ve 7. yüzyıllar", "8. ve 11. yüzyıllar", "12. ve 13. yüzyıllar", "14. ve 15. yüzyıllar"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 20000
     },
     {
-      "question": "Hangi yıl Amerika keşfedilmiştir?",
-      "options": ["A) 1492", "B) 1498", "C) 1500", "D) 1502"],
+      "question": "Asur İmparatorluğu'nun çöküşüne neden olan, Babil ve Medler'in ortaklaşa düzenlediği saldırı hangi şehre yöneliktir?",
+      "options": ["Ninova", "Asur", "Kültepe", "Harran"],
       "correctAnswer": 0,
       "level": 4,
-      "prize": 90000
+      "prize": 20000
     },
     {
-      "question": "Hangi yıl Hindistan'a deniz yolu bulunmuştur?",
-      "options": ["A) 1492", "B) 1498", "C) 1500", "D) 1502"],
+      "question": "Türkiye Cumhuriyeti'nde 'Çiftçiyi Topraklandırma Kanunu' hangi yıl yürürlüğe girmiştir?",
+      "options": ["1938", "1945", "1950", "1961"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 20000
     },
     {
-      "question": "Hangi yıl Dünya'nın etrafı dolaşılmıştır?",
-      "options": ["A) 1519", "B) 1522", "C) 1525", "D) 1528"],
+      "question": "Göktürklerde 'İlteriş Kağan' olarak bilinen ve devleti yeniden toparlayan lider kimdir?",
+      "options": ["Bilge Kağan", "Kül Tigin", "Bumin Kağan", "Kutluk Kağan"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 20000
+    },
+    {
+      "question": "Uygur alfabesi hangi alfabenin temelini alarak oluşturulmuştur?",
+      "options": ["Aramice", "Soğd", "Çince", "Fars"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 20000
     },
     {
-      "question": "Hangi yıl İpek Yolu keşfedilmiştir?",
-      "options": ["A) 1200", "B) 1250", "C) 1300", "D) 1350"],
+      "question": "Emevilerin halifelik makamını babadan oğula geçirmesi hangi halife döneminde başlamıştır?",
+      "options": ["Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan", "II. Mervan"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 20000
+    },
+    {
+      "question": "Büyük Selçuklu Devleti'nde 'Atabeylik' sisteminin ortaya çıkması hangi gelişmeyle bağlantılıdır?",
+      "options": ["Haçlı Seferleri", "Bizans Savaşları", "Oğuz isyanları", "Taht kavgaları"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 20000
+    },
+    {
+      "question": "Osmanlı'nın 'Küçük Kaynarca Antlaşması' ile kaybettiği ve Kırım Hanlığı'nın bağımsız olmasını sağlayan topraklar hangi coğrafyadadır?",
+      "options": ["Balkanlar", "Kuzey Afrika", "Kafkaslar", "Karadeniz'in kuzeyi"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 20000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde 'Babailer Ayaklanması' hangi sultan döneminde gerçekleşmiştir?",
+      "options": ["I. Kılıçarslan", "II. Gıyaseddin Keyhüsrev", "I. Alaeddin Keykubat", "I. Mesud"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 20000
     },
     {
-      "question": "Fransız Devrimi hangi yıl gerçekleşmiştir?",
-      "options": ["A) 1789", "B) 1799", "C) 1809", "D) 1819"],
+      "question": "Hititlerin bilinen en eski başkenti ve krallık merkezi hangi şehirdir?",
+      "options": ["Neşa", "Hattuşaş", "Troya", "Kaniş"],
       "correctAnswer": 0,
       "level": 5,
-      "prize": 200000
+      "prize": 50000
     },
     {
-      "question": "Hangi yıl Sanayi Devrimi başlamıştır?",
-      "options": ["A) 1750", "B) 1760", "C) 1770", "D) 1780"],
+      "question": "Osmanlı'da 'Fetret Devri'ne son veren ve devletin ikinci kurucusu olarak anılan padişah kimdir?",
+      "options": ["II. Murat", "Yıldırım Bayezid", "I. Mehmet (Çelebi)", "Orhan Bey"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Uygurların Mani dinini kabul etmeleriyle oluşan, dini temalı Uygur minyatürleri hangi sanat akımının öncüsü kabul edilir?",
+      "options": ["Çin Minyatür Sanatı", "İran Minyatür Sanatı", "Türk Minyatür Sanatı", "Hint Minyatür Sanatı"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Atabeylik' sisteminin ortaya çıkması hangi hükümdarın ölümünden sonra hız kazanmıştır?",
+      "options": ["Tuğrul Bey", "Alparslan", "Sultan Melikşah", "Sancar"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nin en parlak dönemi olarak bilinen ve kervansarayların en çok inşa edildiği dönem hangi sultana aittir?",
+      "options": ["I. Kılıçarslan", "I. Mesud", "I. Gıyaseddin Keyhüsrev", "I. Alaeddin Keykubat"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanmasıyla kurulan ve Hazar Denizi'nin kuzeyinde hüküm süren devlet hangisidir?",
+      "options": ["İlhanlılar", "Çağatay Hanlığı", "Kubilay Hanlığı", "Altın Orda Devleti"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Avrupa'da ‘İki Kuleli Savaş’ olarak da bilinen, İngiltere ve Fransa arasında gerçekleşen ‘Yüz Yıl Savaşları’nın en uzun süren çatışması nedir?",
+      "options": ["Crécy Savaşı", "Agincourt Savaşı", "Poitiers Savaşı", "Castillon Savaşı"],
       "correctAnswer": 1,
       "level": 5,
-      "prize": 200000
+      "prize": 50000
     },
     {
-      "question": "Hangi yıl Fransız Devrimi bitmiştir?",
-      "options": ["A) 1799", "B) 1804", "C) 1809", "D) 1814"],
+      "question": "Asur İmparatorluğu'nun en güçlü ve son büyük kralı kimdir? Bu kralın kütüphanesinde Gılgamış Destanı bulunmuştur.",
+      "options": ["Asurbanipal", "I. Şalmanasar", "Tiglat-Pileser III", "II. Sargon"],
       "correctAnswer": 0,
       "level": 5,
-      "prize": 200000
+      "prize": 50000
     },
     {
-      "question": "Hangi yıl Napolyon imparator olmuştur?",
-      "options": ["A) 1799", "B) 1804", "C) 1809", "D) 1814"],
+      "question": "Mısır'da 'III. Thutmose' döneminde yapılan ve Mısır tarihinin en büyük tapınaklarından biri olan 'Karnak Tapınağı' hangi tanrıya adanmıştır?",
+      "options": ["Amon", "Ra", "Osiris", "Horus"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Türkiye'de 'İlk Demiryolu Hattı' hangi şehirler arasında inşa edilmiştir?",
+      "options": ["Ankara-İstanbul", "İzmir-Aydın", "Erzurum-Kars", "Adana-Mersin"],
       "correctAnswer": 1,
       "level": 5,
+      "prize": 50000
+    },
+    {
+      "question": "Göktürklerde 'Türeyiş Destanı'nda anlatılan ve Türklerin kökenini gösteren hayvan hangisidir?",
+      "options": ["At", "Kurt", "Geyik", "Aslan"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Anadolu'da kurulan ilk Türk beylikleri arasında, Bizans ile en çok mücadele eden ve 'Danimendname' destanına konu olan beylik hangisidir?",
+      "options": ["Artuklular", "Danişmentliler", "Saltuklular", "Mengücekliler"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Emevi Halifeliği'nin 'İspanya'da' kurduğu devletin adı nedir?",
+      "options": ["Endülüs Emevi Devleti", "Fatımiler", "Eyyubiler", "Gırnata Emirliği"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Abbasilerin 'Türk' yöneticilerinin etkisiyle kurulan ve 'Mısır'da' kısa ömürlü bir dönem hüküm süren devlet hangisidir?",
+      "options": ["Fatımiler", "Eyyubiler", "Tolunoğulları", "Memlükler"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nda 'İpek Yolu' ticaretini canlandıran ve ticari faaliyetlere büyük önem veren hanlık hangisidir?",
+      "options": ["Altın Orda Devleti", "Çağatay Hanlığı", "İlhanlılar", "Kubilay Hanlığı"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Osmanlı'nın 'Yeniçeri Ocağı'nda' eğitim alan ve 'Devşirme' sistemiyle orduya katılan gençlere ne ad verilir?",
+      "options": ["Sipahi", "Cebelü", "Ağa", "Acemi Oğlan"],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Türkiye Cumhuriyeti'nin ilk 'Türkçe Kur'an-ı Kerim' hangi dönemde hazırlanmıştır?",
+      "options": ["İnönü Dönemi", "Atatürk Dönemi", "Celal Bayar Dönemi", "Adnan Menderes Dönemi"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nun 'Nişabur'daki resmi bayrağının üzerinde hangi sembol yer almaktadır?",
+      "options": ["Tek Ok ve Yay", "Çift Başlı Kartal", "Kurt", "Hilal ve Yıldız"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Avrupa'da 'Viyana Kuşatması'nı gerçekleştiren Osmanlı sadrazamı kimdir?",
+      "options": ["Köprülü Mehmet Paşa", "Sokullu Mehmet Paşa", "Merzifonlu Kara Mustafa Paşa", "Fazıl Ahmet Paşa"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Mısır'da 'Antik Mısır'ın' en büyük ve en çok inşaat yapan firavunu kimdir?",
+      "options": ["Akhenaton", "Tutankhamun", "II. Ramses", "III. Thutmose"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 100000
+    },
+    {
+      "question": "Uygur alfabesi hangi alfabenin temelini alarak oluşturulmuştur?",
+      "options": ["Aramice", "Soğd", "Çince", "Fars"],
+      "correctAnswer": 1,
+      "level": 7,
       "prize": 200000
     },
     {
-      "question": "Hangi yıl Waterloo Savaşı yapılmıştır?",
-      "options": ["A) 1812", "B) 1815", "C) 1818", "D) 1821"],
+      "question": "Anadolu Beylikleri'nden 'Karamanoğulları'nın en önemli özelliği nedir?",
+      "options": ["Denizcilikte çok gelişmiş olmaları", "Osmanlı'ya en çok direnen beylik olmaları", "Mimari eserlerinin çok olması", "Ticarette en gelişmiş beylik olmaları"],
       "correctAnswer": 1,
-      "level": 5,
+      "level": 7,
       "prize": 200000
     },
     {
-      "question": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
-      "options": ["A) 1914-1915", "B) 1915-1916", "C) 1916-1917", "D) 1917-1918"],
+      "question": "Osmanlı İmparatorluğu'nda 'Devşirme Sistemi' hangi padişah döneminde uygulanmaya başlanmıştır?",
+      "options": ["Orhan Bey", "II. Murat", "Fatih Sultan Mehmet", "I. Mehmet"],
       "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
+      "level": 7,
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Çanakkale Savaşı başlamıştır?",
-      "options": ["A) 1914", "B) 1915", "C) 1916", "D) 1917"],
+      "question": "Emevilerin Endülüs'ü (İspanya) fethi ve İslam Devleti'ne katması hangi komutanın liderliğinde gerçekleşmiştir?",
+      "options": ["Halid bin Velid", "Tarık bin Ziyad", "Musa bin Nusayr", "Kuteybe bin Müslim"],
       "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
+      "level": 7,
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Çanakkale Savaşı bitmiştir?",
-      "options": ["A) 1915", "B) 1916", "C) 1917", "D) 1918"],
+      "question": "Abbasilerin 'Harun Reşid' döneminde bilim ve sanatın merkezi haline gelen ve 'Hikmet Evi'ni barındıran şehir hangisidir?",
+      "options": ["Şam", "Bağdat", "Kahire", "İsfahan"],
       "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
+      "level": 7,
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Sakarya Savaşı yapılmıştır?",
-      "options": ["A) 1920", "B) 1921", "C) 1922", "D) 1923"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Nizamülmülk'ün kaleme aldığı ve devlet yönetimini anlatan eser hangisidir?",
+      "options": ["Siyasetname", "Kutadgu Bilig", "Divan-ı Hikmet", "Divan-ı Lügati't Türk"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Büyük Taarruz başlamıştır?",
-      "options": ["A) 1921", "B) 1922", "C) 1923", "D) 1924"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Hangi yıl II. Dünya Savaşı başlamıştır?",
-      "options": ["A) 1937", "B) 1938", "C) 1939", "D) 1940"],
+      "question": "Moğol İmparatorluğu'nun parçalanmasıyla kurulan ve Hülagü Han tarafından yönetilen devlet hangisidir?",
+      "options": ["Altın Orda Devleti", "Çağatay Hanlığı", "İlhanlılar", "Kubilay Hanlığı"],
       "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Pearl Harbor saldırısı olmuştur?",
-      "options": ["A) 1940", "B) 1941", "C) 1942", "D) 1943"],
-      "correctAnswer": 1,
+      "question": "Avrupa'da 'Yedi Yıl Savaşları' hangi devletler arasında gerçekleşmiştir?",
+      "options": ["İngiltere-Fransa", "Fransa-İspanya", "İngiltere-Prusya", "Fransa-Prusya"],
+      "correctAnswer": 0,
       "level": 7,
-      "prize": 600000
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl D-Day çıkarması yapılmıştır?",
-      "options": ["A) 1943", "B) 1944", "C) 1945", "D) 1946"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl atom bombası atılmıştır?",
-      "options": ["A) 1944", "B) 1945", "C) 1946", "D) 1947"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl Soğuk Savaş bitmiştir?",
-      "options": ["A) 1987", "B) 1989", "C) 1991", "D) 1993"],
+      "question": "Hitit İmparatorluğu ile Mısır arasında yapılan ve tarihin bilinen ilk yazılı antlaşması olan 'Kadeş Antlaşması' hangi yıl imzalanmıştır?",
+      "options": ["M.Ö. 1280", "M.Ö. 1350", "M.Ö. 1296", "M.Ö. 1400"],
       "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 200000
     },
     {
-      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
-      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
+      "question": "Türkiye Cumhuriyeti'nde 'Çiftçiyi Topraklandırma Kanunu' hangi yıl yürürlüğe girmiştir?",
+      "options": ["1938", "1945", "1950", "1961"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 200000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde 'Gıyaseddin Keyhüsrev'in ölümüyle başlayan ve devleti yıkıma götüren savaş hangi devletle yapılmıştır?",
+      "options": ["Bizans", "Haçlılar", "Moğollar", "Eyyubiler"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 500000
+    },
+    {
+      "question": "Osmanlı'nın 'Yeniçeri Ocağı' hangi padişah döneminde kurulmuştur?",
+      "options": ["Orhan Bey", "I. Murad", "I. Mehmet", "II. Murat"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
-      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "question": "Türkiye'de '12 Mart Muhtırası' hangi yıl gerçekleşmiştir?",
+      "options": ["1961", "1971", "1980", "1997"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk televizyon yayını başlamıştır?",
-      "options": ["A) 1968", "B) 1971", "C) 1974", "D) 1980"],
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Nizamiyye Medreseleri'nin kurulması hangi vezir tarafından gerçekleştirilmiştir?",
+      "options": ["Tuğrul Bey", "Alparslan", "Nizamülmülk", "Melikşah"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 500000
+    },
+    {
+      "question": "Mısır'da 'Amarna Dönemi' olarak adlandırılan ve 'Akhenaton'un reformlarının gerçekleştiği dönem, hangi hanedan dönemi olarak bilinir?",
+      "options": ["16. Hanedan", "17. Hanedan", "18. Hanedan", "19. Hanedan"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 500000
+    },
+    {
+      "question": "Avrupa'da 'Viyana Kongresi' hangi savaşlar sonrasında toplanmıştır?",
+      "options": ["Fransız Devrimi", "Napolyon Savaşları", "Yedi Yıl Savaşları", "Otuz Yıl Savaşları"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 500000
+    },
+    {
+      "question": "Göktürklerde 'Türk' adının geçtiği ilk yazılı belge hangisidir?",
+      "options": ["Tonyukuk Yazıtı", "Bilge Kağan Yazıtı", "Kül Tigin Yazıtı", "Orhun Abideleri"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk radyo yayını başlamıştır?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
-      "correctAnswer": 0,
+      "question": "Uygurların Maniheizm dinini kabul etmeleri sonucunda 'Budizm' ve 'Hristiyanlık' gibi dinlerin de etkisiyle oluşan çok dilli ve çok kültürlü yapı hangi kavramla ifade edilmiştir?",
+      "options": ["Sentez", "Tolerans", "Diyalog", "Uygur Rönesansı"],
+      "correctAnswer": 3,
       "level": 8,
-      "prize": 800000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk nüfus sayımı yapılmıştır?",
-      "options": ["A) 1923", "B) 1927", "C) 1935", "D) 1940"],
+      "question": "Emevilerin 'Kerbela Olayı'nda katledilen 'Hz. Hüseyin'in ölümü hangi halife dönemine denk gelmektedir?",
+      "options": ["Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan", "II. Mervan"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk üniversite kurulmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1933", "D) 1936"],
+      "question": "Anadolu Beylikleri'nden 'Karamanoğulları'nın Osmanlı Devleti'ne karşı en önemli direnişinin sembolü olan ve Karamanoğlu Mehmet Bey'in Türkçeyi resmi dil ilan ettiği ferman hangi yıl çıkarılmıştır?",
+      "options": ["1277", "1308", "1335", "1360"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 500000
+    },
+    {
+      "question": "Abbasilerin 'Dört Halife' döneminden sonra ortaya çıkan, 'Büyük İslam Halifeliği'nin sona erdiği yıl hangisidir?",
+      "options": ["1258", "1299", "1320", "1453"],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 750000
+    },
+    {
+      "question": "Türkiye'de '12 Eylül Darbesi' sonrası çıkarılan yeni anayasa hangi yıl kabul edilmiştir?",
+      "options": ["1980", "1981", "1982", "1983"],
       "correctAnswer": 2,
       "level": 9,
-      "prize": 1000000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "question": "Hitit İmparatorluğu'nda 'yazılı belgelerin' tutulduğu ve 'Çivi Yazısı'nın kullanıldığı en önemli arşiv hangi şehirde bulunmuştur?",
+      "options": ["Hattuşaş", "Troya", "Kültepe", "Alacahöyük"],
       "correctAnswer": 0,
       "level": 9,
-      "prize": 1000000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["A) 1927", "B) 1930", "C) 1933", "D) 1936"],
+      "question": "Moğol İmparatorluğu'nun parçalanması sonucunda Rusya'da kurulan ve Rus beyliklerinin Moğol egemenliğine girmesine neden olan devlet hangisidir?",
+      "options": ["Altın Orda Devleti", "İlhanlılar", "Çağatay Hanlığı", "Kubilay Hanlığı"],
       "correctAnswer": 0,
       "level": 9,
-      "prize": 1000000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
+      "question": "Osmanlı'nın 'Kanuni Sultan Süleyman' döneminde 'Akdeniz'in Türk gölü' haline gelmesinde en önemli rol oynayan denizci kimdir?",
+      "options": ["Seydi Ali Reis", "Turgut Reis", "Barbaros Hayreddin Paşa", "Piri Reis"],
+      "correctAnswer": 2,
       "level": 9,
-      "prize": 1000000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "question": "Anadolu Selçuklu Devleti'nin en parlak dönemini yaşadığı ve en çok kervansaray ve ticaret yollarının yapıldığı dönem hangi sultana aittir?",
+      "options": ["I. Mesud", "I. Alaeddin Keykubat", "II. Kılıçarslan", "I. Gıyaseddin Keyhüsrev"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 750000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Sultan Melikşah'ın veziri olan ve Haşhaşilerin suikastine kurban giden ünlü devlet adamı kimdir?",
+      "options": ["Alparslan", "Tuğrul Bey", "Nizamülmülk", "Çağrı Bey"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 750000
+    },
+    {
+      "question": "Uygurlarda 'Tengricilik' dininden sonra kabul edilen ve yerleşik hayata geçmelerinde etkili olan ikinci din hangisidir?",
+      "options": ["Budizm", "Maniheizm", "Hristiyanlık", "Şamanizm"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 750000
+    },
+    {
+      "question": "Emevilerin 'Kerbela Olayı'nda katledilen 'Hz. Hüseyin'in' mezarının bulunduğu şehir hangisidir?",
+      "options": ["Mekke", "Medine", "Necef", "Kerbela"],
       "correctAnswer": 3,
       "level": 9,
-      "prize": 1000000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "question": "Anadolu Beylikleri'nden 'Aydınoğulları'nın en önemli denizcilik faaliyetlerinin merkezi olan şehir hangisidir?",
+      "options": ["Söke", "İzmir", "Aydın", "Selçuk"],
       "correctAnswer": 1,
       "level": 9,
+      "prize": 750000
+    },
+    {
+      "question": "Göktürklerde 'Orhun Yazıtları'nın bulunduğu bölge, bugünkü hangi ülkenin sınırları içindedir?",
+      "options": ["Moğolistan", "Çin", "Kazakistan", "Özbekistan"],
+      "correctAnswer": 0,
+      "level": 10,
       "prize": 1000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın başbakan olmuştur?",
-      "options": ["A) 1990", "B) 1993", "C) 1996", "D) 1999"],
+      "question": "Avrupa'da 'Viyana Kuşatması'nı yapan Osmanlı sadrazamı kimdir?",
+      "options": ["Köprülü Mehmet Paşa", "Sokullu Mehmet Paşa", "Merzifonlu Kara Mustafa Paşa", "Fazıl Ahmet Paşa"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Mısır'da 'Büyük İskender'in fethinden sonra kurulan ve 'Ptolemaios' Hanedanlığı'nın başkenti olan şehir hangisidir?",
+      "options": ["Thebes", "İskenderiye", "Memphis", "Giza"],
       "correctAnswer": 1,
       "level": 10,
-      "prize": 1500000
+      "prize": 1000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın cumhurbaşkanı olmuştur?",
-      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
-      "correctAnswer": 0,
+      "question": "Abbasilerin halifeliğini ele geçiren ve 'Büyük İslam Halifeliği'nin sona ermesine neden olan istila hangi devlet tarafından gerçekleştirilmiştir?",
+      "options": ["Emeviler", "Fatımiler", "Moğollar", "Selçuklular"],
+      "correctAnswer": 2,
       "level": 10,
-      "prize": 1500000
+      "prize": 1000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın pilot olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın astronot olmuştur?",
-      "options": ["A) Hiç olmamış", "B) 2000", "C) 2005", "D) 2010"],
-      "correctAnswer": 0,
-      "level": 11,
-      "prize": 2000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın ressam olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 12,
-      "prize": 3000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın doktor olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın avukat olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 13,
-      "prize": 5000000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1935"],
+      "question": "Hitit İmparatorluğu'nun siyasi ve askeri olarak en güçlü dönemini yaşayan ve 'Kadeş Antlaşması'nı imzalayan kral kimdir?",
+      "options": ["Mursili II", "Suppiluliuma I", "Muwatalli II", "III. Hattuşili"],
       "correctAnswer": 3,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de '27 Mayıs Darbesi' sonrası kurulan ve anayasayı yapan kurucular meclisinin adı nedir?",
+      "options": ["Milli Birlik Komitesi", "Kurucu Meclis", "Milli Güvenlik Konseyi", "Meclis-i Mebusan"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun en büyük ve en güçlü hanlarından olan, Çin'i fethederek 'Yuan Hanedanı'nı kuran lider kimdir?",
+      "options": ["Cengiz Han", "Ögeday Han", "Hülagü Han", "Kubilay Han"],
+      "correctAnswer": 3,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Emevi Halifeliği'nin 'İslam'da İlk Deniz Filosu'nu kurarak denizcilik faaliyetlerine başlamasını sağlayan halife kimdir?",
+      "options": ["Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan", "II. Mervan"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Mısır ve Suriye'de' kurulan ve Büyük Selçuklu Devleti'nin en önemli rakibi olan devlet hangisidir?",
+      "options": ["Fatımiler", "Eyyubiler", "Tolunoğulları", "İhşidiler"],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Anadolu Beylikleri'nden 'Germiyanoğulları'nın Osmanlı Devleti'ne hangi yolla katılması, Osmanlı'nın Germiyan topraklarını miras yoluyla almasını sağlamıştır?",
+      "options": ["Savaş", "Antlaşma", "Çeyiz", "Miras"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 1000000
+    },
+    {
+      "question": "Avrupa'da 'Viyana Kongresi'nde, 'Siyasi harita'nın yeniden çizilmesinde 'Metternich Sistemi' olarak bilinen ve Avusturya'nın liderliğinde kurulan ittifak hangisidir?",
+      "options": ["Kutsal İttifak", "Dörtlü İttifak", "Üçlü İttifak", "Beşli İttifak"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Asur İmparatorluğu'nda 'Asurbanipal'ın kütüphanesinde bulunan ve 'Dünyanın ilk destanı' olarak bilinen eser hangisidir?",
+      "options": ["İlyada", "Odisseia", "Gılgamış Destanı", "Teogoni"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Türkiye'de '28 Şubat Süreci' olarak bilinen ve TSK'nın müdahalesiyle sonuçlanan olay hangi yıl gerçekleşmiştir?",
+      "options": ["1995", "1996", "1997", "1998"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Osmanlı'nın 'Ankara Savaşı'nda Timur'a yenilmesiyle başlayan ve padişahsız geçen dönem hangisidir?",
+      "options": ["Lale Devri", "Duraklama Devri", "Fetret Devri", "Gerileme Devri"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde 'Anadolu'daki İlk Kervansaray' olan ve II. Kılıçarslan tarafından yaptırılan kervansaray hangisidir?",
+      "options": ["Sultan Hanı", "Alay Han", "Zazadin Hanı", "Akhan"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Göktürklerde 'Türeyiş Destanı' ve 'Göç Destanı' hangi devlete aittir?",
+      "options": ["Hunlar", "Göktürkler", "Uygurlar", "Karahanlılar"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanması sonucunda 'Altın Orda Devleti'nin başkenti olan ve Avrupa'nın en büyük şehirlerinden biri haline gelen şehir hangisidir?",
+      "options": ["Sarai", "Astrahan", "Kazan", "Kiev"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Emevi Halifeliği'nin 'Müslüman ordularının İber Yarımadası'ndaki ilerleyişini durduran ve Pireneler'i aşmasını engelleyen savaş hangisidir?",
+      "options": ["Tours Savaşı", "Endülüs Savaşı", "Poitiers Savaşı", "Guadalete Savaşı"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Mısır ve Suriye'de' kurulan ve Büyük Selçuklu Devleti'nin en önemli rakibi olan devlet hangisidir?",
+      "options": ["Fatımiler", "Eyyubiler", "Tolunoğulları", "İhşidiler"],
+      "correctAnswer": 0,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Anadolu Beylikleri'nden 'Aydınoğulları'nın en önemli denizcilik faaliyetlerinin merkezi olan şehir hangisidir?",
+      "options": ["Söke", "İzmir", "Aydın", "Selçuk"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 2000000
+    },
+    {
+      "question": "Osmanlı'da 'Kuleli Vakası' olarak bilinen, askeri bir darbe girişimi hangi padişah döneminde gerçekleşmiştir?",
+      "options": ["II. Mahmud", "Abdülmecid", "Abdülaziz", "V. Murad"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Mısır'da 'Büyük İskender'in fethinden sonra kurulan ve 'Ptolemaios' Hanedanlığı'nın başkenti olan şehir hangisidir?",
+      "options": ["Thebes", "İskenderiye", "Memphis", "Giza"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde 'Ahilik Teşkilatı' hangi padişah döneminde en parlak dönemini yaşamıştır?",
+      "options": ["I. Mesud", "I. Gıyaseddin Keyhüsrev", "I. Alaeddin Keykubat", "II. Kılıçarslan"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Abbasilerin 'Emeviler'i yıkıp başa geçmesiyle birlikte 'İslam Tarihi'nde başlayan ve 'Mezhep' ayrılıklarının ortaya çıktığı dönemin adı nedir?",
+      "options": ["Fitne Dönemi", "İhtilaf Dönemi", "İlk Dönem", "İkinci Dönem"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Hitit İmparatorluğu'nda 'yazılı belgelerin' tutulduğu ve 'Çivi Yazısı'nın kullanıldığı en önemli arşiv hangi şehirde bulunmuştur?",
+      "options": ["Hattuşaş", "Troya", "Kültepe", "Alacahöyük"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Türkiye'de '12 Mart Muhtırası'nın yayınlandığı yıl kaçıncı Cumhurbaşkanı görevdeydi?",
+      "options": ["Cevdet Sunay", "Fahri Korutürk", "İsmet İnönü", "Cemal Gürsel"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Uygurlarda 'Tengricilik' dininden sonra kabul edilen ve yerleşik hayata geçmelerinde etkili olan ikinci din hangisidir?",
+      "options": ["Budizm", "Maniheizm", "Hristiyanlık", "Şamanizm"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Emevilerin 'İslam'da İlk Deniz Filosu'nu kurarak denizcilik faaliyetlerine başlamasını sağlayan halife kimdir?",
+      "options": ["Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Abdülmelik bin Mervan", "II. Mervan"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanması sonucunda 'Çağatay Hanlığı' hangi coğrafyada kurulmuştur?",
+      "options": ["Orta Asya", "Rusya", "Çin", "İran"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Sultan Melikşah'ın' ölümünden sonra taht kavgaları ve iç karışıklıkların yaşandığı dönemin adı nedir?",
+      "options": ["Fetret Devri", "Duraklama Devri", "Gerileme Devri", "İhtilaf Dönemi"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 3000000
+    },
+    {
+      "question": "Avrupa'da 'Viyana Kongresi'nde, 'Siyasi harita'nın yeniden çizilmesinde 'Metternich Sistemi' olarak bilinen ve Avusturya'nın liderliğinde kurulan ittifak hangisidir?",
+      "options": ["Kutsal İttifak", "Dörtlü İttifak", "Üçlü İttifak", "Beşli İttifak"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
+      "question": "Asur İmparatorluğu'nda 'Asurbanipal'ın kütüphanesinde bulunan ve 'Dünyanın ilk destanı' olarak bilinen eser hangisidir?",
+      "options": ["İlyada", "Odisseia", "Gılgamış Destanı", "Teogoni"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türkiye'de '28 Şubat Süreci' olarak bilinen ve TSK'nın müdahalesiyle sonuçlanan olay hangi yıl gerçekleşmiştir?",
+      "options": ["1995", "1996", "1997", "1998"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Osmanlı'nın 'Ankara Savaşı'nda Timur'a yenilmesiyle başlayan ve padişahsız geçen dönem hangisidir?",
+      "options": ["Lale Devri", "Duraklama Devri", "Fetret Devri", "Gerileme Devri"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Anadolu Selçuklu Devleti'nde 'Anadolu'daki İlk Kervansaray' olan ve II. Kılıçarslan tarafından yaptırılan kervansaray hangisidir?",
+      "options": ["Sultan Hanı", "Alay Han", "Zazadin Hanı", "Akhan"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Göktürklerde 'Türeyiş Destanı' ve 'Göç Destanı' hangi devlete aittir?",
+      "options": ["Hunlar", "Göktürkler", "Uygurlar", "Karahanlılar"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanması sonucunda 'Altın Orda Devleti'nin başkenti olan ve Avrupa'nın en büyük şehirlerinden biri haline gelen şehir hangisidir?",
+      "options": ["Sarai", "Astrahan", "Kazan", "Kiev"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Emevi Halifeliği'nin 'Müslüman ordularının İber Yarımadası'ndaki ilerleyişini durduran ve Pireneler'i aşmasını engelleyen savaş hangisidir?",
+      "options": ["Tours Savaşı", "Endülüs Savaşı", "Poitiers Savaşı", "Guadalete Savaşı"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Mısır ve Suriye'de' kurulan ve Büyük Selçuklu Devleti'nin en önemli rakibi olan devlet hangisidir?",
+      "options": ["Fatımiler", "Eyyubiler", "Tolunoğulları", "İhşidiler"],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Anadolu Beylikleri'nden 'Aydınoğulları'nın en önemli denizcilik faaliyetlerinin merkezi olan şehir hangisidir?",
+      "options": ["Söke", "İzmir", "Aydın", "Selçuk"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
