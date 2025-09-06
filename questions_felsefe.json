@@ -1,457 +1,667 @@
 {
   "questions": [
     {
-      "question": "Felsefenin anlamı nedir?",
-      "options": ["A) Bilgi sevgisi", "B) Bilim sevgisi", "C) Sanat sevgisi", "D) Müzik sevgisi"],
+      "question": "Felsefe kelimesinin kökeni olan 'philosophia' ne anlama gelmektedir?",
+      "options": ["Bilgelik sevgisi", "Bilgi arayışı", "Doğruluk bilgisi", "Hayatın anlamı"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Felsefenin kurucusu kimdir?",
-      "options": ["A) Aristoteles", "B) Platon", "C) Sokrates", "D) Thales"],
-      "correctAnswer": 0,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Felsefenin ana konuları nelerdir?",
-      "options": ["A) Varlık, bilgi, değer", "B) Sadece varlık", "C) Sadece bilgi", "D) Sadece değer"],
-      "correctAnswer": 0,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Felsefenin yöntemi nedir?",
-      "options": ["A) Deney", "B) Gözlem", "C) Akıl yürütme", "D) Hepsi"],
+      "question": "İlk Çağ doğa filozoflarından olup, her şeyin temelinin 'su' olduğunu savunan filozof kimdir?",
+      "options": ["Anaksimandros", "Herakleitos", "Thales", "Demokritos"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Felsefenin amacı nedir?",
-      "options": ["A) Gerçeği bulmak", "B) Para kazanmak", "C) Ün yapmak", "D) Savaşmak"],
-      "correctAnswer": 0,
+      "question": "Bilginin kaynağını 'deney' ve 'duyumlara' dayandıran felsefi akım hangisidir?",
+      "options": ["Rasyonalizm", "Empirizm", "Sezgicilik", "Dogmatizm"],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Varlık felsefesi neyi inceler?",
-      "options": ["A) Var olan her şeyi", "B) Sadece insanı", "C) Sadece hayvanları", "D) Sadece bitkileri"],
+      "question": "Doğru bilginin imkanından şüphe duyan felsefi yaklaşım nedir?",
+      "options": ["Dogmatizm", "Septisizm", "Kritisizm", "Pozitivizm"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Ahlak felsefesinde 'iyinin' tek ölçütünü 'haz' olarak belirleyen yaklaşım hangisidir?",
+      "options": ["Faydacılık", "Egoizm", "Hedonizm", "Stoacılık"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Varlığın temelinde 'tek bir töz' olduğunu savunan felsefi görüş hangisidir?",
+      "options": ["Düalizm", "Pluralizm", "Monizm", "İdealizm"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Platon'un 'gerçek varlıkların' değişmeyen, soyut ve mükemmel formlar olduğunu savunduğu kuramın adı nedir?",
+      "options": ["Materyalizm", "Fenomenoloji", "İdealar Kuramı", "Realizm"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Devletin temelinin, insanların karşılıklı anlaşmalarıyla oluştuğunu savunan teori hangisidir?",
+      "options": ["Hukuk devleti teorisi", "Sosyalizm", "Toplum sözleşmesi teorisi", "Monarşi"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Sanat felsefesinde, sanat eserinin doğanın veya gerçekliğin bir 'yansıması' olduğunu savunan yaklaşım hangisidir?",
+      "options": ["Yaratma teorisi", "Haz teorisi", "Yansıtma teorisi (Mimesis)", "Form teorisi"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Tanrı'nın varlığını 'evrenin düzeni' ve 'amacı' üzerinden kanıtlamaya çalışan yaklaşım hangisidir?",
+      "options": ["Ontolojik Kanıt", "Kozmolojik Kanıt", "Teleolojik Kanıt", "Ahlaki Kanıt"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bilginin kaynağını 'akıl' ve 'düşünce' olarak gören, bilginin doğuştan geldiğini savunan felsefi akım hangisidir?",
+      "options": ["Empirizm", "Sezgicilik", "Rasyonalizm", "Septisizm"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Ahlak felsefesinde 'iyi' ve 'kötünün' göreceli olduğunu ve kişiden kişiye değiştiğini savunan yaklaşım hangisidir?",
+      "options": ["Ahlaki rölativizm", "Ahlaki mutlakçılık", "Hedonizm", "Ödev ahlakı"],
       "correctAnswer": 0,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Bilgi felsefesi neyi inceler?",
-      "options": ["A) Bilginin kaynağını", "B) Sadece öğrenmeyi", "C) Sadece ezberlemeyi", "D) Sadece yazmayı"],
-      "correctAnswer": 0,
+      "question": "Varlığı 'madde' olarak kabul eden ve düşünceyi maddenin bir ürünü olarak gören felsefi görüş hangisidir?",
+      "options": ["İdealizm", "Düalizm", "Materyalizm", "Fenomenoloji"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Değer felsefesi neyi inceler?",
-      "options": ["A) İyi, kötü, güzel", "B) Sadece para", "C) Sadece altın", "D) Sadece gümüş"],
-      "correctAnswer": 0,
+      "question": "İnsan varoluşunu 'özünden' önceye koyan ve insanın özünü kendisinin yarattığını savunan felsefi akım hangisidir?",
+      "options": ["Materyalizm", "İdealizm", "Varoluşçuluk", "Pozitivizm"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Mantık felsefesi neyi inceler?",
-      "options": ["A) Doğru düşünme", "B) Sadece matematik", "C) Sadece geometri", "D) Sadece cebir"],
-      "correctAnswer": 0,
+      "question": "Thomas Hobbes'a göre, insanların 'doğa durumunda' sürekli bir 'savaş' halinde olmasının nedeni nedir?",
+      "options": ["Barışçıl doğaları", "Ortak mülkiyet", "Güç ve güvenlik arayışı", "Toplumsal sözleşme"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Ahlak felsefesi neyi inceler?",
-      "options": ["A) Doğru ve yanlış", "B) Sadece yasalar", "C) Sadece kurallar", "D) Sadece emirler"],
-      "correctAnswer": 0,
+      "question": "Sanat felsefesinde, sanatın amacının 'insana haz vermek' olduğunu savunan yaklaşım hangisidir?",
+      "options": ["Yansıtma", "Haz teorisi", "Yaratma", "Öykünme"],
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Sokrates'in öğretisi nedir?",
-      "options": ["A) Kendini bil", "B) Sadece oku", "C) Sadece yaz", "D) Sadece dinle"],
+      "question": "Mantıkta, 'bazı insanlar ölümlüdür, Sokrates insandır, o halde Sokrates ölümlüdür' şeklindeki akıl yürütme türü nedir?",
+      "options": ["Tümevarım", "Tümdengelim", "Analoji", "Hipotez"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bilgi felsefesinde 'bilimsel bilginin' gözlem ve deneyle sınırlı olduğunu savunan felsefi akım hangisidir?",
+      "options": ["Rasyonalizm", "Empirizm", "Pozitivizm", "Sezgicilik"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Doğru bilginin 'tutarlı' olması gerektiğini, yani önermeler arasında çelişki olmaması gerektiğini savunan doğruluk ölçütü hangisidir?",
+      "options": ["Uygunluk", "Tutarlılık", "Fayda", "Açıklık"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Felsefe tarihinin önemli isimlerinden olan ve 'kendini bil' sözüyle bilinen, 'sorgulayan akıl' felsefesinin kurucusu kimdir?",
+      "options": ["Platon", "Aristoteles", "Sokrates", "Thales"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Immanuel Kant'ın 'evrensel ahlak yasasının' temelini oluşturan ve 'herkes için geçerli' olması gerektiğini savunduğu ahlak anlayışı hangisidir?",
+      "options": ["Ödev ahlakı", "Faydacılık", "Hedonizm", "Sezgicilik"],
       "correctAnswer": 0,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Platon'un idealar dünyası nedir?",
-      "options": ["A) Gerçek dünya", "B) Hayali dünya", "C) Rüya dünyası", "D) Uyku dünyası"],
-      "correctAnswer": 0,
+      "question": "Nietzsche'nin 'Tanrı öldü' sözü, hangi felsefi sorunu dile getirir?",
+      "options": ["Tanrı'nın fiziksel varlığının sona ermesini", "Geleneksel ahlaki ve metafizik değerlerin sorgulanmasını", "Ateizmin yükselişini", "Dinin bilimle çeliştiğini"],
+      "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Aristoteles'in madde-form teorisi nedir?",
-      "options": ["A) Varlık açıklaması", "B) Sadece madde", "C) Sadece form", "D) Sadece şekil"],
-      "correctAnswer": 0,
+      "question": "Varlığın hem 'madde' hem de 'ruh' olmak üzere iki temel öğeden oluştuğunu savunan felsefi görüş hangisidir?",
+      "options": ["Monizm", "Düalizm", "Materyalizm", "Pluralizm"],
+      "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Descartes'in 'Düşünüyorum, o halde varım' sözü ne anlama gelir?",
-      "options": ["A) Düşüncenin varlığı", "B) Sadece düşünme", "C) Sadece var olma", "D) Sadece olma"],
-      "correctAnswer": 0,
+      "question": "John Locke'a göre, insanın zihni doğuştan 'boş bir levha' gibidir. Bu kavramı ifade eden Latince terim hangisidir?",
+      "options": ["Cogito", "Tabula Rasa", "A Priori", "A Posteriori"],
+      "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Kant'ın ahlak felsefesi nedir?",
-      "options": ["A) Ödev ahlakı", "B) Sadece mutluluk", "C) Sadece haz", "D) Sadece acı"],
-      "correctAnswer": 0,
+      "question": "Karl Marx'ın siyaset felsefesinde 'devlet'in temel işlevi nedir?",
+      "options": ["Ortak iyiliği sağlamak", "Egemen sınıfın çıkarlarını korumak", "Özgürlükleri güvence altına almak", "Bireysel hakları korumak"],
+      "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hegel'in diyalektik yöntemi nedir?",
-      "options": ["A) Tez-antitez-sentez", "B) Sadece tez", "C) Sadece antitez", "D) Sadece sentez"],
+      "question": "Sanat akımlarında 'gerçekliğin' olduğu gibi, 'doğrudan' ve 'nesnel' bir şekilde yansıtılmasını amaçlayan akım hangisidir?",
+      "options": ["Romantizm", "Realizm", "Modernizm", "Postmodernizm"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Din felsefesinde, Tanrı'nın varlığını kabul eden ancak dinlerin ve peygamberlerin otoritesini reddeden yaklaşım hangisidir?",
+      "options": ["Ateizm", "Teizm", "Deizm", "Agnostisizm"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Karl Popper'ın 'bilim felsefesinde' öne sürdüğü ve bir teorinin 'yanlışlanabilir' olması gerektiğini savunan ilke hangisidir?",
+      "options": ["Doğrulanabilirlik", "Tümevarım", "Falsifikasyon", "Pozitivizm"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Mantıkta, bir önermenin 'tümel' veya 'tikel' olduğunu belirten, önermenin 'niceliği' ile ilgili kavram hangisidir?",
+      "options": ["Öznenin", "Yüklemin", "Bağın", "Niceliğin"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "İlk Çağ Yunan felsefesinde, her şeyin temelinin 'sayılar' olduğunu savunan ve felsefe ile matematiği birleştiren filozof kimdir?",
+      "options": ["Herakleitos", "Demokritos", "Pythagoras", "Sokrates"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Bir eylemin 'sonuçlarına' göre ahlaki değerini belirleyen, 'en fazla sayıda insana en fazla fayda' sağlamayı amaçlayan etik yaklaşım hangisidir?",
+      "options": ["Deontolojik etik", "Faydacılık (Utilitarizm)", "Ödev ahlakı", "Erdem etiği"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Varlık felsefesinde 'idealizm' ve 'materyalizm' arasında köprü kurmaya çalışan, 'fenomen' ve 'numen' ayrımını yapan filozof kimdir?",
+      "options": ["Platon", "Aristoteles", "Immanuel Kant", "Hegel"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "John Rawls'ın 'Adalet Teorisi'nde, adaletin 'hakkaniyet' ilkesini oluşturmak için kullandığı 'tüm bireylerin eşit olduğu' varsayımsal durum nedir?",
+      "options": ["Doğa durumu", "Bilgisizlik peçesi", "Toplum sözleşmesi", "Orijinal pozisyon"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Sanat felsefesinde, sanatın amacının sadece estetik bir 'haz' vermek değil, aynı zamanda 'duyguları arındırmak' olduğunu savunan Aristoteles'in bu kavramı nedir?",
+      "options": ["Mimesis", "Katharsis", "Poiesis", "Techne"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Din felsefesinde, 'evrendeki kötülüklerin varlığı' ile 'Tanrı'nın iyiliği ve her şeye gücü yetmesi' arasındaki çelişkiyi açıklayan problem nedir?",
+      "options": ["Tanrı'nın varlığı problemi", "Kötülük problemi", "İrade özgürlüğü problemi", "Akıl-inanç problemi"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bilim felsefesinde, bilimsel bilginin 'tümevarım' yoluyla, yani 'tek tek gözlemlerden genel yasalara' ulaşılarak elde edildiğini savunan yaklaşım hangisidir?",
+      "options": ["Tümdengelim", "Hipotetik-dedüktif", "Mantıksal pozitivizm", "Tümevarım"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Felsefe tarihinin önemli isimlerinden olan ve 'Orta Çağ'da' 'İslam felsefesinin' en önemli temsilcilerinden olan ve 'Aristo'nun' eserlerini yorumlayan, Batı felsefesini de etkileyen filozof kimdir?",
+      "options": ["Farabi", "İbn Sina", "Gazali", "İbn Rüşd"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Mantıkta, 'eğer p ise q' şeklindeki bir önermenin 'p'si doğru, 'q'su yanlış' olduğunda 'yanlış' olduğu kabul edilen mantık türü nedir?",
+      "options": ["Klasik mantık", "Sembolik mantık", "Önermeler mantığı", "Yüklemler mantığı"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Ahlak felsefesinde 'ödev' ve 'zorunluluk' kavramlarını temel alan ve bir eylemin 'sonuçlarından bağımsız' olarak ahlaki değerini belirleyen etik yaklaşım hangisidir?",
+      "options": ["Deontoloji", "Teleoloji", "Hedonizm", "Faydacılık"],
       "correctAnswer": 0,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Marx'ın tarihsel materyalizmi nedir?",
-      "options": ["A) Ekonomik temelli tarih", "B) Sadece siyaset", "C) Sadece din", "D) Sadece sanat"],
-      "correctAnswer": 0,
+      "question": "Felsefenin Batı'da 'mitolojiden' ayrılıp 'akıl' ve 'sorgulamaya' dayalı bir disiplin haline gelmesi nerede başlamıştır?",
+      "options": ["Mısır", "Mezopotamya", "Antik Yunan (Milet Okulu)", "Roma"],
+      "correctAnswer": 2,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Nietzsche'nin güç istenci nedir?",
-      "options": ["A) Yaşam gücü", "B) Sadece zayıflık", "C) Sadece korku", "D) Sadece nefret"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
+      "question": "Jean-Paul Sartre'ın varoluşçuluk felsefesinde kullandığı ve 'insanın seçimlerinin tüm insanlığı etkilediğini' ifade eden kavram hangisidir?",
+      "options": ["Kaygı", "Özgürlük", "Sorumluluk", "Kötü niyet"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "Sartre'ın varoluşçuluğu nedir?",
-      "options": ["A) İnsan özgürlüğü", "B) Sadece kader", "C) Sadece zorunluluk", "D) Sadece tesadüf"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
+      "question": "Siyaset felsefesinde 'toplum sözleşmesi' teorisini, 'bireysel özgürlük' ve 'sınırlı devlet' fikrini temel alarak en çok savunan filozof kimdir?",
+      "options": ["Thomas Hobbes", "Jean-Jacques Rousseau", "John Locke", "Niccolò Machiavelli"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "Foucault'nun iktidar analizi nedir?",
-      "options": ["A) Güç ilişkileri", "B) Sadece devlet", "C) Sadece hükümet", "D) Sadece yasa"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
+      "question": "Bilim felsefesinde, bilimsel bilginin 'birikimsel' olarak değil, 'paradigma değişimleriyle' ilerlediğini savunan filozof kimdir?",
+      "options": ["Karl Popper", "Thomas Kuhn", "Paul Feyerabend", "Imre Lakatos"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "Derrida'nın yapısökümü nedir?",
-      "options": ["A) Metin analizi", "B) Sadece okuma", "C) Sadece yazma", "D) Sadece dinleme"],
+      "question": "Kant'ın 'Aydınlanma' felsefesinde 'aklı bağımsızlığını' ve 'kendi başına düşünmeyi' vurgulayan sloganı nedir?",
+      "options": ["Düşünüyorum, o halde varım.", "Bilgi güçtür.", "Aklını kullanma cesaretini göster!", "İnsan özgür doğar, fakat her yerde zincire vurulur."],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Mantıkta 'tümevarım' yoluyla yapılan bir akıl yürütmede, 'sonucun doğru olma olasılığı' hangi durumlarda artar?",
+      "options": ["Gözlem sayısının azaldığı durumlarda", "Gözlemlerin çeşitlendiği durumlarda", "Sonucun genelden özele doğru ilerlediği durumlarda", "Sonucun çelişkili olduğu durumlarda"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Varlık felsefesinde, varlığı 'zihinden bağımsız' olarak kabul eden ve 'var olmanın algılanmaya bağlı olmadığını' savunan felsefi görüş hangisidir?",
+      "options": ["İdealizm", "Materyalizm", "Fenomenoloji", "Rasyonalizm"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Platon'a göre, ideal devletin yöneticisi kim olmalıdır?",
+      "options": ["Filozof Kral", "Asker", "Tüccar", "İşçi"],
       "correctAnswer": 0,
       "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Siyaset felsefesinde 'sınıflar arası çatışmayı' ve 'tarihsel materyalizmi' temel alan siyasi teori hangisidir?",
+      "options": ["Liberalizm", "Sosyalizm", "Marksizm", "Anarşizm"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Estetikte 'güzel' kavramının 'nesnel' mi yoksa 'öznel' mi olduğunu tartışan filozof kimdir?",
+      "options": ["Platon", "Aristoteles", "Kant", "Hegel"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Din felsefesinde, Tanrı'nın varlığını 'evrenin var oluş nedeni' olarak kanıtlamaya çalışan yaklaşım hangisidir?",
+      "options": ["Ontolojik kanıt", "Kozmolojik kanıt", "Teleolojik kanıt", "Ahlaki kanıt"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Felsefede 'bilginin' kaynağını hem 'deney' hem de 'akıl' olarak kabul eden, 'eleştirel felsefenin' kurucusu olan filozof kimdir?",
+      "options": ["David Hume", "John Locke", "Immanuel Kant", "René Descartes"],
+      "correctAnswer": 2,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Deleuze'ün rizom teorisi nedir?",
-      "options": ["A) Ağ yapısı", "B) Sadece kök", "C) Sadece dal", "D) Sadece yaprak"],
+      "question": "Spinoza'nın 'Etika' adlı eserinde, 'Tanrı' ve 'Doğa'nın aynı şey olduğunu' savunan felsefi görüşü nedir?",
+      "options": ["Panteizm", "Deizm", "Ateizm", "Teizm"],
       "correctAnswer": 0,
-      "level": 5,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Baudrillard'ın simülasyon teorisi nedir?",
-      "options": ["A) Gerçeklik kopyası", "B) Sadece gerçek", "C) Sadece sahte", "D) Sadece yalan"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "Bilim felsefesinde 'bilimsel realizm', 'bilimin' hangi özelliğini savunur?",
+      "options": ["Bilimsel teorilerin sadece faydalı araçlar olduğunu", "Bilimin doğru ve gerçekliği yansıttığını", "Bilimin öznel olduğunu", "Bilimin sadece gözleme dayalı olduğunu"],
+      "correctAnswer": 1,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Lyotard'ın postmodern durum nedir?",
-      "options": ["A) Büyük anlatıların sonu", "B) Sadece hikaye", "C) Sadece masal", "D) Sadece destan"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "Mantıkta, 'yetersiz örneklem' veya 'acele genelleme' gibi hatalı akıl yürütmelere ne ad verilir?",
+      "options": ["Tümdengelim", "Sofizm", "Safsata", "Analoji"],
+      "correctAnswer": 2,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Rorty'nin pragmatizmi nedir?",
-      "options": ["A) Faydalı olan doğru", "B) Sadece doğru", "C) Sadece yanlış", "D) Sadece güzel"],
+      "question": "Felsefe tarihinde 'varoluşçu' felsefenin öncülerinden olan ve 'bireyin varoluşunu' temel alan filozof kimdir?",
+      "options": ["Søren Kierkegaard", "Martin Heidegger", "Jean-Paul Sartre", "Albert Camus"],
       "correctAnswer": 0,
-      "level": 5,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Chomsky'nin dil felsefesi nedir?",
-      "options": ["A) Evrensel dil", "B) Sadece Türkçe", "C) Sadece İngilizce", "D) Sadece Almanca"],
+      "question": "Siyaset felsefesinde 'sivil toplum' kavramını, 'devletin' otoritesinin 'bireysel özgürlükleri' sınırlamaması gerektiğini savunarak kim öne sürmüştür?",
+      "options": ["Hobbes", "Locke", "Rousseau", "Marx"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Sanat felsefesinde 'güzel' kavramının 'birlik', 'uyum' ve 'oran' gibi 'nesnel' ölçütlerle tanımlanabileceğini savunan antik Yunan filozofu kimdir?",
+      "options": ["Platon", "Aristoteles", "Sokrates", "Thales"],
       "correctAnswer": 0,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Searle'ın zihin felsefesi nedir?",
-      "options": ["A) Bilinç analizi", "B) Sadece beyin", "C) Sadece sinir", "D) Sadece kas"],
-      "correctAnswer": 0,
+      "question": "Din felsefesinde 'agnostisizm', Tanrı'nın varlığı hakkında hangi iddiayı öne sürer?",
+      "options": ["Tanrı'nın var olduğunu kanıtlayabiliriz.", "Tanrı'nın var olmadığını kanıtlayabiliriz.", "Tanrı'nın var olup olmadığını bilemeyiz.", "Tanrı'ya inanmak akılsızcadır."],
+      "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Dennett'in bilinç teorisi nedir?",
-      "options": ["A) Çoklu taslak modeli", "B) Sadece tek model", "C) Sadece iki model", "D) Sadece üç model"],
-      "correctAnswer": 0,
+      "question": "Bilim felsefesinde, bir bilimsel teorinin 'açıklanması mümkün olmayan' ve 'anomali' olarak adlandırılan durumlarla karşılaştığında, 'paradigma krizinin' ortaya çıktığını savunan filozof kimdir?",
+      "options": ["Karl Popper", "Thomas Kuhn", "Paul Feyerabend", "Imre Lakatos"],
+      "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Churchland'ın eliminatif materyalizmi nedir?",
-      "options": ["A) Zihinsel kavramların reddi", "B) Sadece kabul", "C) Sadece onay", "D) Sadece destek"],
-      "correctAnswer": 0,
+      "question": "Mantıkta, 'önerme' ve 'çıkarım' kavramlarının sembollerle ifade edilmesini sağlayan mantık türü hangisidir?",
+      "options": ["Klasik mantık", "Sembolik mantık", "Analojik mantık", "Tümdengelim"],
+      "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Fodor'ın modüler zihin teorisi nedir?",
-      "options": ["A) Zihnin bölümleri", "B) Sadece bütün", "C) Sadece parça", "D) Sadece kısım"],
-      "correctAnswer": 0,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Putnam'ın işlevselcilik teorisi nedir?",
-      "options": ["A) Zihinsel durumlar", "B) Sadece fiziksel", "C) Sadece kimyasal", "D) Sadece biyolojik"],
-      "correctAnswer": 0,
+      "question": "İslam felsefesinde 'Aristotelesçi' geleneği devam ettiren, 'Felsefe Tahafütü' adlı eseriyle bilinen filozof kimdir?",
+      "options": ["Farabi", "İbn Sina", "Gazali", "İbn Rüşd"],
+      "correctAnswer": 3,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Kripke'nin adlandırma teorisi nedir?",
-      "options": ["A) İsim ve referans", "B) Sadece isim", "C) Sadece referans", "D) Sadece anlam"],
-      "correctAnswer": 0,
+      "question": "Bilim felsefesinde 'bilimsel anarşizm' olarak bilinen yaklaşımı savunan ve 'yöntem olmadan her şey mümkündür' diyerek bilimsel yöntemin mutlak olmadığını savunan filozof kimdir?",
+      "options": ["Karl Popper", "Thomas Kuhn", "Paul Feyerabend", "Imre Lakatos"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Davidson'ın anlam teorisi nedir?",
-      "options": ["A) Doğruluk koşulları", "B) Sadece yanlış", "C) Sadece doğru", "D) Sadece güzel"],
-      "correctAnswer": 0,
+      "question": "Mantıkta 'tümdengelim' yoluyla yapılan akıl yürütmelerde, 'öncüllerin doğru olması durumunda sonucun da zorunlu olarak doğru olduğu' durumun adı nedir?",
+      "options": ["Doğruluk", "Geçerlilik", "Uygunluk", "Tutarlılık"],
+      "correctAnswer": 1,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Quine'ın holizmi nedir?",
-      "options": ["A) Bütüncül bilgi", "B) Sadece parça", "C) Sadece kısım", "D) Sadece bölüm"],
-      "correctAnswer": 0,
+      "question": "Siyaset felsefesinde 'özgürlüğün' temel bir insan hakkı olduğunu savunan ve 'adaletin' birincil erdem olduğunu belirten filozof kimdir?",
+      "options": ["John Locke", "Jean-Jacques Rousseau", "John Rawls", "Karl Marx"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Goodman'ın yapıcılık teorisi nedir?",
-      "options": ["A) Dünya yapımı", "B) Sadece doğal", "C) Sadece yapay", "D) Sadece organik"],
-      "correctAnswer": 0,
+      "question": "Varlık felsefesinde 'fenomenoloji'nin kurucusu olan ve 'bilincin nesneye yönelişi'ni temel alan filozof kimdir?",
+      "options": ["Martin Heidegger", "Edmund Husserl", "Jean-Paul Sartre", "Maurice Merleau-Ponty"],
+      "correctAnswer": 1,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Kuhn'un paradigma teorisi nedir?",
-      "options": ["A) Bilimsel devrim", "B) Sadece evrim", "C) Sadece değişim", "D) Sadece gelişim"],
+      "question": "Felsefe tarihinde 'Yeni Çağ'ın' en önemli filozoflarından olan ve 'düşünüyorum, o halde varım' sözüyle bilinen rasyonalist filozof kimdir?",
+      "options": ["John Locke", "Baruch Spinoza", "Gottfried Leibniz", "René Descartes"],
+      "correctAnswer": 3,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Ahlak felsefesinde 'biyoteknoloji', 'yapay zekâ' ve 'çevre' gibi konuları ele alan yeni etik yaklaşım hangisidir?",
+      "options": ["Uygulamalı etik", "Normatif etik", "Meta-etik", "Analitik etik"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Popper'ın yanlışlanabilirlik teorisi nedir?",
-      "options": ["A) Bilimsel yöntem", "B) Sadece doğrulama", "C) Sadece onay", "D) Sadece kabul"],
+      "question": "Siyaset felsefesinde 'devlet'in amacını 'tüm bireylerin ortak iradesinin' yansıması olarak gören ve 'genel irade' kavramını kullanan filozof kimdir?",
+      "options": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau", "Montesquieu"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Din felsefesinde 'deizm'e' karşı çıkan ve 'Tanrı'nın evrene müdahale etmediği' görüşünü eleştiren yaklaşım hangisidir?",
+      "options": ["Teizm", "Ateizm", "Agnostisizm", "Panteizm"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Lakatos'ın araştırma programları nedir?",
-      "options": ["A) Bilimsel gelişim", "B) Sadece durma", "C) Sadece geri gitme", "D) Sadece sabit kalma"],
-      "correctAnswer": 0,
+      "question": "Bilim felsefesinde 'tümevarım problemini' ortaya atan ve 'geçmişteki gözlemlerin geleceği garanti etmediğini' savunan filozof kimdir?",
+      "options": ["Francis Bacon", "David Hume", "Karl Popper", "Auguste Comte"],
+      "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Feyerabend'ın anarşizm teorisi nedir?",
-      "options": ["A) Metod kuralları yok", "B) Sadece kurallar", "C) Sadece yasalar", "D) Sadece emirler"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Laudan'ın problem çözme teorisi nedir?",
-      "options": ["A) Bilimsel ilerleme", "B) Sadece problem", "C) Sadece çözüm", "D) Sadece sonuç"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Rawls'ın adalet teorisi nedir?",
-      "options": ["A) Sosyal adalet", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
-      "correctAnswer": 0,
+      "question": "Felsefe tarihinde 'Orta Çağ'da' 'iman-akıl' ilişkisini irdeleyen ve 'iman ediyorum, çünkü saçmadır' sözüyle bilinen düşünür kimdir?",
+      "options": ["Aquinolu Thomas", "Augustinus", "Anselm", "Tertullianus"],
+      "correctAnswer": 3,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Nozick'in minimal devlet teorisi nedir?",
-      "options": ["A) Sınırlı devlet", "B) Sadece büyük", "C) Sadece küçük", "D) Sadece orta"],
-      "correctAnswer": 0,
+      "question": "Mantıkta, bir akıl yürütmede 'çıkarımın' doğru olmasına rağmen 'öncüllerin' yanlış olduğu durumun adı nedir?",
+      "options": ["Safsata", "Geçerli ama yanlış", "Geçerli ve doğru", "Geçersiz"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Sandel'in komüniteryanizmi nedir?",
-      "options": ["A) Topluluk değerleri", "B) Sadece birey", "C) Sadece toplum", "D) Sadece devlet"],
-      "correctAnswer": 0,
+      "question": "Varlık felsefesinde 'varoluşçuluk' akımında, 'hiçbir şeyin anlamı yoktur' diyerek 'anlamsızlığı' ve 'saçmalığı' vurgulayan filozof kimdir?",
+      "options": ["Kierkegaard", "Sartre", "Heidegger", "Albert Camus"],
+      "correctAnswer": 3,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Taylor'ın çok kültürlülük teorisi nedir?",
-      "options": ["A) Kültürel çeşitlilik", "B) Sadece tek kültür", "C) Sadece iki kültür", "D) Sadece üç kültür"],
-      "correctAnswer": 0,
+      "question": "Siyaset felsefesinde 'doğal haklar' teorisinin en önemli temsilcilerinden olan ve 'yaşam, özgürlük ve mülkiyet' haklarını savunan filozof kimdir?",
+      "options": ["Hobbes", "Locke", "Rousseau", "Marx"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Walzer'ın adalet teorisi nedir?",
-      "options": ["A) Sphères de justice", "B) Sadece tek alan", "C) Sadece iki alan", "D) Sadece üç alan"],
-      "correctAnswer": 0,
+      "question": "Ahlak felsefesinde 'ödev ahlakına' karşı çıkan ve 'iyinin' tek ölçütünü 'sonuçlara' bağlayan faydacılık (utilitarizm) akımının kurucusu kimdir?",
+      "options": ["Immanuel Kant", "Jeremy Bentham", "John Stuart Mill", "Nietzsche"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Habermas'ın iletişimsel eylem teorisi nedir?",
-      "options": ["A) Rasyonel tartışma", "B) Sadece konuşma", "C) Sadece dinleme", "D) Sadece yazma"],
-      "correctAnswer": 0,
+      "question": "Felsefe tarihinde 'fenomenoloji' ve 'varoluşçuluk' arasında bir köprü kuran ve 'varoluşun anlamını' sorgulayan Alman filozof kimdir?",
+      "options": ["Husserl", "Sartre", "Heidegger", "Merleau-Ponty"],
+      "correctAnswer": 2,
       "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Arendt'in siyaset felsefesi nedir?",
-      "options": ["A) Kamusal alan", "B) Sadece özel", "C) Sadece gizli", "D) Sadece kapalı"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Schmitt'in siyaset teorisi nedir?",
-      "options": ["A) Dost-düşman ayrımı", "B) Sadece dost", "C) Sadece düşman", "D) Sadece nötr"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Mouffe'ün radikal demokrasi teorisi nedir?",
-      "options": ["A) Agonistik demokrasi", "B) Sadece barış", "C) Sadece savaş", "D) Sadece uzlaşma"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Laclau'nun hegemonya teorisi nedir?",
-      "options": ["A) İktidar ilişkileri", "B) Sadece güç", "C) Sadece zayıflık", "D) Sadece eşitlik"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Butler'ın performativite teorisi nedir?",
-      "options": ["A) Cinsiyet performansı", "B) Sadece biyoloji", "C) Sadece psikoloji", "D) Sadece sosyoloji"],
-      "correctAnswer": 0,
-      "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Spivak'ın postkolonyal teorisi nedir?",
-      "options": ["A) Alt sınıf konuşabilir mi?", "B) Sadece evet", "C) Sadece hayır", "D) Sadece belki"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "Mantıkta, bir önermenin 'sembolik' olarak 'p' ile gösterilip, 'doğruluk değerinin' 'doğru' veya 'yanlış' olduğu kabul edilen mantık türü nedir?",
+      "options": ["Klasik mantık", "Sembolik mantık", "Yüklemler mantığı", "Modal mantık"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Bhabha'nın hibritlik teorisi nedir?",
-      "options": ["A) Kültürel karışım", "B) Sadece saf", "C) Sadece temiz", "D) Sadece arı"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "Bilim felsefesinde 'bilimsel teorilerin' birbiriyle 'kıyaslanamaz' olduğunu ve her paradigmanın 'kendi içinde' bir geçerliliği olduğunu savunan felsefeci kimdir?",
+      "options": ["Karl Popper", "Thomas Kuhn", "Imre Lakatos", "Paul Feyerabend"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Said'in oryantalizm teorisi nedir?",
-      "options": ["A) Doğu tasviri", "B) Sadece batı", "C) Sadece kuzey", "D) Sadece güney"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "Siyaset felsefesinde 'adil' bir toplumun 'en az avantajlı' kesiminin durumunu iyileştirmeyi amaçlayan 'fark ilkesini' savunan filozof kimdir?",
+      "options": ["John Locke", "Thomas Hobbes", "John Rawls", "Robert Nozick"],
+      "correctAnswer": 2,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Fanon'un sömürgecilik teorisi nedir?",
-      "options": ["A) Sömürge psikolojisi", "B) Sadece ekonomi", "C) Sadece siyaset", "D) Sadece kültür"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "Din felsefesinde 'kötülük problemi'ne' çözüm olarak 'Tanrı'nın iyiliği ve her şeye gücü yetmesi'ni savunarak 'kötülüğün' aslında 'iyinin bir aracı' olduğunu savunan teolojik yaklaşım hangisidir?",
+      "options": ["Agnostisizm", "Teodise", "Ateizm", "Deizm"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Agamben'in biyopolitika teorisi nedir?",
-      "options": ["A) Çıplak hayat", "B) Sadece giyim", "C) Sadece yemek", "D) Sadece barınma"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Bilgi felsefesinde 'rasyonalizm' ve 'empirizm'i sentezleyerek 'bilginin' hem 'akıl' hem de 'deneyden' geldiğini savunan filozof kimdir?",
+      "options": ["David Hume", "John Locke", "Immanuel Kant", "René Descartes"],
+      "correctAnswer": 2,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Rancière'in demokrasi teorisi nedir?",
-      "options": ["A) Eşitlik ilkesi", "B) Sadece eşitsizlik", "C) Sadece farklılık", "D) Sadece benzerlik"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Mantıkta, bir çıkarımın 'geçerli' olması için 'öncül ve sonucun' hangi özelliği taşıması gerekir?",
+      "options": ["İkisi de doğru olmalı.", "İkisi de yanlış olmalı.", "Önerme doğru, çıkarım yanlış olmalı.", "Önermeler doğruysa sonuç da doğru olmalı."],
+      "correctAnswer": 3,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Badiou'un varlık teorisi nedir?",
-      "options": ["A) Olay felsefesi", "B) Sadece durum", "C) Sadece hal", "D) Sadece vaziyet"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Siyaset felsefesinde 'liberteryenizm' akımının en önemli savunucularından olan ve 'bireyin en geniş özgürlüğe' sahip olması gerektiğini savunan filozof kimdir?",
+      "options": ["John Rawls", "Robert Nozick", "Karl Marx", "John Stuart Mill"],
+      "correctAnswer": 1,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Žižek'in ideoloji teorisi nedir?",
-      "options": ["A) Gerçeklik yanılsaması", "B) Sadece gerçek", "C) Sadece yanılsama", "D) Sadece hayal"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Varlık felsefesinde 'fenomenoloji'nin' temel sloganı olan ve 'şeylerin kendisine dönme'yi ifade eden söz hangisidir?",
+      "options": ["Düşünüyorum, o halde varım.", "Olayın kendisine!", "Varlık ve zaman", "Hiçlik ve varlık"],
+      "correctAnswer": 1,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Mouffe'ün agonistik demokrasi teorisi nedir?",
-      "options": ["A) Çatışmacı demokrasi", "B) Sadece barışçıl", "C) Sadece savaşçı", "D) Sadece nötr"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Din felsefesinde 'Tanrı'nın varlığına' dair kanıtları 'ontolojik', 'kozmolojik' ve 'teleolojik' olarak kategorize eden filozof kimdir?",
+      "options": ["Aziz Augustinus", "Aquinolu Thomas", "Anselm", "İbn Sina"],
+      "correctAnswer": 1,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Latour'un aktör-ağ teorisi nedir?",
-      "options": ["A) Sosyal ağlar", "B) Sadece bireyler", "C) Sadece gruplar", "D) Sadece toplumlar"],
-      "correctAnswer": 0,
+      "question": "Felsefe tarihinde 'kıta Avrupası' ve 'analitik felsefe' olarak ikiye ayrılan felsefe akımları, 'dilin' analizine ağırlık veren hangi filozoftan sonra daha belirgin hale gelmiştir?",
+      "options": ["Friedrich Nietzsche", "Martin Heidegger", "Ludwig Wittgenstein", "Jean-Paul Sartre"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Mantıkta 'önerme' ve 'terim' arasındaki ilişkiyi inceleyen ve 'terimler' ile 'kavramlar' arasındaki farklılığı ortaya koyan mantık dalı hangisidir?",
+      "options": ["Sembolik mantık", "Yüklemler mantığı", "Modal mantık", "Klasik mantık"],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'tiranlık' ve 'demokrasi' gibi rejimleri 'devletin biçimleri' olarak sınıflandıran ve her birinin 'iyi' ve 'kötü' formları olduğunu savunan filozof kimdir?",
+      "options": ["Platon", "Aristoteles", "Machiavelli", "Montesquieu"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Ahlak felsefesinde 'ödev ahlakının' birincil ilkesi olan ve 'eylemin ahlaki değerinin' evrensel bir yasa olmasını gerektiren kavram nedir?",
+      "options": ["Hipotetik buyruk", "Kategorik buyruk", "Ödev", "İyi isteme"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Varlık felsefesinde 'varlık ve zaman' kavramlarını bir araya getiren ve 'insan varoluşunun' zamansal bir süreç olduğunu savunan filozof kimdir?",
+      "options": ["Edmund Husserl", "Martin Heidegger", "Jean-Paul Sartre", "Maurice Merleau-Ponty"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Felsefe tarihinde 'mantıkçı pozitivizmin' temel ilkelerini savunan ve 'doğrulanabilirlik' ilkesini öne sürerek metafiziği anlamsız bulan Viyana Çevresi'nin önemli ismi kimdir?",
+      "options": ["Ludwig Wittgenstein", "Rudolf Carnap", "Karl Popper", "Thomas Kuhn"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Sloterdijk'in küreselleşme teorisi nedir?",
-      "options": ["A) Köpük dünyası", "B) Sadece sıvı", "C) Sadece katı", "D) Sadece gaz"],
-      "correctAnswer": 0,
+      "question": "Siyaset felsefesinde 'güçler ayrılığı' ilkesini savunan ve bu ilkeyle 'mutlak monarşiyi' eleştiren düşünür kimdir?",
+      "options": ["John Locke", "Jean-Jacques Rousseau", "Montesquieu", "Thomas Hobbes"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Sloterdijk'in antropoteknik teorisi nedir?",
-      "options": ["A) İnsan teknolojisi", "B) Sadece hayvan", "C) Sadece bitki", "D) Sadece mineral"],
-      "correctAnswer": 0,
+      "question": "Din felsefesinde 'kötülük problemi'ne' çözüm olarak 'Tanrı'nın' insanlara 'özgür irade' vermesi nedeniyle kötülüğün var olduğunu savunan teolojik görüş hangisidir?",
+      "options": ["Ontolojik kanıt", "Kötülük problemi", "Özgür irade savunması", "Teodise"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Sloterdijk'in korku teorisi nedir?",
-      "options": ["A) Toplu korku", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
-      "correctAnswer": 0,
+      "question": "Mantıkta 'yanlış akıl yürütme' türlerinden olan ve 'kişinin argümanını değil, kendisini' hedef alan hatalı argüman türü hangisidir?",
+      "options": ["Ad Populum (Halkın argümanı)", "Ad Hominem (Kişiye yönelik)", "Kırmızı Ringa Balığı", "Yanlış İkilem"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Sloterdijk'in öfke teorisi nedir?",
-      "options": ["A) Toplu öfke", "B) Sadece bireysel", "C) Sadece toplumsal", "D) Sadece evrensel"],
-      "correctAnswer": 0,
+      "question": "Varlık felsefesinde 'fenomenoloji'nin' temel amacı olan ve 'bilincin kendi yapısını' incelemeyi amaçlayan yöntem nedir?",
+      "options": ["Yansıtma", "Epoche (Paranteze alma)", "Tümdengelim", "Tümevarım"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     }
