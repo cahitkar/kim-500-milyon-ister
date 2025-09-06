@@ -697,6 +697,13 @@
       "prize": 30000
     },
     {
+      "question": "Marx'ın tarihsel materyalizmi nedir?",
+      "options": ["Sadece siyaset", "Sadece din", "Ekonomik temelli tarih", "Sadece sanat"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 90000
+    },
+    {
       "question": "'Otuz Beş Yaş' şiirinin yazarı kimdir?",
       "options": [
         "Cemal Süreya",
