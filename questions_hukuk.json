@@ -85,8 +85,8 @@
       "prize": 30000
     },
     {
-    "question": "Medeni Kanun’a göre bir kişinin evlenme ehliyeti kaç yaşında başlar?",
-    "options": ["16", "17", "18", "19"],
+    "question": "Medeni Kanun’a göre bir Hakim izni ile kaç yaşında evlenebilir?",
+    "options": ["14", "15", "16", "17"],
     "correctAnswer": 2,
     "level": 3,
     "prize": 30000
@@ -464,6 +464,7 @@
   }
  ]
 }
+
 
 
 
