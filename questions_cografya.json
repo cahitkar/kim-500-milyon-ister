@@ -2,459 +2,458 @@
   "questions": [
     {
       "question": "Türkiye'nin en yüksek dağı hangisidir?",
-      "options": ["A) Erciyes", "B) Ağrı", "C) Uludağ", "D) Kaçkar"],
+      "options": ["Erciyes", "Ağrı", "Uludağ", "Kaçkar"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'nin en büyük gölü hangisidir?",
-      "options": ["A) Van Gölü", "B) Tuz Gölü", "C) Beyşehir Gölü", "D) İznik Gölü"],
+      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "İznik Gölü"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangi şehir 'Güneş Şehri' olarak bilinir?",
-      "options": ["A) Antalya", "B) Mersin", "C) Adana", "D) Hatay"],
-      "correctAnswer": 0,
+      "options": ["Adana", "Mersin", "Antalya", "Hatay"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'nin en kalabalık şehri hangisidir?",
-      "options": ["A) Ankara", "B) İzmir", "C) İstanbul", "D) Bursa"],
+      "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Hangi bölge 'Türkiye'nin Çatısı' olarak bilinir?",
-      "options": ["A) Doğu Anadolu", "B) İç Anadolu", "C) Karadeniz", "D) Ege"],
-      "correctAnswer": 0,
+      "options": ["İç Anadolu", "Doğu Anadolu", "Karadeniz", "Ege"],
+      "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
       "question": "Türkiye'nin en uzun nehri hangisidir?",
-      "options": ["A) Fırat", "B) Dicle", "C) Kızılırmak", "D) Sakarya"],
+      "options": ["Dicle", "Sakarya", "Kızılırmak", "Fırat"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi şehir 'Yeşil Bursa' olarak bilinir?",
-      "options": ["A) Bursa", "B) Trabzon", "C) Rize", "D) Artvin"],
-      "correctAnswer": 0,
+      "options": ["Trabzon", "Bursa", "Rize", "Artvin"],
+      "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi bölge 'Mavi Vatan' olarak bilinir?",
-      "options": ["A) Karadeniz", "B) Ege", "C) Akdeniz", "D) Marmara"],
+      "options": ["Karadeniz", "Ege", "Akdeniz", "Marmara"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi şehir 'Kral Şehir' olarak bilinir?",
-      "options": ["A) İstanbul", "B) Ankara", "C) İzmir", "D) Bursa"],
-      "correctAnswer": 0,
+      "options": ["İzmir", "Ankara", "Bursa", "İstanbul"],
+      "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Hangi bölge 'Güneşin Doğduğu Yer' olarak bilinir?",
-      "options": ["A) Doğu Anadolu", "B) Güneydoğu Anadolu", "C) Akdeniz", "D) Ege"],
-      "correctAnswer": 0,
+      "options": ["Güneydoğu Anadolu", "Akdeniz", "Doğu Anadolu", "Ege"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
       "question": "Türkiye'nin en büyük adası hangisidir?",
-      "options": ["A) Gökçeada", "B) Bozcaada", "C) Marmara", "D) Avşa"],
-      "correctAnswer": 0,
+      "options": ["Bozcaada", "Gökçeada", "Marmara", "Avşa"],
+      "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi şehir 'İnci Şehir' olarak bilinir?",
-      "options": ["A) İzmir", "B) Antalya", "C) Mersin", "D) Adana"],
-      "correctAnswer": 0,
+      "options": ["Antalya", "Mersin", "İzmir", "Adana"],
+      "correctAnswer": 2,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi bölge 'Karadeniz'in İncisi' olarak bilinir?",
-      "options": ["A) Trabzon", "B) Rize", "C) Artvin", "D) Giresun"],
-      "correctAnswer": 0,
+      "options": ["Rize", "Trabzon", "Artvin", "Giresun"],
+      "correctAnswer": 1,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Mardin", "Batman", "Diyarbakır"],
+      "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "Güneydoğu Anadolu", "Akdeniz", "İç Anadolu"],
+      "correctAnswer": 3,
       "level": 3,
       "prize": 30000
     },
     {
       "question": "Türkiye'nin en yüksek şelalesi hangisidir?",
-      "options": ["A) Tortum", "B) Düden", "C) Manavgat", "D) Kurşunlu"],
-      "correctAnswer": 0,
+      "options": ["Düden", "Tortum", "Manavgat", "Kurşunlu"],
+      "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 4,
       "prize": 90000
     },
     {
       "question": "Türkiye'nin en büyük mağarası hangisidir?",
-      "options": ["A) Damlataş", "B) Dim", "C) İnsuyu", "D) Narlıkuyu"],
-      "correctAnswer": 0,
+      "options": ["Dim", "İnsuyu", "Narlıkuyu", "Damlataş"],
+      "correctAnswer": 3,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 5,
       "prize": 200000
     },
     {
       "question": "Türkiye'nin en büyük ormanı hangisidir?",
-      "options": ["A) Belgrad Ormanı", "B) Kazdağı Ormanı", "C) Yozgat Ormanı", "D) Aladağ Ormanı"],
-      "correctAnswer": 0,
+      "options": ["Kazdağı Ormanı", "Yozgat Ormanı", "Belgrad Ormanı", "Aladağ Ormanı"],
+      "correctAnswer": 2,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 6,
       "prize": 400000
     },
     {
       "question": "Türkiye'nin en büyük çölü hangisidir?",
-      "options": ["A) Karapınar", "B) Tuz Gölü", "C) Konya Ovası", "D) Hiçbiri"],
+      "options": ["Tuz Gölü", "Konya Ovası", "Karapınar", "Hiçbiri"],
       "correctAnswer": 3,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 7,
       "prize": 600000
     },
     {
       "question": "Türkiye'nin en büyük yanardağı hangisidir?",
-      "options": ["A) Erciyes", "B) Ağrı", "C) Tendürek", "D) Süphan"],
+      "options": ["Erciyes", "Ağrı", "Tendürek", "Süphan"],
       "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 8,
       "prize": 800000
     },
     {
       "question": "Türkiye'nin en büyük ovası hangisidir?",
-      "options": ["A) Konya Ovası", "B) Çukurova", "C) Bafra Ovası", "D) Çarşamba Ovası"],
-      "correctAnswer": 0,
+      "options": ["Çukurova", "Bafra Ovası", "Çarşamba Ovası", "Konya Ovası"],
+      "correctAnswer": 3,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
       "question": "Türkiye'nin en büyük yarımadası hangisidir?",
-      "options": ["A) Gelibolu", "B) Biga", "C) Datça", "D) Sinop"],
-      "correctAnswer": 0,
+      "options": ["Biga", "Gelibolu", "Datça", "Sinop"],
+      "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 10,
       "prize": 1500000
     },
     {
       "question": "Türkiye'nin en büyük körfezi hangisidir?",
-      "options": ["A) İzmir Körfezi", "B) Antalya Körfezi", "C) Mersin Körfezi", "D) İskenderun Körfezi"],
-      "correctAnswer": 0,
+      "options": ["Antalya Körfezi", "Mersin Körfezi", "İskenderun Körfezi", "İzmir Körfezi"],
+      "correctAnswer": 3,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 11,
       "prize": 2000000
     },
     {
       "question": "Türkiye'nin en büyük koyu hangisidir?",
-      "options": ["A) Gökova", "B) Hisarönü", "C) Fethiye", "D) Marmaris"],
-      "correctAnswer": 0,
+      "options": ["Hisarönü", "Fethiye", "Gökova", "Marmaris"],
+      "correctAnswer": 2,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 12,
       "prize": 3000000
     },
     {
       "question": "Türkiye'nin en büyük burnu hangisidir?",
-      "options": ["A) İnceburun", "B) Baba Burnu", "C) Bozburun", "D) Gelidonya"],
-      "correctAnswer": 0,
+      "options": ["Baba Burnu", "Bozburun", "Gelidonya", "İnceburun"],
+      "correctAnswer": 3,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["A) Diyarbakır", "B) Urfa", "C) Mardin", "D) Batman"],
-      "correctAnswer": 0,
+      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
       "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["A) İç Anadolu", "B) Doğu Anadolu", "C) Güneydoğu Anadolu", "D) Akdeniz"],
-      "correctAnswer": 0,
+      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     }
   ]
 }
-
