@@ -176,11 +176,18 @@
       "prize": 200000
     },
     {
-      "question": "Türkiye'nin en büyük ormanı hangisidir?",
-      "options": ["Kazdağı Ormanı", "Yozgat Ormanı", "Belgrad Ormanı", "Aladağ Ormanı"],
-      "correctAnswer": 2,
+      "question": "Dünya'nın en büyük kasırgası hangisidir?",
+      "options": ["Kasırga Katrina", "Kasırga Sandy", "Büyük Kasırga", "Tiphoon Haiyan"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 200000
+    },
+    {
+      "question": "Atmosferin en alt katmanı hangisidir?",
+      "options": ["Troposfer", "Stratosfer", "Mezosfer", "Termosfer"],
+      "correctAnswer": 0,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
       "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
@@ -457,3 +464,4 @@
     }
   ]
 }
+
