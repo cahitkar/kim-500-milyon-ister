@@ -120,8 +120,8 @@
       "prize": 90000
     },
     {
-      "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
-      "options": ["Doğu Anadolu", "İç Anadolu", "Güneydoğu Anadolu", "Akdeniz"],
+     "question": "Türkiye'nin en hızlı akan ve raftinge en uygun akarsuyu olan,  Karadeniz'e dökülen nehir hangisidir?",
+      "options": ["Fırtına Deresi", "Çoruh Nehri", "Kaçkar Deresi", "İyidere"],
       "correctAnswer": 1,
       "level": 4,
       "prize": 90000
@@ -148,9 +148,9 @@
       "prize": 200000
     },
     {
-      "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
-      "options": ["Urfa", "Diyarbakır", "Mardin", "Batman"],
-      "correctAnswer": 1,
+      "question": "Güneş enerjisi santrallerinde (GES) elektrik üretimi hangi prensiple gerçekleşir?",
+      "options": ["Suyun buharlaşmasıyla türbinleri döndürerek", "Rüzgarın panelleri hareket ettirmesiyle", "Güneşten gelen fotonları kullanarak", "Isı enerjisini mekanik enerjiye dönüştürerek"],
+      "correctAnswer": 2,
       "level": 5,
       "prize": 200000
     },
@@ -464,4 +464,5 @@
     }
   ]
 }
+
 
