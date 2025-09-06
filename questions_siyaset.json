@@ -1,461 +1,914 @@
 {
   "questions": [
     {
-      "question": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
-      "options": ["A) İsmet İnönü", "B) Mustafa Kemal Atatürk", "C) Celal Bayar", "D) Fahri Korutürk"],
-      "correctAnswer": 1,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Türkiye'de kaç parti bulunmaktadır?",
-      "options": ["A) 50'den az", "B) 50-100 arası", "C) 100-200 arası", "D) 200'den fazla"],
+      "question": "Bir devletin temel unsurlarından olan ve o devletin sahip olduğu toprak parçasını ifade eden kavram hangisidir?",
+      "options": ["Millet", "Hükümet", "Egemenlik", "Ülke"],
       "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi yıl Türkiye'de çok partili hayata geçilmiştir?",
-      "options": ["A) 1945", "B) 1946", "C) 1947", "D) 1948"],
-      "correctAnswer": 1,
-      "level": 1,
-      "prize": 5000
-    },
-    {
-      "question": "Türkiye'de kaç milletvekili bulunmaktadır?",
-      "options": ["A) 400", "B) 500", "C) 600", "D) 700"],
+      "question": "Yönetim yetkisinin tek bir kişide toplandığı ve genellikle babadan oğula geçen siyasal rejim türü aşağıdakilerden hangisidir?",
+      "options": ["Demokrasi", "Oligarşi", "Monarşi", "Cumhuriyet"],
       "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk demokratik seçim yapılmıştır?",
-      "options": ["A) 1946", "B) 1950", "C) 1954", "D) 1958"],
+      "question": "Siyaset biliminin temelini oluşturan ve 'yasama', 'yürütme' ve 'yargı' olarak ayrılan ilkeye ne ad verilir?",
+      "options": ["Kuvvetler Birliği", "Kuvvetler Ayrılığı", "Federasyon", "Konfederasyon"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Türkiye'de kaç bakan bulunmaktadır?",
-      "options": ["A) 10'dan az", "B) 10-20 arası", "C) 20-30 arası", "D) 30'dan fazla"],
-      "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın bakan olmuştur?",
-      "options": ["A) 1971", "B) 1973", "C) 1975", "D) 1977"],
-      "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Türkiye'de kaç vali bulunmaktadır?",
-      "options": ["A) 50'den az", "B) 50-60 arası", "C) 60-70 arası", "D) 70'den fazla"],
+      "question": "Platon'un 'Devlet' adlı eserinde ideal yönetim biçimi olarak savunduğu ve 'bilgelerin yönetimi' anlamına gelen kavram hangisidir?",
+      "options": ["Cumhuriyet", "Otokrasi", "Aristokrasi", "Demokrasi"],
       "correctAnswer": 2,
-      "level": 2,
-      "prize": 10000
+      "level": 1,
+      "prize": 5000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın vali olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "question": "Osmanlı Devleti'nde padişahtan sonra en yetkili kişi olan ve Divan-ı Hümayun'a başkanlık eden makamın adı nedir?",
+      "options": ["Sadrazam", "Kaptan-ı Derya", "Şeyhülislam", "Kazasker"],
       "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "TBMM hangi tarihte açılmıştır?",
+      "options": ["19 Mayıs 1919", "23 Nisan 1920", "29 Ekim 1923", "30 Ağustos 1922"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin ilk Cumhurbaşkanı kimdir?",
+      "options": ["İsmet İnönü", "Adnan Menderes", "Celal Bayar", "Mustafa Kemal Atatürk"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Amerika Birleşik Devletleri'nin kuruluşunu ve temel hakları güvence altına alan belgeye ne ad verilir?",
+      "options": ["Magna Carta", "İnsan Hakları Evrensel Beyannamesi", "Amerikan Bağımsızlık Bildirgesi", "Versay Antlaşması"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Birleşmiş Milletler (BM) hangi temel amaçla kurulmuştur?",
+      "options": ["Dünya ticaretini düzenlemek", "Küresel savaşları önlemek ve barışı korumak", "Ortak para birimi oluşturmak", "Uzay keşiflerini finanse etmek"],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bir devletin kendi toprakları üzerinde en yüksek ve mutlak yönetim gücüne sahip olma yetkisine ne denir?",
+      "options": ["Egemenlik", "Anayasa", "Hükümet", "Bürokrasi"],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Siyaset biliminde, devletin mutlak egemenlik ilkesini savunarak toplum sözleşmesi teorisini ortaya atan ve 'Leviathan' adlı eseriyle bilinen düşünür kimdir?",
+      "options": ["John Locke", "Jean-Jacques Rousseau", "Thomas Hobbes", "Montesquieu"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Türkiye'de kaç belediye başkanı bulunmaktadır?",
-      "options": ["A) 100'den az", "B) 100-500 arası", "C) 500-1000 arası", "D) 1000'den fazla"],
+      "question": "Siyasal ideolojiler arasında 'özel mülkiyeti reddeden' ve 'sınıfsız bir toplum' hedefleyen düşünce akımı hangisidir?",
+      "options": ["Liberalizm", "Muhafazakârlık", "Komünizm", "Faşizm"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de çok partili hayata geçişin sembolü olan ve 1950 seçimlerini kazanarak iktidara gelen siyasi parti hangisidir?",
+      "options": ["Cumhuriyet Halk Partisi", "Demokrat Parti", "Adalet Partisi", "Anavatan Partisi"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Birinci Dünya Savaşı sonrası, savaşın galipleri tarafından yapılan ve Almanya'ya ağır şartlar getiren antlaşmadır?",
+      "options": ["Sevr Antlaşması", "Versay Antlaşması", "Lozan Barış Antlaşması", "Berlin Antlaşması"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de 1980 askeri darbesinin lideri ve dönemin Genelkurmay Başkanı kimdir?",
+      "options": ["Cemal Gürsel", "Cevdet Sunay", "Kenan Evren", "Süleyman Demirel"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bir ülkede yasaların anayasaya uygunluğunu denetleyen ve 'anayasal düzeni' korumakla görevli olan yargı organı hangisidir?",
+      "options": ["Yargıtay", "Danıştay", "Sayıştay", "Anayasa Mahkemesi"],
       "correctAnswer": 3,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Türkiye'de kaç il bulunmaktadır?",
-      "options": ["A) 70'den az", "B) 70-80 arası", "C) 80-90 arası", "D) 90'dan fazla"],
+      "question": "Parlamenter sistemde, hükümetin kurulması ve görevde kalması için gereken 'yasama organı güvenini' ifade eden kavram nedir?",
+      "options": ["Gensoru", "Güvenoyu", "Veto", "Müzakere"],
       "correctAnswer": 1,
-      "level": 3,
-      "prize": 30000
+      "level": 2,
+      "prize": 10000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın milletvekili olmuştur?",
-      "options": ["A) 1930", "B) 1933", "C) 1935", "D) 1938"],
+      "question": "Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyesi olup, veto hakkı bulunan ülkelerden biri olmayan hangisidir?",
+      "options": ["Almanya", "ABD", "Çin", "Fransa"],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Soğuk Savaş döneminde, Sovyetler Birliği ve Doğu Bloku ülkeleri tarafından kurulan askeri ittifakın adı nedir?",
+      "options": ["NATO", "Varşova Paktı", "Birleşmiş Milletler", "SEATO"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Küresel ısınma, biyolojik çeşitlilik kaybı gibi çevresel sorunları siyasetin merkezine koyan ve 'yeşil ideoloji' olarak bilinen siyasal düşünce hangisidir?",
+      "options": ["Liberalizm", "Anarşizm", "Feminizm", "Çevreci siyaset"],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Modern siyasetin kurucularından kabul edilen, 'Amaca ulaşmak için her yol mubahtır' sözüyle bilinen ve 'Prens' adlı eseriyle tanınan düşünür kimdir?",
+      "options": ["Niccolò Machiavelli", "John Locke", "Jean Bodin", "Thomas More"],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde, 'devletin insan haklarını korumakla yükümlü' olduğunu savunan ve 'doğal haklar' teorisini geliştiren liberal filozof kimdir?",
+      "options": ["Hobbes", "Rousseau", "Montesquieu", "John Locke"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Osmanlı Devleti'nde ilk anayasal düzenin başlangıcı kabul edilen ve 'kanun üstünlüğünü' vurgulayan ferman hangisidir?",
+      "options": ["Islahat Fermanı", "Kanun-i Esasi", "Sened-i İttifak", "Tanzimat Fermanı"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye siyasetinde '1971 Muhtırası'nın' doğrudan hedef aldığı ve istifa etmek zorunda kalan dönemin Başbakanı kimdir?",
+      "options": ["Bülent Ecevit", "Adnan Menderes", "Süleyman Demirel", "Turgut Özal"],
       "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Türkiye'de kaç ilçe bulunmaktadır?",
-      "options": ["A) 500'den az", "B) 500-700 arası", "C) 700-900 arası", "D) 900'dan fazla"],
+      "question": "Atina'da uygulanmış olan ve vatandaşların doğrudan kararlara katıldığı yönetim biçimine ne ad verilir?",
+      "options": ["Temsili Demokrasi", "Doğrudan Demokrasi", "Liberal Demokrasi", "Sosyal Demokrasi"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'de 'Cumhurbaşkanlığı Hükümet Sistemi'ne' geçişi sağlayan anayasa değişikliği hangi yılda yapılmıştır?",
+      "options": ["1982", "2007", "2010", "2017"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Uluslararası ilişkilerde devletlerin birbirleriyle iletişim ve müzakere kurallarını düzenleyen sanat ve bilime ne ad verilir?",
+      "options": ["Protokol", "Diplomasi", "İstihbarat", "Lobi"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Fransız İhtilali'nin temel sloganlarından biri olan ve 'özgürlük' ve 'eşitlik' ile birlikte anılan üçüncü ilke hangisidir?",
+      "options": ["Adalet", "Kardeşlik", "Hoşgörü", "Güvenlik"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'de 'Seçim ve Siyasi Partiler Kanunu'na' göre, bir partinin milletvekili çıkarabilmesi için ülke genelinde alması gereken oy oranı (seçim barajı) yüzde kaçtır?",
+      "options": ["%5", "%7", "%10", "%12"],
       "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın belediye başkanı olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 3,
-      "prize": 30000
-    },
-    {
-      "question": "Türkiye'de kaç köy bulunmaktadır?",
-      "options": ["A) 10.000'den az", "B) 10.000-20.000 arası", "C) 20.000-30.000 arası", "D) 30.000'dan fazla"],
+      "question": "Avrupa Birliği'ne üye olmak isteyen bir ülkenin yerine getirmesi gereken siyasi ve ekonomik kriterleri belirleyen belgeye ne ad verilir?",
+      "options": ["Kyoto Protokolü", "Roma Antlaşması", "Kopenhag Kriterleri", "Maastricht Antlaşması"],
       "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Türkiye'de kaç mahalle bulunmaktadır?",
-      "options": ["A) 20.000'den az", "B) 20.000-30.000 arası", "C) 30.000-40.000 arası", "D) 40.000'dan fazla"],
+      "question": "'Devlet'in' 'mutlak egemen' bir yapıya sahip olması gerektiğini savunan ve ulus-devletin temellerini atan Fransız siyaset bilimcisi kimdir?",
+      "options": ["Montesquieu", "Jean Bodin", "Voltaire", "Rousseau"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türk siyasi tarihinde 'İslamcılık' ideolojisinin önemli temsilcilerinden olan ve 'Medeniyet-i İslamiyye' adlı eseriyle bilinen düşünür kimdir?",
+      "options": ["Ziya Gökalp", "Mehmet Akif Ersoy", "Said Halim Paşa", "İsmail Gaspıralı"],
       "correctAnswer": 2,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın hakim olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "question": "1946 yılında Türkiye'de ilk kez gerçekleştirilen çok partili seçimlerde, 'açık oy, gizli sayım' ilkesi hangi partinin eleştirilerine yol açmıştır?",
+      "options": ["Demokrat Parti", "Cumhuriyetçi Millet Partisi", "Millet Partisi", "Liberal Demokrat Parti"],
       "correctAnswer": 0,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Türkiye'de kaç hakim bulunmaktadır?",
-      "options": ["A) 5.000'den az", "B) 5.000-10.000 arası", "C) 10.000-15.000 arası", "D) 15.000'dan fazla"],
+      "question": "Soğuk Savaş sonrası dönemde, 'Avrupa Birliği'nin' doğuya doğru genişlemesini sağlayan ve Doğu Avrupa ülkelerinin AB'ye katılım sürecini başlatan gelişme hangisidir?",
+      "options": ["Avrupa Kömür ve Çelik Topluluğu", "Roma Antlaşması", "Maastricht Antlaşması", "Lizbon Antlaşması"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Parlamenter sistemden farklı olarak, yürütme organının yasama organından ayrı ve bağımsız olduğu, bu nedenle güvenoyu aramadığı sistemin adı nedir?",
+      "options": ["Yarı Başkanlık", "Başkanlık", "Monarşi", "Oligarşi"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın savcı olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
-    },
-    {
-      "question": "Türkiye'de kaç savcı bulunmaktadır?",
-      "options": ["A) 2.000'den az", "B) 2.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "question": "Uluslararası hukukta, bir devletin başka bir devletin iç işlerine karışmaması ilkesini ifade eden kavram hangisidir?",
+      "options": ["Pacta sunt servanda", "Non-intervention", "Jus cogens", "Res nullius"],
       "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Türkiye'de kaç polis bulunmaktadır?",
-      "options": ["A) 100.000'dan az", "B) 100.000-200.000 arası", "C) 200.000-300.000 arası", "D) 300.000'dan fazla"],
+      "question": "Nobel Barış Ödülü'nü 'apartheid' rejimine karşı mücadelesiyle kazanan ve Güney Afrika'nın ilk siyah devlet başkanı olan lider kimdir?",
+      "options": ["Nelson Mandela", "Martin Luther King Jr.", "Jimmy Carter", "Desmond Tutu"],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türkiye siyasetinde '28 Şubat' olarak bilinen postmodern darbenin hedefinde olan, Refahyol Hükümeti'nin Başbakanı kimdir?",
+      "options": ["Tansu Çiller", "Necmettin Erbakan", "Mesut Yılmaz", "Bülent Ecevit"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türk siyasal hayatında 'siyasi istikrarı' sağlamak amacıyla 1980 darbesinden sonra getirilmiş olan ve milletvekili seçimlerinde tek başına iktidara gelmeyi zorlaştıran sistemin adı nedir?",
+      "options": ["Nispi Temsil", "Çoğunluk Sistemi", "D'Hondt Sistemi", "Dar Bölge"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Dünya siyasi tarihinde, 'Feodalite' olarak adlandırılan dönemde siyasal gücün temelini oluşturan ve 'toprak sahipliği'ne dayanan yapı hangisidir?",
+      "options": ["Mutlak Monarşi", "Ulus-devlet", "Site Devleti", "Derebeylik"],
+      "correctAnswer": 3,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Siyasal düşünce tarihinde 'Genel İrade' (volonté générale) kavramını ortaya atan ve 'toplum sözleşmesinin' temelinde bu iradenin bulunduğunu savunan düşünür kimdir?",
+      "options": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau", "Montesquieu"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Uluslararası ilişkilerde 'realizm' teorisine göre, devletler arasındaki ilişkilerin temel belirleyicisi ve 'güç' arayışının ana nedeni nedir?",
+      "options": ["Ekonomik işbirliği", "Siyasi ideolojiler", "Uluslararası hukuk", "Anarşik uluslararası sistem"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Türkiye'de '12 Mart Muhtırası'nın' ardından kurulan ve 'partilerüstü' bir yönetim kurma amacıyla ortaya çıkan dönemin Başbakanı kimdir?",
+      "options": ["Süleyman Demirel", "Nihat Erim", "Bülent Ecevit", "Adnan Menderes"],
       "correctAnswer": 1,
       "level": 5,
-      "prize": 200000
+      "prize": 100000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın polis olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "question": "Birinci Dünya Savaşı'ndan sonra dünya barışını korumak için kurulan, ancak amaçlarına ulaşamayan ve İkinci Dünya Savaşı'nın çıkmasını engelleyemeyen uluslararası örgüt hangisidir?",
+      "options": ["Birleşmiş Milletler", "Milletler Cemiyeti", "NATO", "Varşova Paktı"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Aşağıdaki seçim sistemlerinden hangisinde, bir partinin aldığı oy oranına göre mecliste temsil edilme hakkı kazanması amaçlanmıştır?",
+      "options": ["Dar Bölge", "Çoğunluk Sistemi", "Nispi Temsil", "Karma Sistem"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Siyasi liderlerden 'Demir Leydi' lakabıyla bilinen ve İngiltere'de 'neoliberal' ekonomik politikaları uygulayan ilk kadın Başbakan kimdir?",
+      "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
       "correctAnswer": 0,
       "level": 5,
-      "prize": 200000
+      "prize": 100000
     },
     {
-      "question": "Türkiye'de kaç asker bulunmaktadır?",
-      "options": ["A) 200.000'dan az", "B) 200.000-400.000 arası", "C) 400.000-600.000 arası", "D) 600.000'dan fazla"],
-      "correctAnswer": 1,
+      "question": "Uluslararası alanda 'Küresel Kuzey' ve 'Küresel Güney' kavramları, hangi temel ayrımı ifade etmektedir?",
+      "options": ["Askeri güç", "Teknolojik gelişmişlik", "Ekonomik ve sosyal gelişmişlik", "Siyasi ideoloji"],
+      "correctAnswer": 2,
       "level": 5,
-      "prize": 200000
+      "prize": 100000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın asker olmuştur?",
-      "options": ["A) 1950", "B) 1955", "C) 1960", "D) 1965"],
+      "question": "Siyasi partilerin kuruluş ve işleyişini, üyelik şartlarını ve organlarını düzenleyen, Türkiye'de yürürlükte olan kanun hangisidir?",
+      "options": ["Siyasi Partiler Kanunu", "Seçim Kanunu", "Dernekler Kanunu", "Anayasa"],
       "correctAnswer": 0,
       "level": 5,
-      "prize": 200000
+      "prize": 100000
     },
     {
-      "question": "Türkiye'de kaç pilot bulunmaktadır?",
-      "options": ["A) 1.000'den az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
-      "correctAnswer": 1,
+      "question": "Fransız İhtilali'nin en önemli sonuçlarından biri olan ve 'bir milletin kendi kaderini tayin etme hakkı'nı ifade eden siyasi kavram hangisidir?",
+      "options": ["Uluslararasıcılık", "Emperyalizm", "Milliyetçilik", "Küreselleşme"],
+      "correctAnswer": 2,
       "level": 5,
-      "prize": 200000
+      "prize": 100000
     },
     {
-      "question": "Türkiye'de kaç öğretmen bulunmaktadır?",
-      "options": ["A) 500.000'dan az", "B) 500.000-1.000.000 arası", "C) 1.000.000-1.500.000 arası", "D) 1.500.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 6,
-      "prize": 400000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın öğretmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Siyaset biliminde 'Weberci bürokrasi' modeline göre, bir devletin 'rasyonel' ve 'işlevsel' bir şekilde işlemesini sağlayan temel özellik nedir?",
+      "options": ["Liyakate dayalı hiyerarşi", "Kişisel ilişkiler", "Din kuralları", "Sınıfsal ayrımcılık"],
       "correctAnswer": 0,
-      "level": 6,
-      "prize": 400000
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "1986 yılında uğradığı suikast sonucu hayatını kaybeden Olof Palme,aşağıdaki ülkelerin hangisinde başbakanlık yapmıştır?",
-      "options": ["Almanya", "Hollanda", "İngiltere", "İsveç"],
+      "question": "Antik Roma siyasi sisteminde, halkın çıkarlarını korumakla görevli olan ve 'veto' hakkına sahip olan makamın adı nedir?",
+      "options": ["Senatör", "Konsül", "Plebs", "Halk Tribünü"],
       "correctAnswer": 3,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "2008 yılında bağımsızlığını ilan eden Balkan ülkesi aşağıdakilerden hangisi?",
-      "options": ["Sırbistan", "Makedonya", "Kosova", "Hırvatistan"],
+      "question": "Türkiye'de '1961 Anayasası'nın' hazırlık sürecinde önemli rol oynayan, askeri yönetim tarafından kurulan ve yasama yetkisine sahip olan kurum hangisidir?",
+      "options": ["Millet Meclisi", "Kurucu Meclis", "Milli Birlik Komitesi", "Danışma Meclisi"],
       "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Türkiye'de kaç avukat bulunmaktadır?",
-      "options": ["A) 20.000'dan az", "B) 20.000-50.000 arası", "C) 50.000-100.000 arası", "D) 100.000'dan fazla"],
+      "question": "Uluslararası ilişkilerde 'güç dengesi' (balance of power) teorisine göre, devletlerin çatışmayı önlemek için takip ettikleri strateji nedir?",
+      "options": ["Kendi gücünü artırmak", "Askeri ittifaklar kurmak", "Diğer devletleri zayıflatmak", "Hepsi"],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "İtalyan faşizminin kurucusu olan ve 'II Duce' (Lider) lakabıyla bilinen siyasi figür kimdir?",
+      "options": ["Adolf Hitler", "Benito Mussolini", "Francisco Franco", "Joseph Stalin"],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'devletin, kilise ve dinin' üstünde olduğunu savunan ve 'Mutlak Monarşi'nin' temelini atan düşünür kimdir?",
+      "options": ["Niccolò Machiavelli", "Thomas Hobbes", "Jean Bodin", "John Locke"],
       "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Türkiye'de kaç mühendis bulunmaktadır?",
-      "options": ["A) 100.000'dan az", "B) 100.000-200.000 arası", "C) 200.000-300.000 arası", "D) 300.000'dan fazla"],
+      "question": "Türkiye'de '2001 krizi' sonrası ekonomik reformları yürütmek için göreve getirilen ve IMF ile yakın çalışan dönemin Başbakan Yardımcısı kimdir?",
+      "options": ["Kemal Derviş", "Tansu Çiller", "Mesut Yılmaz", "Bülent Ecevit"],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Bir siyasi partinin, iktidarını kaybetmesine rağmen, devletin 'bürokrasi' ve 'yüksek yargı' kademelerindeki gücünü koruduğu durumu ifade eden kavram nedir?",
+      "options": ["Demokrasi", "Oligarşi", "Derin Devlet", "Koalisyon"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Uluslararası ilişkilerde, bir devletin siyasal ve ekonomik gücünü, 'sert güç' (hard power) araçları yerine, 'kültür' ve 'değerler' gibi unsurlarla artırma stratejisine ne ad verilir?",
+      "options": ["Sert güç", "Akıllı güç", "Yumuşak güç", "Büyük güç"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde, 'BRICS' olarak adlandırılan ve yükselen ekonomileri temsil eden ülkeler arasında yer almayan hangisidir?",
+      "options": ["Brezilya", "Rusya", "İsrail", "Hindistan"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'Meşrutiyet' dönemine geçişte önemli rol oynayan ve 'Genç Osmanlılar' hareketiyle bağlantılı olan siyasi figür kimdir?",
+      "options": ["Tanzimat Paşaları", "II. Abdülhamit", "Namık Kemal", "II. Mahmut"],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Siyasal düşünce tarihinde 'liberalizm'in kökenlerini oluşturan ve 'mülkiyet hakkını' doğal bir hak olarak savunan düşünür kimdir?",
+      "options": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau", "Adam Smith"],
       "correctAnswer": 1,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın mühendis olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Türk siyasi tarihinde 'İslamcı' ideolojinin temel argümanlarından biri olan ve 'Batı'ya karşı özgün bir medeniyet kurma' fikrini savunan düşünce akımı hangisidir?",
+      "options": ["Türkçülük", "Batıcılık", "İslamcılık", "Osmancılık"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Birinci Dünya Savaşı sonrası, 'Versay Antlaşması'nın' ağır şartları nedeniyle Almanya'da ortaya çıkan ve 'aşırı milliyetçi' bir rejim kuran lider kimdir?",
+      "options": ["Adolf Hitler", "Benito Mussolini", "Joseph Stalin", "Francisco Franco"],
       "correctAnswer": 0,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Türkiye'de kaç mimar bulunmaktadır?",
-      "options": ["A) 10.000'dan az", "B) 10.000-20.000 arası", "C) 20.000-30.000 arası", "D) 30.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 7,
-      "prize": 600000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın mimar olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Siyasi sistemlerde 'Parlamenter Sistem'in' temel özelliklerinden biri olan ve 'hükümetin yasama organına karşı sorumlu' olduğu ilkesini ifade eden kavram nedir?",
+      "options": ["Güvenoyu", "Gensoru", "Başkanlık", "Yarı-başkanlık"],
       "correctAnswer": 0,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Türkiye'de kaç ressam bulunmaktadır?",
-      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "question": "Avrupa Birliği'nin 'kurucu babalarından' kabul edilen ve 'Avrupa'nın birleşme fikrinin' mimarlarından olan siyasi figür kimdir?",
+      "options": ["Jean Monnet", "Winston Churchill", "Charles de Gaulle", "Konrad Adenauer"],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Uluslararası hukukta, devletlerin 'egemen eşitliği' ilkesini ve uluslararası antlaşmalara uymakla yükümlü olduğunu ifade eden ilke hangisidir?",
+      "options": ["Jus cogens", "Pacta sunt servanda", "Non-intervention", "Uti possidetis"],
       "correctAnswer": 1,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Türkiye'de kaç müzisyen bulunmaktadır?",
-      "options": ["A) 5.000'dan az", "B) 5.000-10.000 arası", "C) 10.000-20.000 arası", "D) 20.000'dan fazla"],
+      "question": "Türk siyasal tarihinde 'Tek Parti' döneminin sona ermesi ve 'Demokrat Parti'nin' kurulmasıyla başlayan süreç, hangi siyasal ilkenin güçlenmesini sağlamıştır?",
+      "options": ["Laiklik", "Milliyetçilik", "Çoğulculuk", "Devletçilik"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde, 'göç ve mülteci sorunları'nın' uluslararası hukuktaki temel kaynağı ve referans belgesi hangisidir?",
+      "options": ["İnsan Hakları Evrensel Beyannamesi", "Cenevre Sözleşmeleri", "1951 Cenevre Mülteci Sözleşmesi", "Kyoto Protokolü"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'sosyalizm'in' bir alt kolu olan ve 'devletin yıkılmasını' ve 'bireyin özgürlüğünü' savunan düşünce akımı hangisidir?",
+      "options": ["Komünizm", "Anarşizm", "Marksizm", "Sosyal Demokrasi"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Soğuk Savaş döneminde 'demokratik bir sistemle' 'komünist sisteme' karşı mücadele etmek için ortaya çıkan ve ABD tarafından desteklenen askeri ittifakın adı nedir?",
+      "options": ["SEATO", "NATO", "Varşova Paktı", "ANZUS"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Türk siyasal tarihinde '1961 Anayasası'nı' hazırlayan ve 'Meclis'in' iki kanattan oluşmasını öngören siyasal modelin adı nedir?",
+      "options": ["Tek Meclis", "İki Meclis", "Başkanlık Sistemi", "Yarı Başkanlık"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın müzisyen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "İtalyan siyaset bilimci Gaetano Mosca'nın 'yöneten azınlık' (ruling class) kavramıyla ortaya attığı ve yönetimin 'küçük bir grubun' elinde olduğunu savunan teoriye ne ad verilir?",
+      "options": ["Elitizm", "Plüralizm", "Popülizm", "Demokrasi"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Türkiye'de kaç heykeltıraş bulunmaktadır?",
-      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "question": "Uluslararası ilişkilerde 'emperyalizm'in' temel nedenlerinden biri olan ve 'devletlerin hammadde ve pazar arayışı'nı ifade eden ekonomik teori hangi düşünür tarafından geliştirilmiştir?",
+      "options": ["John A. Hobson", "Vladimir Lenin", "Karl Marx", "Friedrich Engels"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın heykeltıraş olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Türkiye'de '27 Mayıs 1960 darbesi'nden' sonra yargılanan ve idam edilen Başbakan kimdir?",
+      "options": ["Adnan Menderes", "Bülent Ecevit", "Süleyman Demirel", "Turgut Özal"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Türkiye'de kaç yazar bulunmaktadır?",
-      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "question": "Siyasi düşünce tarihinde, 'devletin' ortaya çıkışını 'özel mülkiyetin doğuşu'na bağlayan ve 'sınıfsal çatışmayı' siyasetin ana motoru olarak gören düşünür kimdir?",
+      "options": ["Thomas Hobbes", "John Locke", "Karl Marx", "Montesquieu"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "İkinci Dünya Savaşı sonrası 'Soğuk Savaş'ın' başlangıcı olarak kabul edilen ve ABD Başkanı Truman tarafından 'komünizme karşı' askeri ve ekonomik yardım programını ilan eden doktrin hangisidir?",
+      "options": ["Marshall Planı", "Truman Doktrini", "Monroe Doktrini", "NATO Antlaşması"],
       "correctAnswer": 1,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Türkiye'de kaç şair bulunmaktadır?",
-      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "question": "Türkiye'de '12 Eylül 1980 darbesi' sonrası 'siyasi istikrarı' sağlamak amacıyla kurulan ve 'siyasi yasaklıların' iktidardan uzak tutulmasını amaçlayan parti hangisidir?",
+      "options": ["Adalet Partisi", "Anavatan Partisi", "Demokrat Parti", "Cumhuriyet Halk Partisi"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Uluslararası hukukta 'Jus cogens' olarak bilinen ve 'devletler tarafından değiştirilemeyen' ve 'mutlak geçerli' kabul edilen kurallar bütünü hangi alana aittir?",
+      "options": ["Ticaret hukuku", "İnsan hakları", "Deniz hukuku", "Hava hukuku"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Bir siyasi partinin 'siyasi görüş ayrılıkları' ve 'liderlik çekişmeleri' nedeniyle yaşadığı iç bölünme ve parçalanmaya ne ad verilir?",
+      "options": ["Koalisyon", "Muhalefet", "Fraksiyon", "Popülizm"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Siyasal rejimler arasında, 'hukukun üstünlüğüne' ve 'temel hak ve özgürlüklerin' güvence altına alınmasına dayanan yönetim biçimi hangisidir?",
+      "options": ["Demokrasi", "Otokrasi", "Totaliter Rejim", "Oligarşi"],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'anarşizm' ideolojisinin temel hedefi olan ve 'her türlü otoriteyi' reddeden siyasal yapı hangisidir?",
+      "options": ["Hükümet", "Devlet", "Toplum", "Ekonomi"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın şair olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Türkiye siyasetinde '1961 Anayasası'nın' yürürlüğe girmesiyle birlikte 'dini' ve 'laik' kesimler arasında ortaya çıkan 'siyasal kutuplaşma'nın' ana nedeni nedir?",
+      "options": ["Ekonomik kriz", "Siyasi reformlar", "Anayasanın laiklik ilkesi", "Sosyalist ideolojilerin yükselişi"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Bir devletin 'tüm askeri, ekonomik ve siyasi' kaynaklarını kullanarak, 'iç ve dış politikasını' bütünsel bir şekilde yönetme yeteneğini ifade eden kavram nedir?",
+      "options": ["Sert güç", "Yumuşak güç", "Devlet gücü", "Büyük strateji"],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Siyasi liderlerden 'De Gaulle' olarak bilinen ve 'Fransa'nın İkinci Dünya Savaşı sonrası' yeniden yapılanmasında önemli rol oynayan lider kimdir?",
+      "options": ["François Mitterrand", "Jacques Chirac", "Charles de Gaulle", "Georges Pompidou"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de '1974 Kıbrıs Barış Harekâtı'nın' ardından Türkiye'ye uygulanan 'silah ambargosu'nu kaldırmayan ülke hangisidir?",
+      "options": ["ABD", "İngiltere", "Fransa", "Almanya"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç gazeteci bulunmaktadır?",
-      "options": ["A) 5.000'dan az", "B) 5.000-10.000 arası", "C) 10.000-20.000 arası", "D) 20.000'dan fazla"],
+      "question": "Uluslararası ilişkilerde 'devletlerin karşılıklı bağımlılığını' ve 'işbirliğini' vurgulayan, uluslararası örgütlerin önemine dikkat çeken teoriye ne ad verilir?",
+      "options": ["Realizm", "Liberalizm", "Konstrüktivizm", "Neorealizm"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın gazeteci olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
+      "question": "Yerel yönetimlerde, 'belediyenin' en üst düzey yöneticisi olan ve 'halkın oylarıyla' seçilen makamın adı nedir?",
+      "options": ["İl Genel Meclisi Başkanı", "Belediye Meclisi Üyesi", "Belediye Başkanı", "Muhtar"],
+      "correctAnswer": 2,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç sporcu bulunmaktadır?",
-      "options": ["A) 10.000'dan az", "B) 10.000-50.000 arası", "C) 50.000-100.000 arası", "D) 100.000'dan fazla"],
+      "question": "Siyasi düşünce tarihinde 'feminizm'in' temel hedefi olan ve 'cinsiyetler arası eşitliği' savunan temel ilke hangisidir?",
+      "options": ["Patriyarka", "Matriyarka", "Eşitlik", "Ayrımcılık"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de '2017 Anayasa Değişikliği' ile 'yürütme yetkisinin' Cumhurbaşkanına verildiği sistemin adı nedir?",
+      "options": ["Yarı-Başkanlık", "Parlamenter Sistem", "Başkanlık Sistemi", "Monarşi"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde 'iklim değişikliği' sorununa karşı 'uluslararası işbirliği'ni amaçlayan ve bağlayıcı ilkeleri içeren en önemli belge hangisidir?",
+      "options": ["Kyoto Protokolü", "Paris Anlaşması", "Rio Sözleşmesi", "Cenevre Sözleşmesi"],
       "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Türkiye'de kaç oyuncu bulunmaktadır?",
-      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
-      "correctAnswer": 1,
+      "question": "Siyaset biliminde 'Weberci meşruiyet' teorisine göre, bir siyasal sistemin 'karizmatik' liderlik biçiminde meşruiyet kazanması, hangi liderin yönetimine örnek verilebilir?",
+      "options": ["Franklin D. Roosevelt", "Winston Churchill", "Adolf Hitler", "Mustafa Kemal Atatürk"],
+      "correctAnswer": 2,
       "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın oyuncu olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kaç yönetmen bulunmaktadır?",
-      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi yıl Türkiye'de ilk kadın yönetmen olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kaç senarist bulunmaktadır?",
-      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Türkiye'de kaç besteci bulunmaktadır?",
-      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın besteci olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Türk siyasal tarihinde '1982 Anayasası'nın' hazırlık sürecinde önemli rol oynayan, askeri yönetim tarafından oluşturulan ve yasama yetkisine sahip olan kurumun adı nedir?",
+      "options": ["Milli Güvenlik Konseyi", "Kurucu Meclis", "Danışma Meclisi", "Yasama Meclisi"],
       "correctAnswer": 0,
-      "level": 11,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç koreograf bulunmaktadır?",
-      "options": ["A) 50'dan az", "B) 50-200 arası", "C) 200-500 arası", "D) 500'dan fazla"],
-      "correctAnswer": 1,
-      "level": 11,
+      "question": "Siyasal düşünce tarihinde 'İslam'ın' bir 'siyasi rejim' olarak nasıl işleyeceği üzerine yazılmış ve 'İslamcılık' ideolojisinin temelini oluşturan eser hangisidir?",
+      "options": ["Medeniyet-i İslamiyye", "İslam ve Modernizm", "Siyasetname", "İhya'u Ulum'id-Din"],
+      "correctAnswer": 0,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın koreograf olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "İkinci Dünya Savaşı sonrası, 'ABD'nin' 'komünizmin yayılmasını' engellemek amacıyla 'Avrupa'ya' ekonomik yardım yaptığı programın adı nedir?",
+      "options": ["Truman Doktrini", "Marshall Planı", "Monroe Doktrini", "NATO Antlaşması"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç dansçı bulunmaktadır?",
-      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
-      "correctAnswer": 1,
-      "level": 11,
+      "question": "Parlamenter sistemde 'koalisyon hükümetleri'nin' kurulmasının temel nedeni nedir?",
+      "options": ["Tek partinin iktidara gelmemesi", "Başkanın güçlü olması", "Yasamanın zayıf olması", "Yargının bağımsızlığı"],
+      "correctAnswer": 0,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Türkiye'de kaç fotoğrafçı bulunmaktadır?",
-      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "question": "Uluslararası ilişkilerde 'küresel terörizmle mücadele' konusunda 'uluslararası hukukun' yetersiz kaldığı alan hangisidir?",
+      "options": ["Savaş ilanı", "Teröristlerin statüsü", "Devletlerin müdahale yetkisi", "Hepsi"],
       "correctAnswer": 1,
-      "level": 12,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Türk siyasi liderlerden 'Demokrat Parti'nin' kurucu liderlerinden olan ve 'Türkiye'de ilk kez sanayileşme' hareketini başlatan Başbakan kimdir?",
+      "options": ["İsmet İnönü", "Adnan Menderes", "Celal Bayar", "Süleyman Demirel"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde 'göç'ün' ana nedenlerinden biri olan ve 'bir ülkenin vatandaşlarına karşı' uygulanan baskı ve zulümden dolayı sığınmacı statüsü kazanma durumu hangi kavramla ifade edilir?",
+      "options": ["Mülteci", "Sığınmacı", "Düzensiz göçmen", "Ekonomik göçmen"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Siyasal düşünce tarihinde 'neoliberalizm'in' temel özelliklerinden biri olan ve 'devletin ekonomiye müdahalesini' en aza indirmeyi amaçlayan yaklaşım hangisidir?",
+      "options": ["Devletçilik", "Sosyalizm", "Serbest piyasa ekonomisi", "Karma ekonomi"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'Meşrutiyet' döneminde, 'parlamentonun' kurulmasıyla birlikte 'padişahın' yetkilerinin kısıtlanmasını ifade eden gelişme hangisidir?",
+      "options": ["Sened-i İttifak", "Tanzimat Fermanı", "Kanun-i Esasi", "Islahat Fermanı"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Siyaset biliminde 'sivil itaatsizlik' kavramını ortaya atan ve 'haksız yasalara karşı gelme'yi savunan düşünür kimdir?",
+      "options": ["Henry David Thoreau", "John Locke", "Jean-Jacques Rousseau", "Mahatma Gandhi"],
+      "correctAnswer": 0,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın fotoğrafçı olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Türk siyasal tarihinde '1980 darbesinin' ardından 'partilerin' kapatılması ve 'siyasi yasaklıların' ortaya çıkması, hangi anayasal ilkenin ihlali olarak değerlendirilmiştir?",
+      "options": ["Hukuk Devleti", "Demokrasi", "Laiklik", "Sosyal Devlet"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Uluslararası ilişkilerde 'liberalizm' teorisinin 'neo-liberalizm' olarak evrilmesinde, 'uluslararası kuruluşların' rolünü vurgulayan ve 'işbirliğinin' rasyonel bir seçim olduğunu savunan yaklaşım hangisidir?",
+      "options": ["Realizm", "Neo-realizm", "Kurumsalcı liberalizm", "Konstrüktivizm"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Bir siyasi sistemde 'hukuk devleti' ilkesinin temelini oluşturan ve 'yönetimin' tüm eylemlerinin 'yasalara' uygun olması gerektiğini savunan kavram nedir?",
+      "options": ["Anayasa", "Kanunilik", "İdarenin yargısal denetimi", "Kuvvetler ayrılığı"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Uluslararası hukukun en temel kaynaklarından olan ve 'devletlerin uymak zorunda olduğu' ve 'hukuki bir metne dayanmayan' ve 'genel kabul görmüş' ilkelere ne ad verilir?",
+      "options": ["Antlaşmalar", "Genel ilkeler", "Jus cogens", "Uluslararası gelenek"],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Türk siyasi tarihinde '1997 post-modern darbesi' olarak adlandırılan süreçte, 'irtica ile mücadele' adı altında 'hükümetin' istifaya zorlanması ve 'partilerin' kapatılmasına neden olan gelişme hangisidir?",
+      "options": ["Yargı müdahalesi", "Askeri müdahale", "Ekonomik kriz", "Sivil toplum baskısı"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'sosyalizm'in' bir alt kolu olan ve 'devrimin' değil, 'parlamenter yolun' esas alınmasını savunan düşünce akımı hangisidir?",
+      "options": ["Komünizm", "Anarşizm", "Sosyal Demokrasi", "Marksizm"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde 'enerji politikaları'nda önemli bir rol oynayan ve 'Rusya'nın' 'Doğu Avrupa ve Batı Avrupa'ya' doğalgaz taşıdığı boru hattının adı nedir?",
+      "options": ["Trans-Anadolu Boru Hattı", "Kuzey Akım", "Mavi Akım", "TANAP"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Bir devletin 'yasama' yetkisinin 'iki ayrı meclis' tarafından kullanıldığı ve 'kamuoyu'nun farklı kesimlerinin temsil edilmesini amaçlayan siyasal sisteme ne ad verilir?",
+      "options": ["Tek Meclis", "Çift Meclis", "Karma Sistem", "Federal Sistem"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'Feminizm'in' 'ilk dalgası' olarak bilinen ve 'kadınlara oy hakkı'nı savunarak siyasi eşitliği hedefleyen hareketin adı nedir?",
+      "options": ["Radikal Feminizm", "Liberal Feminizm", "Süfrajet", "Sosyalist Feminizm"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Siyaset biliminde 'elitizm' teorisinin kurucularından olan ve 'halkın' yönetimde söz sahibi olamayacağını, yönetimin daima 'küçük bir azınlık' tarafından yürütüldüğünü savunan düşünür kimdir?",
+      "options": ["Gaetano Mosca", "Vilfredo Pareto", "Robert Michels", "John Stuart Mill"],
       "correctAnswer": 0,
       "level": 12,
-      "prize": 3000000
+      "prize": 4000000
     },
     {
-      "question": "Türkiye'de kaç grafiker bulunmaktadır?",
-      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "question": "Türk siyasal tarihinde '1961 Anayasası'nın' 'Senato' adı verilen 'ikinci meclisinin' kaldırılması hangi anayasa değişikliği ile gerçekleşmiştir?",
+      "options": ["1971", "1982", "1997", "2001"],
       "correctAnswer": 1,
       "level": 12,
-      "prize": 3000000
+      "prize": 4000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın grafiker olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
+      "question": "Uluslararası ilişkilerde 'konstrüktivizm' teorisine göre, devletlerin 'kimlikleri' ve 'çıkarları' hangi faktöre bağlı olarak şekillenir?",
+      "options": ["Ekonomik güç", "Askeri güç", "Sosyal inşalar ve normlar", "Coğrafi konum"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Bir siyasal sistemde 'parlamenter sistemin' zayıf yönlerinden biri olan ve 'hükümetin yasama organına karşı sorumluluğu' nedeniyle sık sık 'güvenoyu' tartışmalarına neden olan durum nedir?",
+      "options": ["Tek partili hükümetler", "Koalisyon hükümetleri", "Azınlık hükümetleri", "Başkanlık sistemi"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Türkiye'nin 'AB'ye tam üyelik' sürecinde 'müzakerelerin' başladığı ve 'ortaklık anlaşması'nın imzalandığı tarih hangi antlaşma ile başlamıştır?",
+      "options": ["Ankara Anlaşması", "Maastricht Anlaşması", "Roma Anlaşması", "Gümrük Birliği Anlaşması"],
       "correctAnswer": 0,
       "level": 12,
-      "prize": 3000000
+      "prize": 4000000
     },
     {
-      "question": "Türkiye'de kaç tasarımcı bulunmaktadır?",
-      "options": ["A) 1.000'dan az", "B) 1.000-5.000 arası", "C) 5.000-10.000 arası", "D) 10.000'dan fazla"],
+      "question": "Siyasal düşünce tarihinde 'liberalizm'in' bir alt kolu olan ve 'devletin toplumsal eşitsizlikleri' gidermek için 'müdahale' etmesini savunan düşünce akımı hangisidir?",
+      "options": ["Klasik liberalizm", "Neo-liberalizm", "Sosyal liberalizm", "Muhafazakâr liberalizm"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Günümüz küresel siyasetinde, 'BRICS' ülkelerinin' temel amacı olan ve 'Batı'nın' küresel hegemonyasına karşı 'çok kutuplu bir dünya düzeni' oluşturmayı amaçlayan hedef nedir?",
+      "options": ["Ekonomik işbirliği", "Askeri ittifak", "Siyasi birlik", "Kültürel değişim"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'Meşrutiyet'in' ilanıyla birlikte 'Türk siyasi hayatında' ilk kez 'seçimle iş başına gelen' meclisin adı nedir?",
+      "options": ["Divan-ı Hümayun", "Meclis-i Vükela", "Meclis-i Mebusan", "Meclis-i Ayan"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Uluslararası hukukta 'soykırım' suçunun tanımı, 'Birleşmiş Milletler' tarafından hangi uluslararası sözleşme ile yapılmıştır?",
+      "options": ["Roma Statüsü", "Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi", "Cenevre Sözleşmeleri", "İnsan Hakları Evrensel Beyannamesi"],
       "correctAnswer": 1,
       "level": 12,
-      "prize": 3000000
+      "prize": 4000000
     },
     {
-      "question": "Türkiye'de kaç arkeolog bulunmaktadır?",
-      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "question": "Siyasal düşünce tarihinde 'faşizm' ideolojisinin temel özelliklerinden olan ve 'liderin' kişisel otoritesini mutlaklaştıran siyasal sistemin adı nedir?",
+      "options": ["Demokrasi", "Totalitarizm", "Oligarşi", "Anarşi"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Siyaset biliminde 'postmodern siyaset' teorisinin temel argümanlarından olan ve 'toplumsal kimliklerin' siyaset üzerindeki etkisini vurgulayan yaklaşım hangisidir?",
+      "options": ["Sınıfsal kimlik", "Bireysel kimlik", "Siyasal kimlik", "Grup kimlikleri"],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türk siyasal tarihinde 'Cumhuriyet'in ilk yıllarında' uygulanan 'Türk dış politikası'nın' en önemli özelliği olan ve 'barışçıl' ve 'iç işlerine karışmama' ilkesini ifade eden kavram hangisidir?",
+      "options": ["Pasifist dış politika", "Sert güç", "Yurtta sulh, cihanda sulh", "Yayılmacı dış politika"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Uluslararası ilişkilerde 'güvenlik ikilemi' (security dilemma) kavramı, devletlerin 'kendini güvende hissetmek için' attığı adımların, hangi sonuca yol açmasını ifade eder?",
+      "options": ["Diğer devletleri daha güvende hissettirir", "Diğer devletlerin güvensizliğini artırır", "Ticari ilişkileri geliştirir", "Siyasi işbirliğini artırır"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın arkeolog olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
+      "question": "Siyasi liderlerden 'Winston Churchill'in' 'İngiliz siyasi tarihine' damgasını vuran ve 'demokrasiyi' savunarak 'faşizme' karşı mücadele etmesini sağlayan hitabet tarzına ne ad verilir?",
+      "options": ["Pasifist retorik", "Agresif retorik", "Halkçı retorik", "Demokratik retorik"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Türkiye'de kaç tarihçi bulunmaktadır?",
-      "options": ["A) 500'dan az", "B) 500-1.000 arası", "C) 1.000-2.000 arası", "D) 2.000'dan fazla"],
+      "question": "Türkiye'nin 'AB'ye tam üyelik' sürecinde 'Siyasi Kriterleri'nin' bir parçası olan ve 'siyasi reformları' hızlandırmayı amaçlayan 'Ulusal Program'ın' en önemli unsurlarından biri nedir?",
+      "options": ["Ekonomik krizle mücadele", "Demokratikleşme", "Askeri reformlar", "Eğitim reformları"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi yıl Türkiye'de ilk kadın tarihçi olmuştur?",
-      "options": ["A) 1923", "B) 1927", "C) 1930", "D) 1933"],
-      "correctAnswer": 0,
+      "question": "Siyaset biliminde 'çoğulculuk' (pluralism) teorisine göre, bir toplumda siyasal gücün 'yalnızca devlette değil', 'çeşitli çıkar grupları' ve 'sivil toplum kuruluşları' arasında dağıldığını savunan yaklaşım hangisidir?",
+      "options": ["Elitizm", "Marksizm", "Çoğulculuk", "Neoplüralizm"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Türkiye'de kaç felsefeci bulunmaktadır?",
-      "options": ["A) 100'dan az", "B) 100-500 arası", "C) 500-1.000 arası", "D) 1.000'dan fazla"],
+      "question": "Günümüz küresel siyasetinde 'enerji politikaları'nda önemli bir rol oynayan ve 'Rusya'nın' 'Doğu Avrupa ve Batı Avrupa'ya' doğalgaz taşıdığı boru hattının adı nedir?",
+      "options": ["Trans-Anadolu Boru Hattı", "Kuzey Akım", "Mavi Akım", "TANAP"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Türk siyasal tarihinde '1980 darbesinin' ardından 'siyasi yasaklıların' iktidardan uzak tutulmasını amaçlayan ve 'siyasi partilerin' kapatılmasına neden olan gelişme hangisidir?",
+      "options": ["Anayasa değişikliği", "Askeri müdahale", "Sivil toplum baskısı", "Ekonomik kriz"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Siyasi düşünce tarihinde 'anarşizm' ideolojisinin temel hedefi olan ve 'her türlü otoriteyi' reddeden siyasal yapı hangisidir?",
+      "options": ["Hükümet", "Devlet", "Toplum", "Ekonomi"],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Uluslararası ilişkilerde 'güvenlik ikilemi' (security dilemma) kavramı, devletlerin 'kendini güvende hissetmek için' attığı adımların, hangi sonuca yol açmasını ifade eder?",
+      "options": ["Diğer devletleri daha güvende hissettirir", "Diğer devletlerin güvensizliğini artırır", "Ticari ilişkileri geliştirir", "Siyasi işbirliğini artırır"],
       "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     }
   ]
 }
-
-
