@@ -1,0 +1,3208 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Mustafa Kemal Atatürk",
+        "Celal Bayar"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Mısır'da antik dönemde kral ve kraliçelere verilen unvan nedir?",
+      "options": [
+        "Sultan",
+        "Şah",
+        "Firavun",
+        "İmparator"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Orta Asya'da kurulan ilk Türk devletlerinden olan Göktürklerin en önemli destanı hangisidir?",
+      "options": [
+        "Manas Destanı",
+        "Oğuz Kağan Destanı",
+        "Ergenekon Destanı",
+        "Yaratılış Destanı"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Hitit İmparatorluğu'nun başkenti hangi şehirdir?",
+      "options": [
+        "Hattuşaş",
+        "Troya",
+        "Efese",
+        "Bergama"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+      "options": [
+        "Alparslan",
+        "Sultan Melikşah",
+        "Tuğrul Bey",
+        "Çağrı Bey"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun ilk başkenti hangi şehirdir?",
+      "options": [
+        "İstanbul",
+        "Bursa",
+        "Edirne",
+        "Söğüt"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Avrupa'da 18. yüzyılda başlayan, bilim ve aklın ön planda tutulduğu dönem hangi isimle anılır?",
+      "options": [
+        "Rönesans",
+        "Reform",
+        "Aydınlanma Çağı",
+        "Sanayi Devrimi"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun en önemli lideri kimdir?",
+      "options": [
+        "Timur",
+        "Cengiz Han",
+        "Kubilay Han",
+        "Atilla"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 1000
+    },
+    {
+      "question": "Türkiye'nin en yüksek dağı hangisidir?",
+      "options": [
+        "Erciyes",
+        "Ağrı",
+        "Uludağ",
+        "Kaçkar"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": [
+        "Van Gölü",
+        "Tuz Gölü",
+        "Beyşehir Gölü",
+        "İznik Gölü"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi şehir 'Güneş Şehri' olarak bilinir?",
+      "options": [
+        "Adana",
+        "Mersin",
+        "Antalya",
+        "Hatay"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "options": [
+        "Ankara",
+        "İzmir",
+        "İstanbul",
+        "Bursa"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi bölge 'Türkiye'nin Çatısı' olarak bilinir?",
+      "options": [
+        "İç Anadolu",
+        "Doğu Anadolu",
+        "Karadeniz",
+        "Akdeniz"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam'ın beş şartından ilki ve 'Allah'tan başka ilah yoktur, Hz. Muhammed O'nun elçisidir' anlamına gelen ifade nedir?",
+      "options": [
+        "Kelime-i Şehadet",
+        "Salat",
+        "Zekat",
+        "Hac"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam'da oruç tutulan ayın adı nedir?",
+      "options": [
+        "Şevval",
+        "Ramazan",
+        "Recep",
+        "Muharrem"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hz. Muhammed'in doğduğu şehir neresidir?",
+      "options": [
+        "Medine",
+        "Kudüs",
+        "Şam",
+        "Mekke"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam'da namaz kılmak için yüzün dönülmesi gereken yön (kıble) neresidir?",
+      "options": [
+        "Medine",
+        "Kudüs",
+        "Mekke",
+        "Şam"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İslam'ın ilk müezzini (ezan okuyan) kimdir?",
+      "options": [
+        "Hz. Ömer",
+        "Hz. Ebu Bekir",
+        "Hz. Bilal-i Habeşi",
+        "Hz. Osman"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Kur'an-ı Kerim'in ilk suresi hangisidir?",
+      "options": [
+        "Fatiha",
+        "Bakara",
+        "Nas",
+        "İhlas"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hz. Muhammed'in hicret ettiği şehir neresidir?",
+      "options": [
+        "Mekke",
+        "Medine",
+        "Şam",
+        "Kudüs"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Futbolda bir takım sahaya kaç oyuncu ile başlar?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Basketbolda serbest atış çizgisi kaç metredir?",
+      "options": [
+        "3,5 metre",
+        "4,2 metre",
+        "4,6 metre",
+        "5,8 metre"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Voleybolda bir set kaç sayıda biter?",
+      "options": [
+        "21",
+        "25",
+        "30",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi yazar 'Suç ve Ceza' romanının yazarıdır?",
+      "options": [
+        "Tolstoy",
+        "Dostoyevski",
+        "Çehov",
+        "Puşkin"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "'Çalıkuşu' romanının yazarı kimdir?",
+      "options": [
+        "Halide Edip Adıvar",
+        "Reşat Nuri Güntekin",
+        "Yakup Kadri Karaosmanoğlu",
+        "Ömer Seyfettin"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangi şair 'Sessiz Gemi' şiirinin yazarıdır?",
+      "options": [
+        "Nazım Hikmet",
+        "Ahmet Haşim",
+        "Yahya Kemal Beyatlı",
+        "Mehmet Akif Ersoy"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "'Kürk Mantolu Madonna' romanının yazarı kimdir?",
+      "options": [
+        "Sabahattin Ali",
+        "Reşat Nuri Güntekin",
+        "Yakup Kadri Karaosmanoğlu",
+        "Halide Edip Adıvar"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin temel yapı taşı nedir?",
+      "options": [
+        "Karbonhidrat",
+        "Yağ",
+        "Protein",
+        "Su"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin kontrol merkezi nedir?",
+      "options": [
+        "Çekirdek",
+        "Mitokondri",
+        "Golgi",
+        "Endoplazmik retikulum"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin enerji santrali nedir?",
+      "options": [
+        "Çekirdek",
+        "Mitokondri",
+        "Golgi",
+        "Lizozom"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hücrenin paketleme merkezi nedir?",
+      "options": [
+        "Golgi",
+        "Mitokondri",
+        "Çekirdek",
+        "Ribozom"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Maddenin en düzensiz ve yüksek enerjili hali hangisidir?",
+      "options": [
+        "Sıvı",
+        "Katı",
+        "Gaz",
+        "Plazma"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Aşağıdakilerden hangisi kimyasal bir değişim örneğidir?",
+      "options": [
+        "Suyun buharlaşması",
+        "Buzun erimesi",
+        "Kağıdın yanması",
+        "Tuzun suda çözünmesi"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Kimyanın temel yapı taşı olan ve bir elementin tüm özelliklerini taşıyan en küçük birim nedir?",
+      "options": [
+        "Molekül",
+        "Proton",
+        "Atom",
+        "İyon"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bir atomun çekirdeğinde bulunan pozitif yüklü tanecik hangisidir?",
+      "options": [
+        "Elektron",
+        "Nötron",
+        "Proton",
+        "Foton"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Periyodik tabloda aynı grupta (düşey sütun) bulunan elementlerin ortak özelliği nedir?",
+      "options": [
+        "Aynı sayıda protona sahiptirler",
+        "Aynı sayıda nötrona sahiptirler",
+        "Aynı sayıda değerlik elektronuna sahiptirler",
+        "Aynı sayıda yörüngeye sahiptirler"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Metallerin kendi aralarında elektronlarını ortaklaşa kullanarak oluşturdukları bağ türü nedir?",
+      "options": [
+        "İyonik bağ",
+        "Metalik bağ",
+        "Kovalent bağ",
+        "Hidrojen bağı"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bir mol atom veya molekülün içerdiği tanecik sayısına verilen ad nedir?",
+      "options": [
+        "Avogadro sayısı",
+        "Sabit sayısı",
+        "Atom ağırlığı",
+        "Elektron sayısı"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Aşağıdaki kimyasal reaksiyon türlerinden hangisi 'ısıl enerji açığa çıkarır' ve etrafını ısıtır?",
+      "options": [
+        "Endotermik",
+        "Nötrleşme",
+        "Ekzotermik",
+        "Analiz"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Ağızda lokma varken konuşulmaması, başkası konuşmasını bitirmeden araya girilmemesi gibi haller aşağıdaki kurallarından hangisine örnek teşkil eder?",
+      "options": [
+        "Ahlak kuralları",
+        "Din kuraları",
+        "Örf ve Adet hukuku kuralları",
+        "Görgü kuralları"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Hangisi seçimle işbaşına gelir?",
+      "options": [
+        "Vali",
+        "Kaymakam",
+        "Müftü",
+        "Belediye Başkanı"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'de ilk anayasa hangi yıl kabul edilmiştir?",
+      "options": [
+        "1921",
+        "1924",
+        "1927",
+        "1930"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Cumhurbaşkanı kaç yıl için seçilir?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Anayasa'nın 2. maddesi neyi içerir?",
+      "options": [
+        "Cumhuriyetin temel nitelikleri",
+        "Devletin şekli",
+        "Devletin dili",
+        "Başkent"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Felsefe kelimesinin kökeni olan 'philosophia' ne anlama gelmektedir?",
+      "options": [
+        "Bilgelik sevgisi",
+        "Bilgi arayışı",
+        "Doğruluk bilgisi",
+        "Hayatın anlamı"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "İlk Çağ doğa filozoflarından olup, her şeyin temelinin 'su' olduğunu savunan filozof kimdir?",
+      "options": [
+        "Anaksimandros",
+        "Herakleitos",
+        "Thales",
+        "Demokritos"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bilginin kaynağını 'deney' ve 'duyumlara' dayandıran felsefi akım hangisidir?",
+      "options": [
+        "Rasyonalizm",
+        "Empirizm",
+        "Sezgicilik",
+        "Dogmatizm"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Doğru bilginin imkanından şüphe duyan felsefi yaklaşım nedir?",
+      "options": [
+        "Dogmatizm",
+        "Septisizm",
+        "Kritisizm",
+        "Pozitivizm"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Ahlak felsefesinde 'iyinin' tek ölçütünü 'haz' olarak belirleyen yaklaşım hangisidir?",
+      "options": [
+        "Faydacılık",
+        "Egoizm",
+        "Hedonizm",
+        "Stoacılık"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Varlığın temelinde 'tek bir töz' olduğunu savunan felsefi görüş hangisidir?",
+      "options": [
+        "Düalizm",
+        "Pluralizm",
+        "Monizm",
+        "İdealizm"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bir devletin temel unsurlarından olan ve o devletin sahip olduğu toprak parçasını ifade eden kavram hangisidir?",
+      "options": [
+        "Millet",
+        "Hükümet",
+        "Egemenlik",
+        "Ülke"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Yönetim yetkisinin tek bir kişide toplandığı ve genellikle babadan oğula geçen siyasal rejim türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Demokrasi",
+        "Oligarşi",
+        "Monarşi",
+        "Cumhuriyet"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Siyaset biliminin temelini oluşturan ve 'yasama', 'yürütme' ve 'yargı' olarak ayrılan ilkeye ne ad verilir?",
+      "options": [
+        "Kuvvetler Birliği",
+        "Kuvvetler Ayrılığı",
+        "Federasyon",
+        "Konfederasyon"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Platon'un 'Devlet' adlı eserinde ideal yönetim biçimi olarak savunduğu ve 'bilgelerin yönetimi' anlamına gelen kavram hangisidir?",
+      "options": [
+        "Cumhuriyet",
+        "Otokrasi",
+        "Aristokrasi",
+        "Demokrasi"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Osmanlı Devleti'nde padişahtan sonra en yetkili kişi olan ve Divan-ı Hümayun'a başkanlık eden makamın adı nedir?",
+      "options": [
+        "Sadrazam",
+        "Kaptan-ı Derya",
+        "Şeyhülislam",
+        "Kazasker"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "TBMM hangi tarihte açılmıştır?",
+      "options": [
+        "19 Mayıs 1919",
+        "23 Nisan 1920",
+        "29 Ekim 1923",
+        "30 Ağustos 1922"
+      ],
+      "correctAnswer": 1,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Türkiye'nin ilk Cumhurbaşkanı kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Adnan Menderes",
+        "Celal Bayar",
+        "Mustafa Kemal Atatürk"
+      ],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Amerika Birleşik Devletleri'nin kuruluşunu ve bağımsızlığını ilan eden belgenin adı nedir?",
+      "options": [
+        "ABD Anayasası",
+        "Haklar Bildirisi",
+        "Bağımsızlık Bildirgesi",
+        "Paris Antlaşması"
+      ],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Ankara hangi tarihte başkent ilan edilmiştir?",
+      "options": [
+        "13 Ekim 1923",
+        "29 Ekim 1923",
+        "23 Nisan 1920",
+        "20 Ocak 1921"
+      ],
+      "correctAnswer": 0,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "18. yüzyılda Fransa'da 'parlamento' yerine 'Ulusal Meclis'in' kurulması, hangi siyasi rejimin başlangıcıdır?",
+      "options": [
+        "Mutlak Monarşi",
+        "Anayasal Monarşi",
+        "Cumhuriyet",
+        "Diktatörlük"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de '1924 Anayasası'nda' yer alan 'devletin dini İslam'dır' ibaresi, hangi tarihte anayasadan çıkarılmıştır?",
+      "options": [
+        "1928",
+        "1937",
+        "1945",
+        "1950"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de 'çok partili hayata' ilk kez hangi tarihte geçilmiştir?",
+      "options": [
+        "1923",
+        "1945",
+        "1946",
+        "1950"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'de 'hükümetin' güvenoyu alması ve 'Cumhurbaşkanı'nın' yetkilerinin kısıtlandığı siyasal rejim türü hangisidir?",
+      "options": [
+        "Başkanlık sistemi",
+        "Yarı başkanlık sistemi",
+        "Parlamenter sistem",
+        "Karma sistem"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türk siyasal tarihinde 'tek dereceli seçim sistemine' ne zaman geçilmiştir?",
+      "options": [
+        "1924",
+        "1946",
+        "1950",
+        "1961"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Felsefenin ana konuları nelerdir?",
+      "options": [
+        "Varlık, bilgi, değer",
+        "Sadece varlık",
+        "Sadece bilgi",
+        "Sadece değer"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Mantık felsefesi neyi inceler?",
+      "options": [
+        "Doğru düşünme",
+        "Sadece matematik",
+        "Sadece geometri",
+        "Sadece cebir"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Ahlak felsefesi neyi inceler?",
+      "options": [
+        "Doğru ve yanlış",
+        "Sadece yasalar",
+        "Sadece kurallar",
+        "Sadece emirler"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Sokrates'in öğretisi nedir?",
+      "options": [
+        "Kendini bil",
+        "Sadece oku",
+        "Sadece yaz",
+        "Sadece dinle"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Platon'un idealar dünyası nedir?",
+      "options": [
+        "Gerçek dünya",
+        "Hayali dünya",
+        "Rüya dünyası",
+        "Uyku dünyası"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Aristoteles'in madde-form teorisi nedir?",
+      "options": [
+        "Varlık açıklaması",
+        "Sadece madde",
+        "Sadece form",
+        "Sadece şekil"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi yazar 'Tutunamayanlar' romanının yazarıdır?",
+      "options": [
+        "Orhan Pamuk",
+        "Oğuz Atay",
+        "Yaşar Kemal",
+        "Nazım Hikmet"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi şair 'Otuz Beş Yaş' şiirinin yazarıdır?",
+      "options": [
+        "Cemal Süreya",
+        "Turgut Uyar",
+        "Cahit Sıtkı Tarancı",
+        "Sezai Karakoç"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Divan Edebiyatı'nda 'gazel' türünün en önemli temsilcilerinden biri kimdir?",
+      "options": [
+        "Fuzuli",
+        "Baki",
+        "Nefi",
+        "Nedim"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İngiliz Edebiyatı'nda 'Hamlet', 'Macbeth' ve 'Othello' gibi önemli tragedya eserlerinin yazarı kimdir?",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "George Orwell"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Futbol sahasının uzunluğu kaç metredir?",
+      "options": [
+        "90-120 metre",
+        "80-100 metre",
+        "110-130 metre",
+        "100-110 metre"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Satrançta piyon ilk hamlesinde kaç kare ilerleyebilir?",
+      "options": [
+        "Bir veya iki",
+        "Sadece bir",
+        "Sadece iki",
+        "Üç"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bilardoda hangi topla vurularak diğer topların ceplere girmesi amaçlanır?",
+      "options": [
+        "Hedef top",
+        "Ceza topu",
+        "Vuruş topu",
+        "Bilye topu"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Kimyasal reaksiyonları hızlandıran, ancak kendileri reaksiyonun sonunda değişmeden kalan maddelere ne ad verilir?",
+      "options": [
+        "İnhibitör",
+        "Katalizör",
+        "Çözücü",
+        "Elektrolit"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Atom altı parçacıklardan olan ve atomun çekirdeğinde protonlarla birlikte bulunan, yüksüz tanecik hangisidir?",
+      "options": [
+        "Elektron",
+        "Nötron",
+        "Foton",
+        "Kuantum"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Çözeltideki bir maddenin, çözeltinin doygunluğa ulaşmasıyla kristal haline gelmesi olayına ne ad verilir?",
+      "options": [
+        "Çözünme",
+        "Erime",
+        "Buharlaşma",
+        "Kristallenme"
+      ],
+      "correctAnswer": 3,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Buhar basıncının atmosfer basıncına eşit olduğu sıcaklık derecesine ne ad verilir?",
+      "options": [
+        "Kaynama noktası",
+        "Erime noktası",
+        "Donma noktası",
+        "Kritik sıcaklık"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Asitlerin ve bazların pH değeri arasındaki farkı belirten ve sulu çözeltideki hidrojen iyonu konsantrasyonunu ölçen kavram nedir?",
+      "options": [
+        "pH değeri",
+        "pOH değeri",
+        "pKa değeri",
+        "pKb değeri"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi şehir 'Güneydoğu Anadolu'nun incisi' olarak bilinir?",
+      "options": [
+        "Diyarbakır",
+        "Mardin",
+        "Gaziantep",
+        "Şanlıurfa"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye'nin en uzun akarsuyu hangisidir?",
+      "options": [
+        "Fırat Nehri",
+        "Dicle Nehri",
+        "Kızılırmak Nehri",
+        "Yeşilırmak Nehri"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Hangi şehir 'Taşın Şiiri' olarak bilinir?",
+      "options": [
+        "Mardin",
+        "Urfa",
+        "Gaziantep",
+        "Adıyaman"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bitkilerde fotosentez nerede gerçekleşir?",
+      "options": [
+        "Köklerde",
+        "Yapraklarda",
+        "Gövdede",
+        "Çiçeklerde"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Canlıların temel genetik materyali nedir?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Yağ"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Büyük Selçuklu İmparatorluğu'nda 'Nizam-ı Mülk' tarafından kurulan, dönemin en önemli eğitim kurumları hangi isimle anılır?",
+      "options": [
+        "Medreseler",
+        "Mektepler",
+        "Külliyeler",
+        "Darüşşifalar"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' olarak adlandırılan dönem hangi padişah zamanında yaşanmıştır?",
+      "options": [
+        "III. Ahmed",
+        "II. Mahmud",
+        "I. Abdülmecid",
+        "II. Abdülhamid"
+      ],
+      "correctAnswer": 0,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Fransız İhtilali hangi tarihte gerçekleşmiştir?",
+      "options": [
+        "1776",
+        "1789",
+        "1815",
+        "1848"
+      ],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Türkiye Selçuklu Devleti'nin en parlak dönemini yaşatan ve 'Alâeddin Keykubad' olarak da bilinen padişah kimdir?",
+      "options": [
+        "Kılıç Arslan",
+        "Gıyaseddin Keyhüsrev",
+        "Alaeddin Keykubad",
+        "Süleyman Şah"
+      ],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'yeniçeri ocağını' kaldıran ve 'Vakay-ı Hayriye' olarak bilinen olayı gerçekleştiren padişah kimdir?",
+      "options": [
+        "II. Mahmut",
+        "III. Selim",
+        "II. Abdülhamit",
+        "IV. Murad"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Anadolu'da kurulan ilk Türk Beyliklerinden olup, 'Danişmendname' destanına konu olan beylik hangisidir?",
+      "options": [
+        "Danişmendliler",
+        "Artuklular",
+        "Saltuklular",
+        "Mengücekliler"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'de 'İlk Kadın Başbakan' kimdir?",
+      "options": [
+        "Tansu Çiller",
+        "Ayşenur Koru",
+        "Suna Kıraç",
+        "İlber Ortaylı"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Avrupa Birliği'nin kurucu anlaşması olan ve 'Avrupa Ekonomik Topluluğu'nu kuran antlaşmanın' adı nedir?",
+      "options": [
+        "Roma Antlaşması",
+        "Maastricht Antlaşması",
+        "Lizbon Antlaşması",
+        "Schengen Anlaşması"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Felsefenin yöntemi nedir?",
+      "options": [
+        "Deney",
+        "Gözlem",
+        "Akıl yürütme",
+        "Hepsi"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Değer felsefesi neyi inceler?",
+      "options": [
+        "İyi, kötü, güzel",
+        "Sadece para",
+        "Sadece altın",
+        "Sadece gümüş"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Sanat felsefesi neyi inceler?",
+      "options": [
+        "Sanatın özü",
+        "Sadece resim",
+        "Sadece heykel",
+        "Sadece müzik"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Ahlak felsefesinde 'iyinin' tek ölçütünü 'haz' olarak belirleyen yaklaşım hangisidir?",
+      "options": [
+        "Faydacılık",
+        "Egoizm",
+        "Hedonizm",
+        "Stoacılık"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Varlığın temelinde 'tek bir töz' olduğunu savunan felsefi görüş hangisidir?",
+      "options": [
+        "Düalizm",
+        "Pluralizm",
+        "Monizm",
+        "İdealizm"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Hangi yazar 'İnce Memed' romanının yazarıdır?",
+      "options": [
+        "Orhan Kemal",
+        "Yaşar Kemal",
+        "Kemal Tahir",
+        "Sait Faik Abasıyanık"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "'Sinekli Bakkal' romanının yazarı kimdir?",
+      "options": [
+        "Reşat Nuri Güntekin",
+        "Halide Edip Adıvar",
+        "Yakup Kadri Karaosmanoğlu",
+        "Refik Halit Karay"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Basketbolda bir serbest atış kaç puandır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Voleybolda bir takımın bir sette en fazla kaç oyuncu değiştirme hakkı vardır?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Kimyasal reaksiyonlarda reaksiyonun hızını belirleyen en önemli faktörlerden biri olan ve 'reaktant moleküllerinin' çarpışma sıklığını artıran etken nedir?",
+      "options": [
+        "Sıcaklık",
+        "Basınç",
+        "Katalizör",
+        "Konsantrasyon"
+      ],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Atomun temel parçacıklarından olan ve atomun kütlesinin büyük bir kısmını oluşturan tanecikler hangileridir?",
+      "options": [
+        "Proton ve elektron",
+        "Elektron ve nötron",
+        "Proton ve nötron",
+        "Sadece proton"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Gaz kanunlarından olan ve 'sabit basınçta bir gazın hacminin sıcaklıkla doğru orantılı olduğunu' belirten kanun hangisidir?",
+      "options": [
+        "Boyle Yasası",
+        "Charles Yasası",
+        "Avogadro Yasası",
+        "Gay-Lussac Yasası"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'nin en fazla yağış alan bölgesi hangisidir?",
+      "options": [
+        "Karadeniz",
+        "Marmara",
+        "Ege",
+        "Akdeniz"
+      ],
+      "correctAnswer": 0,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'nin en büyük adası hangisidir?",
+      "options": [
+        "Bozcaada",
+        "Gökçeada",
+        "Marmara Adası",
+        "Avşa Adası"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Türkiye'de 'sarkıt' ve 'dikit' oluşumlarıyla ünlü olan mağara hangisidir?",
+      "options": [
+        "Karain Mağarası",
+        "Damlataş Mağarası",
+        "İnsuyu Mağarası",
+        "Dupnisa Mağarası"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Canlıların sınıflandırılmasında en temel birim olan ve ortak atadan gelen canlıları içeren kategori nedir?",
+      "options": [
+        "Familya",
+        "Cins",
+        "Tür",
+        "Sınıf"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Bitkilerin 'karbondioksit' kullanarak 'güneş ışığı' ve 'su' yardımıyla kendi besinlerini ürettiği süreç nedir?",
+      "options": [
+        "Solunum",
+        "Terleme",
+        "Fotosentez",
+        "Üreme"
+      ],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "İnsan vücudunda 'oksijen' taşıyan ve kırmızı renkte olan kan hücreleri hangisidir?",
+      "options": [
+        "Akyuvarlar",
+        "Alyuvarlar",
+        "Trombositler",
+        "Plazma"
+      ],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'divan toplantılarının' yapıldığı ve 'yeniçeri' maaşlarının dağıtıldığı yerin adı nedir?",
+      "options": [
+        "Harem",
+        "Bab-ı Ali",
+        "Babüsselam",
+        "Babüssaade"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türk İslam devletlerinde 'sosyal' ve 'ekonomik' yaşamı düzenleyen ve 'esnafların' bir araya geldiği teşkilatın adı nedir?",
+      "options": [
+        "Ahilik",
+        "Lonca",
+        "İkta",
+        "Vakıf"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Sanat akımlarında 'gerçekliğin' olduğu gibi, 'doğrudan' ve 'nesnel' bir şekilde yansıtılmasını amaçlayan akım hangisidir?",
+      "options": [
+        "Romantizm",
+        "Realizm",
+        "Modernizm",
+        "Postmodernizm"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Din felsefesinde, Tanrı'nın varlığını kabul eden ancak dinlerin ve peygamberlerin otoritesini reddeden yaklaşım hangisidir?",
+      "options": [
+        "Ateizm",
+        "Teizm",
+        "Deizm",
+        "Agnostisizm"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Karl Popper'ın 'bilim felsefesinde' öne sürdüğü ve bir teorinin 'yanlışlanabilir' olması gerektiğini savunan ilke hangisidir?",
+      "options": [
+        "Doğrulanabilirlik",
+        "Tümevarım",
+        "Falsifikasyon",
+        "Pozitivizm"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hegel'in diyalektik yöntemi nedir?",
+      "options": [
+        "Tez-antitez-sentez",
+        "Sadece tez",
+        "Sadece antitez",
+        "Sadece sentez"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Marx'ın tarihsel materyalizmi nedir?",
+      "options": [
+        "Ekonomik temelli tarih",
+        "Sadece siyaset",
+        "Sadece din",
+        "Sadece sanat"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Nietzsche'nin güç istenci nedir?",
+      "options": [
+        "Yaşam gücü",
+        "Sadece zayıflık",
+        "Sadece korku",
+        "Sadece nefret"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Sartre'ın varoluşçuluğu nedir?",
+      "options": [
+        "İnsan özgürlüğü",
+        "Sadece kader",
+        "Sadece zorunluluk",
+        "Sadece tesadüf"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Foucault'nun iktidar analizi nedir?",
+      "options": [
+        "Güç ilişkileri",
+        "Sadece devlet",
+        "Sadece hükümet",
+        "Sadece yasa"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Derrida'nın yapısökümü nedir?",
+      "options": [
+        "Metin analizi",
+        "Sadece okuma",
+        "Sadece yazma",
+        "Sadece dinleme"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Deleuze'ün rizom teorisi nedir?",
+      "options": [
+        "Ağ yapısı",
+        "Sadece kök",
+        "Sadece dal",
+        "Sadece yaprak"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Aşağıdaki rejimlerden hangisi 'demokrasinin' temel ilkelerinden olan 'halkın egemenliğini' reddeder?",
+      "options": [
+        "Oligarşi",
+        "Cumhuriyet",
+        "Meşrutiyet",
+        "Federasyon"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bir devletin 'yasama, yürütme ve yargı' organlarının birbirinden bağımsız olduğu siyasal sisteme ne ad verilir?",
+      "options": [
+        "Kuvvetler Birliği",
+        "Kuvvetler Ayrılığı",
+        "Monarşi",
+        "Otokrasi"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türkiye'de '1982 Anayasası' ile kurulan ve 2017'de değiştirilen hükümet sistemi nedir?",
+      "options": [
+        "Başkanlık Sistemi",
+        "Parlamenter Sistem",
+        "Yarı Başkanlık Sistemi",
+        "Karma Sistem"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "'Habeas Corpus' (Vücut Hukuku) ilkesi, hangi hukuki alanda yer alır?",
+      "options": [
+        "Ceza hukuku",
+        "Medeni hukuk",
+        "Anayasa hukuku",
+        "İdare hukuku"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türkiye Cumhuriyeti'nin 'çok partili hayata' geçişinde önemli bir rol oynayan ve ilk muhalefet partisi olan parti hangisidir?",
+      "options": [
+        "Demokrat Parti",
+        "Adalet Partisi",
+        "Milli Kalkınma Partisi",
+        "Serbest Cumhuriyet Fırkası"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Ahlak kuralları nedir?",
+      "options": [
+        "Bireyin vicdanı",
+        "Devletin koyduğu kurallar",
+        "Din kuralları",
+        "Gelenekler"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hukuk nedir?",
+      "options": [
+        "Sadece kanunlar",
+        "Devletin koyduğu kurallar",
+        "Toplumsal kurallar",
+        "Din kuralları"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hangi yazar 'Deli Dumrul' hikayesinin yazarıdır?",
+      "options": [
+        "Dede Korkut",
+        "Nasrettin Hoca",
+        "Karacaoğlan",
+        "Yunus Emre"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Hangi şair 'Vatan Şairi' olarak bilinir?",
+      "options": [
+        "Tevfik Fikret",
+        "Mehmet Akif Ersoy",
+        "Namık Kemal",
+        "Ziya Gökalp"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Basketbolda üç sayılık atış çizgisi kaç metredir?",
+      "options": [
+        "7,25 metre (FIBA)",
+        "6,75 metre (NBA)",
+        "7,62 metre (FIBA)",
+        "6,25 metre (NBA)"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Voleybolda 'blok' nedir?",
+      "options": [
+        "Topa vurmak",
+        "Topu karşılamak",
+        "File önünde topu kesmek",
+        "Servis atmak"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Türkiye'nin en uzun dağı hangisidir?",
+      "options": [
+        "Ağrı Dağı",
+        "Hasan Dağı",
+        "Kaçkar Dağı",
+        "Süphan Dağı"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Aşağıdaki organellerden hangisi 'protein sentezi'nden sorumludur?",
+      "options": [
+        "Mitokondri",
+        "Lizozom",
+        "Ribozom",
+        "Golgi"
+      ],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "DNA'nın temel yapı taşları olan 'nükleotidler' hangileridir?",
+      "options": [
+        "A-T-C-G",
+        "U-T-C-G",
+        "A-U-C-G",
+        "A-T-U-C"
+      ],
+      "correctAnswer": 0,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "İnsan iskeletinde 'kalp ve akciğerleri' koruyan kemik yapısının adı nedir?",
+      "options": [
+        "Kafatas",
+        "Kaburgalar",
+        "Omurga",
+        "Pelvis"
+      ],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Orta Çağ Avrupa'sında 'feodalizm' nedir?",
+      "options": [
+        "Merkezi krallık",
+        "Ticari birlikler",
+        "Derebeylik sistemi",
+        "Parlamenter sistem"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Türk tarihinde 'Orta Asya'dan Anadolu'ya' göçleri başlatan ve 'Anadolu'nun Kapısı' olarak bilinen savaş hangisidir?",
+      "options": [
+        "Dandanakan Savaşı",
+        "Malazgirt Savaşı",
+        "Miryokefalon Savaşı",
+        "Sazova Savaşı"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'Sanayi İnkılabı'na' tepki olarak kurulan ilk sanayi fabrikası hangisidir?",
+      "options": [
+        "Feshane",
+        "Hereke Halı Fabrikası",
+        "Yıldız Porselen Fabrikası",
+        "Topkapı Sarayı Fabrikası"
+      ],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Anadolu'da 'Büyük Taarruz'un' ardından imzalanan ve 'Türk Kurtuluş Savaşı'nın' askeri safhasını sona erdiren antlaşma hangisidir?",
+      "options": [
+        "Mudanya Ateşkes Antlaşması",
+        "Lozan Barış Antlaşması",
+        "Sevr Antlaşması",
+        "Kars Antlaşması"
+      ],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Türk siyasal tarihinde 'Tek Parti' döneminin sona erdiği ve 'Demokrat Parti'nin' iktidara geldiği seçimler hangi tarihte yapılmıştır?",
+      "options": [
+        "1946",
+        "1950",
+        "1960",
+        "1961"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Uluslararası Hukukta 'Jus Cogens' nedir?",
+      "options": [
+        "Devletlerarası anlaşmalar",
+        "Uluslararası örf ve adetler",
+        "Uluslararası toplumun kabul ettiği evrensel kurallar",
+        "Devletlerin tek taraflı iradesi"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Siyasal düşünce tarihinde 'devletin' ortaya çıkışını 'toplum sözleşmesi' ile açıklayan düşünürlerden biri kimdir?",
+      "options": [
+        "Platon",
+        "Aristoteles",
+        "Jean-Jacques Rousseau",
+        "Machiavelli"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Modern siyaset biliminde 'demokrasi' türlerinden olan ve 'halkın' temsilcileri aracılığıyla yönetildiği sisteme ne ad verilir?",
+      "options": [
+        "Doğrudan Demokrasi",
+        "Temsili Demokrasi",
+        "Parlamenter Demokrasi",
+        "Başkanlık Demokrasisi"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Fıkıh'ta 'İslam hukukunun' temel kaynaklarından olan ve 'Hz. Muhammed'in söz, fiil ve onaylarını' içeren kaynak hangisidir?",
+      "options": [
+        "Kur'an",
+        "Sünnet",
+        "İcma",
+        "Kıyas"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Kuran'da 'peygamberler' arasında 'ülu'l-azm' olarak bilinen ve 'yüce azim sahibi' anlamına gelen peygamberler kimlerdir?",
+      "options": [
+        "Hz. Âdem ve Hz. Nuh",
+        "Hz. İbrahim, Hz. Musa, Hz. İsa",
+        "Hz. Muhammed, Hz. İsa, Hz. Musa, Hz. İbrahim, Hz. Nuh",
+        "Hz. Yusuf ve Hz. Süleyman"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Yedi Uyurlar olarak bilinen ve Ashab-ı Kehf olarak da bilinen olayın geçtiği mağaranın bulunduğu düşünülen şehir hangi şehirdir?",
+      "options": [
+        "Şanlıurfa",
+        "Tarsus",
+        "Kahramanmaraş",
+        "Afşin"
+      ],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Hangi yazar 'Cemile' romanının yazarıdır?",
+      "options": [
+        "Yaşar Kemal",
+        "Orhan Kemal",
+        "Necip Fazıl Kısakürek",
+        "Cengiz Aytmatov"
+      ],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Hangi şair 'Kaldırımlar' şiirinin yazarıdır?",
+      "options": [
+        "Necip Fazıl Kısakürek",
+        "Sezai Karakoç",
+        "Ahmet Haşim",
+        "Cahit Zarifoğlu"
+      ],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Futbolda ofsayt kuralını açıklayın.",
+      "options": [
+        "Top rakip oyuncudan uzaktayken, bir oyuncu rakip kaleciye doğru ilerlerse ofsayt olur.",
+        "Bir oyuncu rakip yarı sahasında toptan daha ilerdeyse ve aralarında en az iki rakip oyuncu yoksa ofsayt olur.",
+        "Bir oyuncu rakip yarı sahasında toptan daha ilerdeyse ve aralarında en az bir rakip oyuncu yoksa ofsayt olur.",
+        "Bir oyuncu kendi yarı sahasında toptan daha ilerdeyse ve aralarında en az iki rakip oyuncu yoksa ofsayt olur."
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Basketbolda 'faul' nedir?",
+      "options": [
+        "Topu potaya atmak",
+        "Rakip oyuncuya temas etmek",
+        "Topu elinde tutmak",
+        "Topu sektirmek"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Bir sıvının yüzey gerilimini artıran faktör hangisidir?",
+      "options": [
+        "Sıcaklık artışı",
+        "Sıcaklık azalışı",
+        "Çözünen madde eklenmesi",
+        "Basınç artışı"
+      ],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Atomda 'elektronların' belirli enerji seviyelerinde bulunduğunu ve bu seviyelerin 'nicel' olduğunu savunan atom modeli hangisidir?",
+      "options": [
+        "Dalton Atom Modeli",
+        "Thomson Atom Modeli",
+        "Rutherford Atom Modeli",
+        "Bohr Atom Modeli"
+      ],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "İdeal gaz denklemindeki 'R' sabiti neyi ifade eder?",
+      "options": [
+        "Basınç",
+        "Hacim",
+        "Gaz sabiti",
+        "Sıcaklık"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Türkiye'de 'delta ovası' oluşumunda önemli rol oynayan ve 'Çukurova'nın' ana nehri olan akarsu hangisidir?",
+      "options": [
+        "Seyhan Nehri",
+        "Ceyhan Nehri",
+        "Göksu Nehri",
+        "Asi Nehri"
+      ],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Türkiye'de 'tektonik' göllerden olan ve 'Deprem' fayları sonucu oluşan göl hangisidir?",
+      "options": [
+        "Van Gölü",
+        "Tuz Gölü",
+        "Sapanca Gölü",
+        "İznik Gölü"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Bitkilerde 'su' ve 'minerallerin' taşınmasını sağlayan doku hangisidir?",
+      "options": [
+        "Floem",
+        "Kambiyum",
+        "Ksilèm",
+        "Parankima"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "İnsan vücudunda 'kas kasılmasını' sağlayan ve 'ATP' enerjisini kullanan proteinler hangileridir?",
+      "options": [
+        "Aktin ve miyozin",
+        "Kolajen ve elastin",
+        "Keratin ve hemoglobin",
+        "Fibrin ve trombin"
+      ],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Hücre zarından 'madde geçişini' sağlayan ve 'enerji' (ATP) gerektiren taşıma yöntemi nedir?",
+      "options": [
+        "Difüzyon",
+        "Ozmoz",
+        "Aktif taşıma",
+        "Endositoz"
+      ],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'devletin kuruluş' evresinde 'Moğol İstilası'ndan' kaçan 'Türkmen' beyliklerinden biri olan ve 'Osmanlı Beyliği'nin' temellerini atan beylik hangisidir?",
+      "options": [
+        "Germiyanoğulları",
+        "Karamanlılar",
+        "Osmanlı Beyliği",
+        "Karesi Beyliği"
+      ],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'yönetimde' ve 'ordu'da' devşirme sistemi ile yetiştirilen, 'sadrazamlık' ve 'vezirlik' gibi önemli makamlara gelen devşirmelere ne ad verilir?",
+      "options": [
+        "Devşirme Sistemi",
+        "Yeniçeri Ocağı",
+        "Sipahi Ocağı",
+        "Kapıkulu Ocağı"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Bilim felsefesinde, bilimsel bilginin 'tümevarım' yoluyla, yani 'tek tek gözlemlerden genel yasalara' ulaşılarak elde edildiğini savunan yaklaşım hangisidir?",
+      "options": [
+        "Tümdengelim",
+        "Hipotetik-dedüktif",
+        "Mantıksal pozitivizm",
+        "Tümevarım"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Felsefe tarihinde 'Orta Çağ'da' 'İslam felsefesinin' en önemli temsilcilerinden olan ve 'Aristo'nun' eserlerini yorumlayan, Batı felsefesini de etkileyen filozof kimdir?",
+      "options": [
+        "Farabi",
+        "İbn Sina",
+        "Gazali",
+        "İbn Rüşd"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Mantıkta, 'eğer p ise q' şeklindeki bir önermenin 'p'si doğru, 'q'su yanlış' olduğunda 'yanlış' olduğu kabul edilen mantık türü nedir?",
+      "options": [
+        "Klasik mantık",
+        "Sembolik mantık",
+        "Önermeler mantığı",
+        "Yüklemler mantığı"
+      ],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Ahlak felsefesinde 'ödev' ve 'zorunluluk' kavramlarını temel alan ve bir eylemin 'sonuçlarından bağımsız' olarak ahlaki değerini belirleyen etik yaklaşım hangisidir?",
+      "options": [
+        "Deontoloji",
+        "Teleoloji",
+        "Hedonizm",
+        "Faydacılık"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Felsefenin Batı'da 'mitolojiden' ayrılıp 'akıl' ve 'sorgulamaya' dayalı bir disiplin haline gelmesi nerede başlamıştır?",
+      "options": [
+        "Mısır",
+        "Mezopotamya",
+        "Antik Yunan (Milet Okulu)",
+        "Roma"
+      ],
+      "correctAnswer": 2,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Fransız siyasal düşünürü 'Montesquieu'nün' 'devlet yönetimini' üç temel organa ayıran ilkesi nedir?",
+      "options": [
+        "Kuvvetler Birliği",
+        "Kuvvetler Ayrılığı",
+        "Federasyon",
+        "Konfederasyon"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Türk siyasal tarihinde '1960 darbesine' giden süreçte 'Demokrat Parti'nin' izlediği politikaları eleştiren ve 'Ankara'da' öğrenci protestolarını başlatan olay hangi tarihte yaşanmıştır?",
+      "options": [
+        "27 Mayıs 1960",
+        "28 Nisan 1960",
+        "20 Ocak 1960",
+        "13 Ekim 1959"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "İngiliz Hukukunda 'Lex Mercatoria' nedir?",
+      "options": [
+        "Roma hukuku",
+        "Feodal hukuk",
+        "Deniz hukuku",
+        "Ticari gelenekler"
+      ],
+      "correctAnswer": 3,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi yazar 'Yaprak Dökümü' romanının yazarıdır?",
+      "options": [
+        "Halide Edip Adıvar",
+        "Reşat Nuri Güntekin",
+        "Yakup Kadri Karaosmanoğlu",
+        "Refik Halit Karay"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "'Yaban' romanının yazarı kimdir?",
+      "options": [
+        "Yakup Kadri Karaosmanoğlu",
+        "Halide Edip Adıvar",
+        "Reşat Nuri Güntekin",
+        "Ömer Seyfettin"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Futbolda penaltı vuruşu kaç metreden atılır?",
+      "options": [
+        "11 metre",
+        "9,15 metre",
+        "16,5 metre",
+        "10 metre"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Voleybolda 'servis' nedir?",
+      "options": [
+        "Topu karşı takıma atmak",
+        "Topu karşılamak",
+        "Topu bloklamak",
+        "Topu smaçlamak"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Hangi şehir 'Güneydoğu Anadolu'nun Kapısı' olarak bilinir?",
+      "options": [
+        "Diyarbakır",
+        "Gaziantep",
+        "Şanlıurfa",
+        "Mardin"
+      ],
+      "correctAnswer": 0,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Hücre zarından 'madde geçişini' sağlayan ve 'enerji' (ATP) gerektirmeyen taşıma yöntemleri hangileridir?",
+      "options": [
+        "Aktif taşıma ve endositoz",
+        "Difüzyon ve ozmoz",
+        "Fagositoz ve pinositoz",
+        "Difüzyon ve aktif taşıma"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Solunum sisteminde 'gaz alışverişinin' gerçekleştiği temel birimler nelerdir?",
+      "options": [
+        "Bronşlar",
+        "Alveoller",
+        "Trake",
+        "Diyafram"
+      ],
+      "correctAnswer": 1,
+      "level": 6,
+      "prize": 200000
+    },
+    {
+      "question": "Osmanlı Devleti'nde '1. Meşrutiyet'in' ilanı hangi padişah zamanında olmuştur?",
+      "options": [
+        "II. Mahmud",
+        "I. Abdülmecid",
+        "II. Abdülhamid",
+        "III. Selim"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Türk tarihinde 'Anadolu'nun Türk yurdu olmasını' kesinleştiren savaş hangisidir?",
+      "options": [
+        "Malazgirt Savaşı",
+        "Miryokefalon Savaşı",
+        "Kösedağ Savaşı",
+        "Dandanakan Savaşı"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "İslam felsefesinde 'Aristotelesçi' geleneği devam ettiren, 'Felsefe Tahafütü' adlı eseriyle bilinen filozof kimdir?",
+      "options": [
+        "Farabi",
+        "İbn Sina",
+        "Gazali",
+        "İbn Rüşd"
+      ],
+      "correctAnswer": 3,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Bilim felsefesinde 'bilimsel anarşizm' olarak bilinen yaklaşımı savunan ve 'yöntem olmadan her şey mümkündür' diyerek bilimsel yöntemin mutlak olmadığını savunan filozof kimdir?",
+      "options": [
+        "Karl Popper",
+        "Thomas Kuhn",
+        "Paul Feyerabend",
+        "Imre Lakatos"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Mantıkta 'tümdengelim' yoluyla yapılan akıl yürütmelerde, 'öncüllerin doğru olması durumunda sonucun da zorunlu olarak doğru olduğu' durumun adı nedir?",
+      "options": [
+        "Doğruluk",
+        "Geçerlilik",
+        "Uygunluk",
+        "Tutarlılık"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Siyaset felsefesinde 'özgürlüğün' temel bir insan hakkı olduğunu savunan ve 'adaletin' birincil erdem olduğunu belirten filozof kimdir?",
+      "options": [
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "John Rawls",
+        "Karl Marx"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Varlık felsefesinde 'fenomenoloji'nin kurucusu olan ve 'bilincin nesneye yönelişi'ni temel alan filozof kimdir?",
+      "options": [
+        "Martin Heidegger",
+        "Edmund Husserl",
+        "Jean-Paul Sartre",
+        "Maurice Merleau-Ponty"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Hukukta 'objektif iyiniyet' nedir?",
+      "options": [
+        "Hak sahibinin subjektif iradesi",
+        "Somut olayda beklenebilecek dürüstlük",
+        "Kişinin kendi çıkarını gözetmesi",
+        "Yasanın uygulanması"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Uluslararası Hukukta 'jus cogens' (buyruk kuralı) nedir?",
+      "options": [
+        "Devletlerarası anlaşmalar",
+        "Hukuki bağlayıcılığı olmayan tavsiyeler",
+        "Uluslararası toplumun istisnasız kabul ettiği normlar",
+        "Tek taraflı irade beyanları"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Hangi yazar 'Huzur' romanının yazarıdır?",
+      "options": [
+        "Ahmet Hamdi Tanpınar",
+        "Peyami Safa",
+        "Orhan Pamuk",
+        "Oğuz Atay"
+      ],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Türk Edebiyatı'nda 'şiirde serbest nazım'ı savunan ve 'Garip Akımı'nın' kurucularından olan şair kimdir?",
+      "options": [
+        "Necip Fazıl Kısakürek",
+        "Orhan Veli Kanık",
+        "Ahmet Haşim",
+        "Cahit Sıtkı Tarancı"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Futbolda 'kaleci'nin' kendi ceza sahası dışında topa elle dokunması durumunda ne olur?",
+      "options": [
+        "Faul olur",
+        "Penaltı olur",
+        "Korner olur",
+        "İhtar verilir"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Voleybolda 'pasör'ün' temel görevi nedir?",
+      "options": [
+        "Topu karşılamak",
+        "Topu fileden karşıya atmak",
+        "Topu smaca hazırlamak",
+        "Topu bloklamak"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Kimyada 'asit ve bazların' nötrleşme reaksiyonu sonunda oluşan madde ne ad verilir?",
+      "options": [
+        "Tuz",
+        "Şeker",
+        "Yağ",
+        "Alkol"
+      ],
+      "correctAnswer": 0,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Aşağıdaki elementlerden hangisi 'doğada tek atomlu' (monoatomik) halde bulunur ve 'soy gazlar' grubuna aittir?",
+      "options": [
+        "Oksijen",
+        "Azot",
+        "Neon",
+        "Hidrojen"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "İnsan vücudunda 'kemiklerin' ana yapısını oluşturan ve 'sertlik' veren mineral hangisidir?",
+      "options": [
+        "Sodyum",
+        "Potasyum",
+        "Kalsiyum",
+        "Demir"
+      ],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Sindirim sisteminde 'midenin' temel görevi nedir?",
+      "options": [
+        "Sadece besinleri parçalamak",
+        "Proteinleri sindirmek",
+        "Sadece karbonhidratları sindirmek",
+        "Sadece yağları sindirmek"
+      ],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Felsefe tarihinde 'Yeni Çağ'ın' en önemli filozoflarından olan ve 'düşünüyorum, o halde varım' sözüyle bilinen rasyonalist filozof kimdir?",
+      "options": [
+        "John Locke",
+        "Baruch Spinoza",
+        "Gottfried Leibniz",
+        "René Descartes"
+      ],
+      "correctAnswer": 3,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Ahlak felsefesinde 'biyoteknoloji', 'yapay zekâ' ve 'çevre' gibi konuları ele alan yeni etik yaklaşım hangisidir?",
+      "options": [
+        "Uygulamalı etik",
+        "Normatif etik",
+        "Meta-etik",
+        "Analitik etik"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Siyaset felsefesinde 'devlet'in amacını 'tüm bireylerin ortak iradesinin' yansıması olarak gören ve 'genel irade' kavramını kullanan filozof kimdir?",
+      "options": [
+        "Thomas Hobbes",
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Montesquieu"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Din felsefesinde 'deizm'e' karşı çıkan ve 'Tanrı'nın evrene müdahale etmediği' görüşünü eleştiren yaklaşım hangisidir?",
+      "options": [
+        "Teizm",
+        "Ateizm",
+        "Agnostisizm",
+        "Panteizm"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Bilim felsefesinde 'tümevarım problemini' ortaya atan ve 'geçmişteki gözlemlerin geleceği garanti etmediğini' savunan filozof kimdir?",
+      "options": [
+        "Francis Bacon",
+        "David Hume",
+        "Karl Popper",
+        "Auguste Comte"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Hukukta 'iyi niyet' nedir?",
+      "options": [
+        "Sübjektif iyiniyet",
+        "Objektif iyiniyet",
+        "Kamu düzeni",
+        "Yasa"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Türkiye'de 'ceza hukuku'nda 'suçun' unsurlarından olan ve 'hukuka aykırı bir fiili işleme iradesi' anlamına gelen kavram hangisidir?",
+      "options": [
+        "Maddi unsur",
+        "Manevi unsur",
+        "Hukuka aykırılık",
+        "Kanunilik"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Hangi yazar 'Dostoyevski'nin' 'Karamazov Kardeşler' romanını yazmıştır?",
+      "options": [
+        "Tolstoy",
+        "Dostoyevski",
+        "Çehov",
+        "Puşkin"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Futbolda 'serbest vuruş' (frikik) nedir?",
+      "options": [
+        "Kaleci vuruşu",
+        "Köşe vuruşu",
+        "Hata sonucu kazanılan vuruş",
+        "Taç atışı"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Voleybolda 'saha ölçüleri' nedir?",
+      "options": [
+        "18x9 metre",
+        "20x10 metre",
+        "15x8 metre",
+        "22x12 metre"
+      ],
+      "correctAnswer": 0,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Aşağıdaki bağ türlerinden hangisi 'elektron alışverişiyle' oluşur?",
+      "options": [
+        "Kovalent bağ",
+        "Metalik bağ",
+        "İyonik bağ",
+        "Hidrojen bağı"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Canlıların kalıtsal özelliklerini taşıyan ve 'çift sarmal' yapıda olan molekül nedir?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Karbonhidrat"
+      ],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "İnsan vücudunda 'bağışıklık' sisteminin en önemli hücreleri hangileridir?",
+      "options": [
+        "Alyuvarlar",
+        "Trombositler",
+        "Akyuvarlar",
+        "Plazma"
+      ],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'divan'a' giren ve 'veziriazam'lık' yapan 'ilk sadrazam' kimdir?",
+      "options": [
+        "Sokullu Mehmed Paşa",
+        "Pargalı İbrahim Paşa",
+        "Çandarlı Halil Paşa",
+        "Köprülü Mehmed Paşa"
+      ],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Felsefe tarihinde 'Orta Çağ'da' 'iman-akıl' ilişkisini irdeleyen ve 'iman ediyorum, çünkü saçmadır' sözüyle bilinen düşünür kimdir?",
+      "options": [
+        "Aquinolu Thomas",
+        "Augustinus",
+        "Anselm",
+        "Tertullianus"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Mantıkta, bir akıl yürütmede 'çıkarımın' doğru olmasına rağmen 'öncüllerin' yanlış olduğu durumun adı nedir?",
+      "options": [
+        "Safsata",
+        "Geçerli ama yanlış",
+        "Geçerli ve doğru",
+        "Geçersiz"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Varlık felsefesinde 'varoluşçuluk' akımında, 'hiçbir şeyin anlamı yoktur' diyerek 'anlamsızlığı' ve 'saçmalığı' vurgulayan filozof kimdir?",
+      "options": [
+        "Kierkegaard",
+        "Sartre",
+        "Heidegger",
+        "Albert Camus"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'doğal haklar' teorisinin en önemli temsilcilerinden olan ve 'yaşam, özgürlük ve mülkiyet' haklarını savunan filozof kimdir?",
+      "options": [
+        "Hobbes",
+        "Locke",
+        "Rousseau",
+        "Marx"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Ahlak felsefesinde 'ödev ahlakına' karşı çıkan ve 'iyinin' tek ölçütünü 'sonuçlara' bağlayan faydacılık (utilitarizm) akımının kurucusu kimdir?",
+      "options": [
+        "Immanuel Kant",
+        "Jeremy Bentham",
+        "John Stuart Mill",
+        "Nietzsche"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi yazar 'İki Şehrin Hikayesi' romanının yazarıdır?",
+      "options": [
+        "Charles Dickens",
+        "Mark Twain",
+        "George Orwell",
+        "J.R.R. Tolkien"
+      ],
+      "correctAnswer": 0,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Futbol kurallarında 'penaltı atışını' kurtaran kalecinin topu tekrar oyuna sokması nasıl gerçekleşir?",
+      "options": [
+        "Kaleci topu oyuna eliyle sokar.",
+        "Kaleci topu oyuna ayağıyla sokar.",
+        "Kaleci topu oyuna eliyle veya ayağıyla sokabilir.",
+        "Sadece orta saha oyuncuları oyuna sokabilir."
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Voleybolda 'libero' oyuncusunun temel görevi nedir?",
+      "options": [
+        "Sadece hücumda oynamak",
+        "Sadece savunmada oynamak",
+        "Sadece servis atmak",
+        "Sadece blok yapmak"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Türkiye'de 'volkanik' patlamalar sonucu oluşan ve 'Van Gölü'nün' oluşumunda da etkili olan dağ hangisidir?",
+      "options": [
+        "Erciyes Dağı",
+        "Nemrut Dağı",
+        "Süphan Dağı",
+        "Hasan Dağı"
+      ],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Hangi hormon 'insanlarda' 'büyüme' ve 'gelişmeyi' düzenler?",
+      "options": [
+        "İnsülin",
+        "Adrenalin",
+        "Tiroksin",
+        "Büyüme hormonu"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "İnsan vücudunda 'karaciğerin' temel görevlerinden biri olan ve 'zehirli maddeleri' etkisiz hale getiren süreç nedir?",
+      "options": [
+        "Glikoz sentezi",
+        "Protein sentezi",
+        "Detoksifikasyon",
+        "Vitamin depolama"
+      ],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Aşağıdaki elementlerden hangisi 'DNA'nın' yapısında bulunmaz?",
+      "options": [
+        "Karbon",
+        "Hidrojen",
+        "Oksijen",
+        "Kükürt"
+      ],
+      "correctAnswer": 3,
+      "level": 9,
+      "prize": 1000000
+    },
+    {
+      "question": "Felsefe tarihinde 'fenomenoloji' ve 'varoluşçuluk' arasında bir köprü kuran ve 'varoluşun anlamını' sorgulayan Alman filozof kimdir?",
+      "options": [
+        "Husserl",
+        "Sartre",
+        "Heidegger",
+        "Merleau-Ponty"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Mantıkta, bir önermenin 'sembolik' olarak 'p' ile gösterilip, 'doğruluk değerinin' 'doğru' veya 'yanlış' olduğu kabul edilen mantık türü nedir?",
+      "options": [
+        "Klasik mantık",
+        "Sembolik mantık",
+        "Yüklemler mantığı",
+        "Modal mantık"
+      ],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Bilim felsefesinde 'bilimsel teorilerin' birbiriyle 'kıyaslanamaz' olduğunu ve her paradigmanın 'kendi içinde' bir geçerliliği olduğunu savunan felsefeci kimdir?",
+      "options": [
+        "Karl Popper",
+        "Thomas Kuhn",
+        "Imre Lakatos",
+        "Paul Feyerabend"
+      ],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'adil' bir toplumun 'en az avantajlı' kesiminin durumunu iyileştirmeyi amaçlayan 'fark ilkesini' savunan filozof kimdir?",
+      "options": [
+        "John Locke",
+        "Thomas Hobbes",
+        "John Rawls",
+        "Robert Nozick"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Din felsefesinde 'kötülük problemi'ne' çözüm olarak 'Tanrı'nın iyiliği ve her şeye gücü yetmesi'ni savunarak 'kötülüğün' aslında 'iyinin bir aracı' olduğunu savunan teolojik yaklaşım hangisidir?",
+      "options": [
+        "Agnostisizm",
+        "Teodise",
+        "Ateizm",
+        "Deizm"
+      ],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi yazar 'Sefiller' romanının yazarıdır?",
+      "options": [
+        "Victor Hugo",
+        "Albert Camus",
+        "George Orwell",
+        "J.K. Rowling"
+      ],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Futbolda 'serbest vuruş' (frikik) kuralını ve vuruşun yapılmasıyla ilgili kuralları açıklayın.",
+      "options": [
+        "Serbest vuruş, topun sabit bir noktadan rakip kaleye doğru atılmasıdır. Topa sadece bir kez vurulabilir.",
+        "Serbest vuruş, bir oyuncunun topu elinde tutarak rakip kaleye doğru atmasıdır. Kaleci bu vuruşu engelleyemez.",
+        "Serbest vuruş, rakip takımın bir oyuncusu topu elinde tutarsa kazanılır. Sadece kaleci vuruşuyla oyuna sokulabilir.",
+        "Serbest vuruş, bir oyuncunun topu fileden karşıya atmasıdır. Eğer top dışarı çıkarsa, karşı takım kazanır."
+      ],
+      "correctAnswer": 0,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Voleybolda 'smaç' vuruşu nedir?",
+      "options": [
+        "Topu parmak uçlarıyla vurmak",
+        "Topu karşılamak",
+        "Topu sertçe vurmak",
+        "Topu paslamak"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Kimyada 'asitlerin' ve 'bazların' ayrışması sonucunda oluşan ve 'elektron' taşıyabilen çözeltilere ne ad verilir?",
+      "options": [
+        "Nötr çözelti",
+        "İyonik çözelti",
+        "Elektrolit",
+        "Çözücü"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Hangi coğrafi unsur 'Türkiye'nin' jeolojik yapısını belirleyen ve 'yüksek dağ sıralarını' oluşturan temel etkendir?",
+      "options": [
+        "Deprem kuşakları",
+        "Volkanik patlamalar",
+        "Tektonik hareketler",
+        "Buzul çağı"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "İnsan iskeletinde 'omurga'nın' temel görevi nedir?",
+      "options": [
+        "Sadece dik durmayı sağlamak",
+        "Beyni korumak",
+        "Vücudun ağırlığını taşımak",
+        "Sadece hareket etmek"
+      ],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Bilgi felsefesinde 'rasyonalizm' ve 'empirizm'i sentezleyerek 'bilginin' hem 'akıl' hem de 'deneyden' geldiğini savunan filozof kimdir?",
+      "options": [
+        "David Hume",
+        "John Locke",
+        "Immanuel Kant",
+        "René Descartes"
+      ],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Mantıkta, bir çıkarımın 'geçerli' olması için 'öncül ve sonucun' hangi özelliği taşıması gerekir?",
+      "options": [
+        "İkisi de doğru olmalı.",
+        "İkisi de yanlış olmalı.",
+        "Önerme doğru, çıkarım yanlış olmalı.",
+        "Önermeler doğruysa sonuç da doğru olmalı."
+      ],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'liberteryenizm' akımının en önemli savunucularından olan ve 'bireyin en geniş özgürlüğe' sahip olması gerektiğini savunan filozof kimdir?",
+      "options": [
+        "John Rawls",
+        "Robert Nozick",
+        "Karl Marx",
+        "John Stuart Mill"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Varlık felsefesinde 'fenomenoloji'nin' temel sloganı olan ve 'şeylerin kendisine dönme'yi ifade eden söz hangisidir?",
+      "options": [
+        "Düşünüyorum, o halde varım.",
+        "Olayın kendisine!",
+        "Varlık ve zaman",
+        "Hiçlik ve varlık"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Din felsefesinde 'Tanrı'nın varlığına' dair kanıtları 'ontolojik', 'kozmolojik' ve 'teleolojik' olarak kategorize eden filozof kimdir?",
+      "options": [
+        "Aziz Augustinus",
+        "Aquinolu Thomas",
+        "Anselm",
+        "İbn Sina"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Hukukta 'Türk Medeni Kanunu'na göre 'evliliğin' en önemli özelliği nedir?",
+      "options": [
+        "Sadece miras hakları",
+        "Sadece çocuk sahibi olmak",
+        "Hukuki ve sosyal bir kurum",
+        "Sadece ekonomik bir kurum"
+      ],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Basketbolda 'oyun kurucunun' (point guard) temel görevi nedir?",
+      "options": [
+        "Sadece top sürmek",
+        "Sadece şut atmak",
+        "Hücum organizasyonunu yönetmek",
+        "Sadece ribaund almak"
+      ],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Kimyada 'hidrokarbonlar' nedir?",
+      "options": [
+        "Sadece karbon ve oksijen",
+        "Sadece hidrojen ve azot",
+        "Sadece karbon ve hidrojen",
+        "Sadece karbon ve kükürt"
+      ],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Biyolojide 'solunum' nedir?",
+      "options": [
+        "Sadece karbondioksit alımı",
+        "Besinleri oksijenle yakarak enerji üretimi",
+        "Sadece oksijen alımı",
+        "Sadece su alımı"
+      ],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Nefron nedir?",
+      "options": [
+        "Sadece süzme birimi",
+        "Sadece emme birimi",
+        "Sadece salgılama birimi",
+        "Böbrek birimi"
+      ],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Felsefe tarihinde 'kıta Avrupası' ve 'analitik felsefe' olarak ikiye ayrılan felsefe akımları, 'dilin' analizine ağırlık veren hangi filozoftan sonra daha belirgin hale gelmiştir?",
+      "options": [
+        "Friedrich Nietzsche",
+        "Martin Heidegger",
+        "Ludwig Wittgenstein",
+        "Jean-Paul Sartre"
+      ],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Mantıkta 'önerme' ve 'terim' arasındaki ilişkiyi inceleyen ve 'terimler' ile 'kavramlar' arasındaki farklılığı ortaya koyan mantık dalı hangisidir?",
+      "options": [
+        "Sembolik mantık",
+        "Yüklemler mantığı",
+        "Modal mantık",
+        "Klasik mantık"
+      ],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'tiranlık' ve 'demokrasi' gibi rejimleri 'devletin biçimleri' olarak sınıflandıran ve her birinin 'iyi' ve 'kötü' formları olduğunu savunan filozof kimdir?",
+      "options": [
+        "Platon",
+        "Aristoteles",
+        "Machiavelli",
+        "Montesquieu"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Ahlak felsefesinde 'ödev ahlakının' birincil ilkesi olan ve 'eylemin ahlaki değerinin' evrensel bir yasa olmasını gerektiren kavram nedir?",
+      "options": [
+        "Hipotetik buyruk",
+        "Kategorik buyruk",
+        "Ödev",
+        "İyi isteme"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Varlık felsefesinde 'varlık ve zaman' kavramlarını bir araya getiren ve 'insan varoluşunun' zamansal bir süreç olduğunu savunan filozof kimdir?",
+      "options": [
+        "Edmund Husserl",
+        "Martin Heidegger",
+        "Jean-Paul Sartre",
+        "Maurice Merleau-Ponty"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Türk Hukuk sisteminde 'dava açma hakkı'nı kullanan ve 'davalı'yı mahkemeye çağıran kişi kimdir?",
+      "options": [
+        "Davalı",
+        "Davacı",
+        "Hakim",
+        "Savcı"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hangi şehir 'Kale Şehir' olarak bilinir?",
+      "options": [
+        "Urfa",
+        "Diyarbakır",
+        "Mardin",
+        "Batman"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Hangi bölge 'Anadolu'nun Kilidi' olarak bilinir?",
+      "options": [
+        "Doğu Anadolu",
+        "İç Anadolu",
+        "Güneydoğu Anadolu",
+        "Akdeniz"
+      ],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Bitkilerde 'su kaybını' önleyen ve 'gaz alışverişini' sağlayan yapılar nelerdir?",
+      "options": [
+        "Stomalar",
+        "Lentiseller",
+        "Ksilemler",
+        "Floemler"
+      ],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Biyolojide 'genetik' kodun temel birimi olan ve 'DNA'daki' üç nükleotid dizisinden oluşan birim nedir?",
+      "options": [
+        "Kodon",
+        "Gen",
+        "Protein",
+        "Nükleotit"
+      ],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Felsefe tarihinde 'mantıkçı pozitivizmin' temel ilkelerini savunan ve 'doğrulanabilirlik' ilkesini öne sürerek metafiziği anlamsız bulan Viyana Çevresi'nin önemli ismi kimdir?",
+      "options": [
+        "Ludwig Wittgenstein",
+        "Rudolf Carnap",
+        "Karl Popper",
+        "Thomas Kuhn"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Siyaset felsefesinde 'güçler ayrılığı' ilkesini savunan ve bu ilkeyle 'mutlak monarşiyi' eleştiren düşünür kimdir?",
+      "options": [
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Montesquieu",
+        "Thomas Hobbes"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Din felsefesinde 'kötülük problemi'ne' çözüm olarak 'Tanrı'nın' insanlara 'özgür irade' vermesi nedeniyle kötülüğün var olduğunu savunan teolojik görüş hangisidir?",
+      "options": [
+        "Ontolojik kanıt",
+        "Kötülük problemi",
+        "Özgür irade savunması",
+        "Teodise"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Mantıkta 'yanlış akıl yürütme' türlerinden olan ve 'kişinin argümanını değil, kendisini' hedef alan hatalı argüman türü hangisidir?",
+      "options": [
+        "Ad Populum (Halkın argümanı)",
+        "Ad Hominem (Kişiye yönelik)",
+        "Kırmızı Ringa Balığı",
+        "Yanlış İkilem"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Varlık felsefesinde 'fenomenoloji'nin' temel amacı olan ve 'bilincin kendi yapısını' incelemeyi amaçlayan yöntem nedir?",
+      "options": [
+        "Yansıtma",
+        "Epoche (Paranteze alma)",
+        "Tümdengelim",
+        "Tümevarım"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi coğrafi bölge, 'Türkiye'nin en uzun kumsalına' ev sahipliği yapar?",
+      "options": [
+        "Akdeniz",
+        "Ege",
+        "Karadeniz",
+        "Marmara"
+      ],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Hangi şehir 'Güneydoğu Anadolu'nun Kapısı' olarak bilinir?",
+      "options": [
+        "Diyarbakır",
+        "Gaziantep",
+        "Şanlıurfa",
+        "Mardin"
+      ],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Böbrek nedir?",
+      "options": [
+        "Sadece süzme organı",
+        "Sadece emme organı",
+        "Boşaltım organı",
+        "Sadece salgılama organı"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Üre nedir?",
+      "options": [
+        "Sadece protein",
+        "Azotlu atık",
+        "Sadece karbonhidrat",
+        "Sadece yağ"
+      ],
+      "correctAnswer": 1,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Osmanlı Devleti'nde 'devletin kuruluş' evresinde 'Moğol İstilası'ndan' kaçan 'Türkmen' beyliklerinden biri olan ve 'Osmanlı Beyliği'nin' temellerini atan beylik hangisidir?",
+      "options": [
+        "Germiyanoğulları",
+        "Karamanlılar",
+        "Osmanlı Beyliği",
+        "Karesi Beyliği"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Moğol İmparatorluğu'nun parçalanması sonucunda 'Altın Orda Devleti'nin başkenti olan ve Avrupa'nın en büyük şehirlerinden biri haline gelen şehir hangisidir?",
+      "options": [
+        "Sarai",
+        "Astrahan",
+        "Kazan",
+        "Kiev"
+      ],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Emevi Halifeliği'nin 'Müslüman ordularının İber Yarımadası'ndaki ilerleyişini durduran ve Pireneler'i aşmasını engelleyen savaş hangisidir?",
+      "options": [
+        "Tours Savaşı",
+        "Endülüs Savaşı",
+        "Poitiers Savaşı",
+        "Guadalete Savaşı"
+      ],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Bilardoda en yüksek puanlı top hangi renktir?",
+      "options": [
+        "Siyah",
+        "Sarı",
+        "Mavi",
+        "Kırmızı"
+      ],
+      "correctAnswer": 0,
+      "level": 13,
+      "prize": 5000000
+    }
+  ]
+}
