@@ -1,457 +1,912 @@
 {
   "questions": [
     {
-      "question": "Hangi element periyodik tabloda 'H' sembolü ile gösterilir?",
-      "options": ["A) Helyum", "B) Hidrojen", "C) Karbon", "D) Azot"],
+      "question": "Maddenin en düzensiz ve yüksek enerjili hali hangisidir?",
+      "options": ["Sıvı", "Katı", "Gaz", "Plazma"],
+      "correctAnswer": 3,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Aşağıdakilerden hangisi kimyasal bir değişim örneğidir?",
+      "options": ["Suyun buharlaşması", "Buzun erimesi", "Kağıdın yanması", "Tuzun suda çözünmesi"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Kimyanın temel yapı taşı olan ve bir elementin tüm özelliklerini taşıyan en küçük birim nedir?",
+      "options": ["Molekül", "Proton", "Atom", "İyon"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Bir atomun çekirdeğinde bulunan pozitif yüklü tanecik hangisidir?",
+      "options": ["Elektron", "Nötron", "Proton", "Foton"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Periyodik tabloda aynı grupta (düşey sütun) bulunan elementlerin ortak özelliği nedir?",
+      "options": ["Aynı sayıda protona sahiptirler", "Aynı sayıda nötrona sahiptirler", "Aynı sayıda değerlik elektronuna sahiptirler", "Aynı sayıda yörüngeye sahiptirler"],
+      "correctAnswer": 2,
+      "level": 1,
+      "prize": 5000
+    },
+    {
+      "question": "Metallerin kendi aralarında elektronlarını ortaklaşa kullanarak oluşturdukları bağ türü nedir?",
+      "options": ["İyonik bağ", "Metalik bağ", "Kovalent bağ", "Hidrojen bağı"],
       "correctAnswer": 1,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi element periyodik tabloda 'O' sembolü ile gösterilir?",
-      "options": ["A) Oksijen", "B) Osmiyum", "C) Oganesson", "D) Osmium"],
+      "question": "Bir mol atom veya molekülün içerdiği tanecik sayısına verilen ad nedir?",
+      "options": ["Avogadro sayısı", "Sabit sayısı", "Atom ağırlığı", "Elektron sayısı"],
       "correctAnswer": 0,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi element periyodik tabloda 'C' sembolü ile gösterilir?",
-      "options": ["A) Kalsiyum", "B) Karbon", "C) Klor", "D) Kobalt"],
-      "correctAnswer": 1,
+      "question": "Aşağıdaki kimyasal reaksiyon türlerinden hangisi 'ısıl enerji açığa çıkarır' ve etrafını ısıtır?",
+      "options": ["Endotermik", "Nötrleşme", "Egzotermik", "Yanma"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi element periyodik tabloda 'N' sembolü ile gösterilir?",
-      "options": ["A) Neon", "B) Azot", "C) Nikel", "D) Sodyum"],
-      "correctAnswer": 1,
+      "question": "Bir maddenin sıvı halden gaz hale geçişine ne ad verilir?",
+      "options": ["Erime", "Donma", "Kaynama", "Yoğuşma"],
+      "correctAnswer": 2,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
-      "options": ["A) Flor", "B) Demir", "C) Fermiyum", "D) Flerovyum"],
-      "correctAnswer": 1,
+      "question": "Periyodik tabloda 'soy gazlar' hangi grupta yer alır?",
+      "options": ["1A", "2A", "7A", "8A"],
+      "correctAnswer": 3,
       "level": 1,
       "prize": 5000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Au' sembolü ile gösterilir?",
-      "options": ["A) Gümüş", "B) Altın", "C) Alüminyum", "D) Arsenik"],
-      "correctAnswer": 1,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi element periyodik tabloda 'Ag' sembolü ile gösterilir?",
-      "options": ["A) Gümüş", "B) Altın", "C) Alüminyum", "D) Arsenik"],
-      "correctAnswer": 0,
-      "level": 2,
-      "prize": 10000
-    },
-    {
-      "question": "Hangi element periyodik tabloda 'Cu' sembolü ile gösterilir?",
-      "options": ["A) Karbon", "B) Kalsiyum", "C) Bakır", "D) Kobalt"],
+      "question": "Elektronların dairesel yörüngelerde bulunduğunu öne süren atom modeli hangi bilim insanına aittir?",
+      "options": ["Dalton", "Rutherford", "Bohr", "Thomson"],
       "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Zn' sembolü ile gösterilir?",
-      "options": ["A) Çinko", "B) Zirkonyum", "C) Zink", "D) Zirconium"],
-      "correctAnswer": 0,
+      "question": "Bir element atomunun kimyasal reaksiyonlarda elektron çekme yeteneğini ifade eden kavram nedir?",
+      "options": ["İyonlaşma enerjisi", "Elektron ilgisi", "Elektronegatiflik", "Atom yarıçapı"],
+      "correctAnswer": 2,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Pb' sembolü ile gösterilir?",
-      "options": ["A) Plütonyum", "B) Kurşun", "C) Polonyum", "D) Protaktinyum"],
+      "question": "Aşağıdaki kimyasal bağ türlerinden hangisi, farklı elektronegatifliğe sahip iki ametal atomu arasında oluşur ve elektronlar eşit olmayan bir şekilde paylaşılır?",
+      "options": ["Apolar kovalent bağ", "İyonik bağ", "Polar kovalent bağ", "Metalik bağ"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Organik kimyada 'hidrokarbonlar' arasında 'karbon-karbon' çift bağı içeren bileşiklere ne ad verilir?",
+      "options": ["Alkan", "Alken", "Alkin", "Alkol"],
       "correctAnswer": 1,
       "level": 2,
       "prize": 10000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Hg' sembolü ile gösterilir?",
-      "options": ["A) Magnezyum", "B) Mangan", "C) Cıva", "D) Molibden"],
+      "question": "Bir tepkimenin 'hızını artıran' ancak kendisi tepkime sonunda değişmeden kalan maddeye ne ad verilir?",
+      "options": ["İnhibitör", "Katalizör", "Reaktant", "Ürün"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Bir çözeltinin 'molaritesi' (M), hangi birimlerle ifade edilir?",
+      "options": ["Mol/kg", "Mol/L", "Gram/L", "Mol/mol"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Aşağıdakilerden hangisi bir 'elektroliz' olayıdır?",
+      "options": ["Demirin paslanması", "Pilin çalışması", "Suyun hidrojen ve oksijene ayrışması", "Metal levhanın çözünmesi"],
+      "correctAnswer": 2,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "İki veya daha fazla elementin kimyasal bağlarla birleşerek oluşturduğu saf maddeye ne ad verilir?",
+      "options": ["Karışım", "Molekül", "Atom", "İyon"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Çözünen maddenin, çözeltideki çözücüye göre oranını ifade eden niceliğe ne ad verilir?",
+      "options": ["Yoğunluk", "Derişim", "Hacim", "Kütle"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Asitlerle bazların tepkimeye girerek tuz ve su oluşturduğu reaksiyon türü hangisidir?",
+      "options": ["Redoks", "Nötrleşme", "Yanma", "Sentez"],
+      "correctAnswer": 1,
+      "level": 2,
+      "prize": 10000
+    },
+    {
+      "question": "Atom altı parçacıklardan 'nötron'u keşfeden bilim insanı kimdir?",
+      "options": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Niels Bohr"],
       "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Sn' sembolü ile gösterilir?",
-      "options": ["A) Kalay", "B) Kükürt", "C) Kalsiyum", "D) Karbon"],
+      "question": "Gazların 'basınç' ve 'hacim' arasındaki ilişkiyi 'sabit sıcaklıkta' açıklayan yasa hangisidir?",
+      "options": ["Charles yasası", "Gay-Lussac yasası", "Boyle yasası", "Avogadro yasası"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Aşağıdakilerden hangisi bir 'kovalent kristal' örneğidir?",
+      "options": ["Elmas", "Tuz (NaCl)", "Buz", "Bakır"],
       "correctAnswer": 0,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Al' sembolü ile gösterilir?",
-      "options": ["A) Alüminyum", "B) Altın", "C) Arsenik", "D) Antimon"],
-      "correctAnswer": 0,
+      "question": "Yanma reaksiyonlarında 'oksijenle' birleşme sonucu meydana gelen ve 'redoks' tepkimesi olarak bilinen reaksiyon hangisidir?",
+      "options": ["Nötrleşme", "Çözünme", "Yanma", "Çökelme"],
+      "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Si' sembolü ile gösterilir?",
-      "options": ["A) Silisyum", "B) Sodyum", "C) Kükürt", "D) Selenyum"],
-      "correctAnswer": 0,
+      "question": "Bir tepkimenin 'kendiliğinden' gerçekleşip gerçekleşmeyeceğini belirleyen termodinamik nicelik hangisidir?",
+      "options": ["Entalpi (ΔH)", "Entropi (ΔS)", "Serbest Enerji (ΔG)", "İç enerji (ΔU)"],
+      "correctAnswer": 2,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi element periyodik tabloda 'P' sembolü ile gösterilir?",
-      "options": ["A) Fosfor", "B) Flor", "C) Plütonyum", "D) Polonyum"],
-      "correctAnswer": 0,
+      "question": "Kimyasal dengede olan bir sisteme yapılan dış etkinin, sistemi 'dengeyi bozacak yönde' değiştirmesine ne ad verilir?",
+      "options": ["Çarpışma teorisi", "Le Chatelier ilkesi", "Katalizör etkisi", "Tepkime hızı"],
+      "correctAnswer": 1,
       "level": 3,
-      "prize": 30000
+      "prize": 20000
     },
     {
-      "question": "Hangi element periyodik tabloda 'S' sembolü ile gösterilir?",
-      "options": ["A) Kükürt", "B) Sodyum", "C) Selenyum", "D) Stronsiyum"],
+      "question": "Bir organik bileşikte 'OH' (hidroksil) grubu içeren fonksiyonel grup hangisidir?",
+      "options": ["Keton", "Ester", "Alkol", "Aldehit"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Kimyada 'oksidasyon' ve 'indirgenme' reaksiyonlarının birlikte gerçekleştiği tepkimeye ne ad verilir?",
+      "options": ["Asit-baz tepkimesi", "Nötrleşme", "Redoks tepkimesi", "Yanma"],
+      "correctAnswer": 2,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Günlük hayatta 'paslanma' olarak bilinen korozyon olayı hangi kimyasal tepkime türüne örnektir?",
+      "options": ["Çökelme", "Nötrleşme", "Yanma", "Redoks"],
+      "correctAnswer": 3,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Kimya tarihinde 'atom modellerinin' gelişimiyle ilgili olarak 'üzümlü kek' modelini öne süren bilim insanı kimdir?",
+      "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
+      "correctAnswer": 1,
+      "level": 3,
+      "prize": 20000
+    },
+    {
+      "question": "Bir molekülün 'moleküler geometrisini' belirlemek için kullanılan ve 'elektron çiftleri arasındaki itme kuvvetlerini' temel alan teori hangisidir?",
+      "options": ["Lewis yapısı", "VSEPR teorisi", "Orbital teorisi", "Elektronegatiflik"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bir kimyasal tepkimenin 'entalpi' değişimi (ΔH) ile ilgili olarak, 'ürünlerin entalpisi reaktiflerin entalpisinden büyük' ise tepkime hangi türdedir?",
+      "options": ["Egzotermik", "Endotermik", "Nötrleşme", "Yanma"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Aşağıdaki bağ türlerinden hangisi, 'DNA'nın çift sarmal yapısını' bir arada tutan ve 'moleküller arası bir etkileşim' örneği olan bağdır?",
+      "options": ["Kovalent bağ", "İyonik bağ", "Hidrojen bağı", "Metalik bağ"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bir kimyasal denklemin 'kütlenin korunumu yasası'na uygun olması için yapılması gereken işlem nedir?",
+      "options": ["Denklemi ters çevirme", "Denkleştirme", "İyonları ayırma", "Tepkime hızını değiştirme"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bir çözeltinin 'pH' değerinin '7' olması, o çözeltinin hangi özellikte olduğunu gösterir?",
+      "options": ["Asidik", "Bazik", "Nötr", "Tuzlu"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "'Haber-Bosch' sürecinde kullanılan ve 'amonyak üretimini' kolaylaştıran katalizör hangi maddedir?",
+      "options": ["Platin", "Demir", "Nikel", "Bakır"],
+      "correctAnswer": 1,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Gazların 'mol sayısı' ve 'hacmi' arasındaki ilişkiyi 'sabit sıcaklık ve basınçta' açıklayan yasa hangisidir?",
+      "options": ["Boyle yasası", "Charles yasası", "Avogadro yasası", "İdeal gaz denklemi"],
+      "correctAnswer": 2,
+      "level": 4,
+      "prize": 50000
+    },
+    {
+      "question": "Bir kimyasal tepkimede 'elektron veren' madde hangi işlevi görür?",
+      "options": ["Oksidasyon", "İndirgenme", "Katalizör", "Nötrleşme"],
       "correctAnswer": 0,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Cl' sembolü ile gösterilir?",
-      "options": ["A) Klor", "B) Kalsiyum", "C) Krom", "D) Kobalt"],
-      "correctAnswer": 0,
+      "question": "Organik kimyada 'karbon' atomlarının 'tekli, çiftli ve üçlü' bağlarla bağlanabildiği yapıların temel adı nedir?",
+      "options": ["Doymuş hidrokarbonlar", "Doymamış hidrokarbonlar", "Aromatik hidrokarbonlar", "Alkanlar"],
+      "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Hangi element periyodik tabloda 'K' sembolü ile gösterilir?",
-      "options": ["A) Potasyum", "B) Kalsiyum", "C) Karbon", "D) Klor"],
-      "correctAnswer": 0,
+      "question": "Kimya tarihinde 'kütlenin korunumu yasası'nı' bularak 'simyadan kimyaya' geçişi sağlayan bilim insanı kimdir?",
+      "options": ["John Dalton", "Antoine Lavoisier", "Dmitri Mendeleyev", "Marie Curie"],
+      "correctAnswer": 1,
       "level": 4,
-      "prize": 90000
+      "prize": 50000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Na' sembolü ile gösterilir?",
-      "options": ["A) Sodyum", "B) Neon", "C) Nikel", "D) Azot"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
+      "question": "Bir atomun 'çekirdekten en uzak' elektronunu koparmak için gerekli olan enerjiye ne ad verilir?",
+      "options": ["Elektron ilgisi", "İyonlaşma enerjisi", "Elektronegatiflik", "Bağ enerjisi"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ca' sembolü ile gösterilir?",
-      "options": ["A) Kalsiyum", "B) Karbon", "C) Klor", "D) Krom"],
-      "correctAnswer": 0,
-      "level": 4,
-      "prize": 90000
+      "question": "Termokimyada 'Hess yasası', bir tepkimenin 'entalpi değişimini' hangi duruma göre hesaplama imkanı sağlar?",
+      "options": ["Yalnızca tek basamaklı tepkimeler", "Yalnızca egzotermik tepkimeler", "Tepkime adımlarından bağımsız olarak", "Sadece standart koşullar altında"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Mg' sembolü ile gösterilir?",
-      "options": ["A) Magnezyum", "B) Mangan", "C) Molibden", "D) Meitnerium"],
+      "question": "Organik kimyada 'izomerlik' kavramı, hangi durumda aynı 'molekül formülüne' sahip ancak 'farklı yapısal formüllere' sahip bileşikleri ifade eder?",
+      "options": ["Aynı atomlara sahip", "Farklı atomlara sahip", "Aynı fiziksel özelliklere sahip", "Aynı kimyasal özelliklere sahip"],
       "correctAnswer": 0,
       "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Bir tepkimenin 'aktivasyon enerjisi' ne anlama gelir?",
+      "options": ["Tepkimenin gerçekleşmesi için gereken minimum enerji", "Tepkime sonunda açığa çıkan enerji", "Tepkime sırasında oluşan enerji", "Tepkimenin hızını belirleyen enerji"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Aşağıdaki moleküllerden hangisi 'polar' bir moleküldür?",
+      "options": ["CH4 (Metan)", "CO2 (Karbondioksit)", "H2O (Su)", "CCl4 (Karbon tetraklorür)"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Elektrokimyada 'galvanik hücre' (pil), hangi temel prensibe göre çalışır?",
+      "options": ["Dışarıdan elektrik enerjisi alarak", "Kendiliğinden gerçekleşen redoks tepkimesiyle", "Kimyasal enerjiyi ısıya dönüştürerek", "Elektrolizle"],
+      "correctAnswer": 1,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Kimyasal denge sabitini (Kc) etkileyen tek faktör hangisidir?",
+      "options": ["Derişim", "Basınç", "Hacim", "Sıcaklık"],
+      "correctAnswer": 3,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Kimyanın çevreye ve insan sağlığına etkilerini azaltmayı amaçlayan 'sürdürülebilir kimya'nın' bir diğer adı nedir?",
+      "options": ["Endüstriyel kimya", "Analitik kimya", "Yeşil kimya", "Organik kimya"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Bir çözeltideki 'H+' (hidrojen iyonu) derişimi '10^-7' M'dan büyükse, o çözelti hangi özellikte olur?",
+      "options": ["Asidik", "Bazik", "Nötr", "Amfoter"],
+      "correctAnswer": 0,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Kimyasal denklemlerde bir tepkimenin 'dönüşüm yönünü' gösteren çift yönlü ok (↔) ne anlama gelir?",
+      "options": ["Tepkimenin tamamlandığı", "Tepkimenin durduğu", "Tepkimenin dengeye ulaştığı", "Tepkimenin sadece bir yönde ilerlediği"],
+      "correctAnswer": 2,
+      "level": 5,
+      "prize": 100000
+    },
+    {
+      "question": "Bir atomun 'elektron dizilimi' yazılırken, 'elektronların önce en düşük enerjili orbitallere yerleşmesi' gerektiğini belirten kural hangisidir?",
+      "options": ["Pauli dışlama ilkesi", "Hund kuralı", "Aufbau ilkesi", "Heisenberg belirsizlik ilkesi"],
+      "correctAnswer": 2,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Mn' sembolü ile gösterilir?",
-      "options": ["A) Mangan", "B) Magnezyum", "C) Molibden", "D) Meitnerium"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "'Termodinamik'te, bir sistemin 'düzensizlik' derecesini ölçen nicelik hangisidir?",
+      "options": ["Entalpi", "Entropi", "Serbest enerji", "İç enerji"],
+      "correctAnswer": 1,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Cr' sembolü ile gösterilir?",
-      "options": ["A) Krom", "B) Karbon", "C) Klor", "D) Kalsiyum"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "Bir çözeltinin 'pH' değerinin 'sıcaklık' ile değiştiğini ilk kez gösteren bilim insanı kimdir?",
+      "options": ["Arrhenius", "Bronsted-Lowry", "Henderson", "Sørensen"],
+      "correctAnswer": 3,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Co' sembolü ile gösterilir?",
-      "options": ["A) Kobalt", "B) Karbon", "C) Klor", "D) Kalsiyum"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "Elektrokimyada, 'elektroliz' sırasında 'anotta' gerçekleşen reaksiyon türü hangisidir?",
+      "options": ["İndirgenme", "Oksidasyon", "Nötrleşme", "Çökelme"],
+      "correctAnswer": 1,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ni' sembolü ile gösterilir?",
-      "options": ["A) Nikel", "B) Neon", "C) Azot", "D) Sodyum"],
-      "correctAnswer": 0,
-      "level": 5,
+      "question": "Organik kimyada 'benzenden' türetilen ve 'halkalı yapı'ya sahip bileşiklere ne ad verilir?",
+      "options": ["Alkanlar", "Alkinler", "Aromatikler", "Alifatikler"],
+      "correctAnswer": 2,
+      "level": 6,
       "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'W' sembolü ile gösterilir?",
-      "options": ["A) Tungsten", "B) Vanadyum", "C) Wolfram", "D) Wismut"],
-      "correctAnswer": 0,
+      "question": "'Nükleer enerji' santrallerinde kullanılan ve 'radyoaktif' bir element olan 'uranyum-235'in' temel reaksiyonu nedir?",
+      "options": ["Nükleer füzyon", "Nükleer fisyon", "Nükleer bozulma", "Sentez"],
+      "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'V' sembolü ile gösterilir?",
-      "options": ["A) Vanadyum", "B) Vanadium", "C) Vanadium", "D) Vanadium"],
-      "correctAnswer": 0,
+      "question": "Bir çözeltinin 'pH' değişimine karşı direncini artıran ve 'zayıf asit-baz çiftlerinden' oluşan çözelti türü hangisidir?",
+      "options": ["Doymuş çözelti", "Tampon çözelti", "Kolloid", "Seyreltik çözelti"],
+      "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Mo' sembolü ile gösterilir?",
-      "options": ["A) Molibden", "B) Mangan", "C) Magnezyum", "D) Meitnerium"],
-      "correctAnswer": 0,
+      "question": "Çevre kimyasında 'asit yağmurları'nın' ana nedeni olan ve 'fosil yakıtların' yanmasıyla atmosfere salınan gazlar hangisidir?",
+      "options": ["Oksijen ve azot", "Karbon monoksit ve karbondioksit", "Kükürt dioksit ve azot oksitler", "Hidrojen ve su buharı"],
+      "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'U' sembolü ile gösterilir?",
-      "options": ["A) Uranyum", "B) Uranium", "C) Uranium", "D) Uranium"],
-      "correctAnswer": 0,
+      "question": "Kimya tarihinde 'periyodik cetveli' elementlerin artan 'atom kütlelerine' göre düzenleyen ve bu sayede henüz keşfedilmemiş elementlerin varlığını öngören bilim insanı kimdir?",
+      "options": ["John Newlands", "Henry Moseley", "Dmitri Mendeleyev", "Antoine Lavoisier"],
+      "correctAnswer": 2,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Th' sembolü ile gösterilir?",
-      "options": ["A) Toryum", "B) Thorium", "C) Thorium", "D) Thorium"],
-      "correctAnswer": 0,
+      "question": "Sıvı haldeki bir maddenin, katı hale geçiş noktasını ifade eden ve 'dış basınç'tan etkilenen özellik hangisidir?",
+      "options": ["Kaynama noktası", "Donma noktası", "Buharlaşma hızı", "Erime noktası"],
+      "correctAnswer": 1,
       "level": 6,
-      "prize": 400000
+      "prize": 200000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ra' sembolü ile gösterilir?",
-      "options": ["A) Radyum", "B) Radium", "C) Radium", "D) Radium"],
-      "correctAnswer": 0,
+      "question": "Kimyasal hesaplamalarda 'yüzde bileşim' kullanılarak bulunan ve bir bileşikteki 'atomların en basit tam sayı oranını' gösteren formül türü hangisidir?",
+      "options": ["Moleküler formül", "Yapısal formül", "Ampirik formül", "Kondense formül"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Rn' sembolü ile gösterilir?",
-      "options": ["A) Radon", "B) Radon", "C) Radon", "D) Radon"],
-      "correctAnswer": 0,
+      "question": "Kimyasal kinetikte 'tepkime hızını' belirleyen ve 'reaksiyona giren taneciklerin' birbirine 'çarpışmasını' öngören teori hangisidir?",
+      "options": ["Geçiş hali teorisi", "Arrhenius teorisi", "Çarpışma teorisi", "Le Chatelier ilkesi"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Fr' sembolü ile gösterilir?",
-      "options": ["A) Fransiyum", "B) Francium", "C) Francium", "D) Francium"],
-      "correctAnswer": 0,
+      "question": "Elektrokimyada 'Faraday yasaları', bir elektroliz devresinde biriken madde miktarının hangi niceliğe bağlı olduğunu ifade eder?",
+      "options": ["Elektrolitin derişimi", "Ortamın sıcaklığı", "Devreden geçen yük miktarı", "Elektrotun cinsi"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ac' sembolü ile gösterilir?",
-      "options": ["A) Aktinyum", "B) Actinium", "C) Actinium", "D) Actinium"],
-      "correctAnswer": 0,
+      "question": "Organik kimyada 'amino asitlerin' birleşmesiyle oluşan ve 'biyomoleküller' arasında yer alan yapı hangisidir?",
+      "options": ["Karbonhidrat", "Lipid", "Protein", "Nükleik asit"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Pa' sembolü ile gösterilir?",
-      "options": ["A) Protaktinyum", "B) Protactinium", "C) Protactinium", "D) Protactinium"],
-      "correctAnswer": 0,
+      "question": "Çevre kimyasında 'sera etkisi'ne' neden olan ve 'atmosferde ısıyı tutan' en önemli gaz hangisidir?",
+      "options": ["Oksijen", "Azot", "Karbondioksit", "Hidrojen"],
+      "correctAnswer": 2,
       "level": 7,
-      "prize": 600000
+      "prize": 500000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Np' sembolü ile gösterilir?",
-      "options": ["A) Neptünyum", "B) Neptunium", "C) Neptunium", "D) Neptunium"],
+      "question": "Kimya tarihinde 'radium' ve 'polonium' elementlerini keşfeden ve 'radyoaktivite' üzerine yaptığı çalışmalarla iki farklı alanda Nobel Ödülü alan bilim insanı kimdir?",
+      "options": ["Ernest Rutherford", "Marie Curie", "Albert Einstein", "Niels Bohr"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Kimyasal denge sabitinin (K) 'sıcaklıkla' değiştiğini ve bu ilişkiyi 'sıcaklık-denge sabiti' denklemiyle açıklayan bilim insanı kimdir?",
+      "options": ["Arrhenius", "Van't Hoff", "Le Chatelier", "Haber"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Bir pilin 'standart elektrot potansiyeli' (E°pil) hesaplanırken, 'anot' ve 'katot'un potansiyelleri arasındaki ilişkiyi ifade eden denklem hangisidir?",
+      "options": ["E°katot + E°anot", "E°katot - E°anot", "E°anot - E°katot", "E°pil = E°indirgenme + E°yükseltgenme"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Organik kimyada 'alkan' bileşiklerinin temel özelliği olan ve 'karbon atomları arasında sadece tekli bağ' içeren yapıya ne ad verilir?",
+      "options": ["Doymamış hidrokarbon", "Aromatik hidrokarbon", "Doymuş hidrokarbon", "Alkin"],
+      "correctAnswer": 2,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Modern kimyanın başlangıcı olarak kabul edilen ve 'elementlerin' 'bileşik'lerden ayrıldığını gösteren 'atom teorisini' ortaya atan bilim insanı kimdir?",
+      "options": ["Antoine Lavoisier", "John Dalton", "Dmitri Mendeleyev", "Robert Boyle"],
+      "correctAnswer": 1,
+      "level": 7,
+      "prize": 500000
+    },
+    {
+      "question": "Kimyasal kinetikte 'tepkime hızının' sıcaklıkla 'katlanarak' arttığını açıklayan ve 'aktivasyon enerjisi' kavramını ortaya atan teoriye ne ad verilir?",
+      "options": ["Çarpışma teorisi", "Geçiş hali teorisi", "Arrhenius teorisi", "Le Chatelier ilkesi"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Bir çözeltide 'eşlenik asit-baz çifti' içeren ve 'pH' değişimine karşı direncini artıran 'tampon çözeltilerin' temel işlevi nedir?",
+      "options": ["Çözeltiyi seyreltmek", "Asit ve bazın nötrleşmesini sağlamak", "pH değişimini yavaşlatmak veya engellemek", "Tepkime hızını artırmak"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Organik kimyada 'alkol' ve 'karboksilik asit'in' tepkimeye girerek oluşturduğu ve 'meyve kokusu' veren bileşik sınıfı hangisidir?",
+      "options": ["Keton", "Ester", "Eter", "Aldehit"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Elektrokimyada 'Nernst denklemi', bir pilin 'potansiyelinin' hangi faktöre bağlı olduğunu hesaplamak için kullanılır?",
+      "options": ["Sıcaklık ve derişim", "Basınç ve hacim", "Kütle ve yoğunluk", "pH ve sıcaklık"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Pu' sembolü ile gösterilir?",
-      "options": ["A) Plütonyum", "B) Plutonium", "C) Plutonium", "D) Plutonium"],
+      "question": "Kimya tarihinde 'organik' bileşiklerin 'canlılar tarafından' sentezlenmesi gerektiğini savunan ve 'üreden' inorganik bileşikler elde eden bilim insanı kimdir?",
+      "options": ["Friedrich Wöhler", "August Kekulé", "Louis Pasteur", "Robert Boyle"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Am' sembolü ile gösterilir?",
-      "options": ["A) Amerikyum", "B) Americium", "C) Americium", "D) Americium"],
+      "question": "Çevre kimyasında 'küresel ısınma'nın' ana nedenlerinden biri olan ve 'fosil yakıtların' yanmasıyla ortaya çıkan gazların 'ısıyı tutma' yeteneğine ne ad verilir?",
+      "options": ["Asit yağmurları", "Sera etkisi", "Ozon tabakasının incelmesi", "Fotokimyasal duman"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Kimyasal denklemlerde, bir tepkimenin 'standart koşullar' (25 °C ve 1 atm) dışında gerçekleşmesi durumunda 'entalpi değişimini' etkileyen faktör hangisidir?",
+      "options": ["Katalizör", "Yoğunluk", "Sıcaklık ve basınç", "Yüzey alanı"],
+      "correctAnswer": 2,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Kimyasal hesaplamalarda 'İdeal Gaz Denklemi' (PV=nRT), gazların hangi temel özelliklerini birbirine bağlar?",
+      "options": ["Kütle, hacim, basınç", "Sıcaklık, basınç, hacim, mol sayısı", "Derişim, hacim, sıcaklık", "Mol sayısı, yoğunluk, hacim"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Organik kimyada 'aromatik' bileşiklerin temel yapısını oluşturan ve 'pi-elektronlarının' rezonansla hareket ettiği halka yapısına ne ad verilir?",
+      "options": ["Sikloalken halkası", "Benzen halkası", "Alkan halkası", "Alkin halkası"],
+      "correctAnswer": 1,
+      "level": 8,
+      "prize": 750000
+    },
+    {
+      "question": "Kimyanın tarihi gelişiminde 'simyacılık'tan 'kimyaya' geçişin en önemli özelliği nedir?",
+      "options": ["Deneysel yöntemlerin kullanılması", "Elementlerin keşfedilmesi", "Felsefi düşüncelerin kullanılması", "Gizemli yöntemlerin kullanılması"],
       "correctAnswer": 0,
       "level": 8,
-      "prize": 800000
+      "prize": 750000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Cm' sembolü ile gösterilir?",
-      "options": ["A) Küriyum", "B) Curium", "C) Curium", "D) Curium"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
+      "question": "Kimyasal dengeye etki eden ve 'basınç' veya 'hacim' değişiminde 'denge yönünü' değiştiren faktör hangi tepkimelerde geçerlidir?",
+      "options": ["Sadece katı ve sıvı fazda olan tepkimeler", "Sadece gaz fazında olan tepkimeler", "Homojen tepkimeler", "Sadece endotermik tepkimeler"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Bk' sembolü ile gösterilir?",
-      "options": ["A) Berkeliyum", "B) Berkelium", "C) Berkelium", "D) Berkelium"],
-      "correctAnswer": 0,
-      "level": 8,
-      "prize": 800000
-    },
-    {
-      "question": "Hangi element periyodik tabloda 'Cf' sembolü ile gösterilir?",
-      "options": ["A) Kaliforniyum", "B) Californium", "C) Californium", "D) Californium"],
+      "question": "Elektrokimyada 'korozyon' (paslanma), hangi elektrot reaksiyonunun bir sonucudur?",
+      "options": ["Oksidasyon", "İndirgenme", "Çözünme", "Çökelme"],
       "correctAnswer": 0,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Es' sembolü ile gösterilir?",
-      "options": ["A) Einsteinium", "B) Einsteinium", "C) Einsteinium", "D) Einsteinium"],
-      "correctAnswer": 0,
+      "question": "Organik kimyada 'asit' ve 'baz' özelliklerini aynı molekülde barındıran ve 'proteinlerin' temel yapı taşı olan bileşik sınıfı hangisidir?",
+      "options": ["Ester", "Alkol", "Amino asit", "Aldehit"],
+      "correctAnswer": 2,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Fm' sembolü ile gösterilir?",
-      "options": ["A) Fermiyum", "B) Fermium", "C) Fermium", "D) Fermium"],
-      "correctAnswer": 0,
+      "question": "Kimyasal kinetikte 'tepkime hızını' etkileyen ve 'reaktiflerin' temas yüzeyini artırarak hızı yükselten faktör hangisidir?",
+      "options": ["Sıcaklık", "Derişim", "Katalizör", "Yüzey alanı"],
+      "correctAnswer": 3,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Md' sembolü ile gösterilir?",
-      "options": ["A) Mendelevyum", "B) Mendelevium", "C) Mendelevium", "D) Mendelevium"],
-      "correctAnswer": 0,
+      "question": "Bir 'galvanik hücrede' 'anot' ve 'katot' arasındaki potansiyel farkı ölçen ve 'spontan' reaksiyonun gerçekleştiğini gösteren nicelik hangisidir?",
+      "options": ["Standart elektrot potansiyeli", "Hücre gerilimi", "Aktivasyon enerjisi", "Serbest enerji"],
+      "correctAnswer": 1,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'No' sembolü ile gösterilir?",
-      "options": ["A) Nobelyum", "B) Nobelium", "C) Nobelium", "D) Nobelium"],
-      "correctAnswer": 0,
+      "question": "Kimya tarihinde 'elementlerin sınıflandırılmasında' 'atom kütlesi' yerine 'atom numarası'nı kullanan ve periyodik cetvele bugünkü halini veren bilim insanı kimdir?",
+      "options": ["John Dalton", "Dmitri Mendeleyev", "Henry Moseley", "Linus Pauling"],
+      "correctAnswer": 2,
       "level": 9,
       "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Lr' sembolü ile gösterilir?",
-      "options": ["A) Lavrensiyum", "B) Lawrencium", "C) Lawrencium", "D) Lawrencium"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
+      "question": "Termokimyada 'bir tepkimenin 'standart oluşum entalpisinin' sıfır olduğu' maddeler hangi haldedir?",
+      "options": ["Sıvı", "Gaz", "En kararlı allotrop formu", "İyonik"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Rf' sembolü ile gösterilir?",
-      "options": ["A) Rutherfordyum", "B) Rutherfordium", "C) Rutherfordium", "D) Rutherfordium"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
+      "question": "Çevre kimyasında 'küresel ısınma'nın' en önemli sonuçlarından biri olan ve 'okyanusların pH'ını düşüren' olay hangisidir?",
+      "options": ["Deniz seviyesinin yükselmesi", "Buzulların erimesi", "Okyanusların asitlenmesi", "Ozon tabakasının incelmesi"],
+      "correctAnswer": 2,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Db' sembolü ile gösterilir?",
-      "options": ["A) Dubniyum", "B) Dubnium", "C) Dubnium", "D) Dubnium"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
+      "question": "Organik kimyada 'plastiklerin' temel yapı taşı olan ve 'tekli birimlerin' birleşmesiyle oluşan büyük molekülün adı nedir?",
+      "options": ["Monomer", "Polimer", "Dimer", "İzomer"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Sg' sembolü ile gösterilir?",
-      "options": ["A) Seaborgiyum", "B) Seaborgium", "C) Seaborgium", "D) Seaborgium"],
-      "correctAnswer": 0,
-      "level": 10,
-      "prize": 1500000
+      "question": "Bir atomun 'kuantum mekaniği' modeline göre 'elektronların' belirli bir yerde bulunma olasılığını gösteren 'elektron bulutu' kavramına ne ad verilir?",
+      "options": ["Yörünge", "Orbital", "Enerji seviyesi", "Kuantum sayısı"],
+      "correctAnswer": 1,
+      "level": 9,
+      "prize": 1000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Bh' sembolü ile gösterilir?",
-      "options": ["A) Bohriyum", "B) Bohrium", "C) Bohrium", "D) Bohrium"],
+      "question": "Kimyasal denge sabitinin (Kp) 'basınçla' olan ilişkisini ve 'gaz fazı tepkimeleri'ndeki dengeyi açıklayan yasa hangisidir?",
+      "options": ["Le Chatelier ilkesi", "Van't Hoff denklemi", "İdeal gaz denklemi", "Kütle etkisi kanunu"],
       "correctAnswer": 0,
       "level": 10,
-      "prize": 1500000
-    },
-    {
-      "question": "Hangi element periyodik tabloda 'Hs' sembolü ile gösterilir?",
-      "options": ["A) Hassiyum", "B) Hassium", "C) Hassium", "D) Hassium"],
-      "correctAnswer": 0,
-      "level": 11,
       "prize": 2000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Mt' sembolü ile gösterilir?",
-      "options": ["A) Meitneriyum", "B) Meitnerium", "C) Meitnerium", "D) Meitnerium"],
+      "question": "Organik kimyada 'polimerizasyon' tepkimelerinde 'monomerlerin' birleşmesiyle oluşan ve 'polimer'in yapısını oluşturan 'zincir'in adı nedir?",
+      "options": ["Zincir yapısı", "Halkalı yapı", "Ağ yapısı", "Dimer"],
       "correctAnswer": 0,
-      "level": 11,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ds' sembolü ile gösterilir?",
-      "options": ["A) Darmstadtiyum", "B) Darmstadtium", "C) Darmstadtium", "D) Darmstadtium"],
+      "question": "Elektrokimyada 'Faraday kanunları', elektroliz sırasında 'açığa çıkan madde miktarının' hangi niceliğe doğru orantılı olduğunu ifade eder?",
+      "options": ["Akım ve zaman", "Sadece akım", "Sadece zaman", "Sadece yük"],
       "correctAnswer": 0,
-      "level": 11,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Rg' sembolü ile gösterilir?",
-      "options": ["A) Röntgenyum", "B) Roentgenium", "C) Roentgenium", "D) Roentgenium"],
+      "question": "Kimya tarihinde 'moleküllerin' 'yapısını' ve 'bağlarını' açıklayan, 'organik kimyanın' temellerini atan bilim insanı kimdir?",
+      "options": ["August Kekulé", "Friedrich Wöhler", "Louis Pasteur", "Robert Boyle"],
       "correctAnswer": 0,
-      "level": 11,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Cn' sembolü ile gösterilir?",
-      "options": ["A) Kopernikyum", "B) Copernicium", "C) Copernicium", "D) Copernicium"],
-      "correctAnswer": 0,
-      "level": 11,
+      "question": "Termodinamikte 'serbest enerji' (ΔG) değişimi ile ilgili olarak, 'tepkimenin kendiliğinden' gerçekleştiğini gösteren durum hangisidir?",
+      "options": ["ΔG > 0", "ΔG < 0", "ΔG = 0", "ΔG = ΔH"],
+      "correctAnswer": 1,
+      "level": 10,
       "prize": 2000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Nh' sembolü ile gösterilir?",
-      "options": ["A) Nihonyum", "B) Nihonium", "C) Nihonium", "D) Nihonium"],
+      "question": "Kimyasal dengeye etki eden ve 'katalizörün' denge sabitini değiştiremediğini, sadece 'dengeye ulaşma hızını' artırdığını ifade eden ilke hangisidir?",
+      "options": ["Le Chatelier ilkesi", "Kütle etkisi kanunu", "Aktivasyon enerjisi ilkesi", "Denge kuralı"],
       "correctAnswer": 0,
-      "level": 12,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Organik kimyada 'izomerlik' türlerinden 'geometrik izomerlik' hangi durumda ortaya çıkar?",
+      "options": ["Aynı atomlara sahip farklı diziliş", "Tekli bağlarda serbest dönme", "Çift bağ etrafında dönme kısıtlılığı", "Aynı fonksiyonel gruplara sahip olma"],
+      "correctAnswer": 2,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Çevre kimyasında 'asit yağmurlarının' temel nedeni olan 'kükürt dioksit' ve 'azot oksitler' hangi sanayi faaliyetlerinden kaynaklanır?",
+      "options": ["Petrol rafinerileri", "Kömürle çalışan termik santraller", "Nükleer santraller", "Hidroelektrik santraller"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Kimya tarihinde 'moleküllerin' 'üç boyutlu' yapısını ve 'geometrisini' inceleyen 'stereokimya'nın' temellerini atan bilim insanı kimdir?",
+      "options": ["August Kekulé", "Jacobus Henricus van 't Hoff", "Linus Pauling", "Gilbert N. Lewis"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Bir çözeltinin 'pH' değeri '4' ise, o çözeltinin 'pOH' değeri kaçtır?",
+      "options": ["7", "10", "4", "14"],
+      "correctAnswer": 1,
+      "level": 10,
+      "prize": 2000000
+    },
+    {
+      "question": "Termodinamikte 'mutlak sıfır' (0 Kelvin) sıcaklığında, bir 'maddenin entropisinin' sıfır olduğunu ifade eden kanun hangisidir?",
+      "options": ["Termodinamiğin birinci yasası", "Termodinamiğin ikinci yasası", "Termodinamiğin sıfırıncı yasası", "Termodinamiğin üçüncü yasası"],
+      "correctAnswer": 3,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Fl' sembolü ile gösterilir?",
-      "options": ["A) Flerovyum", "B) Flerovium", "C) Flerovium", "D) Flerovium"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Elektrokimyada 'yakıt pillerinin' temel işlevi olan ve 'hidrojen ve oksijenin' tepkimesiyle doğrudan elektrik enerjisi üretme prensibine ne ad verilir?",
+      "options": ["Oksidasyon", "Elektroliz", "Redoks", "Kendiliğinden tepkime"],
+      "correctAnswer": 2,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Mc' sembolü ile gösterilir?",
-      "options": ["A) Moskovyum", "B) Moscovium", "C) Moscovium", "D) Moscovium"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Organik kimyada 'izomerlik' türlerinden 'enantiyomer' adı verilen ve 'ayna görüntüsü' olan moleküllerin temel özelliği nedir?",
+      "options": ["Aynı fonksiyonel gruplara sahip", "Aynı yapıya sahip", "Polarize ışığı farklı yönlere çevirme", "Aynı erime noktasına sahip"],
+      "correctAnswer": 2,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Lv' sembolü ile gösterilir?",
-      "options": ["A) Livermoryum", "B) Livermorium", "C) Livermorium", "D) Livermorium"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Kimyasal kinetikte 'Arrhenius denklemi', 'tepkime hız sabitini' hangi iki faktöre bağlar?",
+      "options": ["Derişim ve hacim", "Sıcaklık ve aktivasyon enerjisi", "Basınç ve katalizör", "Entalpi ve entropi"],
+      "correctAnswer": 1,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ts' sembolü ile gösterilir?",
-      "options": ["A) Tenesyum", "B) Tennessine", "C) Tennessine", "D) Tennessine"],
-      "correctAnswer": 0,
-      "level": 12,
+      "question": "Çevre kimyasında 'ozon tabakasının incelmesi'nin' ana nedeni olan ve 'kloroflorokarbon' (CFC) gazlarının etkisiyle ortaya çıkan kimyasal reaksiyonlar hangi tabakada gerçekleşir?",
+      "options": ["Troposfer", "Stratosfer", "Mezosfer", "Termosfer"],
+      "correctAnswer": 1,
+      "level": 11,
       "prize": 3000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Og' sembolü ile gösterilir?",
-      "options": ["A) Oganesson", "B) Oganesson", "C) Oganesson", "D) Oganesson"],
+      "question": "Kimya tarihinde 'moleküler orbital' teorisini geliştiren ve 'kimyasal bağlar'ın daha derinlemesine anlaşılmasını sağlayan Nobel ödüllü bilim insanı kimdir?",
+      "options": ["Linus Pauling", "Gilbert N. Lewis", "Dmitri Mendeleyev", "Friedrich Wöhler"],
       "correctAnswer": 0,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Bir çözeltinin 'pH' değerinin '4'ten '6'ya' çıkması durumunda, 'hidrojen iyonu' (H+) derişimi nasıl değişir?",
+      "options": ["100 kat artar", "100 kat azalır", "2 kat artar", "2 kat azalır"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Organik kimyada 'asit' ve 'baz' karakterlerini bir arada bulunduran ve 'zwitterion' adı verilen yapıyı oluşturan bileşik sınıfı hangisidir?",
+      "options": ["Esterler", "Ketonlar", "Aminler", "Amino asitler"],
+      "correctAnswer": 3,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Kimyasal kinetikte 'sözde birinci mertebe' tepkimesi, hangi koşullarda gerçekleşir?",
+      "options": ["Tüm reaktiflerin derişimi aynı olduğunda", "Reaktiflerden birinin derişimi çok yüksek olduğunda", "Reaktiflerden birinin derişimi çok düşük olduğunda", "Katalizör kullanıldığında"],
+      "correctAnswer": 1,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Bir 'pi-bağı'nın' oluşumu için hangi orbital türünün 'yüz yüze' örtüşmesi gerekir?",
+      "options": ["s-s örtüşmesi", "s-p örtüşmesi", "p-p örtüşmesi", "p-d örtüşmesi"],
+      "correctAnswer": 2,
+      "level": 11,
+      "prize": 3000000
+    },
+    {
+      "question": "Termodinamikte 'Gibbs-Helmholtz' denklemi, 'serbest enerji' (ΔG) ile 'entalpi' (ΔH) ve 'entropi' (ΔS) arasındaki ilişkiyi hangi formülle ifade eder?",
+      "options": ["ΔG = ΔH - TΔS", "ΔH = ΔG + TΔS", "ΔS = (ΔH - ΔG) / T", "Hepsi"],
+      "correctAnswer": 3,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Elektrokimyada 'Nernst denklemi'ne göre, bir pilin 'potansiyeli', 'reaksiyonun dengeye yaklaştıkça' nasıl bir değişim gösterir?",
+      "options": ["Artar", "Azalır", "Değişmez", "Önce artar, sonra azalır"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Organik kimyada 'karbon' ve 'hidrojen' atomları dışında 'heteroatom' (O, N, S vb.) içeren ve 'polimer' zincirinde yer alan fonksiyonel grup hangi polimer türünde bulunur?",
+      "options": ["Polietilen", "Polivinil klorür", "Poliamid (Naylon)", "Polipropilen"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Kimyasal kinetikte 'tepkime mekanizması', bir tepkimenin 'en yavaş basamağını' ifade eden ve 'hız belirleyici basamak' olarak bilinen kavram hangi reaksiyonlarda geçerlidir?",
+      "options": ["Tek basamaklı reaksiyonlar", "Çok basamaklı reaksiyonlar", "Tersinir reaksiyonlar", "Denge reaksiyonları"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Çevre kimyasında 'fotokimyasal duman' (smog), hangi iki temel bileşenin 'güneş ışığı' etkisiyle tepkimeye girmesi sonucu oluşur?",
+      "options": ["Karbondioksit ve su", "Kükürt dioksit ve azot oksitler", "Azot oksitler ve uçucu organik bileşikler", "Oksijen ve su buharı"],
+      "correctAnswer": 2,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Kimya tarihinde 'Haber' ve 'Boyle' gibi bilim insanlarının çalışmalarını 'kimyasal reaksiyonların' hızını ve dengesini birleştiren bir teoriyle açıklayan Nobel ödüllü bilim insanı kimdir?",
+      "options": ["Jacobus Henricus van 't Hoff", "Fritz Haber", "Svante Arrhenius", "Henri Le Chatelier"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Asit-baz dengelerinde 'tampon kapasitesi', bir tampon çözeltinin 'pH' değişimine karşı direncini hangi durumlarda koruyabildiğini ifade eder?",
+      "options": ["Az miktarda asit veya baz eklendiğinde", "Sıcaklık değiştiğinde", "Derişim azaldığında", "Hacim arttığında"],
+      "correctAnswer": 0,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Organik kimyada 'nükleik asitlerin' yapısında bulunan ve 'genetik bilginin' taşınmasını sağlayan temel birim hangisidir?",
+      "options": ["Amino asit", "Nükleotid", "Monosakkarit", "Lipid"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Elektrokimyada 'standart hidrojen elektrotu' (SHE), potansiyeli kaç volt kabul edilerek diğer elektrotların potansiyelleri belirlenir?",
+      "options": ["-1.00 V", "0.00 V", "+1.00 V", "+0.76 V"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Kimya tarihinde 'atom çekirdeğinin' 'pozitif yüklü' ve 'yoğun' olduğunu, elektronların ise 'boşlukta' hareket ettiğini gösteren 'altın levha deneyi'ni yapan bilim insanı kimdir?",
+      "options": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "John Dalton"],
+      "correctAnswer": 1,
+      "level": 12,
+      "prize": 4000000
+    },
+    {
+      "question": "Termodinamikte 'serbest enerji' (ΔG) değişiminin 'sıcaklığa' ve 'reaksiyonun endotermik/egzotermik' olmasına bağlı olarak 'spontanlık' durumu hangi durumlarda değişir?",
+      "options": ["ΔH < 0 ve ΔS < 0", "ΔH > 0 ve ΔS > 0", "ΔH > 0 ve ΔS < 0", "Hepsi"],
+      "correctAnswer": 3,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'He' sembolü ile gösterilir?",
-      "options": ["A) Helyum", "B) Hidrojen", "C) Karbon", "D) Azot"],
-      "correctAnswer": 0,
+      "question": "Elektrokimyada 'pillerin ömrünü' ve 'şarj-deşarj' döngüsünü etkileyen 'dendrit' oluşumu, hangi iyonun 'anot' yüzeyinde birikmesiyle gerçekleşir?",
+      "options": ["Çinko", "Lityum", "Kadmiyum", "Demir"],
+      "correctAnswer": 1,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ne' sembolü ile gösterilir?",
-      "options": ["A) Neon", "B) Azot", "C) Nikel", "D) Sodyum"],
-      "correctAnswer": 0,
+      "question": "Organik kimyada 'polisakkaritlerin' temel yapı taşları olan ve 'nişasta', 'selüloz' gibi maddeleri oluşturan monomerler hangi bileşik sınıfına aittir?",
+      "options": ["Amino asitler", "Nükleotidler", "Monosakkaritler", "Yağ asitleri"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Ar' sembolü ile gösterilir?",
-      "options": ["A) Argon", "B) Arsenik", "C) Altın", "D) Alüminyum"],
-      "correctAnswer": 0,
+      "question": "Kimyasal kinetikte 'tepkime mertebesinin' 'sıfır' olduğu tepkimelerde, 'tepkime hızı' hangi faktöre bağlı değildir?",
+      "options": ["Sıcaklık", "Katalizör", "Reaktiflerin derişimi", "Yüzey alanı"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     },
     {
-      "question": "Hangi element periyodik tabloda 'Kr' sembolü ile gösterilir?",
-      "options": ["A) Kripton", "B) Krom", "C) Kobalt", "D) Kalsiyum"],
-      "correctAnswer": 0,
+      "question": "Çevre kimyasında 'iklim değişikliği'ne' karşı 'uluslararası' bir anlaşma olan ve 'küresel emisyonları' azaltmayı hedefleyen 'Kyoto Protokolü' hangi gazları kapsar?",
+      "options": ["Sadece karbondioksit", "Sadece metan", "Karbondioksit, metan ve azot oksitler", "Kloroflorokarbonlar"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Kimya tarihinde 'atom'un 'parçalanabilir' olduğunu ve 'radyoaktif' bozunma ile 'başka elementlere' dönüşebileceğini gösteren bilim insanı kimdir?",
+      "options": ["John Dalton", "Dmitri Mendeleyev", "Ernest Rutherford", "Marie Curie"],
+      "correctAnswer": 2,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Asit-baz dengelerinde 'Lewis asidi' kavramı, hangi molekül veya iyonu ifade eder?",
+      "options": ["Elektron çifti veren", "Proton veren", "Proton alan", "Elektron çifti alan"],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Organik kimyada 'hidrojen bağı'nın' temel özelliği olan ve 'alkoller' ile 'su' arasında çözünmeyi sağlayan etkileşim türü hangisidir?",
+      "options": ["Van der Waals", "Dipol-dipol", "İyonik bağ", "Hidrojen bağı"],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Elektrokimyada 'paslanma'nın' önlenmesinde kullanılan ve 'kurban anot' olarak bilinen metal hangi metale göre daha kolay 'oksitlenir'?",
+      "options": ["Bakır", "Altın", "Demir", "Çinko"],
+      "correctAnswer": 3,
+      "level": 13,
+      "prize": 5000000
+    },
+    {
+      "question": "Kimya tarihinde 'kimyasal denge'nin' 'dinamik' bir olay olduğunu ve 'ileri ve geri' tepkimelerin hızlarının eşitlendiğini ilk kez gösteren bilim insanı kimdir?",
+      "options": ["August Kekulé", "Claude Louis Berthollet", "Henri Le Chatelier", "Dmitri Mendeleyev"],
+      "correctAnswer": 2,
       "level": 13,
       "prize": 5000000
     }
